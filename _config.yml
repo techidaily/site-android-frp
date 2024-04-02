@@ -7,7 +7,7 @@ title: TechiDaily
 subtitle: 'Enjoy life easier but more creative!'
 description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
 keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: TechiDaily
+author: Nova
 language: en
 timezone: ''
 
@@ -102,6 +102,7 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
+    - sitemap.xml
   rel: false
   tags: false
   categories: false
