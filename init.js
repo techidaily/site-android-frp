@@ -37,6 +37,7 @@ function replaceFileContent(filePath) {
   // 标题替换
   newContent = newContent.replaceAll(`title: TechiDaily`, `title: ${subSiteTitle}`);
   newContent = newContent.replaceAll(`description: 'TechiDaily is`, `description: '${subSiteTitle} is`);
+  newContent = newContent.replaceAll(`# TechiDaily`, `# ${subSiteTitle} Site`);
 
   // 作者替换
   newContent = newContent.replaceAll(`author: Nova`, `author: ${subSiteAuthor}`);
@@ -69,6 +70,7 @@ replaceFile(path.join(__dirname, '_config.redefine.yml'));
 
 replaceFile(path.join(__dirname, 'package.json'));
 replaceFile(path.join(__dirname, 'submit.bing.js'));
+replaceFile(path.join(__dirname, 'readme.md'));
 
 try {
   const newApiKeyFile = path.join(__dirname, 'source', `${indexNowKey}.txt`);

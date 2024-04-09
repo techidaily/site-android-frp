@@ -33,18 +33,6 @@
     <% if (theme.global.open_graph) { %>
         <%- open_graph() %>
     <% } %>
-    <% if (theme.global.google_analytics.enable) { %>
-        <!-- Google tag (gtag.js) -->
-        <script src="https://www.googletagmanager.com/gtag/js?id=<%= theme.global.google_analytics.id %>"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', '<%= theme.global.google_analytics.id %>');
-        </script>
-    <% } %>
-  
 
     <!-- google site verification -->
     <% if (theme.google_site_verification) { %>
@@ -54,24 +42,16 @@
     />
     <% } %>
   
-    <!-- google ads -->
-    <% if (theme.google_ads.enable) { %>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=<%= theme.google_ads.client %>"
-        crossorigin="anonymous"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "<%= theme.google_ads.client %>",
-            enable_page_level_ads: true,
-        });
-    </script>
-    <% } %>
-
-
+    <!--- preload javascript/fonts -->
+    <%- partial('preload-scripts') %>
     <!--- Icon Part-->
     <link rel="icon" type="image/png" href="<%= url_for(theme.defaults.favicon) %>" sizes="192x192">
     <link rel="apple-touch-icon" sizes="180x180" href="<%= url_for(theme.defaults.favicon) %>">
     <meta name="theme-color" content="<%= theme.colors.primary %>">
     <%- favicon_tag(theme.defaults.favicon) %>
+
+
+
     <!--- Page Info-->
     <%
     let title = page.title;
@@ -126,15 +106,19 @@
     <%- renderCSS('fonts/Satoshi/satoshi.css') %>
     <!--- Font Part-->
     <% if (theme.home_banner.custom_font.enable) { %>
+        <link rel="preload" as="stylesheet" href="<%- theme.home_banner.custom_font.url %>">
         <link href="<%- theme.home_banner.custom_font.url %>" rel="stylesheet">
     <% } %>
     <% if (theme.articles.code_block.font.enable) { %>
+        <link rel="preload" as="stylesheet" href="<%- theme.articles.code_block.font.url %>">
         <link href="<%- theme.articles.code_block.font.url %>" rel="stylesheet">
     <% } %>
     <% if (theme.global.fonts.chinese.enable) { %>
+        <link rel="preload" as="stylesheet" href="<%- theme.global.fonts.chinese.url %>">
         <link href="<%- theme.global.fonts.chinese.url %>" rel="stylesheet">
     <% } %>
     <% if (theme.global.fonts.english.enable) { %>
+        <link rel="preload" as="stylesheet" href="<%- theme.global.fonts.english.url %>">
         <link href="<%- theme.global.fonts.english.url %>" rel="stylesheet">
     <% } %>
 

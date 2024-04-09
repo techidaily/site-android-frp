@@ -284,7 +284,8 @@ hexo.extend.helper.register("renderCSS", function (path) {
         .replace("${version}", themeVersion)
         .replace("${path}", path);
       return this.theme.cdn.enable
-        ? `<link rel="stylesheet" href="${customUrl}">`
+        ? [`<link rel="preload" href="${customUrl}" as="style" crossorigin="anonymous">`,
+           `<link rel="stylesheet" href="${customUrl}" crossorigin="anonymous">`].join('\n')
         : _css(path);
     } else if (
       this.theme.cdn.provider === "staticfile" ||
@@ -292,11 +293,13 @@ hexo.extend.helper.register("renderCSS", function (path) {
       this.theme.cdn.provider === "cdnjs"
     ) {
       return this.theme.cdn.enable
-        ? `<link rel="stylesheet" href="${cdnBase}/hexo-theme-redefine/${themeVersion}/${path}">`
+        ? [`<link rel="preload" href="${cdnBase}/hexo-theme-redefine/${themeVersion}/${path}" as="style" crossorigin="anonymous">`,
+           `<link rel="stylesheet" href="${cdnBase}/hexo-theme-redefine/${themeVersion}/${path}" crossorigin="anonymous">`].join('\n')
         : _css(path);
     } else {
       return this.theme.cdn.enable
-        ? `<link rel="stylesheet" href="${cdnBase}/hexo-theme-redefine@${themeVersion}/source/${path}">`
+        ? [`<link rel="preload" href="${cdnBase}/hexo-theme-redefine@${themeVersion}/source/${path}" as="style" crossorigin="anonymous">`,
+           `<link rel="stylesheet" href="${cdnBase}/hexo-theme-redefine@${themeVersion}/source/${path}" crossorigin="anonymous">`].join('\n')
         : _css(path);
     }
   };

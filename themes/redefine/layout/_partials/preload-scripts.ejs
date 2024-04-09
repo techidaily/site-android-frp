@@ -1,0 +1,67 @@
+    
+    <!-- icon set -->
+    <link rel="preload" href="<%= url_for(theme.defaults.favicon) %>" as="shortcut icon">
+    <link rel="preload" href="<%= url_for(theme.defaults.favicon) %>" as="icon">
+    <link rel="preload" href="<%= url_for(theme.defaults.favicon) %>" as="apple-touch-icon">
+
+    <!-- fonts -->
+    <link rel="preload" as="font" href="/fonts/Chillax/Chillax-Variable.woff2" crossorigin>
+    <link rel="preload" as="font" href="/fonts/Satoshi/Satoshi-Variable.woff2" crossorigin>
+
+    <link rel="preload" as="font" href="/fonts/Satoshi/Satoshi-VariableItalic.woff2" crossorigin>
+
+    <link rel="preload" as="font" href="/fonts/noto-sans-sc-v26-chinese-simplified-700.woff2" crossorigin>
+    <link rel="preload" as="font" href="/fonts/noto-sans-sc-v26-chinese-simplified-regular.woff2" crossorigin>
+    <link rel="preload" as="font" href="/fonts/ubuntu-mono-v15-latin-regular.woff2" crossorigin>
+
+    <link rel="preload" as="font" href="/webfonts/fa-v4compatibility.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-thin-100.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-light-300.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-brands-400.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-regular-400.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-duotone-900.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-solid-900.woff2" crossorigin>
+    <link rel="preload" as="font" href="/webfonts/fa-sharp-solid-900.woff2" crossorigin>
+
+    <!-- js -->
+    <link rel="preload" href="/js/tools/imageViewer.js" as="script">
+    <link rel="preload" href="/js/utils.js" as="script">
+    <link rel="preload" href="/js/main.js" as="script">
+    <link rel="preload" href="/js/layouts/navbarShrink.js" as="script">
+    <link rel="preload" href="/js/tools/scrollTopBottom.js" as="script">
+    <link rel="preload" href="/js/tools/lightDarkSwitch.js" as="script">
+    <link rel="preload" href="/js/layouts/categoryList.js" as="script">
+<% if (theme.navbar.search.enable) { %>
+    <link rel="preload" href="/js/tools/localSearch.js" as="script">
+<% } %>
+<% if (theme.articles.code_block.copy) { %>
+    <link rel="preload" href="/js/tools/codeBlock.js" as="script">
+<% } %>
+<% if (theme.articles.lazyload) { %>
+    <link rel="preload" href="/js/layouts/lazyload.js" as="script">
+<% } %>
+<% if (theme.footer.runtime) { %>
+    <link rel="preload" href="/js/tools/runtime.js" as="script">
+    <link rel="preload" href="/js/libs/odometer.min.js" as="script">
+    <link rel="preload" href="/assets/odometer-theme-minimal.css" as="style">
+<% } %>
+<% if (theme.home_banner.subtitle.length !== 0) { %>
+    <link rel="preload" href="/js/libs/Typed.min.js" as="script">
+    <link rel="preload" href="/js/plugins/typed.js" as="script">
+<% } %>
+<% if (theme.plugins.mermaid.enable) { %>
+    <link rel="preload" href="/js/libs/mermaid.min.js" as="script">
+    <link rel="preload" href="/js/plugins/mermaid.js" as="script">
+<% } %>
+<% if (theme.masonry || theme.photos || theme.gallery) { %>
+    <link rel="preload" href="/js/libs/minimasonry.min.js" as="script">
+    <link rel="preload" href="/js/plugins/masonry.js" as="script">
+<% } %>
+<% if (theme.articles.toc.enable) { %>
+    <link rel="preload" href="/js/tools/tocToggle.js" as="script">
+    <link rel="preload" href="/js/layouts/toc.js" as="script">
+    <link rel="preload" href="/js/plugins/tabs.js" as="script">
+<% } %>
+<% if (!theme.global.preloader) { %>
+    <link rel="preload" href="/js/libs/anime.min.js" as="script">
+<% } %>

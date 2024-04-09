@@ -1,10 +1,11 @@
 # TechiDaily
 
-Welcome to TechiDaily.com !
+Welcome to https://android-transfer.techidaily.com
 
 ## Publish
 
 ```bash
+yarn install
 yarn run publish
 ```
 

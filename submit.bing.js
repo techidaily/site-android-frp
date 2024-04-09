@@ -1,5 +1,5 @@
 /**
- * 使用 https://www.bing.com/indexnow#implementation，提交URL到Bing
+ * 使用 https://www.bing.com/indexnow/getstarted，提交URL到Bing
  * 使用https://www.bing.com/webmasters/url-submission-api#APIs，批量提交url
  * 
  */

@@ -7,5 +7,28 @@
 <% if (theme.plugins.aplayer.enable) { %>
     <%- partial('_plugins/aplayer') %>
 <% } %>
+
+<% if (theme.global.google_analytics.enable) { %>
+    <!-- Google tag (gtag.js) -->
+    <script defer src="https://www.googletagmanager.com/gtag/js?id=<%= theme.global.google_analytics.id %>" crossorigin="anonymous"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '<%= theme.global.google_analytics.id %>');
+    </script>
+<% } %>
+<!-- google ads -->
+<% if (theme.google_ads.enable) { %>
+    <script defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=<%= theme.google_ads.client %>"
+        crossorigin="anonymous"></script>
+    <script>
+        (window.adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "<%= theme.google_ads.client %>",
+            enable_page_level_ads: true,
+        });
+    </script>
+<% } %>
 </body>
 </html>
