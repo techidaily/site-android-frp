@@ -129,3 +129,6 @@ This Privacy Policy is current as of the Effective Date set forth above. We may 
 ## Reaching out
 
 If you have any questions or concerns, or you feel that this Privacy Policy has been violated in any way, please let us know immediately by contacting [support@techidaily.com](mailto:support@techidaily.com). We will do our best to address your concerns.
+
+
+[https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)

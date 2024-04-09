@@ -1,6 +1,6 @@
 # TechiDaily
 
-Welcome to https://android-transfer.techidaily.com
+Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
 
 ## Publish
 

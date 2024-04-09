@@ -1,4 +1,4 @@
-Sitemap: https://android-transfer.techidaily.com/sitemap.txt
+Sitemap: https://android-transfer.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 

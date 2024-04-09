@@ -2,7 +2,9 @@
 title: Terms & Conditions
 ---
 
- TECHIDAILY, LIMITED makes the information and products available to you on this website, subject to the following terms and conditions. By accessing this website, you agree to these terms and conditions. Techidaily reserves the right to seek all remedies in law and equity for any violation of these terms and conditions.
+[https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+
+TECHIDAILY, LIMITED makes the information and products available to you on this website, subject to the following terms and conditions. By accessing this website, you agree to these terms and conditions. Techidaily reserves the right to seek all remedies in law and equity for any violation of these terms and conditions.
 
 Any rights not expressly granted herein are reserved.
 
