@@ -46,9 +46,7 @@
 
 @font-face {
   font-family: 'Satoshi-VariableItalic';
-  src: url('Satoshi-VariableItalic.woff2') format('woff2'),
-       url('Satoshi-VariableItalic.woff') format('woff'),
-       url('Satoshi-VariableItalic.ttf') format('truetype');
+  src: url('Satoshi-VariableItalic.woff2') format('woff2');
        font-weight: 300 900;
        font-display: swap;
        font-style: italic;
