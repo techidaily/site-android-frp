@@ -1,6 +1,6 @@
-# TechiDaily
+# Android Frp Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://android-frp.techidaily.com](https://android-frp.techidaily.com)
 
 ## Publish
 
