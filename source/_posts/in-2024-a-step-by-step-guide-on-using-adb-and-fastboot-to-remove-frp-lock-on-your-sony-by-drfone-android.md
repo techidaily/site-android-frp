@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
-date: 2024-05-19T04:09:44.510Z
-updated: 2024-05-20T04:09:44.510Z
+date: 2024-06-30T23:13:09.206Z
+updated: 2024-07-01T23:13:09.206Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
 keywords: bypass android device frp,Sony Xperia 5 V frp bypass android,how to bypass frp tool,how to bypass frp,bypass frp,Sony Xperia 5 V easy guide how to bypass frp android,Sony Xperia 5 V addrom bypass,adb format tool,Sony Xperia 5 V how to bypass frp,frp bypass android device,bypass android frp,pro frp bypass,best frp bypass,pangu frp bypass review,guid for frp bypass,Sony Xperia 5 V android frp bypass,Sony Xperia 5 V bypass frp,frp hijacker download,Sony Xperia 5 V pro frp bypass,frp bypass guide,frp bypass quickly,android device frp bypass,gsm flasher tool,remove frp via adb fastboot,Sony Xperia 5 V pangu frp bypass review,Sony Xperia 5 V bypass android frp,frp bypass android,addrom bypass,Sony Xperia 5 V remove frp via adb fastboot,Sony Xperia 5 V how to bypass frp tool,easy guide how to bypass frp android
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +78,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +122,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -395,7 +395,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Sony Xperia 5 V Phone in a Flash
 
