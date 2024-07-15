@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 1 V
-date: 2024-05-19T04:09:44.240Z
-updated: 2024-05-20T04:09:44.240Z
+date: 2024-07-14T15:18:26.435Z
+updated: 2024-07-15T15:18:26.435Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 1 V
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 1 V
 keywords: Sony Xperia 1 V frp bypass quickly,bypass android frp,frp bypass easy,Sony Xperia 1 V gsm flasher tool,frp bypass,guide to frp bypass,easy guide how to bypass frp android device,Sony Xperia 1 V adb format tool,guid for frp bypass,Sony Xperia 1 V frp bypass easy,Sony Xperia 1 V frp hijacker download,frp tools,frp bypass quickly,about frp bypass,Sony Xperia 1 V frp bypass,frp bypass guide,how to bypass frp tool,Sony Xperia 1 V how to bypass frp,frp hijacker download,Sony Xperia 1 V about frp bypass
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 1 V
@@ -46,12 +46,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -233,7 +236,7 @@ Besides FRP lock, the screen lock of your Android phones including Sony  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Sony  within Minutes
 
@@ -248,10 +251,16 @@ Get into Locked Sony  within Minutes
 
 - **Step 2.** Using a USB cable, connect your phone to your system and then select Unlock Android Screen option on the software interface.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** From the supported list on the software interface, select Sony .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4.** Your Sony  phone will enter into a dedicated mode. Once in this mode, Dr.Fone will initiate the Sony  screen unlock process.
@@ -262,7 +271,7 @@ Get into Locked Sony  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -310,6 +319,9 @@ Once you have downloaded and installed the **AddROM APK** file, you can follow t
 
 **Step 5:** After clicking Terms & Privacy Policies, a browser page will be opened. Click the search bar to type. Here, type "**addrom.com/bypass,**" scroll down, and then download the relevant "**Google Account Manager** " (GAM) APK.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Download the relevant Google Account Manager APK.](https://images.wondershare.com/drfone/article/2024/03/addrom-bypass-tool-to-unlock-frp-lock-screen-04.png)
 
 **Step 6:** Also, you are supposed to download the " **FRP bypass APK**" file from the list. Once the downloading is finished, install both apps on your device.
@@ -358,7 +370,10 @@ The best thing is that you need to be a tech expert to use this tool. Its user-f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best AddROM Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -427,3 +442,52 @@ The best thing about this tool is it is not just limited to FRP bypass. There ar
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>[New] Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g-stylus-5g-2023-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G Stylus 5G (2023) Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g-stylus-5g-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G Stylus 5G (2023) Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G Stylus 5G (2023) FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-edge-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Edge 40 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-moto-g-stylus-5g-2023-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola Moto G Stylus 5G (2023) FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-edge-40-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Edge 40?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-moto-g-stylus-5g-2023-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Moto G Stylus 5G (2023) FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g-stylus-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G Stylus 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G Stylus 5G (2023) FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-edge-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Edge 40 FRP Bypass</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-edge-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Edge 40</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Edge 40 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Edge 40 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-40frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 40FRP Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-2-easy-methods-how-to-zoom-in-on-tiktok-videos/"><u>New In 2024, 2 Easy Methods | How To Zoom In On TikTok Videos?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-edge-40-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Edge 40 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-reinstate-functional-utorrent-installer-after-failure-on-winos/"><u>Tips to Reinstate Functional uTorrent Installer After Failure on WinOS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-moto-g-stylus-5g-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Moto G Stylus 5G (2023) Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>2024 Approved  Snapchat Savvy  Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-also-use-android-to-create-and-edit-videos-read-about-the-efectum-video-effects-editor-which-is-available-in-your-app-stores-for-seamless-editing/"><u>New Do You Also Use Android to Create and Edit Videos? Read About the Efectum Video Effects Editor, Which Is Available in Your App Stores for Seamless Editing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-mouse-comforts-unveiled/"><u>Top-Notch Mouse Comforts Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-edge-40-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Edge 40 FRP Without Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-collect-priceless-imagery-from-trusted-4-youtube-directories-for-2024/"><u>[New] Collect Priceless Imagery From Trusted 4 YouTube Directories for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/easy-dance-routines-to-follow-with-these-20-country-songs-tiktok/"><u>Easy Dance Routines to Follow with These 20 Country Songs (TikTok)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unlocking-tiktok-potential-desktop-video-guide/"><u>2024 Approved  Unlocking TikTok Potential  Desktop Video Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola Moto G Stylus 5G (2023) FRP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>2024 Approved  Conquering Live Broadcast  A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-accessing-googles-video-conference-platform/"><u>[Updated] Accessing Google's Video Conference Platform</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-moto-g-stylus-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Moto G Stylus 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g-stylus-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G Stylus 5G (2023) Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-g-stylus-5g-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto G Stylus 5G (2023) FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-luts-utilization-in-movie-color-grading/"><u>[Updated] Luts Utilization in Movie Color Grading</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-device-friendly-tutorial-inserting-your-shorts-into-youtube/"><u>In 2024, Device-Friendly Tutorial  Inserting Your Shorts Into YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>About Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work
-date: 2024-04-09T12:44:00.522Z
-updated: 2024-04-10T12:44:00.522Z
+date: 2024-07-14T17:46:56.669Z
+updated: 2024-07-15T17:46:56.669Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work
 excerpt: This article describes Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work
 keywords: about frp bypass,frp bypass quickly,remove frp via adb fastboot,adb format tool,Samsung Galaxy M54 5G remove frp via adb fastboot,frp bypass android,addrom bypass,android frp bypass,how to bypass frp without computer,easy guide how to bypass frp android,bypass android device frp,Samsung Galaxy M54 5G adb format tool,Samsung Galaxy M54 5G about frp bypass,frp bypass guide,easy guide how to bypass frp android device,Samsung Galaxy M54 5G guid for frp bypass,Samsung Galaxy M54 5G addrom bypass,Samsung Galaxy M54 5G frp bypass quickly,bypass android frp,frp bypass easy,Samsung Galaxy M54 5G frp tools,Samsung Galaxy M54 5G pangu frp bypass review,frp hijacker download,Samsung Galaxy M54 5G frp bypass guide,Samsung Galaxy M54 5G bypass android frp,frp tools,guide to frp bypass,Samsung Galaxy M54 5G how to bypass frp without computer,Samsung Galaxy M54 5G guide to frp bypass
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Top 5 Samsung Galaxy M54 5G Bypass FRP Tools for PC That Actually Work
@@ -27,7 +27,7 @@ You will come across multiple **Samsung FRP bypass tools for pc** which is sure 
 
 So, to save your time and effort to try to test these programs, we have shortlisted the top 5 ones that can be relied on.
 
-## 1\. [Samsung FRP Tool](https://www.mediafire.com/file/zml0x2chpsmsuob/HuaweiUnlock-Tool.rar/file)
+## 1\. Samsung FRP Tool
 
 To remove FRP locks on your Samsung and Honor smartphones as well as tablets, Samsung FRP Tool is one of the best and most widely used tools. The process is simple where you need to download and install the tool to your system and then connect your phone to your PC and then perform the quick steps for FRP removal.
 
@@ -45,9 +45,9 @@ Now, to make a clear conclusion, the Samsung FRP tool is a safe and reliable pro
 
 _**Tips:** Struggling to unlock your Samsung device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the ideal solution. This user-friendly tool removes pattern, PIN, password, and fingerprint locks, making it easy to bypass your Samsung lock screen. It's also effective for bypassing Google FRP on Samsung, Xiaomi, Redmi, Oppo, Realme, and Vivo devices._
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-## 2\. [GSM Flasher ADB FRP Bypass Tool](https://www.mediafire.com/file/mbab6ctpv61um4l/GSM+Flasher+ADB+Bypass+FRP+Tool.rar/file)
+## 2\. GSM Flasher ADB FRP Bypass Tool
 
 It is a Windows-based powerful tool that helps remove FRP lock on an array of devices and models including Huawei, Micromax, Oppo, Samsung, and others. The ADB commands are used for communicating with the Samsung Galaxy M54 5G device and getting a variety of tasks done, including FRP lock. For this method, you simply need to download the tool, which needs ADB drivers and a USB data cable.
 
@@ -63,7 +63,7 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 
 Communicate with your device using the ADB FRP tool for removing the FRP lock in a few quick steps and the method is apt even for the people who are not pro or tech-expert.
 
-## 3\. [Samsung FRP Tool FastbootReader](https://dmfrpfile.com/wp-content/uploads/2021/10/FastbootReader.rar)
+## 3\. Samsung FRP Tool FastbootReader
 
 This Windows-based tool will let you get rid of the FRP lock on your Samsung as well as Honor devices in a few steps. You would just need the system to install the tool and a USB cable for connecting the phone to your system. Also, the USB drivers for Samsung need to be installed.
 
@@ -79,7 +79,7 @@ This Windows-based tool will let you get rid of the FRP lock on your Samsung as 
 
 Another widely used Windows-based program that can help you with Google lock removal on Samsung as well as Honor devices including phones and tablets. Once the program is downloaded, simply connect your Samsung Galaxy M54 5G and choose to remove the lock.
 
-## 4\. [D&G Password Unlocker](https://drive.google.com/u/0/uc?id=1l4cBLwD0jw57CxZlU7rqczVTd7c3K1h5&export=download)
+## 4\. D&G Password Unlocker
 
 Removing FRP lock not only on your Samsung devices but others like Samsung, Motorola, HTC, and more can be done using this popular tool. Available for quick download on the Windows system, the process of bypassing the lock is simple and can be handled by all.
 
@@ -95,12 +95,15 @@ Removing FRP lock not only on your Samsung devices but others like Samsung, Moto
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
 
-## 5\. [Octoplus FRP Tool](https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.1.exe)
+## 5\. Octoplus FRP Tool
 
 To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and others. In android devices, this is a decent tool to consider. No advanced tech-learning or other hassled requirements are there for this tool to help you bypass the FRP lock.
 
 #### Supported OS: Supporting all the latest Windows OS
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![octoplus](https://images.wondershare.com/drfone/article/2022/05/octoplus.jpg)
 
 #### Key Features
@@ -119,7 +122,7 @@ If you too have got into this trap, then no need to worry as [Dr.Fone - Screen U
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 You do not need to be a tech expert to use this tool as its interface is very user-friendly and simple. You just need to quickly download the software and follow the instructions as they appear and in no time, you will have an unlocked device in front of you and that too without any harm.
 
@@ -140,7 +143,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Samsung Phones within Minutes
 
@@ -177,6 +180,9 @@ In this article, we'll learn about the **Samsung Galaxy M54 5G FRP bypass** proc
 
 Bypassing the security measures on a Samsung Galaxy M54 5G should be approached with caution. There are many considerations that users should keep in mind before **the Samsung Galaxy M54 5G FRP bypass**. Below, we have listed some considerations to help users avoid any hassle:
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Legal Implications
 
 Bypassing device security could potentially breach the terms of service and warranty agreements. Moreover, it may even be illegal in certain jurisdictions. It is recommended to avoid bypassing unless users are certain it is legally permissible in their region.
@@ -268,6 +274,9 @@ Connect your Samsung device to your computer and launch Wondershare Dr.Fone. Wit
 
 Afterward, click “Remove Google FRP Lock” and select your appropriate device brand from the options. This will trigger Dr.Fone to download the relevant driver for the selected brand.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to remove google frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-2.png)
 
 - Step 3. Access Emergency Call and Enable USB Debugging
@@ -325,7 +334,7 @@ Facing the FRP (Factory Reset Protection) lock on your Samsung phone can be a ro
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best FRP Lock Removal Tool for Samsung 
 
@@ -351,6 +360,9 @@ Follow these straightforward steps to bypass the FRP lock on your Samsung phone 
 
 - **Step 4.** Once you have selected the Samsung Galaxy M54 5G device brand, Dr.Fone will initiate the downloading process of FRP.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download the relevant driver](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-2.png)
 
 - **Step 5.** When it finished downloading, please turn off your device and connect it to the computer. Press the **Volume Up** and **Down** buttons for about 3 seconds during the connecting process.
@@ -363,7 +375,7 @@ Follow these straightforward steps to bypass the FRP lock on your Samsung phone 
 
 Wondershare Dr.Fone is a reliable software to bypass Samsung FRP with a high success rate. Its easy-to-use feature makes it popular among users. We recommend it as your first choice.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2: Use Samsung Emergency FRP Code
 
@@ -406,7 +418,7 @@ For those seeking a manual approach, the Talkback Method involves leveraging the
 
 Choosing the right method to bypass Samsung FRP depends on your preferences, technical proficiency, and urgency. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a swift and user-friendly solution, the Samsung Emergency FRP Code provides an official route, while the Talkback Method caters to those who prefer a manual approach. Consider the advantages and disadvantages outlined above to make an informed decision and regain access to your Samsung device efficiently.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: FAQ for Bypassing Samsung FRP (Factory Reset Protection)
 
@@ -424,7 +436,7 @@ There is no official emergency code for bypassing FRP on Samsung or other Androi
 
 Unlocking your Samsung mobile's screen with Dr.Fone - Screen Unlock (Android) is a seamless solution. Unlike hard resetting, which often leads to FRP lock issues, Dr.Fone provides a faster and safer alternative. This [Samsung Unlock Tool](https://drfone.wondershare.com/unlock/oppo-password-unlock-tool.html) swiftly bypasses the lock screen without requiring a password, ensuring a secure and efficient process.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 4\. How to remove an admin in Samsung ?
 
@@ -436,6 +448,9 @@ To remove an admin, or a device administrator:
 - **Step 4.** You will see a list of apps with administrator privileges. Find the admin you want to remove and toggle off its access.
 - **Step 5.** Confirm by tapping 'Deactivate' when prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. How to disable Samsung security?
 
 Disabling security features like passwords, PINs, pattern locks, or biometric scans can be done through settings:
@@ -461,3 +476,46 @@ Let's conclude our guide on how to bypass the **Samsung FRP** lock. You can remo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-the-power-of-music-in-videos/"><u>Updated 2024 Approved The Power of Music in Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-g42-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia G42 5G FRP Locks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-achieving-clarity-step-by-step-tips-to-dial-down-background-sound-in-avid-media-composer/"><u>2024 Approved Achieving Clarity Step-by-Step Tips to Dial Down Background Sound in Avid Media Composer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-exploring-master-recorders-features/"><u>[Updated] Ultimate Guide  Exploring Master Recorder's Features</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s18-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S18 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g42-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G42 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-g42-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia G42 5G?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-innovative-recorder-options-without-latency-anxiety/"><u>[Updated] 2024 Approved  Innovative Recorder Options Without Latency Anxiety</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-master-downloader-facebook-and-firefox-integration/"><u>In 2024, Master Downloader  Facebook & FireFox Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-g42-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia G42 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia G42 5G FRP Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-watch-experience-on-youtube-with-speed-modifications/"><u>In 2024, Tailoring Watch Experience on YouTube with Speed Modifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-apps-to-stream-your-favorite-podcasts-on-iphone/"><u>2024 Approved  Top 5 Apps to Stream Your Favorite Podcasts on iPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-g42-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia G42 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g42-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G42 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oneplus-ace-2v-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 OnePlus Ace 2V Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-original-movie-recording-dissection-and-substitute-series/"><u>2024 Approved  Original Movie Recording Dissection & Substitute Series</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia G42 5G</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-top-9-discord-banner-makers-and-how-to-make-one-easily/"><u>2024 Approved  Top 9 Discord Banner Makers and How to Make One Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-c67-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme C67 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-g42-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia G42 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>In 2024, Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia G42 5G FRP?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-secured-purchase-of-genuine-tiktok-enthusiasts/"><u>[Updated] In 2024, Secured Purchase of Genuine TikTok Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-g42-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia G42 5G Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-professional-posting-hacks-for-instagram-tv/"><u>2024 Approved  Professional Posting Hacks for Instagram TV</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-g42-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia G42 5G Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-meizu-21-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Meizu 21 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-g42-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia G42 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-g42-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia G42 5G FRP Without Computer</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-must-have-apps-for-real-time-video-translation/"><u>2024 Approved Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g42-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G42 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia G42 5G?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinetic-control-on-android-the-kinemaster-dive-for-2024/"><u>Kinetic Control on Android  The KineMaster Dive for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>[Updated] Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
+</ul></div>

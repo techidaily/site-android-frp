@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava
-date: 2024-05-19T04:09:58.012Z
-updated: 2024-05-20T04:09:58.012Z
+date: 2024-07-14T15:38:34.349Z
+updated: 2024-07-15T15:38:34.349Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava
 keywords: Lava Blaze Curve 5G gsm flasher tool,how to bypass frp,gsm flasher tool,Lava Blaze Curve 5G remove frp via adb fastboot,Lava Blaze Curve 5G android frp bypass,frp bypass android device,remove frp via adb fastboot,guide to frp bypass,about frp bypass,Lava Blaze Curve 5G how to bypass frp,Lava Blaze Curve 5G pangu frp bypass review,frp bypass guide,frp bypass easy,frp bypass,how to bypass frp without computer,Lava Blaze Curve 5G best frp bypass,Lava Blaze Curve 5G frp tools,Lava Blaze Curve 5G easy guide how to bypass frp android,easy guide how to bypass frp android device,guid for frp bypass,Lava Blaze Curve 5G how to bypass frp tool,Lava Blaze Curve 5G frp bypass,bypass frp
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze Curve 5G
@@ -37,6 +37,9 @@ Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can
 
 ADB comes included in the Android SDK Platform-Tools package, and this can be downloaded using the SDK manager.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What Are the Android Versions that ADB and Fastboot Command Support?
 
 The Android versions on which ADB and Fastboot commands can be used are as follows:
@@ -46,7 +49,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -54,6 +57,9 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 ### Steps to remove FRP using ADB
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
 
 - **Step 1.** Firstly, download the ADB installed setup file and then extract the files from the toolkit on your system in a folder.
@@ -78,7 +84,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +128,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -178,6 +184,9 @@ You can choose between tools without a computer as well as PC-based programs to 
 - Once the lock is removed, it will completely de-link from the previous Google account and hence cannot be blocked or traced by the previous owner.
 - You can permanently delete the Google account.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Bypass Google Lock on Lava  Without Computer? (30 Min & Free)
 
 To remove the Lava  FRP bypass without using a system, the EMERGENCY CALL method can be used. Though this method is free, it is lengthy and complicated.
@@ -233,7 +242,7 @@ Besides FRP lock, the screen lock of your Android phones including Lava  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Lava  within Minutes
 
@@ -262,7 +271,10 @@ Get into Locked Lava  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -346,13 +358,13 @@ Nothing can be more annoying than forgetting the screen lock of your Lava phone 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 This professional Windows and Mac-based software will let you remove all types of screen locks including password, PIN, pattern as well as fingerprint, in just a few simple steps. The software is simple to use and can remove the screen lock on all popular Android devices in a hassle-free manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Lava without Password \[Most Efficient\]
 
@@ -367,6 +379,9 @@ Get into Locked Lava without Password \[Most Efficient\]
 
 Step 1. Launch the Dr. Fone software on your system and choose the Screen Unlock option on the main page.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Using a USB cable, connect your phone to your PC, and then on the software interface choose Unlock Android Screen option.
@@ -385,7 +400,7 @@ Step 4. Wait for the unlock process to complete, the screen lock will be removed
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### Conclusion
 
@@ -404,3 +419,57 @@ Above we have listed different tools for **Lava Google bypass**. Depending on th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-blaze-2-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-video-brightness-correction-made-easy-best-editor-options-for-2024/"><u>New Video Brightness Correction Made Easy Best Editor Options for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-movie-magic-at-work-the-crucial-functions-and-impact-of-every-film-set-team-member/"><u>2024 Approved Movie Magic at Work The Crucial Functions and Impact of Every Film Set Team Member</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-blaze-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Blaze 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-record-hulu-everywhere-windowsmaciosandroid-for-2024/"><u>[New] Step-by-Step  Record Hulu Everywhere - Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-blaze-2-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Blaze 2 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lavafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your LavaFRP Lock</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-auditory-refinement-how-to-subtract-reverberation-from-your-recordings-for-unblemished-quality/"><u>In 2024, Auditory Refinement How to Subtract Reverberation From Your Recordings for Unblemished Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-blaze-2-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava Blaze 2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/setting-up-seamless-network-video-broadcasts-with-vlc-for-2024/"><u>Setting Up Seamless Network Video Broadcasts with VLC for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-youtube-presence-with-these-effective-tactics/"><u>2024 Approved  Transform Your YouTube Presence with These Effective Tactics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-blaze-2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Blaze 2 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-blaze-2-frp-by-drfone-android/"><u>How Can We Bypass Lava Blaze 2 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors/"><u>[Updated] Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-discovering-the-6-best-call-voice-boosters-on-both-android-and-iphone-devices/"><u>In 2024, Discovering the 6 Best Call Voice Boosters on Both Android and iPhone Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-2-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze 2?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-likes-and-shares-for-financial-gain-on-snapchat/"><u>2024 Approved  Leveraging Likes and Shares for Financial Gain on Snapchat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-infuse-vibrancy-in-yt-image-previews-with-neon-touches/"><u>[New] Infuse Vibrancy in YT Image Previews with Neon Touches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-lava-blaze-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Blaze 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-maximize-your-fcpx-experience-10-free-plugins-to-try/"><u>New 2024 Approved Maximize Your FCPX Experience 10 Free Plugins to Try</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-2-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze 2 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-blaze-2-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Blaze 2 FRP Locks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-impactful-youtube-videos-top-20-font-picks/"><u>[Updated] In 2024, Create Impactful YouTube Videos  Top 20 Font Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-reverse-footage-on-your-phone-for-2024/"><u>Time-Reverse Footage on Your Phone for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze 2 Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y78-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y78 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-best-sites-for-quick-templates-on-youtube/"><u>[New] 2024 Approved  5 Best Sites for Quick Templates on YouTube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze 2 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lavawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lavawith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-blaze-2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Blaze 2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-blaze-2-by-drfone-android/"><u>How to Bypass FRP from Lava Blaze 2?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-blaze-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Blaze 2 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-flavorful-feeds-world-class-tiktok-foodies/"><u>[Updated] In 2024, Flavorful Feeds  World Class TikTok Foodies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled/"><u>[New] 2024 Approved  Climbing the YouTube Search Rankings  Key SEO Strategies Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lava-blaze-2-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lava Blaze 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-blaze-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Blaze 2 Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>2024 Approved  Craft Cinematic Magic  Learn Green Screen Wonders with YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-slideshows-on-screen-webcam-tips-and-tricks-for-2024/"><u>Capturing Slideshows on Screen  Webcam Tips and Tricks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava FRP Bypass</u></a></li>
+</ul></div>

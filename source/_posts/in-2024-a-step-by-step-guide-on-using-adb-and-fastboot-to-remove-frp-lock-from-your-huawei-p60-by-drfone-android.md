@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
-date: 2024-05-19T04:09:55.185Z
-updated: 2024-05-20T04:09:55.185Z
+date: 2024-07-14T15:34:38.288Z
+updated: 2024-07-15T15:34:38.288Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
 keywords: guide to frp bypass,bypass android device frp,bypass android frp,guid for frp bypass,Huawei P60 frp bypass,Huawei P60 how to bypass frp without computer,frp bypass,how to bypass frp,adb format tool,frp bypass quickly,remove frp via adb fastboot,easy guide how to bypass frp android device,pro frp bypass
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei P60
@@ -21,6 +21,9 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Quick Overview of ADB and Fastboot Commands
 
 ### 1\. What are ADB and Fastboot?
@@ -46,7 +49,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -190,7 +193,7 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Huawei P60 FRP Lock Removal Made Easy
 
@@ -256,6 +259,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Return to the App info screen and select Carrier Services. Then, select Disable and Disable app. Finally, select Force to stop and OK.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![carrier services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-8.jpg)
 
 - Go back to the App info screen, choose Google Play Services, and then touch Disable to remove the app. Click OK after tapping Force Stop.
@@ -345,7 +351,7 @@ Facing the FRP (Factory Reset Protection) lock on your Huawei phone can be a roa
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best FRP Lock Removal Tool for Huawei 
 
@@ -356,6 +362,9 @@ The Best FRP Lock Removal Tool for Huawei
 
 **4,008,671** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide to bypassing Huawei Frp Lock
 
 Follow these straightforward steps to bypass the FRP lock on your Huawei phone using Dr.Fone:
@@ -383,7 +392,10 @@ Follow these straightforward steps to bypass the FRP lock on your Huawei phone u
 
 Wondershare Dr.Fone is a reliable software to bypass Huawei FRP with a high success rate. Its easy-to-use feature makes it popular among users. We recommend it as your first choice.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2: Use Huawei Emergency FRP Code
 
@@ -407,6 +419,9 @@ The Huawei Emergency FRP Code is an alternative method to bypass FRP, relying on
 
 For those seeking a manual approach, the Talkback Method involves leveraging the accessibility feature on the Huawei P60 device. Before using the Talkback method, ensure that your phone has more than 50% battery backup and an internet connection. The Talkback method will not work on devices with the latest Android operating system. Here are the steps to bypass **Huawei FRP** lock with the Talkback method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android phone talkback feature](https://images.wondershare.com/drfone/article/2022/10/oppo-frp-bypass-02.jpg)
 
 - **Step 1.** Power on your Huawei smartphone and hold the volume up + down buttons at the same time to enable the Talkback feature.
@@ -426,7 +441,7 @@ For those seeking a manual approach, the Talkback Method involves leveraging the
 
 Choosing the right method to bypass Huawei FRP depends on your preferences, technical proficiency, and urgency. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a swift and user-friendly solution, the Huawei Emergency FRP Code provides an official route, while the Talkback Method caters to those who prefer a manual approach. Consider the advantages and disadvantages outlined above to make an informed decision and regain access to your Huawei device efficiently.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: FAQ for Bypassing Huawei FRP (Factory Reset Protection)
 
@@ -444,7 +459,7 @@ There is no official emergency code for bypassing FRP on Huawei or other Android
 
 Unlocking your Huawei mobile's screen with Dr.Fone - Screen Unlock (Android) is a seamless solution. Unlike hard resetting, which often leads to FRP lock issues, Dr.Fone provides a faster and safer alternative. This [Huawei Unlock Tool](https://drfone.wondershare.com/unlock/oppo-password-unlock-tool.html) swiftly bypasses the lock screen without requiring a password, ensuring a secure and efficient process.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 4\. How to remove an admin in Huawei ?
 
@@ -481,3 +496,50 @@ Let's conclude our guide on how to bypass the **Huawei FRP** lock. You can remov
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-create-stunning-video-invites-top-apps-for-ios-and-android/"><u>Updated In 2024, Create Stunning Video Invites Top Apps for iOS and Android</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-k11x-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo K11x FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-k11x-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo K11x FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-k11x-by-drfone-android/"><u>How to Bypass FRP from Oppo K11x?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo K11x FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-k11x-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo K11x FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-k11x-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo K11x FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cooking-chronicles-video-production-insights/"><u>2024 Approved  Cooking Chronicles  Video Production Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unleash-creativity-in-tiktok-top-50plus-inspiring-quotes/"><u>[Updated] 2024 Approved  Unleash Creativity in TikTok  Top 50+ Inspiring Quotes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ensuring-accessibility-and-seo-with-responsive-design/"><u>2024 Approved  Ensuring Accessibility and SEO with Responsive Design</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo/"><u>[New] In 2024, Digital Media Hacks  Top 5 Online Techniques for Video Trimming on Vimeo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-k11x-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo K11x Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-reel-it-in-pro-level-techniques-for-youtube-video-editors/"><u>[New] Reel It In  Pro-Level Techniques for YouTube Video Editors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-k11x-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo K11x FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-k11x-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo K11x ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-k11x-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo K11x Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-k11x-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo K11x FRP Locks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/pinpointing-fragility-breakage-acoustics-for-2024/"><u>Pinpointing Fragility Breakage Acoustics for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-sync-up-your-studio-setup-the-8-most-popular-music-production-applications-for-mac-and-windows/"><u>2024 Approved Sync-Up Your Studio Setup The 8 Most Popular Music Production Applications for Mac and Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-k11xwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo K11xwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-k11x-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo K11x Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-k11x-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo K11x FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-k11x-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo K11x Phones with/without a PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-elevate-your-videos-free-slow-motion-editing-software-by-filmora/"><u>In 2024, Elevate Your Videos Free Slow Motion Editing Software by Filmora</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-k11x-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo K11x FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-k11x-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo K11x FRP Bypass</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-the-veil-of-invisibility-during-instagram-livestreams/"><u>[New] In 2024, Mastering the Veil of Invisibility During Instagram Livestreams</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-k11x-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo K11x FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-k11x-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo K11x</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-k11x-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo K11x</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-k11x-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo K11x Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-k11x-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo K11x FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-k11x-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo K11x?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-k11x-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo K11x Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-k11x-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo K11x</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-k11xfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo K11xFRP Lock</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 5 V
-date: 2024-05-19T04:09:45.772Z
-updated: 2024-05-20T04:09:45.772Z
+date: 2024-07-14T15:20:34.586Z
+updated: 2024-07-15T15:20:34.586Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 5 V
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 5 V
 keywords: Sony Xperia 5 V pro frp bypass,easy guide how to bypass frp android,android frp bypass,Sony Xperia 5 V adb format tool,pangu frp bypass review,Sony Xperia 5 V gsm flasher tool,Sony Xperia 5 V how to bypass frp without computer,frp bypass guide,gsm flasher tool,bypass android device frp,Sony Xperia 5 V how to bypass frp tool,how to bypass frp,Sony Xperia 5 V guide to frp bypass,Sony Xperia 5 V about frp bypass,Sony Xperia 5 V how to bypass frp,Sony Xperia 5 V remove frp via adb fastboot,addrom bypass,easy guide how to bypass frp android device,Sony Xperia 5 V guid for frp bypass,about frp bypass,frp hijacker download,Sony Xperia 5 V frp bypass quickly,Sony Xperia 5 V android frp bypass,guid for frp bypass,frp bypass easy,Sony Xperia 5 V frp bypass easy,adb format tool,Sony Xperia 5 V bypass android frp,frp tools,Sony Xperia 5 V frp hijacker download,Sony Xperia 5 V easy guide how to bypass frp android,bypass frp,frp bypass quickly
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -76,9 +76,12 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -234,6 +237,9 @@ Navigate to the [Account Recovery page](https://accounts.google.com/signin/recov
 
 Fill in the form with your Google account and click Next.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google retrieval](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-frp-bypass-2.jpg)
 
 3. **Enter the last password you remember**
@@ -268,6 +274,9 @@ Find the code from your messages, enter it, and click Next.
 
 Now again, you will wait for six hours till Google sends the password reset link to your email.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Use FRP Bypass APK
 
 FRP bypass APK is another tool you can use to Sony Xperia 5 V FRP bypass easily. Let us see how it works step by step.
@@ -333,11 +342,14 @@ You can use SideSync to share the screen and data between your computer and mobi
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google Lock (FRP) from Sony Devices
 
 - Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Sony, Xiaomi, etc.
 - No tech knowledge required, Simple, click-through, process.
@@ -360,13 +372,13 @@ Remove Google Lock (FRP) from Sony Devices
 
 During the process, it's crucial to keep your device connected to the computer and refrain from disconnecting it until the bypass is complete. After the firmware download is finished, Dr.Fone will initiate the FRP lock bypass process. Once completed, your Sony device will restart, and you'll regain access to it without encountering the FRP lock.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## The Bottom Line
 
 FRP is a great feature to add security to Android phones. However, sometimes it is necessary to bypass it to fully use your phone. When you are stuck with an FRP lock, it is a frustrating situation, especially when you want to factory reset your phone. We have described various methods so that you choose the best solution according to your requirements for the Sony Xperia 5 V FRP bypass. Among them, bypassing Sony FRP lock is made simple and efficient with Dr.Fone - Screen Unlock (Android). Say goodbye to FRP lock frustrations and regain access to your Sony device swiftly with [Dr.Fone - Screen Unlock (Android)](https://drfone.wondershare.com/guide/bypass-google-frp-on-android.html).
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -452,6 +464,9 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 - A confirmation prompt will pop up to ensure a willful deletion of the account from the Sony Xperia 5 V device. Tap on 'Remove Account' to confirm the action. This will cause all data linked with the account to get deleted from the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirmation of the google account removal](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-09.jpg)
 
 ## FAQs about Google Lock Bypass
@@ -475,7 +490,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Sony Xperia 5 V Phone in a Flash
 
@@ -497,3 +512,63 @@ Unlock Your Sony Xperia 5 V Phone in a Flash
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy XCover 6 Pro Tactical Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-k11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo K11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-90-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 90 Prowith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-k11-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo K11 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails/"><u>[New] 2024 Approved  Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-k11-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo K11 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-y27s-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo Y27s</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-k11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo K11 5G Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonious-hushes-softening-sounds-with-garageband/"><u>[New] Harmonious Hushes  Softening Sounds with Garageband</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-find-x7-ultra-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unmatched-quick-windows-picture-browser-for-2024/"><u>Unmatched Quick Windows Picture Browser for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo K11 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-locate-flatulence-noises-sampler/"><u>New Locate Flatulence Noises Sampler</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-k11-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo K11 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-10-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 10 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-k11-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo K11 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-proplus-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 Pro+ 5Gwith/without a PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-your-audio-fix-10-webm-to-mp3-converters-you-can-trust/"><u>Updated In 2024, Get Your Audio Fix 10 WebM to MP3 Converters You Can Trust</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-k11-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo K11 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo K11 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-zoom-experience-with-virtual-boards-tips-for-all-devices-for-2024/"><u>[New] Elevate Your Zoom Experience with Virtual Boards - Tips for All Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-uncovering-the-method-of-anti-play-video-snapchat/"><u>[New] Uncovering the Method of Anti-Play Video Snapchat</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-k11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo K11 5G Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cooking-chronicles-video-production-insights/"><u>[Updated] 2024 Approved  Cooking Chronicles  Video Production Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-examination-panorama-lens-revolution-by-samsung/"><u>Detailed Examination  Panorama Lens Revolution by Samsung</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-motion-the-top-animated-photo-makers/"><u>From Still to Motion The Top Animated Photo Makers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-k11-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo K11 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>About Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-k11-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo K11 5G Phone FRP Lock</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tickle-me-tiktok-jokes-and-riddles-the-best-in-laughter-for-2024/"><u>Tickle-Me TikTok Jokes & Riddles – The Best in Laughter for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-k11-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo K11 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-k11-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo K11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-breathe-new-life-into-old-videos-the-8-best-free-online-quality-enhancers/"><u>Updated Breathe New Life Into Old Videos The 8 Best Free Online Quality Enhancers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-v29-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo V29 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-k11-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo K11 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-reno-10-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Reno 10 Pro+ 5G Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/experts-guide-to-infinite-space-utilization/"><u>Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-a60-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel A60? Try These Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-10-proplus-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 10 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elite-streamers-guide-for-secure-viewing/"><u>2024 Approved  Elite Streamer’s Guide for Secure Viewing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-k11-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo K11 5G FRP Without Computer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-bring-back-faded-watch-icon-artwork/"><u>In 2024, Bring Back Faded Watch Icon Artwork</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-10-proplus-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 10 Pro+ 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-chatcam-video-saver-app-for-2024/"><u>[Updated] ChatCam Video Saver App for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-k11-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo K11 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-proplus-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro+ 5GFRP Lock</u></a></li>
+</ul></div>

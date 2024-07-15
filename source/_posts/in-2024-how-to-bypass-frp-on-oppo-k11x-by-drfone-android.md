@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass FRP on Oppo K11x?
-date: 2024-05-19T04:11:01.305Z
-updated: 2024-05-20T04:11:01.305Z
+date: 2024-07-14T17:09:51.191Z
+updated: 2024-07-15T17:09:51.191Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass FRP on Oppo K11x?
 excerpt: This article describes How to Bypass FRP on Oppo K11x?
 keywords: Oppo K11x how to bypass frp,pro frp bypass,frp bypass quickly,remove frp via adb fastboot,Oppo K11x easy guide how to bypass frp android,Oppo K11x frp bypass quickly,bypass android device frp,Oppo K11x frp bypass,Oppo K11x frp tools,Oppo K11x best frp bypass
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## How to Bypass FRP on Oppo K11x?
@@ -33,6 +33,9 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 4\. Click Keyboard layout and feedback > Key-tap feedback. Then, choose Sound and vibration on the Tip section.
 - 5\. Next, click Answering and ending calls > Answer automatically. Now enable the toggle before using your two fingers to select “10 seconds” and “Customize.” You'll see a pop-up dialog where you'll click App Info > Call settings > Block numbers.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![block numbers](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-1.jpg)
 
 - 6\. Click Recent > Emergency number > Message icon.
@@ -54,6 +57,9 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 
 - 14\. Go to Settings > Accounts and backup > Accounts > Add account > Google. Sign in with any Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in google account](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-3.jpg)
 
 - 15\. Navigate back to Settings and enable Google Play Services. Also, activate Find My Device. Now restart your phone and access it without FRP.
@@ -66,7 +72,7 @@ This method will teach us how to bypass FRP on Oppo K11x devices like Galaxy S8 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Bypass FRP on Oppo K11x and Solve Your Screen Locks!
 
@@ -105,6 +111,9 @@ Follow these steps to bypass FRP on Oppo K11x with Dr.Fone:
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/7o2JG5knKr8"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Disable FRP lock on Samsung Oppo K11x?
 
 To avoid the stress of bypassing FRP on your Samsung phone in the future, you may have to disable Android Lock altogether. This is a relatively straightforward procedure on any Android phone you use. But be guided that turning off FRP on your Oppo K11x phone is not recommended.
@@ -159,7 +168,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -189,9 +198,12 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -235,7 +247,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -368,6 +380,9 @@ By bypassing the FRP lock, Dr.Fone allows users to gain access to their devices 
 
 Connect your Oppo device to your computer and launch Wondershare Dr.Fone. Within the toolkit window, navigate to "Toolbox" and select "Screen Unlock." This will open a new window; choose the "Android" option to access the FRP Lock function.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![proceed with android device](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 
@@ -408,3 +423,58 @@ _**Tips:** Are you searching for a powerful FRP Bypass tool? No worries as [Dr.F
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-learn-the-ins-and-outs-of-adding-gifs-on-instagram-in-4-steps/"><u>[New] Learn the Ins and Outs of Adding GIFs on Instagram in 4 Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Gionee F3 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-gionee-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Gionee Phone FRP Lock</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>In 2024, Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-gionee-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Gionee FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-gionee-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Gionee Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dissecting-the-quietude-fb-lacks-video-recommendations-for-2024/"><u>Dissecting the Quietude  FB Lacks Video Recommendations for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-gionee-f3-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Gionee F3 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-gionee-f3-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Gionee F3 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Gionee F3 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-future-of-vlogging-top-12-camera-innovations/"><u>2024 Approved  Unveiling the Future of Vlogging  Top 12 Camera Innovations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-gionee-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Gionee FRP Bypass Instantly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-talking-technology-appraisal-for-2024/"><u>[Updated] Talking Technology Appraisal for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-beginners-blueprint-for-youtube-income-growth/"><u>[New] 2024 Approved  Beginner's Blueprint for YouTube Income Growth</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-meizu-21-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Meizu 21 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-gionee-f3-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Gionee F3 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-gionee-f3-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Gionee F3 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-videos-from-ordinary-to-extraordinary/"><u>Updated In 2024, Elevate Your Videos From Ordinary to Extraordinary</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-gionee-frp-bypass-by-drfone-android/"><u>In 2024, About Gionee FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee F3 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-gionee-f3-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Gionee F3 Pro FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/practical-steps-to-enhance-videos-with-device-based-filtering-for-2024/"><u>Practical Steps to Enhance Videos with Device-Based Filtering for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-integrating-igtv-videos-with-your-facebook-network/"><u>[New] In 2024, Integrating IGTV Videos with Your Facebook Network</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-gionee-by-drfone-android/"><u>In 2024, How to Bypass FRP on Gionee?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-humor-kinemaster-for-memes/"><u>[New] Unleashing Humor  KineMaster for Memes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-gionee-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Gionee FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-gionee-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Gionee FRP</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-websites-to-flip-videos-online-without-cost-for-2024/"><u>Updated Best Websites to Flip Videos Online Without Cost for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-gaming-sites-top-picks-for-downloading-games-for-2024/"><u>Best Gaming Sites Top Picks for Downloading Games for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-gionee-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Gionee FRP Locks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/sonic-treasure-trove-the-ultimate-collection-of-websites-for-free-audio-files-for-2024/"><u>Sonic Treasure Trove The Ultimate Collection of Websites for Free Audio Files for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-gionee-f3-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Gionee F3 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Tecno Spark 10C</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-gionee-f3-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Gionee F3 Prowith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-gionee-f3-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Gionee F3 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tripping-up-heres-how-to-avoid-it/"><u>2024 Approved  Tripping Up? Here's How to Avoid It</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-gionee-f3-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Gionee F3 Pro FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-gionee-f3-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Gionee F3 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-gionee-f3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Gionee F3 ProFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Gionee FRP?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-iphone-video-editing-essentials-top-picks/"><u>Updated 2024 Approved IPhone Video Editing Essentials Top Picks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-gionee-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Gionee ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>[New] Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-gionee-f3-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Gionee F3 Pro Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Smart 7.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-gionee-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Gionee FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Gionee F3 Pro FRP</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>Achieve Peak Collaboration  A Complete Guide to Slack & Filmora Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-gionee-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Gionee</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-gionee-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Gionee Phones with/without a PC</u></a></li>
+</ul></div>

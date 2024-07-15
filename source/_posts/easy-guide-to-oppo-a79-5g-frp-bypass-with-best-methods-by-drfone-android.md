@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Oppo A79 5G FRP Bypass With Best Methods
-date: 2024-04-09T12:41:09.204Z
-updated: 2024-04-10T12:41:09.204Z
+date: 2024-07-14T17:20:50.702Z
+updated: 2024-07-15T17:20:50.702Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Easy Guide to Oppo A79 5G FRP Bypass With Best Methods
 excerpt: This article describes Easy Guide to Oppo A79 5G FRP Bypass With Best Methods
 keywords: frp hijacker download,android frp bypass,Oppo A79 5G frp bypass quickly,bypass android frp,gsm flasher tool,Oppo A79 5G easy guide how to bypass frp android,frp bypass quickly,easy guide how to bypass frp android,remove frp via adb fastboot,guid for frp bypass,addrom bypass,Oppo A79 5G frp bypass,pro frp bypass
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Easy Guide to Oppo A79 5G FRP Bypass With Best Methods
@@ -124,6 +124,9 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 6.** Open the XShare APK on your second Android device. Navigate to the downloaded apps and tap “Send.” Return to the FRP phone and select “Receive” on it. Scan the QR code to establish a connection between the Oppo A79 5G devices. Verify on your FRP phone that both FRP APK files have been received and proceed with the installation.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share two apps for frp unlocking](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-18.jpg)
 
 - **Step 7.** Close and exit the XShare APK on the FRP phone to return to the “App settings” screen. Launch the FRP Bypass APK, tap the “three dots” upon opening, and choose “Browser Sign-In.” Sign in with your Google Account ID and password.
@@ -160,7 +163,7 @@ You will come across multiple **Oppo FRP bypass tools for pc** which is sure to 
 
 So, to save your time and effort to try to test these programs, we have shortlisted the top 5 ones that can be relied on.
 
-## 1\. [Oppo FRP Tool](https://www.mediafire.com/file/zml0x2chpsmsuob/HuaweiUnlock-Tool.rar/file)
+## 1\. Oppo FRP Tool
 
 To remove FRP locks on your Oppo and Honor smartphones as well as tablets, Oppo FRP Tool is one of the best and most widely used tools. The process is simple where you need to download and install the tool to your system and then connect your phone to your PC and then perform the quick steps for FRP removal.
 
@@ -178,9 +181,9 @@ Now, to make a clear conclusion, the Oppo FRP tool is a safe and reliable progra
 
 _**Tips:** Struggling to unlock your Oppo device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the ideal solution. This user-friendly tool removes pattern, PIN, password, and fingerprint locks, making it easy to bypass your Oppo lock screen. It's also effective for bypassing Google FRP on Samsung, Xiaomi, Redmi, Oppo, Realme, and Vivo devices._
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-## 2\. [GSM Flasher ADB FRP Bypass Tool](https://www.mediafire.com/file/mbab6ctpv61um4l/GSM+Flasher+ADB+Bypass+FRP+Tool.rar/file)
+## 2\. GSM Flasher ADB FRP Bypass Tool
 
 It is a Windows-based powerful tool that helps remove FRP lock on an array of devices and models including Huawei, Micromax, Oppo, Samsung, and others. The ADB commands are used for communicating with the Oppo A79 5G device and getting a variety of tasks done, including FRP lock. For this method, you simply need to download the tool, which needs ADB drivers and a USB data cable.
 
@@ -196,7 +199,7 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 
 Communicate with your device using the ADB FRP tool for removing the FRP lock in a few quick steps and the method is apt even for the people who are not pro or tech-expert.
 
-## 3\. [Oppo FRP Tool FastbootReader](https://dmfrpfile.com/wp-content/uploads/2021/10/FastbootReader.rar)
+## 3\. Oppo FRP Tool FastbootReader
 
 This Windows-based tool will let you get rid of the FRP lock on your Oppo as well as Honor devices in a few steps. You would just need the system to install the tool and a USB cable for connecting the phone to your system. Also, the USB drivers for Oppo need to be installed.
 
@@ -212,7 +215,7 @@ This Windows-based tool will let you get rid of the FRP lock on your Oppo as wel
 
 Another widely used Windows-based program that can help you with Google lock removal on Oppo as well as Honor devices including phones and tablets. Once the program is downloaded, simply connect your Oppo A79 5G and choose to remove the lock.
 
-## 4\. [D&G Password Unlocker](https://drive.google.com/u/0/uc?id=1l4cBLwD0jw57CxZlU7rqczVTd7c3K1h5&export=download)
+## 4\. D&G Password Unlocker
 
 Removing FRP lock not only on your Oppo devices but others like Samsung, Motorola, HTC, and more can be done using this popular tool. Available for quick download on the Windows system, the process of bypassing the lock is simple and can be handled by all.
 
@@ -228,7 +231,7 @@ Removing FRP lock not only on your Oppo devices but others like Samsung, Motorol
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
 
-## 5\. [Octoplus FRP Tool](https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.1.exe)
+## 5\. Octoplus FRP Tool
 
 To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and others. In android devices, this is a decent tool to consider. No advanced tech-learning or other hassled requirements are there for this tool to help you bypass the FRP lock.
 
@@ -252,7 +255,10 @@ If you too have got into this trap, then no need to worry as [Dr.Fone - Screen U
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 You do not need to be a tech expert to use this tool as its interface is very user-friendly and simple. You just need to quickly download the software and follow the instructions as they appear and in no time, you will have an unlocked device in front of you and that too without any harm.
 
@@ -273,7 +279,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo Phones within Minutes
 
@@ -307,7 +313,7 @@ Oppo smartphones incorporate a security measure called the FRP (Factory Reset Pr
 
 The ****Oppo A79 5G FRP code**** serves as a protective barrier. It prevents unauthorized individuals from utilizing the Oppo A79 5G device after it has been reset. By requesting the Google account credentials tied to the Oppo A79 5G device, it acts as an extra layer of security. This ensures that only authorized users can access and operate the Oppo A79 5G device. In essence, the Oppo A79 5G FRP code is an integral security feature that reinforces user authentication.
 
-It prevents unauthorized access to the Oppo A79 5G device, providing additional protection. Each [Oppo device](https://drfone.wondershare.com/unlock/vivo-screen-lock.html)possesses a distinct FRP (Factory Reset Protection) code. It is linked to the Google account that was previously synchronized with the Oppo A79 5G device. It activates when you perform a factory reset on your Oppo smartphone without signing out of the associated Google account.
+It prevents unauthorized access to the Oppo A79 5G device, providing additional protection. Each [Oppo device](https://drfone.wondershare.com/unlock/vivo-screen-lock.html) possesses a distinct FRP (Factory Reset Protection) code. It is linked to the Google account that was previously synchronized with the Oppo A79 5G device. It activates when you perform a factory reset on your Oppo smartphone without signing out of the associated Google account.
 
 ### Usage of Oppo A79 5G FRP Code
 
@@ -353,7 +359,7 @@ Wondershare Dr.Fone also supports over 2000 Android devices from 15+ brands for 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 New method Bypass Google Account All VIVO Devices
 
@@ -382,7 +388,7 @@ Once the driver is downloaded, switch off your Oppo device. Now connect it to th
 
 ![remove the vivo frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: How To Disable Oppo A79 5G FRP Easily
 
@@ -392,12 +398,30 @@ In this section, we will guide you through the process of disabling Oppo A79 5G 
 
 - ****Step 1:**** On your Oppo smartphone, access Settings and scroll down to the last option, "Account & Sync." Tap "Accounts & Sync," and on the following screen, find the Google Account you want to remove.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose accounts and sync](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-6.jpg)
 
 - ****Step 2:**** Here, tap the Google account and choose “Delete Account” on the next screen. Confirm your action by tapping "OK," and the Google account will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![tap on the delete account option](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for ****Oppo A79 5G FRP bypass without a PC****. We discussed the Oppo A79 5G FRP code method, followed by three alternative techniques. These included built-in Oppo tools, an official Google account, and Wondershare Dr.Fone. These methods provide viable options for Oppo smartphone users locked out of their devices.
@@ -417,3 +441,47 @@ Each method has its own merits and limitations. However, we recommend considerin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-mobizens-screen-capture-tool-for-2024/"><u>[Updated] Ultimate Guide to Mobizen's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-11-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 11 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ideal-choices-top-10-mac-video-recorders/"><u>In 2024, Ideal Choices  Top 10 Mac Video Recorders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-11-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 11 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-11-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 11 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-visual-virtuosos-popular-ig-effects/"><u>2024 Approved  Visual Virtuosos  Popular IG Effects</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elite-12-personal-recording-solutions-for-2024/"><u>[New] Elite 12 Personal Recording Solutions for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-11-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 11 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-11-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 11 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-engagement-a-comprehensive-thumbnail-guidebook-for-2024/"><u>Maximize Engagement  A Comprehensive Thumbnail Guidebook for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-pro-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-11-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 11 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-11-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 11 Pro 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-reno-11-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Reno 11 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sizzling-syntax-the-subtleties-of-seductive-sentences-in-spanish/"><u>Sizzling Syntax: The Subtleties of Seductive Sentences in Spanish</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-nikon-d500-and-its-stance-on-high-quality-imaging/"><u>[Updated] Nikon D500 and Its Stance on High-Quality Imaging</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-reno-11-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Reno 11 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-innovation-best-8-cameras-for-live-broadcasting/"><u>Cutting-Edge Innovation  Best 8 Cameras for Live Broadcasting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-11-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 11 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 11 Pro 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-11-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 11 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-11-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 11 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-reno-11-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-dialogue-engaging-your-youtube-fans/"><u>2024 Approved  Mastering Dialogue  Engaging Your YouTube Fans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-reno-11-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Reno 11 Pro 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-11-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 11 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 Pro 5G Phones with/without a PC</u></a></li>
+</ul></div>

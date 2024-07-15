@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78
-date: 2024-05-19T04:11:04.893Z
-updated: 2024-05-20T04:11:04.893Z
+date: 2024-07-14T17:15:12.424Z
+updated: 2024-07-15T17:15:12.424Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78
 keywords: Oppo A78 frp hijacker download,pangu frp bypass review,Oppo A78 pro frp bypass,Oppo A78 adb format tool,Oppo A78 addrom bypass,Oppo A78 frp bypass guide,frp bypass guide,frp bypass android device,guid for frp bypass,frp tools,Oppo A78 about frp bypass,pro frp bypass,easy guide how to bypass frp android,bypass android frp,gsm flasher tool,Oppo A78 guid for frp bypass,Oppo A78 best frp bypass,easy guide how to bypass frp android device,Oppo A78 easy guide how to bypass frp android,bypass android device frp,remove frp via adb fastboot,Oppo A78 how to bypass frp tool,guide to frp bypass,Oppo A78 frp tools,how to bypass frp without computer,Oppo A78 frp bypass,Oppo A78 pangu frp bypass review,frp bypass easy,adb format tool,Oppo A78 gsm flasher tool,frp bypass android
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78
@@ -37,6 +37,9 @@ Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can
 
 ADB comes included in the Android SDK Platform-Tools package, and this can be downloaded using the SDK manager.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. What Are the Android Versions that ADB and Fastboot Command Support?
 
 The Android versions on which ADB and Fastboot commands can be used are as follows:
@@ -46,7 +49,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -72,13 +75,16 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 - `_Adb shell content insert –uri content://settings/secure –bind_`
 - `_name:s:user_setup_complete –bind value:s:1_`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adb frp command](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +128,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -221,7 +227,7 @@ Unlocking FRP using TechnoCare APK is free, quick, and exciting. However, someti
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo Locked Screens without Password
 
@@ -265,7 +271,7 @@ You don't always need to Factory Reset your phone before selling it or handing i
 
 And that's the best **Oppo Android 11 FRP bypass** method. With TechnoCare APK, you can quickly bypass APK by adding a different Google Account with an easy-to-remember password. Also, use [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to unblock PIN, password, pattern, TouchID, and FaceID on Oppo and other Android brands. And another thing, you can manually disable FRP before selling or gifting your phone away. I hope this helps!
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Hassle-Free Ways to Remove FRP Lock on Oppo A78 Phones with/without a PC
 
@@ -330,6 +336,9 @@ Steps for **Oppo  FRP bypass** using Motoreaper
 - **Step 7.** Next for **Oppo  Google bypass**, use debugging in your device and then tap on I confirm at Moto Rapersoftware.
 - **Step 8.** The Unlock No button will appear in the Moto Reaper software which you have to click after which the **Google bypass Oppo** process will be complete and the FRP lock will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![motoreaper frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-motoreaper-8.jpg)
 
 ## Part 4. How to Unlock Oppo  Phone Passcode? (5 Min)
@@ -338,7 +347,10 @@ Besides FRP lock, the screen lock of your Android phones including Oppo  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo  within Minutes
 
@@ -367,8 +379,11 @@ Get into Locked Oppo  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Oppo  FRP lock can be removed using the Emergency Call option or the above-mentioned Motoreaper tool. For removing any type of screen lock without password on your Android devices, [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) works as the best option.
@@ -384,3 +399,59 @@ Oppo  FRP lock can be removed using the Emergency Call option or the above-menti
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-unlocking-facebook-video-engagement-the-definitive-aspect-ratio-guide/"><u>2024 Approved Unlocking Facebook Video Engagement The Definitive Aspect Ratio Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audio-recording-mastery-in-windows-10-part-2/"><u>[Updated] Audio Recording Mastery in Windows 10, Part 2</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capture-dialogue-and-appraise/"><u>In 2024, Capture Dialogue & Appraise</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C55</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamline-workflow-learn-io-screen-recording/"><u>[Updated] In 2024, Streamline Workflow  Learn IO Screen Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-m6-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-x6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco X6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-real-time-broadcasting-step-by-step-guide-for-2024/"><u>Mastering Real-Time Broadcasting  Step by Step Guide for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>In 2024, S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-m6-pro-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-6-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 6 in the Best Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-60x-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo 60x 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c51-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C51</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-z50-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Z50 Ultra</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c67-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C67 4G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-12plus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 12+ 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-n53-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo N53 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-v30-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme V30 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-100-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 100</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT 5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-11x-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 11X 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-f5-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco F5 5G</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-cloud-stop-motion-creation-software-techniques-and-alternative-solutions/"><u>Updated In 2024, Cloud Stop Motion Creation Software, Techniques, and Alternative Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-neo-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT Neo 5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-f5-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c65-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C65</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-12-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-precision-audio-cleanup-advanced-methods-to-eradicate-echo-and-hum-for-2024/"><u>New Precision Audio Cleanup Advanced Methods to Eradicate Echo and Hum for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-3d-creation-software-for-video-startups/"><u>2024 Approved  Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-m6-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco M6 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>[Updated] Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/warriors-echoes-celebrating-ghost-of-tsushima-analogues-for-2024/"><u>Warrior's Echoes  Celebrating Ghost of Tsushima Analogues for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-5-240w-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT 5 (240W) FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 6</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beginners-guide-decoding-av1-technology-for-2024/"><u>[Updated] Beginner's Guide  Decoding AV1 Technology for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-vs-vimeo-exploring-user-experience-variance/"><u>YouTube vs Vimeo  Exploring User Experience Variance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50-gt-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50 GT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c33-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C33 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-instagram-visuals-mac-techniques-for-video-scaling/"><u>[New] Craft Instagram Visuals  Mac Techniques for Video Scaling</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-60-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo 60 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-note-50-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Note 50 FRP Bypass Instantly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/transitioning-to-the-world-of-tiktok-smoothly-mac-and-windows-style-for-2024/"><u>Transitioning to the World of TikTok Smoothly, Mac & Windows-Style for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-60-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo 60 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-3-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT 3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[New] Preserve Your Memories  Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-5-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT 5 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ultimate-strategies-for-instagram-stories-mastery/"><u>Ultimate Strategies for Instagram Stories Mastery</u></a></li>
+</ul></div>

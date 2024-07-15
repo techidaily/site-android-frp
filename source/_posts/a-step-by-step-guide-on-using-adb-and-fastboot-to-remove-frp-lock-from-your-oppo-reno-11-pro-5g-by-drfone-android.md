@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G
-date: 2024-04-09T12:41:47.536Z
-updated: 2024-04-10T12:41:47.536Z
+date: 2024-07-14T17:26:39.223Z
+updated: 2024-07-15T17:26:39.223Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G
 keywords: Oppo Reno 11 Pro 5G gsm flasher tool,Oppo Reno 11 Pro 5G addrom bypass,Oppo Reno 11 Pro 5G frp bypass,Oppo Reno 11 Pro 5G about frp bypass,Oppo Reno 11 Pro 5G remove frp via adb fastboot,android frp bypass,Oppo Reno 11 Pro 5G adb format tool,Oppo Reno 11 Pro 5G how to bypass frp tool,Oppo Reno 11 Pro 5G frp bypass android,remove frp via adb fastboot,Oppo Reno 11 Pro 5G how to bypass frp without computer
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 11 Pro 5G
@@ -46,12 +46,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -232,10 +235,13 @@ Another standard method of bypassing the factory reset program on the mobile is 
 
 - **Step 1:** Click on the emergency dialer option from your home screen to show that the number pad comes into view. Once you have access to the numbers, dial \* or any other numeral multiple times.
 
-![ emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
+![emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
 
 - **Step 2:** Repeat the process multiple times till you fail to watch the series anymore on the emergency dialer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![repeat the process](https://images.wondershare.com/drfone/article/2022/09/repeat-the-process.jpg)
 
 - **Step 3:** Return to your mobile lock screen and click on the camera icon. As soon as the camera opens, pull down the notification tab from above and click on the gear symbol. This will give you access to the Oppo Reno 11 Pro 5G device settings.
@@ -289,6 +295,9 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 - **Step 8:** Once you restart the Oppo Reno 11 Pro 5G device and the Google account is added, the FRP lock will automatically get bypassed.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart the Oppo Reno 11 Pro 5G device](https://images.wondershare.com/drfone/article/2022/09/restart-the-device.jpg)
 
 #### Pros
@@ -338,7 +347,7 @@ It is a bit difficult, and you won't be able to access it in any recent Android 
 
 ## 2.2. How to Bypass Google Account on Oppo with PC ？
 
-### 1. [Oppo FRP Tool](https://pcsuite.net/huawei-frp-bypass-tool/)
+### 1. Oppo FRP Tool
 
 One of the best tools that you can use to bypass the Factory Reset Protection lock is the Oppo FRP Tool. It is easy to use and doesn't involve too many complicated steps. Plus, it is compatible with most Oppo models, giving you the leverage to access your device without removing or deleting any further data.
 
@@ -347,6 +356,9 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 - **Step 1:**The first step is to put your device in fast boot mode. To do so, face down the volume down button for a couple of seconds, automatically initiating the fast boot mode.
 - **Step 2:**Now, you have to extract the zip file of the Oppo FRP Tool and then open the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![extract the zip file](https://images.wondershare.com/drfone/article/2022/09/extract-the-zip-file.jpg)
 
 - **Step 3:** It needs to display a comment-like device connected. If you see the comment, click on it as FRP, and the block will get disabled in the fast boot mode.
@@ -365,7 +377,7 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 
 You cannot use this tool until you put the Oppo Reno 11 Pro 5G device on the fast boot mode.
 
-### 2\. [Oppo FRP Eraser](https://www.imei.info/huawei_frp_remove/)
+### 2\. Oppo FRP Eraser
 
 This is probably the most accessible tool to remove the FRP lock from your Oppo smartphone.
 
@@ -392,7 +404,7 @@ This is probably the most accessible tool to remove the FRP lock from your Oppo 
 
 You need to get the key after purchasing it.
 
-### 3\. [Oppo FRP & ID Bypass Tool](https://gsmfixes.com/huawei-frp-id-bypass-tool-latest/)
+### 3\. Oppo FRP & ID Bypass Tool
 
 This is a free application from Oppo. You can easily bypass the FRP lock and access your device. However, you will require your PC to download the lock tool, especially the latest version.
 
@@ -442,13 +454,13 @@ The above-listed methods in part 2 as well as part 3 are not only lengthy but al
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 So, for the users who are having issues with Android screen lock, but looking for a simpler yet functional tool, we recommend Dr. Fone-Screen Unlock as the best option. This Windows and Mac-based software is trusted by people across the globe as it helps remove all types of screen locks PIN, password, pattern, as well as a fingerprint in a hassle-free quick manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo Phones within Minutes
 
@@ -492,6 +504,9 @@ Meanwhile, you must be asking if it's possible to bypass FRP on Oppo Reno 11 Pro
 
 Below are the quick steps for Galaxy S8 or S8 Plus:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Dial an emergency number and save it
 
 - 1\. Fire up your locked phone and connect it to a Wi-Fi network.
@@ -533,7 +548,7 @@ This method will teach us how to bypass FRP on Oppo Reno 11 Pro 5G devices like 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Bypass FRP on Oppo Reno 11 Pro 5G and Solve Your Screen Locks!
 
@@ -600,3 +615,48 @@ See, you can quickly bypass FRP on Oppo Reno 11 Pro 5G with these methods. But r
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment/"><u>[New] Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oneplus-ace-2-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Ace 2 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-free-software-showdown-the-leading-10-audio-capture-utilities/"><u>[New] Free Software Showdown  The Leading 10 Audio Capture Utilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-jolly-juvenile-auto-antics/"><u>[Updated] 2024 Approved  Jolly Juvenile Auto Antics</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-ultimate-collection-expertly-chosen-tiktok-downloader-apps/"><u>[New] 2024 Approved  Ultimate Collection  Expertly Chosen TikTok Downloader Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-windows-video-editing-made-easy-a-step-by-step-guide/"><u>Updated 2024 Approved Windows Video Editing Made Easy A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-slow-and-steady-wins-the-race-vlc-slow-motion-guide-for-desktop-and-mobile-for-2024/"><u>New Slow and Steady Wins the Race VLC Slow Motion Guide for Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Bypass FRP on OnePlus Ace 2 Pro?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-ace-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Ace 2 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-ace-2-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Ace 2 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-ace-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Ace 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-extended-appraisal-hero4-black-performance/"><u>[New] 2024 Approved  Extended Appraisal  Hero4 Black Performance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/fuel-growth-pioneering-biography-techniques-for-filmora-tiktok-enthusiasts-for-2024/"><u>Fuel Growth  Pioneering Biography Techniques for Filmora TikTok Enthusiasts for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/culinary-craze-best-tiktok-eats/"><u>Culinary Craze  Best TikTok Eats</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-ace-2-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus Ace 2 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-ace-2-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-ace-2-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Ace 2 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-content-creation-on-facebook-aspect-ratio-choice/"><u>[Updated] Content Creation on Facebook  Aspect Ratio Choice</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>How Can We Bypass OnePlus Ace 2 Pro FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-ace-2-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Ace 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement/"><u>[Updated] 2024 Approved  The Art of Captioning on TikTok  5 Essential Insights for Enhanced Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-decoding-digital-dollars-an-effective-triple-step-process-to-determine-your-subscriber-profits/"><u>[New] 2024 Approved  Decoding Digital Dollars  An Effective Triple Step Process to Determine Your Subscriber Profits</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-6-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 6 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oneplus-ace-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus Ace 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-flawless-ppt-transitions-adding-voice-over-effectively-for-2024/"><u>[New] Flawless PPT Transitions  Adding Voice Over Effectively for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-ace-2-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus Ace 2 Pro FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-best-5-chrome-extensions-to-download-facebook-videos/"><u>[New] Best 5 Chrome Extensions to Download Facebook Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-does-a-vtubing-career-start-and-prospective-path/"><u>2024 Approved  How Does a Vtubing Career Start & Prospective Path?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chart-a-course-to-higher-views-with-top-optimization-tactics/"><u>[Updated] In 2024, Chart a Course to Higher Views with Top Optimization Tactics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-efficient-strategies-to-record-ppt-sessions/"><u>[New] In 2024, Efficient Strategies to Record PPT Sessions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-ace-2-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Ace 2 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Ace 2 Pro Devices</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C02
-date: 2024-05-19T04:10:27.992Z
-updated: 2024-05-20T04:10:27.992Z
+date: 2024-07-14T16:20:57.403Z
+updated: 2024-07-15T16:20:57.403Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C02
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C02
 keywords: pangu frp bypass review,Nokia C02 pangu frp bypass review,Nokia C02 easy guide how to bypass frp android,Nokia C02 about frp bypass,frp tools,Nokia C02 frp bypass android,Nokia C02 best frp bypass,guide to frp bypass,how to bypass frp,android device frp bypass,Nokia C02 gsm flasher tool,Nokia C02 bypass android frp,easy guide how to bypass frp android,guid for frp bypass,adb format tool,Nokia C02 addrom bypass,frp bypass guide,Nokia C02 frp bypass easy
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C02
@@ -37,6 +37,18 @@ Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can
 
 ADB comes included in the Android SDK Platform-Tools package, and this can be downloaded using the SDK manager.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What Are the Android Versions that ADB and Fastboot Command Support?
 
 The Android versions on which ADB and Fastboot commands can be used are as follows:
@@ -46,7 +58,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +90,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +134,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -143,6 +155,14 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 2.** Select the model brans from the options shown on the interface, and then connect your phone to your PC using a USB cable. The connected device details will appear on the interface.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android6/9/10 phone information confirmation](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 - **Step 3.** Follow the next steps as they appear. Once the FRP lock is successfully removed, the prompt window will show its completion. Click Done if you have successfully executed the process.
@@ -258,9 +278,12 @@ The Nokia ADB Format Tool is a utility primarily used for formatting Nokia devic
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) stands out as an excellent alternative to the Nokia ADB Format Tool. Developed by Wondershare, a trusted name in the software industry, this tool offers a user-friendly interface and a higher success rate in bypassing Nokia FRP locks and removing patterns. Dr.Fone provides a simple and intuitive interface that even beginners can navigate effortlessly. The step-by-step process ensures that you can bypass FRP locks and remove patterns with ease. Here are some key reasons why Dr.Fone is the best choice:
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best ADB Alternative Nokia Pattern Unlock Tool
 
@@ -277,7 +300,7 @@ Here is a step-by-step guide on how to use Dr.Fone - Screen Unlock (Android) to 
 
 - **Step 1.** Begin by downloading and installing Dr.Fone - Screen Unlock (Android) on your computer. Launch the program and select "Screen Unlock" from the main menu.
 
-![ run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2.** Using a USB cable, connect your phone to your PC and Choose either "Remove Screen Lock" or "Remove Google Lock (FRP)" based on your specific situation.
 
@@ -318,7 +341,7 @@ No need to fret – the tool supports almost all Android models. Specifically, i
 
 ### 3\. Can I run the Nokia ADB format tool on mac?
 
-While the Nokia ADB Format Tool is designed for Windows, if you're a Mac user looking for a reliable screen unlocking solution, consider[Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a versatile tool compatible with both Windows and Mac operating systems, ensuring a seamless experience for users on either platform. This recommendation aligns with your need for a Mac-compatible screen unlock tool.
+While the Nokia ADB Format Tool is designed for Windows, if you're a Mac user looking for a reliable screen unlocking solution, consider [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a versatile tool compatible with both Windows and Mac operating systems, ensuring a seamless experience for users on either platform. This recommendation aligns with your need for a Mac-compatible screen unlock tool.
 
 ## Conclusion
 
@@ -363,7 +386,7 @@ Facing the FRP (Factory Reset Protection) lock on your Nokia phone can be a road
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best FRP Lock Removal Tool for Nokia 
 
@@ -389,6 +412,9 @@ Follow these straightforward steps to bypass the FRP lock on your Nokia phone us
 
 - **Step 4.** Once you have selected the Nokia C02 device brand, Dr.Fone will initiate the downloading process of FRP.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download the relevant driver](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-2.png)
 
 - **Step 5.** When it finished downloading, please turn off your device and connect it to the computer. Press the **Volume Up** and **Down** buttons for about 3 seconds during the connecting process.
@@ -401,12 +427,15 @@ Follow these straightforward steps to bypass the FRP lock on your Nokia phone us
 
 Wondershare Dr.Fone is a reliable software to bypass Nokia FRP with a high success rate. Its easy-to-use feature makes it popular among users. We recommend it as your first choice.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2: Use Nokia Emergency FRP Code
 
 The Nokia Emergency FRP Code is an alternative method to bypass FRP, relying on a unique code provided by the Nokia C02 device manufacturer. After you do a factory reset on your Nokia smartphone, don't rush to set it up. If you set up your device, the FRP lock will appear on the screen. When you go to the language selection screen, tap on the emergency call option to open the dialer. That's where you will be entering the **Nokia FRP bypass code**. Follow these steps to remove the FRP lock from your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass code](https://images.wondershare.com/drfone/article/2022/10/oppo-frp-bypass-01.jpg)
 
 - **Step 1.** Power on your Nokia device after the factory reset.
@@ -444,7 +473,7 @@ For those seeking a manual approach, the Talkback Method involves leveraging the
 
 Choosing the right method to bypass Nokia FRP depends on your preferences, technical proficiency, and urgency. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a swift and user-friendly solution, the Nokia Emergency FRP Code provides an official route, while the Talkback Method caters to those who prefer a manual approach. Consider the advantages and disadvantages outlined above to make an informed decision and regain access to your Nokia device efficiently.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: FAQ for Bypassing Nokia FRP (Factory Reset Protection)
 
@@ -462,7 +491,7 @@ There is no official emergency code for bypassing FRP on Nokia or other Android 
 
 Unlocking your Nokia mobile's screen with Dr.Fone - Screen Unlock (Android) is a seamless solution. Unlike hard resetting, which often leads to FRP lock issues, Dr.Fone provides a faster and safer alternative. This [Nokia Unlock Tool](https://drfone.wondershare.com/unlock/oppo-password-unlock-tool.html) swiftly bypasses the lock screen without requiring a password, ensuring a secure and efficient process.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 4\. How to remove an admin in Nokia ?
 
@@ -501,3 +530,48 @@ Let's conclude our guide on how to bypass the **Nokia FRP** lock. You can remove
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-date-insertion-into-photo-editing/"><u>[New] Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lavafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your LavaFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-reclaim-lively-sounds-in-muted-video-tweets/"><u>[New] In 2024, Reclaim Lively Sounds in Muted Video Tweets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-by-drfone-android/"><u>How to Bypass FRP from Lava?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones-for-2024/"><u>A Step-by-Step Guide to Video Editing Filters on Computers & Phones for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lavawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lavawith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-by-drfone-android/"><u>How to Bypass FRP on Lava?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-yuva-2-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Yuva 2 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lava-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lava FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-hot-40-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Hot 40 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-lava-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-drive-definitions-c-vs-d-in-os/"><u>Dissecting Drive Definitions: C: Vs D: In OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-frp-by-drfone-android/"><u>How Can We Bypass Lava FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-frp-by-drfone-android/"><u>Full Guide to Bypass Lava FRP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transforming-novices-into-reddit-masterminds-for-maximum-engagement/"><u>[New] Transforming Novices Into Reddit Masterminds for Maximum Engagement</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Phones with/without a PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-targeting-optimizing-ad-reach-on-snap/"><u>[New] The Art of Targeting  Optimizing Ad Reach on Snap</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-lava-yuva-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Yuva 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pictureforge-hub/"><u>PictureForge Hub</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Yuva 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava</u></a></li>
+</ul></div>

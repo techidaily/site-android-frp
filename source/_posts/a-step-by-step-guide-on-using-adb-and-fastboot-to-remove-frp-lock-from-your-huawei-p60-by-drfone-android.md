@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
-date: 2024-05-19T04:09:54.415Z
-updated: 2024-05-20T04:09:54.415Z
+date: 2024-07-14T15:33:27.390Z
+updated: 2024-07-15T15:33:27.390Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Huawei P60
 keywords: bypass android frp,easy guide how to bypass frp android,adb format tool,frp bypass,gsm flasher tool,Huawei P60 how to bypass frp,Huawei P60 how to bypass frp tool,frp tools,remove frp via adb fastboot,Huawei P60 how to bypass frp without computer
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Huawei P60
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -54,6 +54,9 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 ### Steps to remove FRP using ADB
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
 
 - **Step 1.** Firstly, download the ADB installed setup file and then extract the files from the toolkit on your system in a folder.
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -92,6 +95,9 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 - `_DEEP/HTC/Other Brands FRP_`
 - `_fastboot erase configfastboot reboot_`
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Limitations of Using ADB and Fastboot Command Method
 
 The ADB and Fastboots command is a workable solution for removing the FRP lock on your Android device, the drawback is that the method is quite complicated and requires thorough technical know-how of ADB and its working. There are several limitations associated with this method as enlisted below.
@@ -122,7 +128,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -147,6 +153,9 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 3.** Follow the next steps as they appear. Once the FRP lock is successfully removed, the prompt window will show its completion. Click Done if you have successfully executed the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
@@ -228,13 +237,16 @@ This process will only work if you at least remember the Gmail ID. Follow the st
 
 ![login into google account](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Method 2: Using FRP Bypass Tools
 
 One way to **Huawei Y20 FRP bypass Android 12** is to use a specialized FRP bypass tool. Among the various tools available, we highly recommend using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a reputable and reliable tool for FRP bypass on Android devices from all major brands. These include over 15 brands with 2000+ Android devices where Dr.Fone can do its magic.
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Bypass Huawei Google FRP in a Flash
 
@@ -265,7 +277,7 @@ After downloading the driver, move to your Huawei smartphone and turn it off. Co
 
 ![removing the google frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5. Method 3: Contacting Huawei Support
 
@@ -302,11 +314,11 @@ When contacting Huawei Support for FRP bypass help, follow these general steps:
 
 ### _You might also interest:_
 
-_[The Complete Guide to Unlock Mi Account Without Password](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)_
+_ [The Complete Guide to Unlock Mi Account Without Password](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html) _
 
-_[Ultimate Guide to Bypass FRP with PC](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html)_
+_ [Ultimate Guide to Bypass FRP with PC](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html) _
 
-_[Complete Method: How to bypass Xiaomi FRP](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-xiaomi-redmi-frp.html)_
+_ [Complete Method: How to bypass Xiaomi FRP](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-xiaomi-redmi-frp.html) _
 
 ## Part 6. Troubleshooting and Tips
 
@@ -398,6 +410,9 @@ Another common reason for wanting to bypass FRP is if you've purchased a second-
 
 If you've performed a factory reset on your phone to try and fix an issue or start fresh, you'll need to bypass FRP to use the Huawei P60 device again. It is because a factory reset will also remove your Google account from the phone, leaving you locked out unless you can remember the login credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Bypass Huawei P60 FRP With 3 Easy Methods
 
 Bypassing FRP can be a bit tricky, but it's possible to do it if you have the right tools and know-how. If you're looking for a quick and easy way to bypass FRP on your Huawei P60 device, below are the methods you can use to Huawei P60 Hot 10 FRP bypass.
@@ -509,3 +524,58 @@ You can bypass the Huawei P60 Hot 8 FRP by using a few practical methods listed 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>2024 Approved  Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-videos-mastering-lower-thirds-in-fcpx-for-2024/"><u>Updated Elevate Your Videos Mastering Lower Thirds in FCPX for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-goovision-9000-ultimate-os-snapshotter/"><u>[Updated] 2024 Approved  GooVision 9000  Ultimate OS Snapshotter</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-130-music-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia 130 Music?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-130-music-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia 130 Music FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-130-music-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-food-youtubers-you-should-follow/"><u>In 2024, Top Food YouTubers You Should Follow</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-evolution-of-editing-software-reviewed-magix-vpx/"><u>2024 Approved  The Evolution of Editing Software Reviewed  Magix VPX</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-130-music-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia 130 Music FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/samurais-modern-journey-10-games-similar-to-ghost-of-tsushima/"><u>Samurai's Modern Journey  10 Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-130-music-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 130 Music Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-130-music-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-130-music-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia 130 Music FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-130-music-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-130-music-by-drfone-android/"><u>How to Bypass FRP from Nokia 130 Music?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-video-editing-apps-for-chromebooks-for-2024/"><u>Discover the Best Free Video Editing Apps for Chromebooks for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-130-music-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia 130 Music Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-130-music-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia 130 Music FRP Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-zero-30-5g-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Zero 30 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-130-music-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia 130 Music ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-130-music-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia 130 Music FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-130-music-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia 130 Music FRP Locks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-stay-ahead-of-the-curve-with-the-hottest-tiktok-tags-and-trends-for-2024/"><u>[Updated] Stay Ahead of the Curve with the Hottest TikTok Tags & Trends for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-guide-to-sharing-your-favorite-gifs-on-instagram/"><u>[New] Quick Guide to Sharing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-130-music-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia 130 Music Phones with/without a PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-rotation-apps-top-10-list-for-flipping-videos/"><u>New Best Free Video Rotation Apps Top 10 List for Flipping Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-130-music-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-130-music-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia 130 Music FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-130-music-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia 130 Music Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-130-music-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia 130 Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-130-music-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia 130 Music FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-130-music-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia 130 Music Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia 130 Music FRP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rewind-movies-the-android-guide-for-2024/"><u>Rewind Movies  The Android Guide for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-130-music-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia 130 Music Phones with/without a PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-best-pc-and-online-cartoon-video-makers-easily-easy-to-use-for-2024/"><u>10 Best PC and Online Cartoon Video Makers Easily Easy to Use for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-130-music-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia 130 Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-130-music-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia 130 Music FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-130-musicfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 130 MusicFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-130-musicwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia 130 Musicwith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-130-music-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 130 Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-130-music-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia 130 Music FRP?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-control-video-tempo-with-camtasia/"><u>Updated 2024 Approved Control Video Tempo with Camtasia</u></a></li>
+</ul></div>

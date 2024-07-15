@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 1 V
-date: 2024-05-19T04:09:43.400Z
-updated: 2024-05-20T04:09:43.400Z
+date: 2024-07-14T15:17:14.476Z
+updated: 2024-07-15T15:17:14.476Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 1 V
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 1 V
 keywords: pangu frp bypass review,adb format tool,Sony Xperia 1 V android frp bypass,remove frp via adb fastboot,how to bypass frp,how to bypass frp without computer,bypass android device frp,frp bypass android device,pro frp bypass,Sony Xperia 1 V pangu frp bypass review,about frp bypass,Sony Xperia 1 V remove frp via adb fastboot,Sony Xperia 1 V gsm flasher tool,easy guide how to bypass frp android device,Sony Xperia 1 V adb format tool,best frp bypass,android frp bypass,frp bypass easy,Sony Xperia 1 V frp bypass guide,guid for frp bypass,how to bypass frp tool,bypass frp,Sony Xperia 1 V how to bypass frp tool
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 1 V
@@ -21,6 +21,9 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Quick Overview of ADB and Fastboot Commands
 
 ### 1\. What are ADB and Fastboot?
@@ -46,7 +49,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -188,7 +191,7 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Sony Xperia 1 V FRP Lock Removal Made Easy
 
@@ -246,6 +249,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Repeat the back button to go back to the App info screen. Click More, then select Show System.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![show system](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-6.jpg)
 
 - Tap Disable and Disable app after choosing Android setup, then tap Force stop and OK.
@@ -254,6 +260,9 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Return to the App info screen and select Carrier Services. Then, select Disable and Disable app. Finally, select Force to stop and OK.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![carrier services](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-8.jpg)
 
 - Go back to the App info screen, choose Google Play Services, and then touch Disable to remove the app. Click OK after tapping Force Stop.
@@ -344,6 +353,9 @@ Once you have downloaded and installed the **AddROM APK** file, you can follow t
 
 **Step 3:** After the app is installed, open it and click "**WAP PUSH SL.**" Then enter the phone number of the locked device. Now, In the Message box, type "www.youtube.com/@addROMcom" and click the "**SEND WAP PUSH SL** " button.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enter the phone number and YouTube Image name.](https://images.wondershare.com/drfone/article/2024/03/addrom-bypass-tool-to-unlock-frp-lock-screen-03.png)
 
 **Step 4:** Wait for a while until the AddROM YouTube channel will automatically open on your locked phone. Click the "**Menu**" icon at the top right corner and select "Terms & Privacy Policies."
@@ -398,7 +410,7 @@ The best thing is that you need to be a tech expert to use this tool. Its user-f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best AddROM Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -421,6 +433,18 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 
 **Step 3:** Now you will see options for multiple Android phone brands. We are removing the FRP lock of the Samsung phone. So, we will select Samsung and click the "**Start**" button.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Choose the phone brand you are using.](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 **Step 4:** Now, select the Android OS version of your phone and click the "**Start** " button. However, if you are not sure about the Android version, you can select the "**All Android Version (One-Click Removal)** " option.
@@ -467,3 +491,57 @@ The best thing about this tool is it is not just limited to FRP bypass. There ar
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/improving-accessibility-with-on-screen-text-elements-on-youtube-videos-for-2024/"><u>Improving Accessibility with On-Screen Text Elements on YouTube Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlimited-fake-faces-at-your-fingertips-free-online-generators-for-2024/"><u>New Unlimited Fake Faces at Your Fingertips Free Online Generators for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-crafting-compelling-stories-for-online-video-platforms/"><u>In 2024, Crafting Compelling Stories for Online Video Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-13-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi 13 Ultra ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-htc-u23-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass HTC U23 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-htc-u23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your HTC U23</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-htc-u23-frp-bypass-by-drfone-android/"><u>Ultimate Guide from HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-htc-u23-frp-by-drfone-android/"><u>Full Guide to Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-htc-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your HTC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-htc-u23-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass HTC U23 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ting-your-channels-profits-with-impactful-and-effective-trailers/"><u>Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your HTC U23 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-htc-u23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on HTC U23 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-htc-u23-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on HTC U23 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-htc-u23-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from HTC U23 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/htc-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>HTC ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-high-definition-capturing-for-switch-gamers-for-2024/"><u>[Updated] High Definition Capturing for Switch Gamers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-ultimate-top-10-premium-tiktok-downloader-without-watermarks/"><u>In 2024, Ultimate Top 10  Premium TikTok Downloader Without Watermarks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>In 2024, Ad Profits Unveiled  How Much Do Creators Make on Youtube?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-is-it-lawful-to-screen-capture-youtube-content/"><u>2024 Approved  Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artisans-path-to-perfecting-video-chroma-balance-11-lessons/"><u>In 2024, The Artisan's Path to Perfecting Video Chroma Balance (11 Lessons)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-htc-u23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your HTC U23</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-htc-u23-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-htc-frp-bypass-by-drfone-android/"><u>About HTC FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-htc-u23-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to HTC U23 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-switch-up-digital-ordering-with-android-methods/"><u>2024 Approved  Switch Up Digital Ordering with Android Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-8-plus-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 8 Plus and Android Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effective-ways-how-to-block-facebook-video-ads/"><u>[New] In 2024, Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-htc-u23-by-drfone-android/"><u>How to Bypass FRP on HTC U23?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-speed-kings-guide-to-fast-frame-gathering/"><u>[New] 2024 Approved  Speed King's Guide to Fast Frame Gathering</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-htc-u23-by-drfone-android/"><u>How to Bypass FRP from HTC U23?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-gamers-gauntlet-bizarre-tiktok-games-you-must-try/"><u>[Updated] 2024 Approved  Gamer's Gauntlet  Bizarre TikTok Games You Must Try</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-recommendations-hd-video-recording-software/"><u>2024 Approved  Expert Recommendations  HD Video Recording Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-htc-u23-frp-bypass-by-drfone-android/"><u>Ultimate Guide on HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-u23-frp-by-drfone-android/"><u>How Can We Bypass HTC U23 FRP?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-slideshow-with-icecream-slideshow-maker-for-2024/"><u>New How to Create a Slideshow with Icecream Slideshow Maker for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-htc-u23-frp-by-drfone-android/"><u>The Updated Method to Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-htc-u23withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on HTC U23with/without a PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-adv-screen-recorder-full-review/"><u>2024 Approved  ADV Screen Recorder Full Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-htc-u23-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 HTC U23 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rapid-adjustment-of-youtube-vids-for-mac-screen/"><u>In 2024, Rapid Adjustment of YouTube Vids for Mac Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-htc-u23-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass HTC U23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-htc-u23-frp-by-drfone-android/"><u>5 Quick Methods to Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discreetly-watch-instas-hidden-gems-here/"><u>[Updated] 2024 Approved  Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-htc-u23-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from HTC U23 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-inner-spaces-with-sunshine/"><u>[New] Optimizing Inner Spaces with Sunshine</u></a></li>
+</ul></div>

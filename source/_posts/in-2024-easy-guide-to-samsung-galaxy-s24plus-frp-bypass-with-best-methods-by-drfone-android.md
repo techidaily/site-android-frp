@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Guide to Samsung Galaxy S24+ FRP Bypass With Best Methods
-date: 2024-04-09T12:45:44.788Z
-updated: 2024-04-10T12:45:44.788Z
+date: 2024-07-14T18:02:42.689Z
+updated: 2024-07-15T18:02:42.689Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Easy Guide to Samsung Galaxy S24+ FRP Bypass With Best Methods
 excerpt: This article describes Easy Guide to Samsung Galaxy S24+ FRP Bypass With Best Methods
 keywords: guide to frp bypass,easy guide how to bypass frp android,Samsung Galaxy S24+ bypass frp,Samsung Galaxy S24+ frp tools,Samsung Galaxy S24+ pro frp bypass,how to bypass frp,frp bypass,Samsung Galaxy S24+ bypass android frp,how to bypass frp tool,android frp bypass
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Easy Guide to Samsung Galaxy S24+ FRP Bypass With Best Methods
@@ -21,6 +21,9 @@ The first one is forgetting your Google ID details. The other situation is buyin
 
 ![performing tecno pop 5 frp bypass procedure](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: \[Direct Solution\] Samsung Galaxy S24+ FRP Bypass Android 11 With Wondershare Dr.Fone
 
 For the first and foremost remedy of **Samsung Galaxy S24+ LTE FRP bypass**, you can use effective software. While other methods are not as versatile and simple, you can take a few steps to unlock your device. The best software solution to bypass FRP on Samsung devices currently available is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a comprehensive solution that offers functions ranging from bypassing screen locks to FRP locks.
@@ -78,6 +81,9 @@ The SIM card method is a favored FRP lock bypass approach among Samsung Galaxy S
 
 - **Step 6.** On the other device you’re using, download the two apps from the Google Play Store: “Activity Launcher” and “XShare.” Now open the XShare app and grant all the required permissions. Tap "Receive" and scan the QR code from the Samsung device to complete the contact transfer process.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contact to second device](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-9.jpg)
 
 - **Step 7.** Now, select three apps: “Google Account Manager,” “Account Login/ FRP Bypass,” and “Activity Launcher” within XShare on the second device. On the Samsung device, tap "Receive" and scan the QR code to complete the process.
@@ -110,6 +116,9 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 3.** Choose “Permissions” and tap the “Search” icon at the top-right corner of the follow-up screen. Search for “Settings” and pick the respective app from the results list. Tap "Open" to access the Settings application. This action will direct you to the “Settings” interface.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open gboard permissions for settings](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-15.jpg)
 
 - **Step 4.** Navigate to "App management" and select "App settings." Access the XShare APK, launch it, and ensure you have a secondary Android device available. Open the Play Store on the second device, and download and install the XShare App for further processing.
@@ -164,6 +173,9 @@ FRP, or Factory Reset Protection, is a security feature integrated into Android 
 
 That makes it mandatory to verify the account credentials after performing a hard reset. In other words, FRP acts as a protective barrier. It ensures only the rightful owner can access the Samsung Galaxy S24+ device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Purpose of Samsung Galaxy S24+ FRP
 
 The primary purpose of Samsung Galaxy S24+ FRP is to safeguard personal data and sensitive information stored on the Samsung Galaxy S24+ device. It works as an important security measure in the unfortunate event of the Samsung Galaxy S24+ device being lost or stolen. FRP ensures that no unauthorized individual can gain access to the Samsung Galaxy S24+ device's contents. It does that by requiring the original owner's Google account login details.
@@ -230,9 +242,12 @@ To bypass the FRP on Samsung Galaxy S24+, you can utilize a specialized tool des
 
 Apart from bypassing the FRP lock, this tool is also an expert in unlocking other device locks. These include PIN, pattern, password, fingerprint, and face locks. With the help of this tool, you can [unlock Samsung](https://drfone.wondershare.com/google-frp-unlock/samsung-a10-frp-bypass.html) and LG devices without data loss. Here are the step-by-step instructions to perform the **Samsung Galaxy S24+ FRP bypass**:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -332,7 +347,7 @@ The **GSM Flasher ADB Bypasser FRP tool** is a reliable solution designed for us
 
 To help you make an informed decision about using this tool, let's explore its key features:
 
-- Helps you to unlock various screen locks on Android, including [<u>patterns</u>](https://drfone.wondershare.com/unlock/pattern-lock.html)and PIN locks
+- Helps you to unlock various screen locks on Android, including [<u>patterns</u>](https://drfone.wondershare.com/unlock/pattern-lock.html) and PIN locks
 - Exhibits broad compatibility, extending its support to a majority of Android devices
 - Free of charge
 
@@ -466,3 +481,66 @@ As an alternative, tools like Dr.Fone can be explored for additional compatibili
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-f25-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo F25 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a23-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A23 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo F25 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-f25-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo F25 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A23 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-f25-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo F25 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-a23-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A23 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-f25-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo F25 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-x5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco X5 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-deep-dive-android-edition-of-adobe-lightroom-review/"><u>2024 Approved  Deep Dive  Android Edition of Adobe Lightroom Review</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-expert-strategies-for-oscillating-between-silence-and-sounds-in-obs-broadcasting/"><u>Updated In 2024, Expert Strategies for Oscillating Between Silence and Sounds in OBS Broadcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-directly-stream-google-meet-youtube-edition-steps-for-2024/"><u>[Updated] Directly Stream Google Meet - YouTube Edition Steps for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-f25-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo F25 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo F25 Pro 5G?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-online-screenshots-and-screen-recorders-guide/"><u>[New] 2024 Approved  Online Screenshots & Screen Recorders Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a23-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A23 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-syma-x8c-evaluation/"><u>[Updated] In-Depth Syma X8C Evaluation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-decoding-the-most-current-tiktok-movements/"><u>[Updated] 2024 Approved  Decoding the Most Current TikTok Movements</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-f25-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-f25-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo F25 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-through-premium-hdr-camera-options/"><u>Navigating Through Premium HDR Camera Options</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-f25-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo F25 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-preferred-mac-snipping-apps-for-2024/"><u>The Ultimate List of Preferred Mac Snipping Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-propel-your-social-impact-with-strategic-facebook-video-ads/"><u>2024 Approved  Propel Your Social Impact with Strategic Facebook Video Ads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/best-samsung-frp-bypass-guide-by-drfone-android/"><u>Best Samsung FRP Bypass Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-f25-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-8-top-picks-for-low-cost-hardware-for-2024/"><u>Updated Effortless Video Editing 8 Top Picks for Low-Cost Hardware for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-navigating-spatial-audio-management-a-guide-to-efficient-ducking-in-video-production/"><u>2024 Approved Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a23-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A23 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-a23-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A23 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a23-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A23 5G FRP Locks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a38-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A38 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-s18-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo S18 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo F25 Pro 5G FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-15-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 15 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo F25 Pro 5G FRP</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-a23-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A23 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-f25-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo F25 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A23 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A23 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a23-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A23 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-pro-tiktok-editing-techniques/"><u>2024 Approved  Ultimate Guide  Pro TikTok Editing Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-f25-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo F25 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-f25-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo F25 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/religious-ringtones-for-daily-devotion-and-driving/"><u>Religious Ringtones for Daily Devotion and Driving</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo F25 Pro 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-visual-content-applying-texts-to-photos-in-windows-10/"><u>In 2024, Streamlining Visual Content  Applying Texts to Photos in Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f25-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F25 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-a23-5g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy A23 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f25-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F25 Pro 5GFRP Lock</u></a></li>
+</ul></div>

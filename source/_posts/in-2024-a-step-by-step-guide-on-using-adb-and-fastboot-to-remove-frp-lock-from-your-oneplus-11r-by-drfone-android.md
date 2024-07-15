@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11R
-date: 2024-05-19T04:10:43.758Z
-updated: 2024-05-20T04:10:43.758Z
+date: 2024-07-14T16:44:57.129Z
+updated: 2024-07-15T16:44:57.129Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11R
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11R
 keywords: frp bypass android,OnePlus 11R addrom bypass,OnePlus 11R frp bypass easy,easy guide how to bypass frp android,how to bypass frp,OnePlus 11R frp bypass quickly,OnePlus 11R remove frp via adb fastboot,OnePlus 11R gsm flasher tool,OnePlus 11R frp bypass,OnePlus 11R pro frp bypass,how to bypass frp without computer,pro frp bypass
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -72,13 +72,16 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 - `_Adb shell content insert –uri content://settings/secure –bind_`
 - `_name:s:user_setup_complete –bind value:s:1_`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adb frp command](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -139,6 +142,9 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 1.** Launch the installed software and choose the **Screen Unlock** option from the main interface. Choose **Android** and then select the **Remove Google FRP Lock** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 2.** Select the model brans from the options shown on the interface, and then connect your phone to your PC using a USB cable. The connected device details will appear on the interface.
@@ -147,6 +153,9 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 3.** Follow the next steps as they appear. Once the FRP lock is successfully removed, the prompt window will show its completion. Click Done if you have successfully executed the process.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
@@ -191,13 +200,16 @@ In this part, we will explore three efficient methods to bypass OnePlus FRP and 
 | [Talkback Method to Bypass](https://drfone.wondershare.com/google-frp-unlock/bypass-oppo-frp.html#Part1-3) | **No External Softw**are: This method doesn't require additional software installations, making it a straightforward option. | 1\. **Technical Skill Required**: The Talkback Method involves navigating through device settings, which might be challenging for users without technical expertise.  
 2\. **Time-Consuming**: Compared to software solutions, this method may take longer to complete. |
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1: Recommended: Use a powerful software-Wondershare Dr.Fone \[Fast & Easy\]
 
 Facing the FRP (Factory Reset Protection) lock on your OnePlus phone can be a roadblock, but with the right tools, the process becomes seamless. In this step-by-step guide, we'll walk you through the easy and effective steps to bypass the FRP lock on your OnePlus phone using the reliable [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/).
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best FRP Lock Removal Tool for OnePlus 
 
@@ -235,7 +247,7 @@ Follow these straightforward steps to bypass the FRP lock on your OnePlus phone 
 
 Wondershare Dr.Fone is a reliable software to bypass OnePlus FRP with a high success rate. Its easy-to-use feature makes it popular among users. We recommend it as your first choice.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2: Use OnePlus Emergency FRP Code
 
@@ -278,7 +290,7 @@ For those seeking a manual approach, the Talkback Method involves leveraging the
 
 Choosing the right method to bypass OnePlus FRP depends on your preferences, technical proficiency, and urgency. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a swift and user-friendly solution, the OnePlus Emergency FRP Code provides an official route, while the Talkback Method caters to those who prefer a manual approach. Consider the advantages and disadvantages outlined above to make an informed decision and regain access to your OnePlus device efficiently.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: FAQ for Bypassing OnePlus FRP (Factory Reset Protection)
 
@@ -296,7 +308,7 @@ There is no official emergency code for bypassing FRP on OnePlus or other Androi
 
 Unlocking your OnePlus mobile's screen with Dr.Fone - Screen Unlock (Android) is a seamless solution. Unlike hard resetting, which often leads to FRP lock issues, Dr.Fone provides a faster and safer alternative. This [OnePlus Unlock Tool](https://drfone.wondershare.com/unlock/oppo-password-unlock-tool.html) swiftly bypasses the lock screen without requiring a password, ensuring a secure and efficient process.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 4\. How to remove an admin in OnePlus ?
 
@@ -399,6 +411,9 @@ You can obtain the OnePlus ADB Format Tool by clicking on the following download
 
 The steps for the working of the tool are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OnePlus adb format tool](https://images.wondershare.com/drfone/article/2023/09/vivo-adb-format-tool-2.jpg)
 
 - **Step 1.** Switch off your OnePlus phone and ensure that VCOM and MTK drivers are present to enable the connection of the phone with the PC.
@@ -422,7 +437,7 @@ The OnePlus ADB Format Tool is a utility primarily used for formatting OnePlus d
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best ADB Alternative OnePlus Pattern Unlock Tool
 
@@ -439,7 +454,7 @@ Here is a step-by-step guide on how to use Dr.Fone - Screen Unlock (Android) to 
 
 - **Step 1.** Begin by downloading and installing Dr.Fone - Screen Unlock (Android) on your computer. Launch the program and select "Screen Unlock" from the main menu.
 
-![ run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 2.** Using a USB cable, connect your phone to your PC and Choose either "Remove Screen Lock" or "Remove Google Lock (FRP)" based on your specific situation.
 
@@ -480,7 +495,7 @@ No need to fret – the tool supports almost all Android models. Specifically, i
 
 ### 3\. Can I run the OnePlus ADB format tool on mac?
 
-While the OnePlus ADB Format Tool is designed for Windows, if you're a Mac user looking for a reliable screen unlocking solution, consider[Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a versatile tool compatible with both Windows and Mac operating systems, ensuring a seamless experience for users on either platform. This recommendation aligns with your need for a Mac-compatible screen unlock tool.
+While the OnePlus ADB Format Tool is designed for Windows, if you're a Mac user looking for a reliable screen unlocking solution, consider [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a versatile tool compatible with both Windows and Mac operating systems, ensuring a seamless experience for users on either platform. This recommendation aligns with your need for a Mac-compatible screen unlock tool.
 
 ## Conclusion
 
@@ -501,3 +516,41 @@ _In such conditions, you would need a reliable tool that can help you bypass the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-the-art-of-curating-music-on-youtube-with-our-steps/"><u>2024 Approved  Discover the Art of Curating Music on YouTube with Our Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>Gaming on the Green  Comprehenive Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-12-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus 12 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-12-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus 12 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-12-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus 12 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-12-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus 12 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-12-by-drfone-android/"><u>How to Bypass FRP on OnePlus 12?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[New] 2024 Approved  Enhance Viewer Engagement  The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-12-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus 12 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12 Phone FRP Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-6s-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 6s Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-print-problem-decoded-error-x97/"><u>Epson's Print Problem Decoded: Error X97</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-12-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus 12 FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-12-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus 12 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-12-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus 12 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-12-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus 12 FRP Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>2024 Approved  From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>2024 Approved  One Step at a Time  How to Create a Skype Group on Both Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-multimedia-strategies-for-gamers-on-youtube/"><u>Mastering Multimedia Strategies for Gamers on Youtube</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-12-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus 12 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-12-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus 12 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-advanced-video-editing-capabilities-on-windows-8-and-later-for-2024/"><u>New Unlock Advanced Video Editing Capabilities on Windows 8 and Later for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-enhancement-for-hd-4800-graphics-cards/"><u>Rapid Enhancement for HD 4800 Graphics Cards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-configuring-windows-11-for-automatic-hdr-mode/"><u>In 2024, Configuring Windows 11 for Automatic HDR Mode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 12</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-instagrams-posting-video-count/"><u>[Updated] 2024 Approved  Navigating Instagram's Posting Video Count</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-12-by-drfone-android/"><u>How to Bypass FRP from OnePlus 12?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-12-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus 12 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oneplus-12-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus 12 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-12-frp-by-drfone-android/"><u>How Can We Bypass OnePlus 12 FRP?</u></a></li>
+</ul></div>

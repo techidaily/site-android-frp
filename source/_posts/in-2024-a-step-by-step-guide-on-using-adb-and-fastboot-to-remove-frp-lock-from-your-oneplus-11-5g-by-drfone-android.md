@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11 5G
-date: 2024-05-19T04:10:43.016Z
-updated: 2024-05-20T04:10:43.016Z
+date: 2024-07-14T16:43:48.042Z
+updated: 2024-07-15T16:43:48.042Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11 5G
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 11 5G
 keywords: OnePlus 11 5G gsm flasher tool,how to bypass frp without computer,OnePlus 11 5G frp tools,about frp bypass,best frp bypass,OnePlus 11 5G guid for frp bypass,frp hijacker download,OnePlus 11 5G guide to frp bypass,bypass android device frp,OnePlus 11 5G about frp bypass,OnePlus 11 5G adb format tool,OnePlus 11 5G easy guide how to bypass frp android,frp bypass quickly,OnePlus 11 5G frp bypass guide,OnePlus 11 5G frp bypass quickly,android device frp bypass,frp bypass,addrom bypass,OnePlus 11 5G how to bypass frp without computer,how to bypass frp tool,frp bypass guide,frp tools,OnePlus 11 5G bypass frp
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11 5G
@@ -46,12 +46,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -147,6 +150,9 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 3.** Follow the next steps as they appear. Once the FRP lock is successfully removed, the prompt window will show its completion. Click Done if you have successfully executed the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
@@ -187,6 +193,9 @@ Steps for **OnePlus  FRP bypass without computer**
 - **Step 1.** Connect your OnePlus  phone to a Wi-Fi and then switch it on for the HELLO screen to appear. Next, select the Emergency Call option and then click on Emergency Information two times.
 - **Step 2.** On the Emergency Information page, tap on the Pencil icon and Name. Next, click o the profile icon and select the option of changing an image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OnePlus frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-emergency-call-2.jpg)
 
 - **Step 3.** Next click on **Menu > Photos > Permissions**. Click on the Contacts options and select See All apps with this permission.
@@ -233,7 +242,7 @@ Besides FRP lock, the screen lock of your Android phones including OnePlus  is o
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked OnePlus  within Minutes
 
@@ -248,6 +257,9 @@ Get into Locked OnePlus  within Minutes
 
 - **Step 2.** Using a USB cable, connect your phone to your system and then select Unlock Android Screen option on the software interface.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** From the supported list on the software interface, select OnePlus .
@@ -262,7 +274,7 @@ Get into Locked OnePlus  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -354,7 +366,10 @@ Apart from bypassing the FRP lock, this tool is also an expert in unlocking othe
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
@@ -453,3 +468,68 @@ It prioritizes data integrity and user privacy. Moreover, its clean interface en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c02withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C02with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia FRP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maxitouch-all-in-one-4k-screen-plus-desk/"><u>MaxiTouch All-in-One 4K, Screen Plus Desk</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/kernel-conflict-addressed-error-22/"><u>Kernel Conflict Addressed: Error 22</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-open-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Open Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c02frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C02FRP Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-by-drfone-android/"><u>How to Bypass FRP on Nokia?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-path-to-stunning-instagram-posts/"><u>[Updated] 2024 Approved  The Ultimate Path to Stunning Instagram Posts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia FRP</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simplified-methods-to-record-gotomeeting-chats/"><u>In 2024, Simplified Methods to Record GoToMeeting Chats</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia FRP Without Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/textual-transformation-enrich-your-images-with-words-pcmac-style-for-2024/"><u>Textual Transformation  Enrich Your Images with Words, PC/Mac Style for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-frp-by-drfone-android/"><u>How Can We Bypass Nokia FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-google-pixel-8-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Google Pixel 8 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c02-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C02</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c02-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C02 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c02-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C02</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-30i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 30i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia Phone FRP Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-nokia-c300-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Nokia C300 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-fundamental-skills-for-creating-persuasive-client-centered-testimonials/"><u>[New] In 2024, Fundamental Skills for Creating Persuasive Client-Centered Testimonials</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro-for-2024/"><u>New Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-nokia-frp-bypass-by-drfone-android/"><u>About Nokia FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c02-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-professional-macbook-webcam-capture-techniques-guide/"><u>[Updated] 2024 Approved  Professional MacBook Webcam Capture Techniques Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nokia-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nokia FRP Locks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-premier-pop-chorus-and-rhythm-compilation-for-cinematic-vignettes/"><u>Updated The Premier Pop Chorus and Rhythm Compilation for Cinematic Vignettes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia FRP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-countdown-control-in-live-broadcasting-obs-approach/"><u>2024 Approved  Countdown Control in Live Broadcasting  OBS Approach</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/unique-voice-customization-for-zoom-discover-6-innovative-methods-to-be-memorable-and-funny-for-2024/"><u>Unique Voice Customization for Zoom Discover 6 Innovative Methods to Be Memorable & Funny for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c02-by-drfone-android/"><u>How to Bypass FRP from Nokia C02?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-the-ultimate-guide-to-muting-audio-on-tiktok-easy-steps-explored/"><u>In 2024, The Ultimate Guide to Muting Audio on TikTok Easy Steps Explored</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c02-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C02 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia Phones with/without a PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/photoshop-grading-made-simple-for-everyone/"><u>Photoshop Grading Made Simple for Everyone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-c02-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia C02 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-c02-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia C02 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-c02-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia C02 FRP Without Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-pathways-for-youtube-to-mp4-file-downloading-for-2024/"><u>Legal Pathways for YouTube to MP4 File Downloading for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-online-learning-with-zooms-transformative-tools-for-2024/"><u>Revolutionizing Online Learning with Zoom's Transformative Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pathway-to-profit-via-youtubes-cp2024-program/"><u>[Updated] Pathway to Profit via Youtube's CP2024 Program</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-for-sourcing-premium-videography-talent/"><u>In 2024, Tips for Sourcing Premium Videography Talent</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ahead-of-tomorrow-key-youtube-gatherings-post-vidcon/"><u>Ahead of Tomorrow  Key Youtube Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-live-stream-on-youtube-gaming/"><u>2024 Approved  How to Live Stream on YouTube Gaming?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-c02-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-c02-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia C02 FRP</u></a></li>
+</ul></div>

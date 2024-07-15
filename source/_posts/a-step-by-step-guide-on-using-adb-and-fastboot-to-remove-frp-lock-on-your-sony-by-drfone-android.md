@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
-date: 2024-05-19T04:09:43.825Z
-updated: 2024-05-20T04:09:43.825Z
+date: 2024-07-14T15:17:45.519Z
+updated: 2024-07-15T15:17:45.519Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony
 keywords: Sony Xperia 5 V addrom bypass,android device frp bypass,bypass android device frp,Sony Xperia 5 V pangu frp bypass review,bypass android frp,frp bypass,Sony Xperia 5 V android frp bypass,Sony Xperia 5 V remove frp via adb fastboot,frp tools,about frp bypass,Sony Xperia 5 V best frp bypass,Sony Xperia 5 V adb format tool,easy guide how to bypass frp android,remove frp via adb fastboot
-thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8db94af4f668119ff4d60331.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V
@@ -46,8 +46,11 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -162,6 +165,9 @@ If you are well versed with the commands of ADB and Fastboots you can go ahead a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Full Guide to Bypass Sony Xperia 5 V FRP
 
 
@@ -242,8 +248,11 @@ We have presented numerous FRP methods in this guide. Nonetheless, they might fa
 
 ![complete installation](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Definition of Sony Xperia 5 V  FRP
 
 Factory Reset Protection (FRP) includes security on Android gadgets with OS Version 5.1 and higher. The FRP gives an underlying security highlight you can utilize that safeguards your gadget and data, including screen locks and data encryptions. The FRP automatically works once a Google account has been logged in on the phone. However, it will stop working when the Google account is removed from the Pixel phone preceding the Factory Data Reset. When the FRP has been enacted, it will not let others use your phone after a Factory Reset in an untrusted environment. It implies that the FRP Lock will come into play if your Pixel gets Factory Reset in an unrecognized way.
@@ -304,6 +313,9 @@ _**Start> Agree> Agree> Skip> Don't Copy> Ok> Agree**_
 
 - Skip the 'Set Screen Lock' task for completing the setup.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using FRP Bypass APK
 
 This is a quick and smart way to address the FRP lock removal issue within several minutes. Here's what you need to do:
@@ -339,6 +351,9 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 - The device data linked with the selected account will appear on the screen. Click on 'Remove Account' to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removing the selected google account from the phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-08.jpg)
 
 - A confirmation prompt will pop up to ensure a willful deletion of the account from the Sony Xperia 5 V device. Tap on 'Remove Account' to confirm the action. This will cause all data linked with the account to get deleted from the phone.
@@ -366,7 +381,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Sony Xperia 5 V Phone in a Flash
 
@@ -388,3 +403,43 @@ Unlock Your Sony Xperia 5 V Phone in a Flash
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze Pro 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[Updated] Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y27s-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y27s</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-intrinsic-insights-for-instant-identification-in-fb/"><u>In 2024, Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-blaze-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Blaze Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-uploading-high-definition-vids-on-youtube/"><u>The Ultimate Guide to Uploading High-Definition Vids on Youtube</u></a></li>
+<li><a href="https://facebook.techidaily.com/grasp-the-core-points-in-metas-revised-data-protection-plan/"><u>Grasp the Core Points in Meta's Revised Data Protection Plan</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lava-blaze-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lava Blaze Pro 5G FRP</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-guide-to-3d-animation-software-free-and-paid/"><u>Updated 2024 Approved The Ultimate Guide to 3D Animation Software Free and Paid</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lava-blaze-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lava Blaze Pro 5G FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-cyberspace-to-steps-top-tier-treadmill-innovations-for-2024/"><u>From Cyberspace to Steps  Top-Tier Treadmill Innovations for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lava-blaze-2-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lava Blaze 2 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-2-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze 2 5G?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-players-in-asmr-youtube-world/"><u>[New] Key Players in ASMR YouTube World</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Blaze Pro 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-blaze-2-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Blaze 2 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava Storm 5G.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-excellent-webcam-videos-on-mac/"><u>2024 Approved  A Comprehensive Guide to Excellent Webcam Videos on Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze Pro 5GFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-blaze-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Blaze Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-mac-video-capturer/"><u>Perfect Mac Video Capturer</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-easy-links-for-seamless-connections-between-spotify-and-discord/"><u>[New] In 2024, Easy Links for Seamless Connections Between Spotify & Discord</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-blaze-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Blaze Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-blaze-2-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava Blaze 2 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Blaze Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-blaze-2-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Blaze 2 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-optimize-your-iphones-camera-for-perfection/"><u>2024 Approved  Optimize Your iPhone's Camera for Perfection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>[Updated] Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-taming-zooms-visuals-a-step-by-step-blur-journey/"><u>2024 Approved  Taming Zoom's Visuals  A Step-by-Step Blur Journey</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-blaze-2-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Blaze 2 5G FRP?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-conference-quality-the-list-of-top-10-free-audio-capture/"><u>In 2024, Elevate Conference Quality  The List of Top 10 Free Audio Capture</u></a></li>
+</ul></div>

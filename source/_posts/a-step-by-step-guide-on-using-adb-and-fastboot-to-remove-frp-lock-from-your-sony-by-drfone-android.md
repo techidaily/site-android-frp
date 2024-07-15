@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony
-date: 2024-05-19T04:09:43.887Z
-updated: 2024-05-20T04:09:43.887Z
+date: 2024-07-14T15:17:53.059Z
+updated: 2024-07-15T15:17:53.059Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony
 keywords: Sony Xperia 5 V gsm flasher tool,pangu frp bypass review,Sony Xperia 5 V frp bypass,Sony Xperia 5 V frp bypass guide,Sony Xperia 5 V how to bypass frp,Sony Xperia 5 V frp tools,frp bypass android,Sony Xperia 5 V guide to frp bypass,bypass android frp,Sony Xperia 5 V pangu frp bypass review,about frp bypass,remove frp via adb fastboot,Sony Xperia 5 V bypass frp,pro frp bypass,android frp bypass,addrom bypass,Sony Xperia 5 V bypass android frp,Sony Xperia 5 V frp bypass android,Sony Xperia 5 V how to bypass frp tool,Sony Xperia 5 V about frp bypass,frp bypass guide,Sony Xperia 5 V how to bypass frp without computer,frp bypass easy,best frp bypass,frp bypass quickly,Sony Xperia 5 V easy guide how to bypass frp android,Sony Xperia 5 V frp hijacker download,Sony Xperia 5 V guid for frp bypass
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +78,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +122,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -162,12 +162,18 @@ If you are well versed with the commands of ADB and Fastboots you can go ahead a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Bypass Google FRP Lock on Sony Xperia 5 V Devices
 
 Technological advancements in the IT and telecommunication industry simplify your tasks and provide security against cyber malpractices. The advantages are numerous and appealing, but there are downsides too. One such inconvenience is caused by Google FRP lock in Sony Xperia 5 V smartphones. The facility keeps your device information safe against unauthorized access. However, users often report issues like lockouts not being removed due to several causes. Such scenarios raise the demand for **Sony Xperia 5 V Nord FRP bypass** solutions for seamless device access.
 
 ![google frp bypass in oneplus phones](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. What Is Google FRP and How Does It Work?
 
 Google Factory Reset Protection (FRP) is an in-built security function in Android 5.1 and later versions. The feature protects these devices against intentional data loss on unauthorized access. The utility does not allow a factory reset of your device in case it is lost or stolen. Your data is hence, safe from unwanted mishandling. The feature also protects the Sony Xperia 5 V device's data encryptions and screen locks. The functionality gets enabled when you register a Google account on your Android device. As is obvious, the feature gets disabled when the Google account is removed before beginning the Factory Data Reset process.
@@ -267,7 +273,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Sony Xperia 5 V Phone in a Flash
 
@@ -374,6 +380,9 @@ If your phone is not registered in your Google account then, try the next method
 
 5. **Click on "Try another way" again**
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![try another way](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-frp-bypass-4.jpg)
 
 If your phone is enabled to check for the code, click Try another way again.
@@ -414,6 +423,9 @@ Another way to come around Sony Xperia 5 V FRP bypass is to deactivate FRP. Let 
 3. Open "Google App."
 4. Click on the "Clear cache" to remove the Google account cache.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![deactivate frp](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-frp-bypass-5.jpg)
 
 5. Also, clear all data to erase data stored.
@@ -432,6 +444,9 @@ You can use SideSync to share the screen and data between your computer and mobi
 
 1. Download the SideSync from the official site and install the SideSync application on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![sidesync](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-frp-bypass-7.jpg)
 
 2. Connect your phone and computer to the Google account verification screen.
@@ -449,7 +464,7 @@ You can use SideSync to share the screen and data between your computer and mobi
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google Lock (FRP) from Sony Devices
 
@@ -476,13 +491,13 @@ Remove Google Lock (FRP) from Sony Devices
 
 During the process, it's crucial to keep your device connected to the computer and refrain from disconnecting it until the bypass is complete. After the firmware download is finished, Dr.Fone will initiate the FRP lock bypass process. Once completed, your Sony device will restart, and you'll regain access to it without encountering the FRP lock.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## The Bottom Line
 
 FRP is a great feature to add security to Android phones. However, sometimes it is necessary to bypass it to fully use your phone. When you are stuck with an FRP lock, it is a frustrating situation, especially when you want to factory reset your phone. We have described various methods so that you choose the best solution according to your requirements for the Sony Xperia 5 V FRP bypass. Among them, bypassing Sony FRP lock is made simple and efficient with Dr.Fone - Screen Unlock (Android). Say goodbye to FRP lock frustrations and regain access to your Sony device swiftly with [Dr.Fone - Screen Unlock (Android)](https://drfone.wondershare.com/guide/bypass-google-frp-on-android.html).
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -497,3 +512,59 @@ FRP is a great feature to add security to Android phones. However, sometimes it 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-5-gif-making-software-with-the-highest-ratings/"><u>2024 Approved  Top 5 GIF Making Software with the Highest Ratings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-yuva-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Yuva 3</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Yuva 3 Phones with/without a PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-free-and-easy-a-comparative-analysis-of-3-effective-audio-to-text-techniques-for-the-modern-era/"><u>In 2024, Free & Easy A Comparative Analysis of 3 Effective Audio-to-Text Techniques for the Modern Era</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-edit-videos-on-your-chromebook-top-free-software-picks-for-2024/"><u>New Edit Videos on Your Chromebook Top Free Software Picks for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-storm-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Storm 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-3-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 3</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-yuva-3-by-drfone-android/"><u>How to Bypass FRP from Lava Yuva 3?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-yuva-3-frp-bypass-by-drfone-android/"><u>About Lava Yuva 3 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-storm-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Storm 5GFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-yuva-3-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Yuva 3 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-storm-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Storm 5G?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-video-cutting-software-recommendations-for-windows-users/"><u>[Updated] Premier Video Cutting Software Recommendations for Windows Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-breaking-boundaries-top-10-novel-facebook-memes/"><u>[Updated] Breaking Boundaries  Top 10 Novel Facebook Memes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-make-your-tiktok-reaction-stand-out-for-2024/"><u>How to Make Your TikTok Reaction Stand Out for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-tv-with-youtube-video-loops-for-2024/"><u>Streamline Your TV with YouTube Video Loops for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instagrams-unique-video-display-a-deep-dive/"><u>Instagram’s Unique Video Display  A Deep Dive</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-lava-yuva-3-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Lava Yuva 3 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-7-gratis-youtube-tags-extractor-tools/"><u>[Updated] Top 7 Gratis Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-yuva-3-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Yuva 3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-yuva-3-frp-by-drfone-android/"><u>How Can We Bypass Lava Yuva 3 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-yuva-3-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Yuva 3 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/eerie-echoes-await-discover-the-top-6-free-websites-for-spooky-audio-tunes/"><u>Eerie Echoes Await Discover the Top 6 Free Websites for Spooky Audio Tunes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-storm-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Storm 5G Phones with/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-g2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo G2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-fine-tune-video-aspect-ratios-for-instagram-bliss-for-2024/"><u>[Updated] Fine-Tune Video Aspect Ratios for Instagram Bliss for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-lava-storm-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Lava Storm 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-yuva-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Yuva 3 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-country-grooves-for-calmness-top-20-tiktok-anthems-for-2024/"><u>[Updated] Country Grooves for Calmness  Top 20 TikTok Anthems for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-3-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 3 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-storm-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Storm 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-yuva-3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava Yuva 3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-yuva-3-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Yuva 3 FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortlessly-enhance-your-photos-with-adobes-smooth-shutter-effect/"><u>2024 Approved  Effortlessly Enhance Your Photos with Adobe's Smooth Shutter Effect</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-eco-friendly-production-green-screen-and-ctas/"><u>[Updated] Eco-Friendly Production  Green Screen & CTAs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-yuva-3-by-drfone-android/"><u>How to Bypass FRP on Lava Yuva 3?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lava-yuva-3-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lava Yuva 3 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-lava-yuva-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Yuva 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-and-compose-best-writing-apps-for-photos-iosandroid-for-2024/"><u>Capture and Compose  Best Writing Apps for Photos (iOS/Android) for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-storm-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Storm 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-yuva-3-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Yuva 3 FRP Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-pop-7-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques/"><u>In 2024, SDR Vs. HDRI  Elevating Your Content with Advanced Color Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+</ul></div>

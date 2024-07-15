@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
-date: 2024-05-19T04:09:45.285Z
-updated: 2024-05-20T04:09:45.285Z
+date: 2024-07-14T15:19:54.442Z
+updated: 2024-07-15T15:19:54.442Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
 keywords: Sony Xperia 10 V frp tools,adb format tool,Sony Xperia 10 V remove frp via adb fastboot,Sony Xperia 10 V frp bypass android,pangu frp bypass review,Sony Xperia 10 V pangu frp bypass review,remove frp via adb fastboot,easy guide how to bypass frp android device,Sony Xperia 10 V frp bypass quickly,frp bypass android,bypass android frp,frp bypass android device,android device frp bypass,how to bypass frp without computer,Sony Xperia 10 V best frp bypass,pro frp bypass
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
@@ -46,14 +46,20 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
 
 - **Step 1.** Firstly, download the ADB installed setup file and then extract the files from the toolkit on your system in a folder.
@@ -78,7 +84,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -116,13 +122,16 @@ ADB is a command-based method, and thus it is important that the commands are en
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -205,6 +214,9 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 
 - 14\. Go to Settings > Accounts and backup > Accounts > Add account > Google. Sign in with any Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in google account](https://images.wondershare.com/drfone/article/2022/07/how-bypass-frp-on-android-9-3.jpg)
 
 - 15\. Navigate back to Settings and enable Google Play Services. Also, activate Find My Device. Now restart your phone and access it without FRP.
@@ -217,7 +229,7 @@ This method will teach us how to bypass FRP on Sony Xperia 10 V devices like Gal
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Bypass FRP on Sony Xperia 10 V and Solve Your Screen Locks!
 
@@ -372,6 +384,9 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 4.** Navigate to "App management" and select "App settings." Access the XShare APK, launch it, and ensure you have a secondary Android device available. Open the Play Store on the second device, and download and install the XShare App for further processing.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lead to app settings](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-16.jpg)
 
 - **Step 5.** Next, open the Chrome Browser on the second device. Enter one of the following URLs in the browser and download “FRP Bypass APK” and “Google Account Manager 9.0 APK”:
@@ -409,3 +424,37 @@ _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.F
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 ProFRP Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>How to Reset a Locked Vivo S17 Pro Phone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mp4-video-tag-management-made-easy-best-editors-for-windows-and-mac/"><u>New 2024 Approved MP4 Video Tag Management Made Easy Best Editors for Windows and Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-5-mac-video-tools-beyond-standard-bandicam/"><u>In 2024, Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-open-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus Open FRP Bypass Instantly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860306070-new-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[New] PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-ace-2-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus Ace 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-ace-2-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Ace 2 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-open-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Open FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unrivaled-7-best-virtual-meetings-security-centric-ranking/"><u>[New] In 2024, Unrivaled 7 Best Virtual Meetings  Security-Centric Ranking</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-ace-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Ace 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-pip-feature-while-consuming-youtube-videos-on-iphones-for-2024/"><u>Master PIP Feature While Consuming YouTube Videos on iPhones for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-open-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Open</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus Ace 2 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-open-by-drfone-android/"><u>How to Bypass FRP on OnePlus Open?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-open-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Open FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/font-fusion-merging-style-and-content-in-after-effects/"><u>Font Fusion  Merging Style & Content in After Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-flight-matching-cameras-to-ideal-gimbal-models/"><u>In 2024, Precision Flight  Matching Cameras to Ideal Gimbal Models</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 2 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-google-pixel-fold-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Google Pixel Fold FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-narratives-crafted-in-eight-film-fields-for-2024/"><u>Unrivaled Narratives Crafted in Eight Film Fields for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2 Prowith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-ace-2-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus Ace 2 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oneplus-open-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus Open ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oneplus-open-frp-bypass-by-drfone-android/"><u>About OnePlus Open FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-open-frp-by-drfone-android/"><u>How Can We Bypass OnePlus Open FRP?</u></a></li>
+</ul></div>

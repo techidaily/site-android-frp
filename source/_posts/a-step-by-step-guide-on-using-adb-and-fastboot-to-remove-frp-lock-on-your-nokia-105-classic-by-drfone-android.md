@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic
-date: 2024-05-19T04:10:39.627Z
-updated: 2024-05-20T04:10:39.627Z
+date: 2024-07-14T16:38:23.962Z
+updated: 2024-07-15T16:38:23.962Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic
 keywords: how to bypass frp without computer,how to bypass frp,frp bypass,Nokia 105 Classic frp bypass guide,adb format tool,frp bypass android device,pro frp bypass,pangu frp bypass review,frp tools,Nokia 105 Classic adb format tool,Nokia 105 Classic guid for frp bypass,Nokia 105 Classic how to bypass frp,Nokia 105 Classic best frp bypass,Nokia 105 Classic frp bypass easy,Nokia 105 Classic remove frp via adb fastboot,android frp bypass,Nokia 105 Classic about frp bypass,how to bypass frp tool,guide to frp bypass,bypass android device frp,Nokia 105 Classic frp tools,addrom bypass,Nokia 105 Classic gsm flasher tool,easy guide how to bypass frp android,easy guide how to bypass frp android device,frp bypass quickly,frp bypass android,android device frp bypass,best frp bypass,Nokia 105 Classic bypass frp,Nokia 105 Classic pangu frp bypass review,frp bypass guide,frp hijacker download,Nokia 105 Classic frp hijacker download,Nokia 105 Classic frp bypass quickly
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -78,7 +78,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +122,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -206,6 +206,9 @@ If you are looking for a solution to bypass Google Account on your Nokia device 
 
 One of the easiest and most basic ways of bypassing the FRP lock is by enabling the safe mode on your mobile and proceeding with a factory reset of all the settings. This will erase the data, especially the current Google account, which is incorporated within the phone. Once everything is related, the settings will be restored to their original form or the default value. This will allow you to have unhindered access to the Nokia 105 Classic device, as the FRP lock will get disabled due to settings reset.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset settings in safe mode](https://images.wondershare.com/drfone/article/2022/09/reset-settings-in-safe-mode.jpg)
 
 #### Pros
@@ -232,7 +235,7 @@ Another standard method of bypassing the factory reset program on the mobile is 
 
 - **Step 1:** Click on the emergency dialer option from your home screen to show that the number pad comes into view. Once you have access to the numbers, dial \* or any other numeral multiple times.
 
-![ emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
+![emergency dialer](https://images.wondershare.com/drfone/article/2022/09/emergency-dialer.jpg)
 
 - **Step 2:** Repeat the process multiple times till you fail to watch the series anymore on the emergency dialer.
 
@@ -338,7 +341,7 @@ It is a bit difficult, and you won't be able to access it in any recent Android 
 
 ## 2.2. How to Bypass Google Account on Nokia with PC ？
 
-### 1. [Nokia FRP Tool](https://pcsuite.net/huawei-frp-bypass-tool/)
+### 1. Nokia FRP Tool
 
 One of the best tools that you can use to bypass the Factory Reset Protection lock is the Nokia FRP Tool. It is easy to use and doesn't involve too many complicated steps. Plus, it is compatible with most Nokia models, giving you the leverage to access your device without removing or deleting any further data.
 
@@ -365,7 +368,10 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 
 You cannot use this tool until you put the Nokia 105 Classic device on the fast boot mode.
 
-### 2\. [Nokia FRP Eraser](https://www.imei.info/huawei_frp_remove/)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Nokia FRP Eraser
 
 This is probably the most accessible tool to remove the FRP lock from your Nokia smartphone.
 
@@ -392,7 +398,7 @@ This is probably the most accessible tool to remove the FRP lock from your Nokia
 
 You need to get the key after purchasing it.
 
-### 3\. [Nokia FRP & ID Bypass Tool](https://gsmfixes.com/huawei-frp-id-bypass-tool-latest/)
+### 3\. Nokia FRP & ID Bypass Tool
 
 This is a free application from Nokia. You can easily bypass the FRP lock and access your device. However, you will require your PC to download the lock tool, especially the latest version.
 
@@ -414,6 +420,9 @@ This is a free application from Nokia. You can easily bypass the FRP lock and ac
 
 - **Step 6**:Then, select the Bypass FRP and ID option. Once done, you can access your phone because the FRP lock will get bypassed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/bypass-frp-and-id.jpg)
 
 #### Pros
@@ -442,13 +451,13 @@ The above-listed methods in part 2 as well as part 3 are not only lengthy but al
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 So, for the users who are having issues with Android screen lock, but looking for a simpler yet functional tool, we recommend Dr. Fone-Screen Unlock as the best option. This Windows and Mac-based software is trusted by people across the globe as it helps remove all types of screen locks PIN, password, pattern, as well as a fingerprint in a hassle-free quick manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Nokia Phones within Minutes
 
@@ -464,6 +473,9 @@ The program can be used without worrying about any malware or virus. Steps for r
 - **Step 1.** Launch the software on your system and choose Screen Unlock from the main interface.
 - **Step 2.** Next, connect your phone to your system using a USB cable and then select Unlock Android Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** Select Nokia from the list of the supported devices.
@@ -558,6 +570,9 @@ Using FRP Bypass APK, you can unlock Google lock on the Nokia 105 Classic Hot 8 
 
 Nokia 105 Classic Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method #3: Bypass Nokia 105 Classic FRP Without PC Via Settings Menu
 
 Do you want to bypass the Google account verification FRP on the Nokia 105 Classic Smart 5 phone? Using this method, you can bypass the FRP on Nokia 105 Classic Smart 5.
@@ -621,3 +636,45 @@ You can bypass the Nokia 105 Classic Hot 8 FRP by using a few practical methods 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-reno-10-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Reno 10 5G FRP Bypass</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-get-tiktoks-best-videos-in-a-flash-for-2024/"><u>[New] Get TikTok's Best Videos in a Flash for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-10-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-phantom-v-flip-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Phantom V Flip to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>[Updated] In 2024, Elevate Conference Calls  A Guide to 10 Cost-Free Apps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-10-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 10 5G FRP Bypass</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/chart-topping-content-youtubes-top-5/"><u>Chart-Topping Content  YouTube's Top 5</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-purpo/"><u>New Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-10-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 10 5G FRP Without Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-14-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 14 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-10-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 10 5G Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-video-storage-daylong-total-in-gbs/"><u>2024 Approved  Understanding Video Storage  Daylong Total in GBs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-10-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 10 5G FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-itel-a60-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Itel A60? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-buys-for-your-digital-chime-preferences-in-snapchat/"><u>In 2024, Best Buys for Your Digital Chime Preferences in SnapChat</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 10 5G?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-to-the-max-top-5-headset-picks/"><u>2024 Approved  Streaming to the Max  Top 5 Headset Picks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-10-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 10 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-rated-apps-to-elevate-instagram-imagery/"><u>[Updated] In 2024, Top-Rated Apps to Elevate Instagram Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-meeting-efficiency-using-zoom-in-your-email-routine-with-gmail/"><u>[New] Maximizing Meeting Efficiency  Using Zoom in Your Email Routine with Gmail</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-10-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 10 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] The Evolution of 4K  A Look at the D500 Model</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-10-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 10 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-reno-10-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Reno 10 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 5GFRP Lock</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-recording-steps-in-gh/"><u>[New] In 2024, Essential Recording Steps in GH</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 10 5G FRP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-favorites-todays-10-music-moments-for-2024/"><u>[Updated] Facebook's Favorites  Today's #10 Music Moments for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-process-to-embrace-cc-copyrights/"><u>[New] Step-by-Step Process to Embrace CC Copyrights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 10 5G FRP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-5-ultimate-map-quests-for-precious-in-game-finds/"><u>[Updated] 2024 Approved  5 Ultimate Map Quests for Precious In-Game Finds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 10 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-reno-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Reno 10 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-reno-10-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo Reno 10 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-10-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 10 5G FRP Bypass With Best Methods</u></a></li>
+</ul></div>

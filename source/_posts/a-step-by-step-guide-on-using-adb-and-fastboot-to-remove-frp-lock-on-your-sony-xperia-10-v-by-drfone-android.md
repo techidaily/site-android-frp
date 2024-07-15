@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
-date: 2024-05-19T04:09:44.933Z
-updated: 2024-05-20T04:09:44.934Z
+date: 2024-07-14T15:19:22.109Z
+updated: 2024-07-15T15:19:22.109Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
 keywords: Sony Xperia 10 V adb format tool,Sony Xperia 10 V frp bypass android,about frp bypass,pangu frp bypass review,Sony Xperia 10 V best frp bypass,frp bypass android device,addrom bypass,how to bypass frp without computer,frp tools,Sony Xperia 10 V easy guide how to bypass frp android,Sony Xperia 10 V how to bypass frp,Sony Xperia 10 V bypass android frp,Sony Xperia 10 V pangu frp bypass review,guide to frp bypass,Sony Xperia 10 V bypass frp,easy guide how to bypass frp android,Sony Xperia 10 V frp bypass guide,frp bypass easy,frp hijacker download,easy guide how to bypass frp android device,Sony Xperia 10 V how to bypass frp without computer
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V
@@ -46,7 +46,7 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
@@ -76,9 +76,12 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -190,7 +193,7 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Sony Xperia 10 V FRP Lock Removal Made Easy
 
@@ -215,6 +218,9 @@ Step 3: Choose Sony among the Sony Xperia 10 V device brands.
 
 Step 4: Dr.Fone will start to download driver. And then turn off the Sony Xperia 10 V device and connect to the computer. During the connecting process, please keep pressing Volume Up and Down button simultaneously for around 3 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press volume up and down button](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-3.png)
 
 Step 5: Wait for a few minutes and when it’s done, click Done button.
@@ -286,6 +292,9 @@ Depending on the OS version, the Google FRP lock can be removed using a variety 
 - Then, while holding down the Shift key, right-click somewhere that is empty in the ADB folder and select the Open command window here.
 - Then, to delete the FRP, run the following lines one at a time at the command prompt, pressing enter after each line. Below is the code for CMD.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![code for cmd](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
 - Your Android device's FRP lock will be removed following the execution of the commands.
@@ -322,6 +331,9 @@ So, this tutorial is for you if you've lost your existing Gmail account and your
 
 Factory Reset Protection (FRP) is a safety measure available on Android smartphones. When you establish a Google Account on your smartphone, FRP is felt most strongly. When FRP is enabled, it stops a device from being used after a factory data reset unless you log in with a Google identity.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### How it works?
 
 Factory Reset Protection is an enhanced security feature that is accessible on the bulk of Android smartphones. When you reset your Android phone, you'll need your phone's Login details to gain entry to it. But now, we'll go through the free FRP tools that can bypass your Google FRP.
@@ -342,6 +354,9 @@ To solve your problem, we have provided these three solutions you can have to un
 
 ## Solutions to Bypass Sony FRP?
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Retrieve your Google account on another device
 
 The fundamental and most innovative way to do the Factory Reset is to recover a Google account. You can restore your Email ID or password from another device or computer before attempting FRP bypassing Sony Xperia 10 V .
@@ -415,3 +430,58 @@ That's it, guys. We hope this guide was helpful to you in order to bypass the **
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c210-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C210 Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo S17 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hand-tracking-explained-types-and-applications/"><u>[Updated] Hand Tracking Explained  Types and Applications</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-c210-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia C210 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C210 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c210-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C210</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c210frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C210FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-g310-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia G310 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-win-and-apple-users-favorites-top-picks-for-audio-recording-technology-mp3/"><u>Updated 2024 Approved Win & Apple Users Favorites Top Picks for Audio Recording Technology (MP3)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-g310-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia G310 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c210-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C210 Phones with/without a PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-professional-video-recorder-for-windows-pcs-for-2024/"><u>[New] Professional Video Recorder for Windows PCs for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-g310-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia G310 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-c210-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia C210 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-c210-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia C210 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-c210-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia C210 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-c210-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia C210 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[New] Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c210-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C210 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c210-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C210 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c210-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C210 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c210-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C210?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-value-capture-budget-cam-essentials/"><u>[New] Value Capture  Budget Cam Essentials</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c210-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C210 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c210-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C210</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-c210-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia C210?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revolutionize-your-mind-best-15-tech-and-science-channels/"><u>2024 Approved  Revolutionize Your Mind  Best 15 Tech & Science Channels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c210withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C210with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-g310-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia G310 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c210-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C210 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-g310-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia G310 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-g310-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia G310 FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>In 2024, Puzzle Paradise  10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g310-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G310</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-wireless-issues-in-new-windows-update/"><u>[RESOLVED] Wireless Issues in New Windows Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-g310-by-drfone-android/"><u>How to Bypass FRP on Nokia G310?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>2024 Approved  Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-8-mistakes-to-avoid-as-a-new-youtuber/"><u>2024 Approved  8 Mistakes to Avoid as a New Youtuber</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c210-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C210 Phone FRP Lock</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-premier-comedy-photo-stylist-tool/"><u>2024 Approved  Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-financial-potential-how-to-earn-with-youtube-shorts/"><u>[Updated] Unlocking Financial Potential  How to Earn with YouTube Shorts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G310 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-g310-frp-by-drfone-android/"><u>How Can We Bypass Nokia G310 FRP?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-p40plus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel P40+</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-nokia-g310-frp-bypass-by-drfone-android/"><u>About Nokia G310 FRP Bypass</u></a></li>
+</ul></div>

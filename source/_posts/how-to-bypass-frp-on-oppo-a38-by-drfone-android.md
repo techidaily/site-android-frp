@@ -1,7 +1,7 @@
 ---
 title: How to Bypass FRP on Oppo A38?
-date: 2024-04-09T12:40:52.621Z
-updated: 2024-04-10T12:40:52.621Z
+date: 2024-07-14T17:18:18.864Z
+updated: 2024-07-15T17:18:18.864Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass FRP on Oppo A38?
 excerpt: This article describes How to Bypass FRP on Oppo A38?
 keywords: bypass frp,frp bypass android,how to bypass frp tool,Oppo A38 remove frp via adb fastboot,guid for frp bypass,Oppo A38 about frp bypass,frp bypass easy,about frp bypass,best frp bypass,easy guide how to bypass frp android,Oppo A38 how to bypass frp,bypass android device frp,android device frp bypass,addrom bypass,Oppo A38 addrom bypass,frp bypass,Oppo A38 frp bypass,frp bypass quickly,frp tools,Oppo A38 android frp bypass,how to bypass frp without computer,Oppo A38 frp bypass quickly
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## How to Bypass FRP on Oppo A38?
@@ -66,7 +66,10 @@ This method will teach us how to bypass FRP on Oppo A38 devices like Galaxy S8 o
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Bypass FRP on Oppo A38 and Solve Your Screen Locks!
 
@@ -93,6 +96,9 @@ Follow these steps to bypass FRP on Oppo A38 with Dr.Fone:
 
 **Step 5:** Click the “<” button to navigate back to the Wi-Fi connection screen before clicking Next. Enter the PIN you can set earlier before clicking Continue.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![enter pin](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-5.png)
 
 **Step 6:** Hit the Skip button on the Google Sign-In page to successfully bypass FRP on your Samsung Oppo A38 phone. And there it that!
@@ -277,6 +283,9 @@ Even if you have locked your Oppo phone yourself, you are stuck when you forget 
 
 Some employees also receive official phones from their company which they have to return when they leave the company. Now, it becomes a horror story for the new employee if he gets the same phone locked with the previous user's ID.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: 5 quick methods to bypass Oppo A38 FRP
 
 Ok, now this is established that there are certain situations when you need to conduct a Oppo A38 FRP bypass. So how do you do the Oppo A38 FRP bypass?
@@ -397,6 +406,9 @@ Another way to come around Oppo A38 FRP bypass is to deactivate FRP. Let us foll
 6. Click the "Back" button, and go to "Gmail."
 7. Click on the "Clear cache" and "Clear data."
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![clear data](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-frp-bypass-6.jpg)
 
 8. In the Oppo A38 device Settings menu and click "Data synchronization." When your device asks you to enter your Google account, enter your new Gmail account.
@@ -426,7 +438,7 @@ You can use SideSync to share the screen and data between your computer and mobi
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google Lock (FRP) from Oppo Devices
 
@@ -453,13 +465,16 @@ Remove Google Lock (FRP) from Oppo Devices
 
 During the process, it's crucial to keep your device connected to the computer and refrain from disconnecting it until the bypass is complete. After the firmware download is finished, Dr.Fone will initiate the FRP lock bypass process. Once completed, your Oppo device will restart, and you'll regain access to it without encountering the FRP lock.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## The Bottom Line
 
 FRP is a great feature to add security to Android phones. However, sometimes it is necessary to bypass it to fully use your phone. When you are stuck with an FRP lock, it is a frustrating situation, especially when you want to factory reset your phone. We have described various methods so that you choose the best solution according to your requirements for the Oppo A38 FRP bypass. Among them, bypassing Oppo FRP lock is made simple and efficient with Dr.Fone - Screen Unlock (Android). Say goodbye to FRP lock frustrations and regain access to your Oppo device swiftly with [Dr.Fone - Screen Unlock (Android)](https://drfone.wondershare.com/guide/bypass-google-frp-on-android.html).
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -472,3 +487,71 @@ FRP is a great feature to add security to Android phones. However, sometimes it 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-galaxy-s24-by-fonelab-android-recover-video/"><u>How to recover old videos from your Galaxy S24</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-g54-5g-frp-bypass-by-drfone-android/"><u>About Motorola G54 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Moto G84 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g84-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G84 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-nord-n30-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Nord N30 SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revamp-voice-output-with-ease-for-ps5ps4-gamers/"><u>Revamp Voice Output with Ease for PS5/PS4 Gamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g84-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G84 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-seamless-transitions-made-simple-screen-record-with-aiseesoft-for-2024/"><u>[New] Seamless Transitions Made Simple  Screen Record With Aiseesoft for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g84-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G84 5GFRP Lock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-free-drawing-tools-top-mac-apps-listed-for-2024/"><u>[New] Ultimate Free Drawing Tools  Top Mac Apps Listed for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g84-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G84 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g84-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G84 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g84-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G84 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola G54 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g84-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G84 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g84-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G84 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-nighttime-hiking-camera-battle-gopro-vs-sj7-star/"><u>[New] In 2024, Nighttime Hiking Camera Battle  GoPro Vs SJ7 Star</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-find-the-best-value-10-free-tools-to-record-your-discord-voice-chats-for-2024/"><u>[New] Find the Best Value  10 Free Tools to Record Your Discord Voice Chats for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-g54-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola G54 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-g54-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola G54 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto G84 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-g54-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola G54 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-moto-g84-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Moto G84 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>[Updated] In 2024, Integrating Virtual Boards Into Remote Discussions  IPhone/iPad/Android and Computers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g84-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G84 5G Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-compilation-of-least-expensive-software-for-discord-recording-for-2024/"><u>The Ultimate Compilation of Least-Expensive Software for Discord Recording for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[New] In 2024, Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-ways-to-retain-live-chat-transcripts/"><u>[New] 2024 Approved  Quick Ways to Retain Live Chat Transcripts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eamless-content-transfer-from-youtubers-to-fb-friends/"><u>[New] Seamless Content Transfer From YouTubers to FB Friends</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-decodome-top-10-themes-for-betterdiscorders-for-2024/"><u>[Updated] DecoDome - Top 10 Themes for BetterDiscorders for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-safely-save-your-streaming-stash-with-these-free-tools/"><u>In 2024, Safely Save Your Streaming Stash with These Free Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G84 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g84-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G84 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g84-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-storage-limits-for-multi-channel-vids-128gb/"><u>[New] Evaluating Storage Limits for Multi-Channel Vids, 128GB</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-exclusive-list-best-free-videos-for-pc-macos/"><u>2024 Approved  Exclusive List  Best Free Videos for PC, MacOS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Motorola Moto G84 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto G84 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G84 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-motorola-moto-g84-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Motorola Moto G84 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-handle-accidental-reflections-in-video-conversations-for-2024/"><u>How To Handle Accidental Reflections in Video Conversations for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/apple-will-delete-your-photos-in-july-heres-what-you-should-do-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Apple will delete your photos in July. Heres what you should do | Stellar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-g54-5g-by-drfone-android/"><u>How to Bypass FRP on Motorola G54 5G?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-exploring-the-magic-of-ai-selfie-generators/"><u>Updated 2024 Approved Exploring the Magic of AI Selfie Generators</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-photo-viewer-revival-techniques-for-enhanced-windows-11-experience-for-2024/"><u>[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-hot-40i-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Hot 40i Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-headset-the-mechanics-of-virtual-reality/"><u>2024 Approved  Inside the Headset  The Mechanics of Virtual Reality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-g54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola G54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-k70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi K70 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-moto-g84-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Moto G84 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-tips-for-rl-screen-recording/"><u>[New] In 2024, Essential Tips for RL Screen Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g84-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G84 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-g54-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola G54 5G</u></a></li>
+</ul></div>

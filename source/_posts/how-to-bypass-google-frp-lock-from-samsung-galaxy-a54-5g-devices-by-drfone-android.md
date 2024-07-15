@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Google FRP Lock from Samsung Galaxy A54 5G Devices
-date: 2024-04-09T12:43:39.576Z
-updated: 2024-04-10T12:43:39.576Z
+date: 2024-07-14T17:43:47.674Z
+updated: 2024-07-15T17:43:47.674Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass Google FRP Lock from Samsung Galaxy A54 5G Devices
 excerpt: This article describes How to Bypass Google FRP Lock from Samsung Galaxy A54 5G Devices
 keywords: frp bypass easy,Samsung Galaxy A54 5G remove frp via adb fastboot,Samsung Galaxy A54 5G gsm flasher tool,how to bypass frp,Samsung Galaxy A54 5G bypass android frp,bypass android frp,Samsung Galaxy A54 5G easy guide how to bypass frp android,Samsung Galaxy A54 5G best frp bypass,Samsung Galaxy A54 5G pangu frp bypass review,Samsung Galaxy A54 5G addrom bypass,Samsung Galaxy A54 5G how to bypass frp tool,Samsung Galaxy A54 5G how to bypass frp without computer,frp tools,bypass android device frp,Samsung Galaxy A54 5G frp bypass guide,frp bypass android device,frp bypass quickly,best frp bypass,bypass frp,remove frp via adb fastboot,Samsung Galaxy A54 5G frp tools,frp hijacker download,guide to frp bypass,android frp bypass,frp bypass guide,Samsung Galaxy A54 5G frp bypass quickly,adb format tool,Samsung Galaxy A54 5G adb format tool,android device frp bypass,easy guide how to bypass frp android device,Samsung Galaxy A54 5G about frp bypass,addrom bypass,guid for frp bypass,gsm flasher tool
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## How to Bypass Google FRP Lock on Samsung Galaxy A54 5G Devices
@@ -118,7 +118,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Samsung Galaxy A54 5G Phone in a Flash
 
@@ -137,6 +137,9 @@ Unlock Your Samsung Galaxy A54 5G Phone in a Flash
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Easy Guide to Samsung Galaxy A54 5G FRP Bypass With Best Methods
 
 The Google Factory Reset Protection (FRP) lock is a security measure in Android smartphones. By default, FRP Lock is active on all Android devices after the Android 5.1 release and triggers upon the execution of a hard reset. Despite its undeniable importance as a security feature, there are two specific instances when dealing with FRP lock can be difficult.
@@ -198,6 +201,9 @@ The SIM card method is a favored FRP lock bypass approach among Samsung Galaxy A
 
 - **Step 5.** Choose "XShare Mini" as the sharing option, grant the necessary permissions, and leave the Samsung Galaxy A54 5G device on the "QR Code." Move to another device and access a web browser. Go to mobileteamofficials.com and download two apps: “Google Account Manager” and “Account Login/ FRP Bypass.”
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download apps for frp unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-8.jpg)
 
 - **Step 6.** On the other device you’re using, download the two apps from the Google Play Store: “Activity Launcher” and “XShare.” Now open the XShare app and grant all the required permissions. Tap "Receive" and scan the QR code from the Samsung device to complete the contact transfer process.
@@ -206,6 +212,9 @@ The SIM card method is a favored FRP lock bypass approach among Samsung Galaxy A
 
 - **Step 7.** Now, select three apps: “Google Account Manager,” “Account Login/ FRP Bypass,” and “Activity Launcher” within XShare on the second device. On the Samsung device, tap "Receive" and scan the QR code to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![transfer three apps for frp bypass](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-10.jpg)
 
 - **Step 8.** Once received, install all three apps on the Samsung device. Now, first open "Account Login/ FRP Bypass" and tap “three dots” from the top right corner to select "Browser Sign In." When it takes you to the Google sign-in page, log in using any Google ID.
@@ -214,6 +223,9 @@ The SIM card method is a favored FRP lock bypass approach among Samsung Galaxy A
 
 - **Step 9.** After signing in, return to the apps and open the Activity Launcher app. Within the app, tap "Android Setup" on the following screen and scroll down to press the "Android Setup" entry. This will perform the **Samsung Galaxy A54 5G Lite FRP** **bypass** successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access activity launcher and unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-12.jpg)
 
 **Here is a video for you to learn how to bypass FRP:**
@@ -342,13 +354,13 @@ Nothing can be more annoying than forgetting the screen lock of your Samsung pho
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 This professional Windows and Mac-based software will let you remove all types of screen locks including password, PIN, pattern as well as fingerprint, in just a few simple steps. The software is simple to use and can remove the screen lock on all popular Android devices in a hassle-free manner.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Samsung without Password \[Most Efficient\]
 
@@ -381,8 +393,11 @@ Step 4. Wait for the unlock process to complete, the screen lock will be removed
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Above we have listed different tools for **Samsung Google bypass**. Depending on the model of the phone and requirements, you can choose the best suitable solution. Also, for removing screen lock on Samsung and other devices, [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) works as an excellent tool.
@@ -398,3 +413,57 @@ Above we have listed different tools for **Samsung Google bypass**. Depending on
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-mac-apps-the-leading-alternatives-to-bandicam/"><u>[Updated] In 2024, Essential Mac Apps  The Leading Alternatives to Bandicam</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>In 2024, How to Mix Audio Tracks Into One File for A Video?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60x 5G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-achieving-peak-performance-in-video-submissions-on-youtube/"><u>[New] 2024 Approved  Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5 Phones with/without a PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-note-50-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Note 50 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c33-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C33 2023 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-x8b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X8b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c67-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C67 5Gwith/without a PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-ditch-adobe-10-free-and-open-source-video-editors-for-linux/"><u>Updated 2024 Approved Ditch Adobe 10 Free and Open-Source Video Editors for Linux</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c55-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C55 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5-sewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5 SEwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-240w-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 (240W) Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-x50-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X50 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n55-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo N55 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-pace-control-for-instas-live-videos/"><u>2024 Approved  Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c33-2023withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C33 2023with/without a PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-transcript-download-analyze-content-for-2024/"><u>[New] Transcript Download, Analyze Content for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-12-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme 12 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c53-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C53 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-honor-v-purse-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor V Purse ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12plus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c55withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C55with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n53-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo N53 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c51-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C51 Phones with/without a PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-5-ways-to-record-vr-gameplay/"><u>[Updated] In 2024, 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c67-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C67 4Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-v30twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme V30Twith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 Prowith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12-proplus-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12 Pro+ 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-neo-5-se-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT Neo 5 SE Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n53withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo N53with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 3 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60x-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60x 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-note-50withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Note 50with/without a PC</u></a></li>
+</ul></div>

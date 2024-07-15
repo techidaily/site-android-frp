@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R
-date: 2024-05-19T04:10:43.341Z
-updated: 2024-05-20T04:10:43.341Z
+date: 2024-07-14T16:44:14.567Z
+updated: 2024-07-15T16:44:14.567Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R
 keywords: android device frp bypass,bypass android frp,OnePlus 11R frp bypass quickly,how to bypass frp tool,OnePlus 11R about frp bypass,OnePlus 11R frp bypass,guide to frp bypass,best frp bypass,OnePlus 11R frp bypass android,addrom bypass,OnePlus 11R pro frp bypass,frp bypass quickly,about frp bypass,OnePlus 11R best frp bypass,how to bypass frp,easy guide how to bypass frp android device,OnePlus 11R adb format tool,frp bypass guide,frp tools,pro frp bypass,frp bypass easy,easy guide how to bypass frp android,frp bypass
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11R
@@ -46,12 +46,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -211,6 +214,9 @@ The SIM card method is a favored FRP lock bypass approach among OnePlus 11R user
 
 - **Step 2.** Before inserting the SIM card, ensure at least one contact is saved on the card. It could be any random number, and you can do it by inserting the SIM card into another device. After inserting the SIM card, tap "Emergency," where the OnePlus 11R device asks you for the PIN of the SIM card.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![provide sim passcode](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-5.jpg)
 
 - **Step 3.** After pressing "Emergency," tap "Emergency Information" on the next screen. On the "Owner" screen, tap the icon at the top right corner, enter the SIM PIN code, and when asked, choose "Add contact."
@@ -317,7 +323,7 @@ Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/won
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 OnePlus 11R FRP Lock Removal Made Easy
 
@@ -338,6 +344,9 @@ Step 2: Select Remove Google FRP Lock.
 
 Step 3: Choose OnePlus among the OnePlus 11R device brands.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download driver](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 Step 4: Dr.Fone will start to download driver. And then turn off the OnePlus 11R device and connect to the computer. During the connecting process, please keep pressing Volume Up and Down button simultaneously for around 3 seconds.
@@ -371,10 +380,16 @@ With each phone, operating system, and version of Android having its own techniq
 
 - Enable the Accessibility Menu Shortcut by selecting Settings > Additional Settings > Accessibility > Accessibility menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app info and accessibility menu](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-5.jpg)
 
 - Repeat the back button to go back to the App info screen. Click More, then select Show System.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![show system](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-6.jpg)
 
 - Tap Disable and Disable app after choosing Android setup, then tap Force stop and OK.
@@ -448,3 +463,69 @@ In conclusion, unlocking OnePlus 11R FRP can be difficult, but it can be done qu
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g42-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G42 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g42-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G42 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia G42 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-g42-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia G42 5G Devices</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-bigger-head-effects-the-ultimate-guide-for-tiktok-creators-3-steps/"><u>2024 Approved  Mastering Bigger-Head Effects  The Ultimate Guide for TikTok Creators (3 Steps)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-divx-video-editing-made-easy-top-free-cutters/"><u>New 2024 Approved Divx Video Editing Made Easy Top Free Cutters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-hollywood-style-movies-with-these-8-mac-apps/"><u>Updated 2024 Approved Create Hollywood-Style Movies with These 8 Mac Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-visualizer-screen-recorder-3000/"><u>[Updated] In 2024, Visualizer Screen Recorder 3000</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>[New] Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia G42 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>Accelerating Your Creative Process  A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-ultimate-audio-adjustment-guide-for-electronics/"><u>New Ultimate Audio Adjustment Guide for Electronics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-narratives-with-the-leading-frames/"><u>In 2024, Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-g42-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia G42 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-g42-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia G42 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-130-music-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia 130 Music FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-g42-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia G42 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-selecting-prime-android-applications-for-high-quality-voice-recording-free/"><u>New 2024 Approved Selecting Prime Android Applications for High-Quality Voice Recording (FREE)</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-z50s-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-g42-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia G42 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia G42 5G FRP?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-quick-video-cuts-on-windows-11-photos-for-2024/"><u>Master Quick Video Cuts on Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpt-satirical-gifs-via-giphy/"><u>In 2024, Sculpt Satirical Gifs via Giphy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/smart-social-media-strategies-from-youtube-to-facebook-for-2024/"><u>Smart Social Media Strategies  From YouTube To Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[New] 2024 Approved  Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia G42 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g42-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G42 5GFRP Lock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discovering-the-best-in-webcam-videography-tech/"><u>[Updated] 2024 Approved  Discovering the Best in WebCam Videography Tech</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-g42-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia G42 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unmatched-video-quality-leading-windows-phones-apps/"><u>In 2024, Unmatched Video Quality  Leading Windows Phones Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-harmonizing-with-inshot-music-integration-guide-for-2024/"><u>[New] Harmonizing with InShot  Music Integration Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] 2024 Approved  Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/stop-screen-blackouts-with-obs-game-recordings/"><u>Stop Screen Blackouts with OBS Game Recordings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia G42 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-130-music-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia 130 Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-g42-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia G42 5G Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g42-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G42 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-g42-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia G42 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>[Updated] In 2024, Streamlined List  6 Efficient Mac Screen Recording Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g42-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G42 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-130-music-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia 130 Music FRP Bypass Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-g42-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia G42 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-spin-a-comprehensive-2023-users-guide-to-youtube-angles/"><u>2024 Approved  Mastering Video Spin  A Comprehensive 2023 User's Guide to YouTube Angles</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-nokia-130-music-frp-bypass-by-drfone-android/"><u>About Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/demystifying-complex-srt-concepts-for-professionals-for-2024/"><u>Demystifying Complex SRT Concepts for Professionals for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-g42-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia G42 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-mini-moviemaker-a-fun-guide-for-kids-to-make-their-own-movies/"><u>In 2024, The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G42 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/showcasing-the-best-of-image-integration-in-frames-for-24/"><u>Showcasing the Best of Image Integration in Frames for '24</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-130-music-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia 130 Music ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-g42-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia G42 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia G42 5G FRP Bypass</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/save-the-day-guide-to-downloading-and-converting-vimeo-videos-mp4/"><u>Save the Day  Guide to Downloading and Converting Vimeo Videos (MP4)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-evolved-sony-bdp-s6700-world/"><u>2024 Approved  Inside the Evolved Sony BDP-S6700 World</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Ways to Remove FRP Lock on Sony Xperia 10 Vwith/without a PC
-date: 2024-05-19T04:09:44.961Z
-updated: 2024-05-20T04:09:44.961Z
+date: 2024-07-14T15:19:25.323Z
+updated: 2024-07-15T15:19:25.323Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Hassle-Free Ways to Remove FRP Lock on Sony Xperia 10 Vwith/without a PC
 excerpt: This article describes Hassle-Free Ways to Remove FRP Lock on Sony Xperia 10 Vwith/without a PC
 keywords: Sony Xperia 10 V frp bypass,adb format tool,bypass frp,frp bypass android device,Sony Xperia 10 V guide to frp bypass,frp bypass,Sony Xperia 10 V frp bypass guide,guid for frp bypass,Sony Xperia 10 V easy guide how to bypass frp android,Sony Xperia 10 V adb format tool,addrom bypass,frp tools,Sony Xperia 10 V android frp bypass,easy guide how to bypass frp android,Sony Xperia 10 V frp tools,bypass android frp,frp bypass easy,remove frp via adb fastboot,pro frp bypass,Sony Xperia 10 V how to bypass frp without computer,frp bypass quickly,Sony Xperia 10 V frp bypass android,frp bypass android,frp bypass guide
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## Hassle-Free Ways to Remove FRP Lock on Sony Xperia 10 V Phones with/without a PC
@@ -84,7 +84,7 @@ Besides FRP lock, the screen lock of your Android phones including Sony  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Sony  within Minutes
 
@@ -113,7 +113,7 @@ Get into Locked Sony  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -209,6 +209,18 @@ Before downloading the APK file, you'll need a USB drive and an OTG cable to con
 
 ![turn off app scanning](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-06.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How To Use Pangu FRP Unlocker on Android?
 
 Before you start, ensure you have permission to unlock the FRP on the Android device. Also, check your internet connection, have enough phone charge, and a backup of your phone data. Now, follow these steps to use Pangu and remove the Google account FRP lock on your phone:
@@ -333,7 +345,7 @@ Facing the FRP (Factory Reset Protection) lock on your Sony phone can be a roadb
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best FRP Lock Removal Tool for Sony 
 
@@ -355,6 +367,9 @@ Follow these straightforward steps to bypass the FRP lock on your Sony phone usi
 
 - **Step 3.** Then you will see various device brands and select **OPPO** among the options.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select oppo](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 - **Step 4.** Once you have selected the Sony Xperia 10 V device brand, Dr.Fone will initiate the downloading process of FRP.
@@ -363,6 +378,18 @@ Follow these straightforward steps to bypass the FRP lock on your Sony phone usi
 
 - **Step 5.** When it finished downloading, please turn off your device and connect it to the computer. Press the **Volume Up** and **Down** buttons for about 3 seconds during the connecting process.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect device to computer](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-3.png)
 
 - **Step 6.** Wait for a few minutes until the FRP is unlocked.
@@ -371,8 +398,11 @@ Follow these straightforward steps to bypass the FRP lock on your Sony phone usi
 
 Wondershare Dr.Fone is a reliable software to bypass Sony FRP with a high success rate. Its easy-to-use feature makes it popular among users. We recommend it as your first choice.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2: Use Sony Emergency FRP Code
 
 The Sony Emergency FRP Code is an alternative method to bypass FRP, relying on a unique code provided by the Sony Xperia 10 V device manufacturer. After you do a factory reset on your Sony smartphone, don't rush to set it up. If you set up your device, the FRP lock will appear on the screen. When you go to the language selection screen, tap on the emergency call option to open the dialer. That's where you will be entering the **Sony FRP bypass code**. Follow these steps to remove the FRP lock from your smartphone.
@@ -410,11 +440,14 @@ For those seeking a manual approach, the Talkback Method involves leveraging the
 - **Step 11.** Go to “Settings” from the “Profile” icon and select "YouTube Terms and Services" from "History & Privacy".
 - **Step 12.** Next, tap on the "Accept and Continue" option. Select “Next” and tap on "No Thanks" on the next page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Which Method is Best to Bypass Sony FRP Lock?
 
 Choosing the right method to bypass Sony FRP depends on your preferences, technical proficiency, and urgency. Wondershare [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a swift and user-friendly solution, the Sony Emergency FRP Code provides an official route, while the Talkback Method caters to those who prefer a manual approach. Consider the advantages and disadvantages outlined above to make an informed decision and regain access to your Sony device efficiently.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: FAQ for Bypassing Sony FRP (Factory Reset Protection)
 
@@ -432,7 +465,7 @@ There is no official emergency code for bypassing FRP on Sony or other Android d
 
 Unlocking your Sony mobile's screen with Dr.Fone - Screen Unlock (Android) is a seamless solution. Unlike hard resetting, which often leads to FRP lock issues, Dr.Fone provides a faster and safer alternative. This [Sony Unlock Tool](https://drfone.wondershare.com/unlock/oppo-password-unlock-tool.html) swiftly bypasses the lock screen without requiring a password, ensuring a secure and efficient process.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 4\. How to remove an admin in Sony ?
 
@@ -471,3 +504,52 @@ Let's conclude our guide on how to bypass the **Sony FRP** lock. You can remove 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-105-classicfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 105 ClassicFRP Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-105-classic-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia 105 Classic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nokia-105-classic-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nokia 105 Classic FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-105-classic-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 105 Classic Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-105-classic-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia 105 Classic FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-best-meme-photo-editor/"><u>2024 Approved  Best Meme Photo Editor</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-105-classic-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia 105 Classic Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-105-classic-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia 105 Classic Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-105-classic-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia 105 Classic FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-105-classic-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia 105 Classic FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-guide-non-commercial-android-recorder-choice/"><u>In 2024, Essential Guide  Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel A70</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-105-classic-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-105-classic-frp-by-drfone-android/"><u>How Can We Bypass Nokia 105 Classic FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-105-classic-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia 105 Classic Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-online-presence-through-youtube-ad-and-image-marketing/"><u>2024 Approved  Maximizing Online Presence Through YouTube Ad & Image Marketing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-105-classic-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia 105 Classic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>[Updated] HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-105-classic-by-drfone-android/"><u>How to Bypass FRP on Nokia 105 Classic?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-105-classic-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia 105 Classic FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-105-classic-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia 105 Classic FRP?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-smooth-operator-removing-camera-shake-in-after-effects-for-2024/"><u>New Smooth Operator Removing Camera Shake in After Effects for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-105-classic-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia 105 Classic ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-105-classic-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-105-classic-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia 105 Classic?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-105-classic-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia 105 Classic Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-105-classicwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia 105 Classicwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-105-classic-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia 105 Classic FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-105-classic-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia 105 Classic Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-105-classic-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia 105 Classic FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-105-classic-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia 105 Classic FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instasoul-unleash-your-essence-through-100-dynamic-captions/"><u>In 2024, InstaSoul  Unleash Your Essence Through 100 Dynamic Captions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-105-classic-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia 105 Classic FRP Bypass</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-105-classic-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia 105 Classic FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-105-classic-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia 105 Classic FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia 105 Classic FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-105-classic-by-drfone-android/"><u>How to Bypass FRP from Nokia 105 Classic?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-105-classic-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia 105 Classic Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78 5G
-date: 2024-05-19T04:10:53.857Z
-updated: 2024-05-20T04:10:53.857Z
+date: 2024-07-14T16:59:12.975Z
+updated: 2024-07-15T16:59:12.975Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78 5G
 excerpt: This article describes A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78 5G
 keywords: pangu frp bypass review,bypass android device frp,Oppo A78 5G addrom bypass,frp bypass easy,Oppo A78 5G guide to frp bypass,Oppo A78 5G frp bypass quickly,Oppo A78 5G how to bypass frp without computer,android frp bypass,Oppo A78 5G android frp bypass,remove frp via adb fastboot,best frp bypass,Oppo A78 5G frp bypass guide,android device frp bypass,pro frp bypass,guide to frp bypass,frp bypass quickly,Oppo A78 5G bypass frp,bypass frp,Oppo A78 5G how to bypass frp tool,Oppo A78 5G frp bypass easy,Oppo A78 5G pro frp bypass,Oppo A78 5G frp bypass android,Oppo A78 5G frp tools,frp bypass guide
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78 5G
@@ -46,12 +46,15 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 7 – Nougat_`
 - `_Android 8- Oreo_`
 - `_Android 9- Pie_`
-- `_Android 10 – Q ( expected to work though not tested as yet)_`
+- `_Android 10 – Q (expected to work though not tested as yet)_`
 
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -78,7 +81,7 @@ After the execution of the commands, the FRP lock will be removed from your Andr
 
 ### Steps to remove FRP using Fastboot
 
-- **Step 1.** Put the Android device into the bootloader or fastboot mode. ( depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
+- **Step 1.** Put the Android device into the bootloader or fastboot mode. (depending on the model and brand of your Android device, the process of entering into the fastboot will differ).
 - **Step 2.** Connect your phone to your PC using a USB cable.
 - **Step 3.** Next, depending on the system, enter the following command in the CMD window:
 
@@ -122,7 +125,7 @@ Considering the several limitations of the ADB and Fastboot command method, the 
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
 
@@ -233,7 +236,7 @@ Besides FRP lock, the screen lock of your Android phones including Oppo  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo  within Minutes
 
@@ -262,7 +265,10 @@ Get into Locked Oppo  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -325,6 +331,9 @@ The SIM card method is a favored FRP lock bypass approach among Oppo A78 5G user
 
 - **Step 4.** Add the contact you saved as the owner's contact and make a call. During the call, tap "Contacts" to access your saved contacts, and select the one you saved. On tapping the three dots on the top, select "Share” and choose "Share as text."
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select and share saved contact](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-7.jpg)
 
 - **Step 5.** Choose "XShare Mini" as the sharing option, grant the necessary permissions, and leave the Oppo A78 5G device on the "QR Code." Move to another device and access a web browser. Go to mobileteamofficials.com and download two apps: “Google Account Manager” and “Account Login/ FRP Bypass.”
@@ -345,6 +354,9 @@ The SIM card method is a favored FRP lock bypass approach among Oppo A78 5G user
 
 - **Step 9.** After signing in, return to the apps and open the Activity Launcher app. Within the app, tap "Android Setup" on the following screen and scroll down to press the "Android Setup" entry. This will perform the **Oppo A78 5G Lite FRP** **bypass** successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access activity launcher and unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-12.jpg)
 
 **Here is a video for you to learn how to bypass FRP:**
@@ -383,6 +395,9 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 7.** Close and exit the XShare APK on the FRP phone to return to the “App settings” screen. Launch the FRP Bypass APK, tap the “three dots” upon opening, and choose “Browser Sign-In.” Sign in with your Google Account ID and password.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open frp bypass tool to unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-19.jpg)
 
 - **Step 8.** Return to the “App settings” Screen and uninstall the Google Account Manager APK. Proceed to the initial “Welcome” screen by tapping the back key repeatedly. Initiate the Oppo A78 5G device setup procedure by tapping “Start.” You should now observe "Account Added," indicating successful FRP bypass on your **Oppo A78 5G FRP bypass Android 11**.
@@ -408,3 +423,52 @@ _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.F
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X6 Pro FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-v30t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme V30T Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-educator-elite-selective-learning-yt-channels-for-2024/"><u>[New] Educator Elite  Selective Learning YT Channels for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-x6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find X6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X6 Pro FRP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-supercharge-your-social-media-experience-with-the-best-chrome-vids-extensions-for-2024/"><u>[New] Supercharge Your Social Media Experience with the Best Chrome Vids Extensions for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-streamline-your-color-workflow-final-cut-pro-essentials-for-2024/"><u>New Streamline Your Color Workflow Final Cut Pro Essentials for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-x6-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find X6 Pro FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-find-x6-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Find X6 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-dos-and-donts-of-mixing-music-in-instagram-videos-for-2024/"><u>The Do's and Don'ts of Mixing Music in Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivate-audiences-unveiling-secrets-for-striking-youtube-banners-for-2024/"><u>[New] Captivate Audiences  Unveiling Secrets for Striking YouTube Banners for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-find-x6-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Find X6 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-find-x6-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find X6 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/iphoneandroids-best-5-multimedia-capturing-apps-reviewed-for-2024/"><u>IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-no-money-no-problem-adding-videos-to-written-pieces/"><u>[New] No Money, No Problem  Adding Videos to Written Pieces</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S18 Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/eliminate-non-existent-fb-ad-impressions/"><u>Eliminate Non-Existent FB Ad Impressions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Find X6 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-find-x6-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Find X6 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-subject-background-removal-techniques-in-photopea/"><u>[Updated] Unveil the Subject  Background Removal Techniques in Photopea</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-isolated-snaps-to-awe-inspiring-mosaic-symphony/"><u>From Isolated Snaps to Awe-Inspiring Mosaic Symphony</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-14-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 14 Pro?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New 2024 Approved Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-x6-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find X6 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-powerdirector-2024-reviewed/"><u>[Updated] Mastering PowerDirector  2024 Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x6-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X6 ProFRP Lock</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhancing-video-production-for-instagram-reels/"><u>[New] 2024 Approved  Enhancing Video Production for Instagram Reels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-find-x6-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Find X6 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Find X6 Pro?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Find X6 Pro FRP?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-gymnastics-mastering-the-art-of-pictorial-twists/"><u>[Updated] Photo Gymnastics  Mastering the Art of Pictorial Twists</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x6-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X6 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-pathway-to-a-clutter-free-device-with-video-deletion-tips-for-2024/"><u>Your Pathway to a Clutter-Free Device with Video Deletion Tips for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Find X6 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x6-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Find X6 Pro FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-x6-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find X6 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-find-x6-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Find X6 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/photo-perfection-in-a-pinch-with-top-apps-for-2024/"><u>Photo Perfection in a Pinch with Top Apps for 2024</u></a></li>
+</ul></div>

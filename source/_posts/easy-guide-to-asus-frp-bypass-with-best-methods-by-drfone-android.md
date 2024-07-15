@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Asus FRP Bypass With Best Methods
-date: 2024-05-19T04:09:47.018Z
-updated: 2024-05-20T04:09:47.018Z
+date: 2024-07-14T15:22:07.464Z
+updated: 2024-07-15T15:22:07.464Z
 tags: 
   - unlock
   - bypass android frp
@@ -10,7 +10,7 @@ categories:
 description: This article describes Easy Guide to Asus FRP Bypass With Best Methods
 excerpt: This article describes Easy Guide to Asus FRP Bypass With Best Methods
 keywords: how to bypass frp tool,android device frp bypass,Asus ROG Phone 8 frp hijacker download,frp bypass android device,Asus ROG Phone 8 guide to frp bypass,Asus ROG Phone 8 android frp bypass,Asus ROG Phone 8 about frp bypass,frp bypass android,Asus ROG Phone 8 how to bypass frp without computer,Asus ROG Phone 8 frp bypass quickly,Asus ROG Phone 8 pro frp bypass,Asus ROG Phone 8 how to bypass frp tool
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Easy Guide to Asus ROG Phone 8 FRP Bypass With Best Methods
@@ -19,6 +19,9 @@ The Google Factory Reset Protection (FRP) lock is a security measure in Android 
 
 The first one is forgetting your Google ID details. The other situation is buying a second-hand device locked with the previous owner's Google ID. This article deals with **Asus ROG Phone 8 FRP bypass Android 11**. It provides three methods to bypass FRP, allowing you to access your Asus ROG Phone 8 again.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![performing tecno pop 5 frp bypass procedure](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-1.jpg)
 
 ## Part 1: \[Direct Solution\] Asus ROG Phone 8 FRP Bypass Android 11 With Wondershare Dr.Fone
@@ -128,6 +131,9 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 7.** Close and exit the XShare APK on the FRP phone to return to the “App settings” screen. Launch the FRP Bypass APK, tap the “three dots” upon opening, and choose “Browser Sign-In.” Sign in with your Google Account ID and password.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open frp bypass tool to unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-19.jpg)
 
 - **Step 8.** Return to the “App settings” Screen and uninstall the Google Account Manager APK. Proceed to the initial “Welcome” screen by tapping the back key repeatedly. Initiate the Asus ROG Phone 8 device setup procedure by tapping “Start.” You should now observe "Account Added," indicating successful FRP bypass on your **Asus ROG Phone 8 FRP bypass Android 11**.
@@ -234,6 +240,9 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 ## FAQs about Google Lock Bypass
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Does Factory Reset Remove Google Account?
 
 There may be instances when you require wiping out smartphone data to keep it safe against unauthorized access. Maybe you wish to pass on your device to another user or migrate to a different device. It is important to make sure that all accounts linked to the phone are deleted from the Asus ROG Phone 8 device. It should be understood here that a factory reset will not remove Google or other accounts from the Asus ROG Phone 8 device. The process restores the default factory settings of the phone that you got at the first purchase.
@@ -253,7 +262,7 @@ Developments in electronic technology have brought a series of benefits, coverin
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Asus ROG Phone 8 Phone in a Flash
 
@@ -278,7 +287,10 @@ You will come across multiple **Asus FRP bypass tools for pc** which is sure to 
 
 So, to save your time and effort to try to test these programs, we have shortlisted the top 5 ones that can be relied on.
 
-## 1\. [Asus FRP Tool](https://www.mediafire.com/file/zml0x2chpsmsuob/HuaweiUnlock-Tool.rar/file)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Asus FRP Tool
 
 To remove FRP locks on your Asus and Honor smartphones as well as tablets, Asus FRP Tool is one of the best and most widely used tools. The process is simple where you need to download and install the tool to your system and then connect your phone to your PC and then perform the quick steps for FRP removal.
 
@@ -296,9 +308,9 @@ Now, to make a clear conclusion, the Asus FRP tool is a safe and reliable progra
 
 _**Tips:** Struggling to unlock your Asus device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the ideal solution. This user-friendly tool removes pattern, PIN, password, and fingerprint locks, making it easy to bypass your Asus lock screen. It's also effective for bypassing Google FRP on Samsung, Xiaomi, Redmi, Oppo, Realme, and Vivo devices._
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-## 2\. [GSM Flasher ADB FRP Bypass Tool](https://www.mediafire.com/file/mbab6ctpv61um4l/GSM+Flasher+ADB+Bypass+FRP+Tool.rar/file)
+## 2\. GSM Flasher ADB FRP Bypass Tool
 
 It is a Windows-based powerful tool that helps remove FRP lock on an array of devices and models including Huawei, Micromax, Oppo, Samsung, and others. The ADB commands are used for communicating with the Asus ROG Phone 8 device and getting a variety of tasks done, including FRP lock. For this method, you simply need to download the tool, which needs ADB drivers and a USB data cable.
 
@@ -314,12 +326,15 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 
 Communicate with your device using the ADB FRP tool for removing the FRP lock in a few quick steps and the method is apt even for the people who are not pro or tech-expert.
 
-## 3\. [Asus FRP Tool FastbootReader](https://dmfrpfile.com/wp-content/uploads/2021/10/FastbootReader.rar)
+## 3\. Asus FRP Tool FastbootReader
 
 This Windows-based tool will let you get rid of the FRP lock on your Asus as well as Honor devices in a few steps. You would just need the system to install the tool and a USB cable for connecting the phone to your system. Also, the USB drivers for Asus need to be installed.
 
 #### Supported OS: Windows 7/8/8.1/10
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fastbootreader](https://images.wondershare.com/drfone/article/2022/05/fastbootreader.jpg)
 
 #### Key features
@@ -330,7 +345,7 @@ This Windows-based tool will let you get rid of the FRP lock on your Asus as wel
 
 Another widely used Windows-based program that can help you with Google lock removal on Asus as well as Honor devices including phones and tablets. Once the program is downloaded, simply connect your Asus ROG Phone 8 and choose to remove the lock.
 
-## 4\. [D&G Password Unlocker](https://drive.google.com/u/0/uc?id=1l4cBLwD0jw57CxZlU7rqczVTd7c3K1h5&export=download)
+## 4\. D&G Password Unlocker
 
 Removing FRP lock not only on your Asus devices but others like Samsung, Motorola, HTC, and more can be done using this popular tool. Available for quick download on the Windows system, the process of bypassing the lock is simple and can be handled by all.
 
@@ -346,7 +361,7 @@ Removing FRP lock not only on your Asus devices but others like Samsung, Motorol
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
 
-## 5\. [Octoplus FRP Tool](https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.1.exe)
+## 5\. Octoplus FRP Tool
 
 To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and others. In android devices, this is a decent tool to consider. No advanced tech-learning or other hassled requirements are there for this tool to help you bypass the FRP lock.
 
@@ -370,7 +385,7 @@ If you too have got into this trap, then no need to worry as [Dr.Fone - Screen U
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 You do not need to be a tech expert to use this tool as its interface is very user-friendly and simple. You just need to quickly download the software and follow the instructions as they appear and in no time, you will have an unlocked device in front of you and that too without any harm.
 
@@ -391,7 +406,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Asus Phones within Minutes
 
@@ -418,3 +433,52 @@ The above-listed **Best Asus FRP tools 2024** will come in quite handy when you 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-masterful-approaches-to-producing-captivating-fb-video-campaigns-for-2024/"><u>[Updated] Masterful Approaches to Producing Captivating FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-s23-fe-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy S23 FE FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s23-fe-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S23 FE FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FEwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s23-fe-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-mac-user-writers-guide-to-dynamic-srt-adjustment-for-2024/"><u>The Mac User’ Writers Guide to Dynamic SRT Adjustment for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-s23-fe-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy S23 FE Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s23-fe-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S23 FE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-definitive-guide-to-sound-sanctity-expert-approaches-for-reducing-auditory-interference-onoffline-methods-for-2024/"><u>The Definitive Guide to Sound Sanctity Expert Approaches for Reducing Auditory Interference (On/Offline Methods) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[New] Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-moto-g84-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Moto G84 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-s23-fe-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy S23 FE FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fe-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FE Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-video-editors-for-windows-11-free-and-paid/"><u>New In 2024, Unleash Your Creativity Top Video Editors for Windows 11 (Free and Paid)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-constructing-cozy-cornerstones-easy-mc-house-plans/"><u>[New] Constructing Cozy Cornerstones  Easy MC House Plans</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-fe-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 FE Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy S23 FE FRP Without Computer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713941672378-15-camera-shake-preset-for-premiere-pro-to-add-camera-shake-with-simple-keyframes-each-preset-is-editable-with-easy-steps-make-your-video-shocking-and-impre/"><u>15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-p55plus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from P55+</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy S23 FE FRP?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-panoramic-versus-full-immersion-visual-media-tech-for-2024/"><u>Exploring Panoramic Versus Full-Immersion Visual Media Tech for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-fe-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 FE Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s23-fe-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S23 FE Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23-fe-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23 FE FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s23-fe-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S23 FE FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-convincing-movie-markers/"><u>[Updated] Crafting Convincing Movie Markers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-fe-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S23 FE Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-initial-cinematographers-work-scrutiny-and-replacement-ideas/"><u>2024 Approved  Initial Cinematographer's Work Scrutiny & Replacement Ideas</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-fefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 FEFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-veil-of-virtual-vaults-downloading-fb-hidden-videos/"><u>Unveiling the Veil of Virtual Vaults: Downloading FB Hidden Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S23 FE FRP Android 10/11/12/13</u></a></li>
+</ul></div>

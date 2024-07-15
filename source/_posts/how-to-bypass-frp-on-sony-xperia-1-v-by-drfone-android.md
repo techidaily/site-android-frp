@@ -1,7 +1,7 @@
 ---
 title: How to Bypass FRP on Sony Xperia 1 V?
-date: 2024-06-08T06:39:38.753Z
-updated: 2024-06-09T06:39:38.753Z
+date: 2024-07-14T15:16:58.902Z
+updated: 2024-07-15T15:16:58.902Z
 tags: 
   - unlock
   - bypass android frp
@@ -66,7 +66,7 @@ This method will teach us how to bypass FRP on Sony Xperia 1 V devices like Gala
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Bypass FRP on Sony Xperia 1 V and Solve Your Screen Locks!
 
@@ -116,6 +116,9 @@ Follow these steps:
 - **Step 3:** You'll see all the linked email accounts. Choose the one that you want to delete.
 - **Step 4:** Click Remove Account and then click Remove Account once again to confirm. That's it!
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 See, you can quickly bypass FRP on Sony Xperia 1 V with these methods. But remember that disabling FRP will leave your phone without security protection. Also, bypassing FRP using the YouTube method can be lengthy and complex. So, use Wondershare Dr.Fone to skip FRP on Android 6/7/8/9/10/11/12/13. Give it a try!
@@ -128,6 +131,9 @@ See, you can quickly bypass FRP on Sony Xperia 1 V with these methods. But remem
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 5 Sony Xperia 1 V Bypass FRP Tools for PC That Actually Work
 
 _Looking for the best Sony FRP tools that are also pocket friendly?_
@@ -142,7 +148,7 @@ You will come across multiple **Sony FRP bypass tools for pc** which is sure to 
 
 So, to save your time and effort to try to test these programs, we have shortlisted the top 5 ones that can be relied on.
 
-## 1\. [Sony FRP Tool](https://www.mediafire.com/file/zml0x2chpsmsuob/HuaweiUnlock-Tool.rar/file)
+## 1\. Sony FRP Tool
 
 To remove FRP locks on your Sony and Honor smartphones as well as tablets, Sony FRP Tool is one of the best and most widely used tools. The process is simple where you need to download and install the tool to your system and then connect your phone to your PC and then perform the quick steps for FRP removal.
 
@@ -160,9 +166,12 @@ Now, to make a clear conclusion, the Sony FRP tool is a safe and reliable progra
 
 _**Tips:** Struggling to unlock your Sony device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the ideal solution. This user-friendly tool removes pattern, PIN, password, and fingerprint locks, making it easy to bypass your Sony lock screen. It's also effective for bypassing Google FRP on Samsung, Xiaomi, Redmi, Oppo, Realme, and Vivo devices._
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-## 2\. [GSM Flasher ADB FRP Bypass Tool](https://www.mediafire.com/file/mbab6ctpv61um4l/GSM+Flasher+ADB+Bypass+FRP+Tool.rar/file)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. GSM Flasher ADB FRP Bypass Tool
 
 It is a Windows-based powerful tool that helps remove FRP lock on an array of devices and models including Huawei, Micromax, Oppo, Samsung, and others. The ADB commands are used for communicating with the Sony Xperia 1 V device and getting a variety of tasks done, including FRP lock. For this method, you simply need to download the tool, which needs ADB drivers and a USB data cable.
 
@@ -178,7 +187,7 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 
 Communicate with your device using the ADB FRP tool for removing the FRP lock in a few quick steps and the method is apt even for the people who are not pro or tech-expert.
 
-## 3\. [Sony FRP Tool FastbootReader](https://dmfrpfile.com/wp-content/uploads/2021/10/FastbootReader.rar)
+## 3\. Sony FRP Tool FastbootReader
 
 This Windows-based tool will let you get rid of the FRP lock on your Sony as well as Honor devices in a few steps. You would just need the system to install the tool and a USB cable for connecting the phone to your system. Also, the USB drivers for Sony need to be installed.
 
@@ -194,7 +203,7 @@ This Windows-based tool will let you get rid of the FRP lock on your Sony as wel
 
 Another widely used Windows-based program that can help you with Google lock removal on Sony as well as Honor devices including phones and tablets. Once the program is downloaded, simply connect your Sony Xperia 1 V and choose to remove the lock.
 
-## 4\. [D&G Password Unlocker](https://drive.google.com/u/0/uc?id=1l4cBLwD0jw57CxZlU7rqczVTd7c3K1h5&export=download)
+## 4\. D&G Password Unlocker
 
 Removing FRP lock not only on your Sony devices but others like Samsung, Motorola, HTC, and more can be done using this popular tool. Available for quick download on the Windows system, the process of bypassing the lock is simple and can be handled by all.
 
@@ -210,7 +219,7 @@ Removing FRP lock not only on your Sony devices but others like Samsung, Motorol
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
 
-## 5\. [Octoplus FRP Tool](https://octoplusbox.com/files/softs/install_octoplus_huawei_1.3.1.exe)
+## 5\. Octoplus FRP Tool
 
 To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and others. In android devices, this is a decent tool to consider. No advanced tech-learning or other hassled requirements are there for this tool to help you bypass the FRP lock.
 
@@ -234,7 +243,7 @@ If you too have got into this trap, then no need to worry as [Dr.Fone - Screen U
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 You do not need to be a tech expert to use this tool as its interface is very user-friendly and simple. You just need to quickly download the software and follow the instructions as they appear and in no time, you will have an unlocked device in front of you and that too without any harm.
 
@@ -255,7 +264,7 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Sony Phones within Minutes
 
@@ -311,6 +320,9 @@ If you do, follow these steps to start bypassing your Google account:
 
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use Pin Lock Sim to Access Chrome
 
 **Step 1:** Start the cycle by eliminating the SIM card from your Pixel device. Presently connect it to Wi-Fi.
@@ -323,6 +335,9 @@ If you do, follow these steps to start bypassing your Google account:
 
 **Step 5:** Select the See All options. Search for the YouTube App and afterward go to Settings and open History and Privacy to access the Youtube ToS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube terms of service](https://images.wondershare.com/drfone/article/2022/08/google-pixel-frp-bypass-3.jpg)
 
 **Step 6:** This will open the Chrome Browser, where you select Accept and Continue. Then, at that point, pick Next > No Thanks.
@@ -351,7 +366,7 @@ We have presented numerous FRP methods in this guide. Nonetheless, they might fa
 
 ![complete installation](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Definition of Sony Xperia 1 V  FRP
 
@@ -379,3 +394,59 @@ This **Sony Xperia 1 V  FRP bypass** article gives an insight into the methods y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-sony-xperia-5-v-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Sony Xperia 5 V FRP Without Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-with-minitool-movie-maker-review-instructions-and-options/"><u>Updated In 2024, Unleash Your Creativity with Minitool Movie Maker Review, Instructions, and Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-pros-picks-the-5-ultimate-gaming-stream-cams-uncovered/"><u>[Updated] 2024 Approved  Pro's Picks  The 5 Ultimate Gaming Stream Cams Uncovered</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-auditory-purity-in-the-digital-realm-removing-unwanted-sounds-with-ease-online/"><u>In 2024, Auditory Purity in the Digital Realm Removing Unwanted Sounds with Ease Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-sony-xperia-5-v-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Sony Xperia 5 V FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-lite-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Lite Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-convert-mp4-to-mp3-on-the-go-best-apps-for-iphone-and-android-for-2024/"><u>New Convert MP4 to MP3 on the Go Best Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-xperia-5-v-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Xperia 5 V Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform-for-2024/"><u>An Easy-to-Follow Guide  Adding YouTube Playlists to Your Online Platform for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Sony Xperia 5 V FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-xperia-5-v-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 5 V</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-sony-xperia-5-v-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Sony Xperia 5 V FRP In 3 Different Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y100i-power-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y100i Power 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-demystifying-viewer-statistics-on-instagram-images/"><u>[New] Demystifying Viewer Statistics on Instagram Images</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-sony-xperia-5-v-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Sony Xperia 5 V FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-for-cost-free-live-broadcast-on-smartphones/"><u>Essential Guide for Cost-Free Live Broadcast on Smartphones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-lava-storm-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Lava Storm 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-right-tools-for-converting-60fps-frame-rate-in-videos/"><u>New Right Tools for Converting 60FPS Frame Rate in Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-sony-xperia-5-v-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Sony Xperia 5 V FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-sony-xperia-5-v-frp-bypass-by-drfone-android/"><u>In 2024, About Sony Xperia 5 V FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-youtube-alternative-free-conversion-of-fb-videos-to-mp4-format-hd-quality-for-2024/"><u>[New] YouTube Alternative  Free Conversion of FB Videos to MP4 Format (HD Quality) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-online-journey-discovering-custom-ringtones/"><u>Ideal Online Journey  Discovering Custom Ringtones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-fixes-for-annoying-ipad-recording-problems-for-2024/"><u>[New] Quick Fixes for Annoying iPad Recording Problems for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-vivo-v29-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V29 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-5-v-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 5 V Phone FRP Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-hot-30i-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 30i in Minutes | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exploring-past-social-media-engagement-via-twitter-archive/"><u>[New] In 2024, Exploring Past Social Media Engagement via Twitter Archive</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-sony-xperia-5-v-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Sony Xperia 5 V FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-an-odyssey-through-time-unexplored-worlds-in-classic-books/"><u>2024 Approved  An Odyssey Through Time  Unexplored Worlds in Classic Books</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818185907-windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-sony-xperia-5-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Sony Xperia 5 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-sony-xperia-5-v-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Sony Xperia 5 V Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-story-5-top-movie-intro-software-for-unique-openers-for-2024/"><u>Updated Elevate Your Story 5 Top Movie Intro Software for Unique Openers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>[New] Coherent and Curated YouTube Playlists  Online & Mobile Assembly Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cinematic-clarity-expert-4k-screens-for-editing-artistry/"><u>[Updated] Cinematic Clarity  Expert 4K Screens for Editing Artistry</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-sony-xperia-5-v-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Sony Xperia 5 V FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-xperia-5-vwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Xperia 5 Vwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Sony Xperia 5 V</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-sony-xperia-5-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Sony Xperia 5 V Phones with/without a PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-xperia-5-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Xperia 5 V Phones with/without a PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-secure-vimeo-to-local-downloaders/"><u>[Updated] 2024 Approved  Secure Vimeo to Local Downloaders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-sony-xperia-5-v-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Sony Xperia 5 V FRP Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Bypass FRP from Sony Xperia 5 V?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Bypass FRP on Sony Xperia 5 V?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V</u></a></li>
+</ul></div>
