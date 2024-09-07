@@ -1,7 +1,7 @@
 ---
 title: In-Depth Tech Reviews by Tom - Uncover the Latest in Computing Hardware
-date: 2024-08-09T09:39:07.219Z
-updated: 2024-08-10T09:39:07.219Z
+date: 2024-09-06T20:13:42.596Z
+updated: 2024-09-07T20:13:42.596Z
 tags:
   - desktop
 categories:
@@ -9,17 +9,26 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/MT59QNoiySbCsmDjgxnd4H-320-80.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Hardware Guides by Tom - Find Your Perfect Match
 
 Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-first-mini-pcs-feature-classic-retro-styling) and subsequent[specs and pricing](https://www.tomshardware.com/news/ayaneo-retro-mini-pc-am01-uses-older-amd-apus-but-is-cheap) reveal, Ayaneo posted to[their blog](https://www.ayaneo.com/article/818) with up-to-date info on the AM01, including the reveal of a Zen 3-based Ryzen 7 5800U version. The two cheaper versions use a[Ryzen 3 3200U](https://www.tomshardware.com/news/amd-picasso-ryzen-3000-apu,38241.html) and a[Ryzen 7 5700U](https://www.tomshardware.com/news/amd-ryzen-7-5700u-lucienne-benchmark) based on AMD's Zen 1 and Zen 2 architectures. For your reference, the[Zen 3](https://www.tomshardware.com/news/amd-zen-3-ryzen-5000-release-date-specifications-pricing-benchmarks-all-we-know) architecture was released in late 2020, and we're currently awaiting the release of[Zen 5](https://www.tomshardware.com/news/amd-shares-new-cpu-core-roadmap-3nm-zen-5-by-2024-4th-gen-infinity-architecture) here in 2024.
 
  So, for the most part, the Ayaneo AM01 is still pretty much the same classic Macintosh-inspired mini-PC we covered before and has a very similar pricing scheme with the[Ryzen 7 5800U](https://www.tomshardware.com/news/amd-ryzen-7-5800u-cezanne-zen-3-apu-geekbench-benchmark) as it does with other units. As-is, the Zen 3 Ryzen 7 5800U model looks astonishingly identical to the Zen 2 Ryzen 7 5700U at a glance, with the same basic core/thread spec, though, of course, the newer architecture has much better performance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.](https://cdn.mos.cms.futurecdn.net/zkexFiVS4JdrAYoKakvYu5-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.  (Image credit: Ayaneo)
 
  The Ayaneo blog post also confirms that the Ryzen 7 is slated to operate at up to 35 Watts on the AM01, an ample boost to the official maximum TDP of 25 Watts. This higher TDP enabled alongside the proper[RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) selection should help maximize the performance of the iGPU within.
@@ -29,7 +38,16 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 

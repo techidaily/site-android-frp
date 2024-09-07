@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme C67 4G
-date: 2024-07-14T18:06:26.611Z
-updated: 2024-07-15T18:06:26.611Z
+date: 2024-09-06T20:07:34.291Z
+updated: 2024-09-07T20:07:34.291Z
 tags: 
   - unlock
   - bypass android frp
@@ -23,6 +23,12 @@ Factory Reset Protection is one of the security measures available on Android 5.
 
 ## Part 1: Quick Overview of ADB and Fastboot Commands
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. What are ADB and Fastboot?
 
 Standing for Android Debug Bridge, ADB and Fastboots are the methods through which communication with an Android device can be done through a computer. Under this method, the commands and the actions that are sent from the system are performed on your Android device.
@@ -37,6 +43,18 @@ Using the versatile ADB command-line tool and Fastboots, the Google FRP lock can
 
 ADB comes included in the Android SDK Platform-Tools package, and this can be downloaded using the SDK manager.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. What Are the Android Versions that ADB and Fastboot Command Support?
 
 The Android versions on which ADB and Fastboot commands can be used are as follows:
@@ -48,6 +66,12 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 - `_Android 9- Pie_`
 - `_Android 10 – Q (expected to work though not tested as yet)_`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
@@ -56,6 +80,12 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 1.** Firstly, download the ADB installed setup file and then extract the files from the toolkit on your system in a folder.
 - **Step 2.** Next, you need to run adb.setup.exe and then type Y for installing the drivers for ADB and Fastboot.
 - **Step 3.** Again, enter Y for installing the drivers and when done successfully, the command window will close.
@@ -77,7 +107,10 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 After the execution of the commands, the FRP lock will be removed from your Android device.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Steps to remove FRP using Fastboot
 
@@ -119,12 +152,24 @@ ADB is a command-based method, and thus it is important that the commands are en
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
@@ -150,14 +195,17 @@ The process of using the software is user-friendly and thus can also be used by 
 
 - **Step 3.** Follow the next steps as they appear. Once the FRP lock is successfully removed, the prompt window will show its completion. Click Done if you have successfully executed the process.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are well versed with the commands of ADB and Fastboots you can go ahead and use the **ADB bypass FRP tool** for removing the FRP lock but if this command line method seems complicated for you, Dr.Fone Screen Unlock is the best tool to use.
@@ -184,9 +232,6 @@ But before starting, let’s learn about **AddROM**!
 
 However, the good thing about this tool is that you don't need any PC or laptop to act. All you are supposed to do is download and install the **AddROM APK** file on your Android phone. After that, you can bypass the FRP lock in just a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Official logo of addROM.](https://images.wondershare.com/drfone/article/2024/03/addrom-bypass-tool-to-unlock-frp-lock-screen-01.png)
 
 But if you have an Android phone with a version above 9.0, you can try an alternate method explained in this article. Let’s move further to the steps of using AddROM.
@@ -207,6 +252,12 @@ Once you have downloaded and installed the **AddROM APK** file, you can follow t
 
 ![Enter the phone number and YouTube Image name.](https://images.wondershare.com/drfone/article/2024/03/addrom-bypass-tool-to-unlock-frp-lock-screen-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Wait for a while until the AddROM YouTube channel will automatically open on your locked phone. Click the "**Menu**" icon at the top right corner and select "Terms & Privacy Policies."
 
 **Step 5:** After clicking Terms & Privacy Policies, a browser page will be opened. Click the search bar to type. Here, type "**addrom.com/bypass,**" scroll down, and then download the relevant "**Google Account Manager** " (GAM) APK.
@@ -219,12 +270,30 @@ Once you have downloaded and installed the **AddROM APK** file, you can follow t
 
 After a restart, you won't get to see the FRP lock again. It will be successfully removed. However, most users find this method very complex, and the success rate is also not guaranteed.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Does AddROM Really Work?
 
 The success rate of the **AddROM bypass** can only be endorsed from the reviews of previous users. They can tell us if the users successfully bypass the FRP locks with this tool. From anecdotal research, we have discovered that some users could bypass the lock.
 
 However, there were a lot of users who reported that they regained access to their phones. On the contrary, we also discovered that some users complained about the inefficiency of this tool. It was also incompatible with various Android versions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. Pros & Cons of AddROM
 
 While these kinds of tools offer us a lot of benefits, they also have some drawbacks. In this section, we will explore some of the potential pros & cons of **AddROM FRP bypass**.
@@ -247,6 +316,12 @@ Sometimes, using APK files to remove the FRP lock may not work. Moreover, downlo
 
 Therefore, we recommend you go for a more effective and safer option. In the next section, we will discover the best alternative to **AddROM APK** to bypass the FRP lock.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. Editors’ Pick-Best Alternative to AddROM
 
 Using unethical means to bypass the FRP lock can be troublesome. You may end up compromising the security or warranty of your device.
@@ -259,6 +334,18 @@ The best thing is that you need to be a tech expert to use this tool. Its user-f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best AddROM Alternative to Bypass FRP and Solve Your Screen Locks
@@ -284,10 +371,22 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 
 ![Choose the phone brand you are using.](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Now, select the Android OS version of your phone and click the "**Start** " button. However, if you are not sure about the Android version, you can select the "**All Android Version (One-Click Removal)** " option.
 
 ![Select the Android version of your smartphone.](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Here, you have to follow the on-screen instructions. Find the " **Emergency Call** " button on your Android and click it. Type **#0#** to open a secret menu. Then, click the "**Next** " button on your computer screen.
 
 **Step 6:** You will see a pop-up on your phone's screen to activate USB debugging. After allowing it on your device, click " **Authorized**" on your Dr.Fone screen.
@@ -296,8 +395,26 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 
 ![Once the process is completed, click Done.](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Did you see how easy it is to **bypass the FRP lock** with the help of Dr.Fone? There is no need to manually perform complex steps. Just a few clicks and you are done. However, if you still want to continue with the AddROM Samsung, you must consider some factors.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6. Factors to Consider Before Using AddROM
 
 Here are some factors that you should consider before using **AddRombypass**:
@@ -309,6 +426,18 @@ Here are some factors that you should consider before using **AddRombypass**:
 - Research feedback from other users who have used this tool to bypass FRP locks. It can help you to understand potential risks and benefits.
 - Before using **AddROM**, ensure you have backed up important data on your device. It will help you to prevent loss during the unlocking process.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We all know that FRP locks can be annoying and cause you trouble. But thankfully, there are different ways available to bypass it. We hope you successfully removed the FRP lock and regained access to your Android phone.
@@ -325,24 +454,60 @@ Smartphones are now integral to people's daily lives. In recent days Realme C67 
 
 While this feature has its advantages, it can pose a significant challenge when users. This is especially the case when they need to perform a factory reset but have forgotten their Google account credentials. In this comprehensive tutorial for 2023, we will guide you step by step on how to bypass the **Realme C67 4G FRP**.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Understanding the Realme C67 4G FRP
 
 Having a clear understanding of what exactly Realme C67 4G FRP entails is important. It will make the process of the **Realme C67 4G FRP bypass** easier and hassle-free. In this section, we will explore the concept of FRP, its purpose, and how it is activated on the Realme C67 4G:
 
 ![bypass Realme C67 4G frp lock](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is Realme C67 4G FRP?
 
 FRP, or Factory Reset Protection, is a security feature integrated into Android devices. It is also included on the Realme C67 4G by Google to prevent unauthorized access to the Realme C67 4G device. When FRP is activated on a smartphone, it links the Realme C67 4G device to the user's Google account.
 
 That makes it mandatory to verify the account credentials after performing a hard reset. In other words, FRP acts as a protective barrier. It ensures only the rightful owner can access the Realme C67 4G device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Purpose of Realme C67 4G FRP
 
 The primary purpose of Realme C67 4G FRP is to safeguard personal data and sensitive information stored on the Realme C67 4G device. It works as an important security measure in the unfortunate event of the Realme C67 4G device being lost or stolen. FRP ensures that no unauthorized individual can gain access to the Realme C67 4G device's contents. It does that by requiring the original owner's Google account login details.
 
 By requiring the user's Google account credentials, FRP reduces the chances of device misuse. Thus, it ultimately enhances the data security and privacy of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activation Methods of Realme C67 4G FRP
 
 When you register a Google account on your device, the FRP gets activated automatically. If you remove the Google account from the Realme C67 4G device before performing a factory data reset, the FRP will be disabled. However, once the FRP is enabled, it will stop you from using your Realme C67 4G after a factory data reset in an untrusted environment.
@@ -361,6 +526,12 @@ Before proceeding with the Realme C67 4G FRP bypass, there are some essential th
 2. **Warranty Void:** Bypassing FRP may void the warranty of your device. If your Realme C67 4G is still under warranty, consider contacting the manufacturer or authorized service center for help.
 3. **Security Risks:** Bypassing FRP can potentially expose your device to security risks. Only follow trusted guides and sources to avoid installing malicious software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Required Tools and Equipment
 
 To bypass Realme C67 4G FRP, you will need the following tools and equipment:
@@ -375,6 +546,12 @@ If you have recently bought a used Realme C67 4G and don't know the Google accou
 
 The best tool in this scenario to use is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). With the help of this tool, you can back up the entire data of your Realme C67 4G to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Ensure a Stable Internet Connection
 
 A stable and reliable internet connection is vital for a smooth FRP bypass. Make sure your computer and Realme C67 4G are connected to the internet throughout the process. FRP bypassing will need you to download related files to complete the procedure.
@@ -397,6 +574,18 @@ Before attempting this method, ensure that you have access to the Google account
 
 - **Step 3:** After entering the correct Google account credentials, the Realme C67 4G device will verify the information. If the details are correct, FRP will be bypassed, and you will gain access to your Realme C67 4G.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using FRP Bypass Tools
 
 To bypass the FRP on Realme C67 4G, you can utilize a specialized tool designed for this purpose. One highly recommended tool is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is known for its reliability in bypassing FRP locks on various Android devices. This tool supports 15+ different brands with 2000+ Android devices for FRP bypassing.
@@ -405,6 +594,24 @@ Apart from bypassing the FRP lock, this tool is also an expert in unlocking othe
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -428,12 +635,24 @@ On the following screen, select "Vivo" as the targeted phone brand and click "St
 
 ![choose Realme as device type](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Step 3: Complete the Realme C67 4G FRP Bypass Process
 
 Once the driver download is complete, turn off your Realme C67 4G smartphone. Now, connect the turned-off device to your computer while simultaneously pressing both volume keys for at least 3 seconds. This action will trigger the FRP bypass process, which should take a few minutes to complete.
 
 ![start removing frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Using Combination File
 
 The third method on the list for Realme C67 4G FRP bypass is using a combination file. In this method, you will need to use a specialized tool to bypass the FRP lock by putting your Realme C67 4G phone into Recovery Mode. The detailed steps for this method are following:
@@ -457,9 +676,6 @@ Navigating the workings of the **Realme C67 4G FRP bypass** can be challenging.
 
 It will also offer valuable tips to ensure a successful process. Moreover, it will explore alternative methods should the initial approaches prove unsuccessful.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Common Issues Faced During Bypassing Realme C67 4G FRP
 
 - **Incorrect Google Account Credentials:** One of the most common issues during FRP bypass is entering incorrect Google account credentials. Double-check the email address and password associated with the Realme C67 4G device.
@@ -475,6 +691,12 @@ It will also offer valuable tips to ensure a successful process. Moreover, it wi
 4. **Read User Reviews:** If using third-party tools, read user reviews and forums. This will help you gauge their effectiveness and safety.
 5. **Follow Instructions Carefully:** Whether using official methods or alternative tools, follow instructions diligently to avoid mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Alternative Methods or Tools if the Initial Methods Fail
 
 If the initial methods discussed in this article are failed to bypass the Realme C67 4G FRP, then try these alternate methods to turn off the FRP lock:
@@ -488,9 +710,6 @@ If you have bought the Realme C67 4G in used condition and it is FRP-locked, try
 Have you tried various methods to bypass FRP on your Realme C67 4G without success? It is the right time to contact professionals. Get in touch with Vivo's official customer services or visit an authorized service center. They have the expertise to handle device-related issues, including FRP lockouts. Explain your situation to the support staff, and they will guide you through the appropriate steps to regain access.
 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for the **Realme C67 4G FRP bypass**. While there are several methods available, we highly recommend using the Wondershare Dr.Fone as the best choice. Dr.Fone is a reputable and reliable tool that offers a seamless and secure FRP bypass process.
@@ -510,3 +729,53 @@ It prioritizes data integrity and user privacy. Moreover, its clean interface en
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/0plus-amazing-youtube-shortcuts-you-should-know-for-2024/"><u>[New] 20+ Amazing YouTube Shortcuts You Should Know for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-the-merits-of-obs-studio-and-fraps-for-recording-screens/"><u>[New] In 2024, Exploring the Merits of OBS Studio & Fraps for Recording Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-editors-for-youtube-writers-and-creators-all-free/"><u>[Updated] 2024 Approved Top Editors for YouTube' Writers and Creators - All Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-glimpsing-beyond-virtual-reality-the-pros-and-cons-spectrum/"><u>2024 Approved Glimpsing Beyond Virtual Reality The Pros & Cons Spectrum</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola Moto G73 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-note-50-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Note 50 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-f5-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco F5 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-12-proplus-5g-frp-bypass-by-drfone-android/"><u>About Realme 12 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-x7-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find X7</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/designing-professional-youtube-editors-workflow/"><u>Designing Professional YouTube Editors' Workflow</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-launch-issues-heres-how-you-can-get-past-the-initializing-error/"><u>Destiny 2 Launch Issues? Here's How You Can Get Past the 'Initializing' Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/finding-the-best-free-subtitle-conversion-services/"><u>Finding the Best Free Subtitle Conversion Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-10-proplus-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 10 Pro+ 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-c65-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco C65 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 10 Pro 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus 11 5G Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-logitech-g-hub-malfunctions-in-windows-environment/"><u>How to Resolve Logitech G Hub Malfunctions in Windows Environment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-narzo-n55-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme Narzo N55 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-poco-x5-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco X5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-agni-2-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Agni 2 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-asus-rog-phone-8-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Asus ROG Phone 8 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-f5-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco F5 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c32-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C32?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-c32-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia C32 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-open-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Open FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a78-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A78 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f25-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F25 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsungfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your SamsungFRP Lock</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastering-youtube-playlist-downloads-a-comprehensive-guide/"><u>In 2024, Mastering YouTube Playlist Downloads A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s24-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S24 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-s17e-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo S17e to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-f23-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo F23 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-meizu-21-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Meizu 21 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-integrating-b-footage-into-main-shots/"><u>The Art of Integrating B-Footage Into Main Shots</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-note-50-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme Note 50 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-c67-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C67 4G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A14 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy Z Flip 5 FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-picks-for-excellent-free-srt-translation-tools/"><u>Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-c51-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme C51 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-12-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme 12 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-facets-of-chatgpt-2024-detailed-examination-of-features-and-strategies-for-server-glitches/"><u>Unveiling the Facets of ChatGPT 2024: Detailed Examination of Features and Strategies for Server Glitches</u></a></li>
+</ul></div>

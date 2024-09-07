@@ -1,7 +1,7 @@
 ---
 title: "Reviving Legacy Systems: Boost Your Setup by Mounting Contemporary GPUs Onto Classic AGP Slots with Top Mod Adapters"
-date: 2024-08-09T09:39:09.527Z
-updated: 2024-08-10T09:39:09.527Z
+date: 2024-09-06T20:13:42.567Z
+updated: 2024-09-07T20:13:42.567Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce75787ca76ee6f109f43567431f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bridging the Past and Present: The Ongoing Appeal of AGP Slot Modifications to Support New Graphics Cards & Networking Enhancements - Spotlight on Two Adaptors
 
 Strangely enough, the past few months of 2024 have seen prominent discussions of a few modern-day AGP (Accelerated Graphics Port) mods — the first is a mod of questionable practicality to get a GTX 960 working on an AGP board, which took considerable gymnastics. The second involves repurposing an AGP port on a Super Socket 7 motherboard for faster, more modern networking speeds.
@@ -17,11 +23,14 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  The AGP interface is newer and, thus, likely faster than the PCI interface on the motherboard, so using the first adapter is highly questionable; however, the user probably didn't have a PCI to PCIe adaptor handy. The GPU is ultimately listed in an included AIDA64 screenshot, showing that it is functional. The user didn't share performance benchmarks, but this setup may be enough for Crysis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
 
  For instance, back in August of 2009, Don Woligroski,[writing for_Tom's Hardware_](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) , used an OC'd CPU and a powerful native AGP card[to get Crysis running at 65 FPS](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) on Low Physics on an AGP board originally released in November 2005\. PCIe debuted in 2003, so this was well after many faster boards with newer standards were already on the market. This means that, yes, AGP could run Crysis while it was still common, and it remained one of the most demanding games on PC for several years after its 2007 release.
@@ -35,7 +44,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 

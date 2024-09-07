@@ -1,7 +1,7 @@
 ---
 title: Complete Mac HDD Setup via Visual Instructional Video
-date: 2024-08-09T09:32:44.249Z
-updated: 2024-08-10T09:32:44.249Z
+date: 2024-09-06T20:13:42.902Z
+updated: 2024-09-07T20:13:42.902Z
 categories:
   - repair-tools
 description: This Article Describes Complete Mac HDD Setup via Visual Instructional Video
@@ -10,6 +10,12 @@ keywords: Mac Hard Drive Installation,Visual Guide for Mac HDD Setup,Step-by-Ste
 thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Mac HDD Setup via Visual Instructional Video
 
 # How to Format Hard Drive on a Mac?
@@ -18,28 +24,37 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 ![](https://www.stellarinfo.com/images/youtube/youtube-icon small.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###### 4:55
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 974 Views
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
 ###### Nov 22, 2021
 
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 974 views Nov 22, 2021
 
  Learn in this video how to format a hard drive on Mac. We're going to be covering the easiest ways to do it and also going to talk about some of the best file formats that you can be using. How to Format Hard Drive on a Mac? Timestamps: 00:00 Introduction 00:24 Turn Mac On and Login 00:39 Get and Plugin Your Hard Drive 01:20 Open Up Disk Utility 01:55 Drive Format Difference 02:40 Do You Want to Use the Hard Drive on Windows 03:12 Label/Name Your Hard Drive 03:28 Format the Hard Drive 03:46 Hard Drive is Displayed on Your Finder 1\. Turn Mac On and Login First step of course is to make sure your mac is turned on and you have logged in. 2\. Get and Plugin Your Hard Drive You may already have a hard drive or you need to go and buy yourself a hard drive but find a hard drive that is suitable for you to use. Generally a large hard drive is good because you want to be able to store a lot more files onto it. Plug that hard drive into your mac and then format. 3\. Open Up Disk Utility With your hard drive plugged in you now need to go and open up the disk utility. You can access this by going into the finder and into applications or you can also go into the spotlight in the very top right hand corner of your mac and type in disk utility. You'll then have an application that opens up your hard drive. 4\. Drive Format Difference With the hard drive selected click on the arrays area under the area where it says format. You now need to select an appropriate format. The main four formats available are MacOS extended, APFS, Fat32 and Xfat. 5\. Do You Want to Use the Hard Drive on Windows If you're planning on using a windows computer or perhaps sharing some files and folders with your friends and family then you want to be selecting fat32 or xfat. 6\. Label/Name Your Hard Drive Once you've selected your relevant format type, give your usb drive a particular name. 7\. Format the Hard Drive Now you need to format the hard drive by formatting that hard drive. All of the data on that hard drive will be lost so ensure that you do have a backup of that data because once you click format and erase all that data will be deleted. 8\. Hard Drive is Displayed on Your Finder Once the hard drive is formatted the partition will be created and then it will be ready to go. You can then use your hard drive. Your hard drive will show up on your desktop. You'll actually see the icon show up right there on your desktop. If it doesn't show up you can open up the finder and it will show up in there. You can now copy and paste files directly onto that hard drive. To recover data from a formatted hard drive on Mac you can use Stellar Data Recovery software. Download free edition from here: <https://www.stellarinfo.com/free-mac-data-recovery.php> #FormatMacHardDrive #FormatmyMac #HowtoFormat SUBSCRIBE to get more solutions: <https://www.youtube.com/c/stellardatarecovery/videos> Follow us on Facebook: <https://www.facebook.com/stellardata> Follow us on Twitter: <https://twitter.com/stellarinfo> Follow us on Instagram: <https://www.instagram.com/stellardatarecovery>
@@ -50,21 +65,36 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 
 ![](https://www.stellarinfo.com/images/youtube/clock-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###### 4:55
 
 ![](https://www.stellarinfo.com/images/youtube/eye-icon.png)
 
 ###### 974 Views
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/images/youtube/calander-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###### Nov 22, 2021
 
 [Subscribe](https://www.stellarinfo.com/images/youtube/shareIcon.png) Share ](javascript:void%280%29) [Subscribe ![](https://www.stellarinfo.com/images/youtube/link-icon.png) ](https://www.youtube.com/@stellardatarecovery)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 974 views Nov 22, 2021
 
  Learn in this video how to format a hard drive on Mac. We're going to be covering the easiest ways to do it and also going to talk about some of the best file formats that you can be using. How to Format Hard Drive on a Mac? Timestamps: 00:00 Introduction 00:24 Turn Mac On and Login 00:39 Get and Plugin Your Hard Drive 01:20 Open Up Disk Utility 01:55 Drive Format Difference 02:40 Do You Want to Use the Hard Drive on Windows 03:12 Label/Name Your Hard Drive 03:28 Format the Hard Drive 03:46 Hard Drive is Displayed on Your Finder 1\. Turn Mac On and Login First step of course is to make sure your mac is turned on and you have logged in. 2\. Get and Plugin Your Hard Drive You may already have a hard drive or you need to go and buy yourself a hard drive but find a hard drive that is suitable for you to use. Generally a large hard drive is good because you want to be able to store a lot more files onto it. Plug that hard drive into your mac and then format. 3\. Open Up Disk Utility With your hard drive plugged in you now need to go and open up the disk utility. You can access this by going into the finder and into applications or you can also go into the spotlight in the very top right hand corner of your mac and type in disk utility. You'll then have an application that opens up your hard drive. 4\. Drive Format Difference With the hard drive selected click on the arrays area under the area where it says format. You now need to select an appropriate format. The main four formats available are MacOS extended, APFS, Fat32 and Xfat. 5\. Do You Want to Use the Hard Drive on Windows If you're planning on using a windows computer or perhaps sharing some files and folders with your friends and family then you want to be selecting fat32 or xfat. 6\. Label/Name Your Hard Drive Once you've selected your relevant format type, give your usb drive a particular name. 7\. Format the Hard Drive Now you need to format the hard drive by formatting that hard drive. All of the data on that hard drive will be lost so ensure that you do have a backup of that data because once you click format and erase all that data will be deleted. 8\. Hard Drive is Displayed on Your Finder Once the hard drive is formatted the partition will be created and then it will be ready to go. You can then use your hard drive. Your hard drive will show up on your desktop. You'll actually see the icon show up right there on your desktop. If it doesn't show up you can open up the finder and it will show up in there. You can now copy and paste files directly onto that hard drive. To recover data from a formatted hard drive on Mac you can use Stellar Data Recovery software. Download free edition from here: <https://www.stellarinfo.com/free-mac-data-recovery.php> #FormatMacHardDrive #FormatmyMac #HowtoFormat SUBSCRIBE to get more solutions: <https://www.youtube.com/c/stellardatarecovery/videos> Follow us on Facebook: <https://www.facebook.com/stellardata> Follow us on Twitter: <https://twitter.com/stellarinfo> Follow us on Instagram: <https://www.instagram.com/stellardatarecovery>
@@ -96,6 +126,12 @@ Awards Received
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Stellar Official Website
 
@@ -106,9 +142,6 @@ Awards Received
 
  ALSO AVAILABLE AT
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
  About
