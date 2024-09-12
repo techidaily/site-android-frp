@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide from Honor Play 8T FRP Bypass
-date: 2024-08-09T09:38:46.352Z
-updated: 2024-08-10T09:38:46.352Z
+date: 2024-09-11T08:42:46.212Z
+updated: 2024-09-12T08:42:46.212Z
 tags: 
   - unlock
   - bypass android frp
@@ -37,9 +37,6 @@ Sometimes you may need to do away with your old Honor phone after purchasing a b
 
 _**Important note**: Bypassing FRP is absolutely legal and easy too. But some users may look to bypass FRP on a stolen phone. That’s why we clarify that this post is strictly for educational purposes. Get the consent of the original owner of the phone before bypassing FRP._
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Bypass Google FRP on Honor Android 11 without PC
 
 Now that you have all the reasons to bypass **FRP on Honor Play 8T** or any other model, let me introduce you to the best method to avoid this feature without a PC. [TechnoCare APK](https://www.technocareapk.com/) is an Android software that allows Honor users to bypass FRP on any Honor brand. It's straightforward; this app lets you create another Google Account on your locked Honor phone without unlocking it. In short, you'll link a new Google Account with a password that you can easily remember.
@@ -67,6 +64,19 @@ Now that you have all the reasons to bypass **FRP on Honor Play 8T** or any othe
 - **Step 11:** Navigate back to Settings, click Apps, and enable Google Play Services and Google Account Manager.
 - **Step 12:** Lastly, restart the locked phone and enjoy the services.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Bypass All Honor Locked Screens without Password
 
 Unlocking FRP using TechnoCare APK is free, quick, and exciting. However, sometimes you may want to unlock your PIN, password, pattern, and other lock systems that you might have forgotten. In that case, use [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a desktop program that lets you unlock passwords, PINs, and patterns on Honor, Samsung, Nokia, OPPO, Xiaomi, and other Android phone brands.
@@ -91,6 +101,13 @@ Let's walk through the simple steps:
 
 ![home page](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Select the Honor Play 8T device brand Honor that you want to unlock the screen.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -99,10 +116,16 @@ Let's walk through the simple steps:
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **You can watch the video below to unlock Honor patterns, passwords, PINs, and fingerprints with Wondershare Dr.Fone**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
-
 
 ## Part 4: How to Disable Google FRP Feature on Honor
 
@@ -125,8 +148,6 @@ And that's the best **Honor Android 11 FRP bypass** method. With TechnoCare APK,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 ## How To Bypass Honor Play 8T FRP In 3 Different Ways
 
 Are you having trouble bypassing Honor Play 8T FRP? If so, you're not alone. A lot of people are struggling with this particular task. But don't worry - We are here to help.
@@ -139,6 +160,13 @@ To unlock the Honor Play 8T smart 5 FRP, you must use any bypassing tool or meth
 
 Let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Some Common Reasons To Bypass Honor Play 8T FRP
 
 Honor Play 8T devices are often bypassed for the following reasons:
@@ -147,6 +175,13 @@ Honor Play 8T devices are often bypassed for the following reasons:
 
 One of the most common reasons for needing to bypass FRP is that you simply forgot your Google account login credentials. Whether you have a new phone and are setting it up for the first time, or you've had the same phone for a while and are just now adding a Google account, there's always a chance that you might forget your password.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. A Second-Hand Phone
 
 Another common reason for wanting to bypass FRP is if you've purchased a second-hand phone. If the previous owner of the phone didn't correctly remove their Google account from the Honor Play 8T device before selling it to you, then you'll be stuck with their account on the phone and won't be able to use it yourself until you bypass FRP.
@@ -154,6 +189,13 @@ Another common reason for wanting to bypass FRP is if you've purchased a second-
 ### 3\. Factory Reset In An Untrusted Environment
 
 If you've performed a factory reset on your phone to try and fix an issue or start fresh, you'll need to bypass FRP to use the Honor Play 8T device again. It is because a factory reset will also remove your Google account from the phone, leaving you locked out unless you can remember the login credentials.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Bypass Honor Play 8T FRP With 3 Easy Methods
 
@@ -205,6 +247,13 @@ Using FRP Bypass APK, you can unlock Google lock on the Honor Play 8T Hot 8 FRP 
 
 Honor Play 8T Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method #3: Bypass Honor Play 8T FRP Without PC Via Settings Menu
 
 Do you want to bypass the Google account verification FRP on the Honor Play 8T Smart 5 phone? Using this method, you can bypass the FRP on Honor Play 8T Smart 5.
@@ -249,6 +298,13 @@ Wait until the Honor Play 8T Hot 8 reboots and prompts you to select a language 
 
 Bypassing the FRP on your Honor Play 8T Smart 5 is as simple as following these steps.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 It is not illegal to bypass Google verification when you are doing a factory reset in case you forget your password or don't remember your Google account. The Honor Play 8T Smart 5 FRP bypass becomes useless if you don't bypass the FRP lock, so FRP bypass Honor Play 8T Hot S matters.
@@ -264,6 +320,13 @@ The FRP lock activates if someone tries to do a [<u>factory reset</u>](https://t
 Then are you curious about the safety of the **Pangu FRP bypass tool**? What is this tool, and how does it work? If you have similar questions, this guide has the answers. Here, we'll show you what you need to know about the bypass tool and alternative software.
 
 ![google frp lock on android device](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Pangu FRP Bypass Tool?
 
@@ -303,6 +366,13 @@ Is It Legal?
 
 The legality of using the **Pangu FRP Bypass** remains a gray area. While it's not inherently illegal, using it for purposes like accessing stolen devices is unlawful. Use it responsibly and ethically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What Are the Supported Brands for the Pangu FRP Bypass Tool?
 
 The Pangu FRP Bypass boasts extensive compatibility with several Android brands, covering:
@@ -315,12 +385,22 @@ The Pangu FRP Bypass boasts extensive compatibility with several Android brands,
 - Micromax
 - Vivo, and more
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android smartphone logo](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-03.jpg)
 
 Different devices and Android OS versions may have varying compatibility within each brand. That includes Oreo, Marshmallow, and Nougat. Some older or newer models may not support the **Pangu FRP Bypass APK**, even though it works well on many models. Its file size can also differ based on the version you download.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Download and Install Pangu FRP Bypass APK?
 
@@ -328,10 +408,14 @@ Before downloading the APK file, you'll need a USB drive and an OTG cable to con
 
 - **Step 1:** Download the tool's APK from a trusted source. You can get it from the Pangu official website, if available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pangu frp unlocker apk](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Copy the downloaded tool to a USB drive using a computer.
 - **Step 3:** Connect the USB drive to your FRP-locked Android phone using an OTG cable.
@@ -341,9 +425,23 @@ Before downloading the APK file, you'll need a USB drive and an OTG cable to con
 
 ![google play store play protect](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Toggle off the **Scan apps with Play Protect** option and tap **Turn off** on the dialogue box. This setting allows the installation of apps from outside the Google Play Store.
 
 ![turn off app scanning](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How To Use Pangu FRP Unlocker on Android?
 
@@ -375,10 +473,20 @@ Limited Compatibility
 
 **Pangu FRP bypass** is primarily focused on Samsung devices and may not work on the latest Android brands or versions. Also, it needs an OTG cable and USB drive, making it less convenient. Consider FRP bypass alternatives for broader compatibility and ease.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![otg for android phone](https://images.wondershare.com/drfone/article/2024/01/pangu-frp-bypass-08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Safety Concerns
 
@@ -391,8 +499,12 @@ While the bypass tool can sometimes be effective, its success rate isn't guarant
 Choosing between Pangu and an alternative depends on your needs and tech skills. If you're comfortable with downloading APK, Pangu can work. But if you prefer ease of use, broader device compatibility, and safety, consider dedicated tools like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (Android).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 6: Wondershare Dr.Fone - Screen Unlock for Android: Best Alternative to Pangu
 
 Dr.Fone is one of the best alternative tools for **Pangu FRP bypass**. With its user-friendly and intuitive interface, you can effortlessly remove the FRP lock in several steps. Dr.Fone is a reliable choice to [<u>bypass Google FRP </u>](https://drfone.wondershare.com/guide/google-frp-bypass.html) on Android, even if you don't have a Google account or PIN code. Dr.Fone - Screen Unlock can bypass FRP and is compatible with Samsung, Vivo, Realme, Oppo, Redmi, and Xiaomi Android phones.
@@ -410,6 +522,12 @@ If your Android OS is version 14 or below, Dr.Fone can help you eliminate the FR
 
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Select **Android** as your device type to continue the FRP bypass process.
 
@@ -423,14 +541,35 @@ If your Android OS is version 14 or below, Dr.Fone can help you eliminate the FR
 
 ![select device brand to unlock frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Follow the next in-app instructions, which may vary based on the brand of your Android device.
 - **Step 6:** Wait while Dr.Fone removes the FRP lock on your phone.
 
 ![removing frp lock in progress](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Click **Done** to confirm successful FRP bypass or click **Try Again** to repeat the process (available for Samsung devices.)
 
 ![successfully removed frp lock on samsung](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -446,11 +585,6 @@ _**Tips:** Searching for a powerful FRP bypass tool? No worries as [Dr.Fone](htt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-
-
-
-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>

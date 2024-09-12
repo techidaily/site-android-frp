@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in PC Components with Tom's Expert Insight
-date: 2024-09-06T20:13:42.637Z
-updated: 2024-09-07T20:13:42.637Z
+date: 2024-09-11T08:42:33.904Z
+updated: 2024-09-12T08:42:33.904Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/7RVsRhKjXVMbbPYFSCbFuE-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Insights From Tom's Hardware Hub - Dive Into Technology Today
 
 The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.com on March 1, reports[ITHome.](https://www.ithome.com/0/753/184.htm) Among other features, this Mini PC has a nifty little built-in screen with a fingerprint reader, plus configuration options including various mobile Ryzen 7 and Ryzen 9 CPUs.
@@ -38,11 +32,18 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
  For now, this little mini PC is a China-exclusive that requires some shipping costs to bring elsewhere in the world, but Tianbao may very well end up bringing it stateside via the Aoostar branding, depending on its reception.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,14 +52,11 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
