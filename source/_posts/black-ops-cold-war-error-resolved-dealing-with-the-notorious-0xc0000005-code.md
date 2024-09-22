@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-09-12T21:33:53.711Z
-updated: 2024-09-17T00:50:37.225Z
+date: 2024-09-18T20:13:20.806Z
+updated: 2024-09-21T19:55:52.170Z
 tags:
   - win11
   - win10
@@ -59,16 +59,10 @@ Here’s how to restart the shaders installation:
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -82,6 +76,13 @@ Here’s how to restart the shaders installation:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -90,13 +91,6 @@ Here’s how to restart the shaders installation:
  After updating the GPU driver, restart your PC for the changes to apply. Then start your game and check if you can now complete the compilation.
 
  If the latest graphics driver doesn’t give you luck, simply take a look at the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Cache folders
 
@@ -108,6 +102,13 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -115,13 +116,6 @@ Here’s how to restart the shaders installation:
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
@@ -145,17 +139,17 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-list-high-quality-cost-free-meeting-platforms/"><u>[New] Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1716069538136-updated-2024-approved-efficient-chrome-os-snaps-4-techniques-to-try/"><u>[Updated] 2024 Approved Efficient Chrome OS Snaps - 4 Techniques to Try!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>2024 Approved From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/embracing-less-with-tech-why-i-chose-the-minimalist-vintage-aesthetic-of-the-light-phone-3-before-its-launch/"><u>Embracing Less with Tech: Why I Chose the Minimalist, Vintage Aesthetic of the Light Phone 3 Before Its Launch</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m34-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M34 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-10-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 10 5G?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-ensure-chatgpt-remembers-our-chats-effectively/"><u>How to Ensure ChatGPT Remembers Our Chats Effectively?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-a56s-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo A56s 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-slide-into-style-instagrams-secrets-to-upside-down-visual-content/"><u>In 2024, Slide Into Style Instagram's Secrets to Upside-Down Visual Content</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-common-problems-get-your-logitech-c920-camera-working-again/"><u>Resolving Common Problems: Get Your Logitech C920 Camera Working Again</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-and-cool-xbox-snapshots-a-gamers-bible-for-2024/"><u>[New] Quick & Cool Xbox Snapshots A Gamers' Bible for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-insignia-usb-to-network-card-driver-pack/"><u>Download the Latest Insignia USB to Network Card Driver Pack</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-asus-rog-phone-7-ultimate-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Asus ROG Phone 7 Ultimate FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g84-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G84 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Find X6 Pro FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-f04-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy F04 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-c300-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia C300 FRP</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tracking-the-financial-success-of-carryminati-ajey/"><u>In 2024, Tracking the Financial Success of CarryMinati (Ajey)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/m4a-flv/"><u>모바이비가 제공하는 원격 변환: M4A에서 FLV 채널 무료 대상</u></a></li>
 </ul></div>
 

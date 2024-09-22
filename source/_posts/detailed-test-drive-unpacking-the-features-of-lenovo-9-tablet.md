@@ -1,7 +1,7 @@
 ---
 title: "Detailed Test Drive: Unpacking the Features of Lenovo 9 Tablet"
-date: 2024-09-13T00:17:21.907Z
-updated: 2024-09-16T20:25:25.185Z
+date: 2024-09-18T22:24:39.475Z
+updated: 2024-09-21T16:58:36.762Z
 categories:
   - BestProducts
 description: "This Article Describes Detailed Test Drive: Unpacking the Features of Lenovo 9 Tablet"
@@ -73,18 +73,18 @@ Lifewire / Emily Ramirez
 
  The Sound Blaster ZxR features a black and red chassis on its main and daughter boards, brightly accented in gold around the transistors and back plate. Together, the cards have enough outputs to natively support a 5.1 surround sound speaker system. They have 2 RCA outputs, 2 3.5mm outputs, two RCA inputs, one optical TOSLINK input, one optical TOSLINK output, one 6.3mm microphone input, and one 6.3 headphone output jack. The ZxR also comes with an Audio Control Module (ACM), which is Creative Labs’ take on an amplifier and on extending the 6.3mm connections. It has both 3.5mm and 6.3mm inputs and outputs so you can choose where you’d like to plug in your headphones and microphone. On the ACM’s face lies a big, plastic volume knob that controls the headphones’ loudness.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Hardware: Some odd decisions**
 
  For users who may own higher impedance headphones, the amplifier can comfortably drive headphones with up to a 600 ohm impedance. Unfortunately, the volume control on the ACM works passively by altering the output impedance, which can distort audio on headphones with high inductance like the Sennheiser HD800 (see “[How Low Should Output Impedance Be?](https://www.lifewire.com/what-is-output-impedance-4690092) ”). A better and only slightly more costly solution for Creative Labs would have been to have the knob control the ZxR’s in-built volume control rather than try to do it passively. The HD800 sounded fine when plugged directly into the sound card and using the system volume control.
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1t84P8oe4qch2aJ6lknx0lwunWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-2-de43d07bd3db40a282f55347c8956c9a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Ramirez
 
@@ -98,7 +98,21 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/6uorHzKoJdW1FBv0B5ZfeoE8XzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-3-17de2156e4294b5c85f151bd0cd97aa4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Audio: Excellent sound**
 
@@ -108,20 +122,14 @@ Lifewire / Emily Ramirez
 
 ![Sound Blaster ZxR](https://www.lifewire.com/thmb/1CZw4BSxxTqlBF1kxT0_rl73XCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02LW833111-5-e1022e9adc854517af98407c4be32691.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Ramirez
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Lots of options with mixed utility**
 
@@ -134,13 +142,6 @@ Lifewire / Emily Ramirez
 ## **Price: Unjustified expense**
 
  The Sound Blaster ZxR retails for about $250, on par with other high-end consumer audio cards. Its 6.3mm audio and microphone jacks, coupled with support for headphone impedance of up to 600 ohms, gives the listener flexibility in the rest of their audio setup: no need for 6.3mm to 3.5mm adapters or extension cords. One major hardware disappointment is its lack of 7.1 surround compatibility, which is something many sound card enthusiasts prize in a high-end sound card. There are also a number of other products with better sound quality for less than the ZxR’s $250 MSRP.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition:** **Falls short of less expensive options**
 
@@ -161,13 +162,6 @@ Lifewire / Emily Ramirez
 **A good card that’s showing its age.**
 
  The Sound Blaster ZxR is a quality, expensive sound card, with comprehensive software features and the hardware to power great consumer headsets and microphones. The ZxR sounds good, and gamers will not be disappointed by the ZxR’s power, but audio purists and 7.1 surround fans can find cleaner performance with fewer bells and whistles for the $250 asking price of the ZxR. It’s a card that hasn’t aged well since it’s 2013 release, and one that’s been largely overshadowed by some of its competitors in the interim.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -212,13 +206,17 @@ Lifewire / Emily Ramirez
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-phones-to-cameras-diy-setup-guide-for-mobile-video-recording/"><u>[New] Phones to Cameras DIY Setup Guide for Mobile Video Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-delve-into-all-shared-visuals-within-a-chat-on-messenger/"><u>[Updated] In 2024, Delve Into All Shared Visuals Within a Chat on Messenger</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/chrome-os-best-free-video-capture-tools-compilation-for-2024/"><u>Chrome OS Best Free Video Capture Tools Compilation for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-v30-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme V30 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-11-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme 11 Pro Devices</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-windows-10-photos-not-your-cup-of-tea-try-these-8-alternatives/"><u>New Windows 10 Photos Not Your Cup of Tea? Try These 8 Alternatives</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/top-9-fb-scraper-apps-for-films/"><u>Top 9 FB Scraper Apps for Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-selection-best-desktop-pcs/"><u>[Updated] Exclusive Selection Best Desktop Pcs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/44cm5oko5aw977ym5lul5lil5piv5lia5lqb57ch5l65bplusr5o2355qe5pa55rov5bch5ywj55uy5pww5o2u5asn5yi25yiw55s16isr5yaf6yoo5oiw5asw572u56gs55uy44cn/"><u>「您好，以下是一些簡便快捷的方法將光盘数据复制到电脑内部或外置硬盘」</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-20c-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 20C Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-videos-seamlessly-with-macx-pro-the-leading-solution-for-high-definition-hd4k-file-format-changes-on-macos/"><u>Convert Videos Seamlessly with MacX Pro: The Leading Solution for High-Definition (HD/4K) File Format Changes on macOS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-tools-for-android-and-ios-users-seeking-playlist-extractors/"><u>Essential Tools for Android & iOS Users Seeking Playlist Extractors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y100i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y100i</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-shortcuts-to-turn-off-instagrams-igtv/"><u>In 2024, Shortcuts to Turn Off Instagram's IGTV</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-htc-u23-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass HTC U23 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-blaze-2-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Blaze 2 FRP Without Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-zte-by-fonelab-android-recover-data/"><u>Recover lost data from ZTE</u></a></li>
+<li><a href="https://facebook.techidaily.com/report-facebook-twitter-and-snapchat-are-part-of-president-bidens-vaccination-campaign/"><u>Report: Facebook, Twitter, and Snapchat Are Part of President Biden's Vaccination Campaign</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-realme-11-proplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme 11 Pro+ Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

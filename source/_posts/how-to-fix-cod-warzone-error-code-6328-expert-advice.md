@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Cod: Warzone Error Code 6328 – Expert Advice"
-date: 2024-09-12T17:08:14.108Z
-updated: 2024-09-17T00:30:26.974Z
+date: 2024-09-18T23:58:14.928Z
+updated: 2024-09-21T18:29:23.423Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ There are mainly two ways to update your graphics driver:
 
 If you still encounter black screen issues, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Microsoft often releases Windows updates with various bug fixes and security improvements. To ensure your operating system is not the problem, you should keep your device up to date. Here’s how:
@@ -84,32 +91,12 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
 If this fix doesn’t help, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
 
@@ -118,15 +105,16 @@ If this fix doesn’t help, proceed to the next one.
 1. Open Ubisoft Connect and click the**three lines** in the top left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
-3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
+3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
@@ -140,6 +128,13 @@ If this fix doesn’t do the trick, take a look at the next one.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  Your background applications may interfere with your game and cause the occurrence of a black screen. To see if that’s the cause, you can perform a clean boot. Here’s how:
@@ -150,25 +145,19 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
 
@@ -190,6 +179,13 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Games Launcher
 
@@ -221,19 +217,16 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-srt-file-handling-simplified-on-pcmac-for-2024/"><u>[New] SRT File Handling Simplified on PC/Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-titans-of-tutorials-youtube-leaders/"><u>[Updated] The Titans of Tutorials YouTube Leaders</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-moto-g84-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Moto G84 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-driver-update-for-win11-and-intels-graphic/"><u>Flawless Driver Update for Win11 and Intels Graphic</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-drivers-for-the-eveo-bluetooth-adapter/"><u>Free Download: Compatible Drivers for the Eveo Bluetooth Adapter</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Ace 2V FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c22withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C22with/without a PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-converting-instagram-media-to-mp3-format/"><u>In 2024, Converting Instagram Media To MP3 Format</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-graph-gems-2017s-statistical-youtube-surprises/"><u>In 2024, Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia G310 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-huawei-nova-y91-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Huawei Nova Y91 FRP Without Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862788414-score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-asus-rog-phone-7-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Asus ROG Phone 7 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-huawei-nova-y71-frp-bypass-by-drfone-android/"><u>About Huawei Nova Y71 FRP Bypass</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/behind-the-scenes-of-iscreen-capture-for-2024/"><u>Behind the Scenes of iScreen Capture for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A1x 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-meizu-21-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Meizu 21 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c210-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C210 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-narrative-artistry-accolades-1-8-distinguished-academies/"><u>In 2024, Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-g23-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto G23 FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-updated-d-link-default-credentials-guide/"><u>July 2024 Updated D-Link Default Credentials Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-top-4-solutions-for-a-non-responsive-power-button/"><u>Revive Your iPhone: Top 4 Solutions for a Non-Responsive Power Button</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-use-emojis-on-windows/"><u>Updated 2024 Approved How to Use Emojis on Windows</u></a></li>
 </ul></div>
 

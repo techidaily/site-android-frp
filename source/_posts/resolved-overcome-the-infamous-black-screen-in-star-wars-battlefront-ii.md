@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Infamous 'Black Screen' In Star Wars Battlefront II"
-date: 2024-09-10T19:01:56.435Z
-updated: 2024-09-16T17:45:39.220Z
+date: 2024-09-17T23:52:36.620Z
+updated: 2024-09-21T19:06:01.126Z
 tags:
   - win11
   - win10
@@ -80,19 +80,6 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
@@ -100,6 +87,13 @@ To update your graphics driver, here are two safe ways for you:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -110,22 +104,15 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Disable cloud storage
@@ -138,10 +125,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -158,6 +145,14 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
@@ -185,21 +180,17 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-x-identity-verification-restoring-biometric-lock/"><u>[New] Mastering iPhone X Identity Verification Restoring Biometric Lock</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-record-and-share-every-victory-in-obs/"><u>[New] Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>[Updated] 2024 Approved Elevate Conference Calls A Guide to 10 Cost-Free Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enhance-visibility-top-methods-for-instagram-hits/"><u>[Updated] 2024 Approved Enhance Visibility Top Methods for Instagram Hits</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 15 Pro?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a05-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A05 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-c22-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia C22 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-t2-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g34-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G34 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-9-proplus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 9 Pro+ FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c02-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C02 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-language-lifeline-essential-russian-terms-for-tourists/"><u>The Language Lifeline: Essential Russian Terms For Tourists</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-f04-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy F04 FRP Bypass</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-software-for-high-quality-video-capture-on-windows-pcs-for-2024/"><u>[Updated] Essential Software for High-Quality Video Capture on Windows PCs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-loop-youtube-videos-on-tv/"><u>2024 Approved How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/webmgif-movavi/"><u>立即免費WebM到GIF的網路轉化 - 使用Movavi轉換器</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-poco-x6-pro-frp-bypass-by-drfone-android/"><u>About Poco X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-harmony-to-your-screen-fixing-microsofts-display-connections-in-windows-10/"><u>Bringing Harmony to Your Screen: Fixing Microsoft's Display Connections in Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-visual-culture-posthumous-works-unbound-for-2024/"><u>Free Visual Culture Posthumous Works Unbound for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze 2 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A05</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme C33 2023 FRP</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimized-video-transformation-on-macios-the-8-list-for-2024/"><u>Optimized Video Transformation on Mac/iOS The #8 List for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ts-for-top-audio-quality-no-need-for-a-microphone-for-2024/"><u>Secrets for Top Audio Quality, No Need for a Microphone for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-infinix-hot-30-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Infinix Hot 30 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
 </ul></div>
 
