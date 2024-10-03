@@ -1,7 +1,7 @@
 ---
 title: "Resolving CoD: Vanguard Error 0X00001338 for a Smooth Gaming Experience on Your Computer"
-date: 2024-09-25T02:37:41.655Z
-updated: 2024-09-28T12:02:04.206Z
+date: 2024-09-27T16:40:36.509Z
+updated: 2024-10-03T16:30:23.574Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2\. Clear the game cache
 
  If you’re still running into Vanguard error codes, it might be caused by your game cache. A quick fix is to delete the “Players” folder. Here’s how:
@@ -45,23 +52,22 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
 `(C:\ProgramData\Blizzard Entertainment\Battle.net\Cache)`
 
  4) Delete every folder or file under the**Cache** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Disable Ray Tracing
@@ -90,6 +96,13 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 After updating your drivers, restart your PC and test the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -99,13 +112,6 @@ After updating your drivers, restart your PC and test the gameplay.
  2) Click Game Settings, and tick additional command-line arguments. Then add**\-d3d11** and click done.
 
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch CoD Vanguard and test the gameplay.
 
@@ -150,16 +156,16 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -184,16 +190,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
@@ -254,22 +254,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-intense-presentation-review-8x-version-for-2024/"><u>[New] Intense Presentation Review 8X Version for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-next-gen-heroism-gopro-hero5-black-vs-hero4-silver-for-2024/"><u>[New] Next-Gen HEROism GoPro Hero5 Black vs Hero4 Silver for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-first-rate-biodegradable-filming-gear-tutorials/"><u>[Updated] 2024 Approved First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-new-horizons-a-guide-to-top-6-nft-innovators-for-2024/"><u>Exploring New Horizons A Guide to Top 6 NFT Innovators for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-updated-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Get the Updated Epson Stylus NX420 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a78-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A78 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-s23-tactical-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy S23 Tactical Edition Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-130-music-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 130 Music Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a38-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A38 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-a1-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo A1 5G FRP Without Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-s23-tactical-edition-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy S23 Tactical Edition FRP Without Computer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-top-free-cctv-software-for-home-and-business-security/"><u>New 2024 Approved S Top Free CCTV Software for Home and Business Security</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences-for-2024/"><u>Techniques to Enhance Your Slow Motion Photos for Instagram Audiences for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-understanding-the-advantages-of-apples-latest-laptop-macbook-pro-16-inch-m1-2021/"><u>The Ultimate Guide to Understanding the Advantages of Apple's Latest Laptop: MacBook Pro 16-Inch (M1, 2021)</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-htc-u23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your HTC U23 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-expert-choice-top-10-video-subtitles-editors-online/"><u>[New] In 2024, Expert Choice Top 10 Video Subtitles Editors Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nraveling-the-best-video-formats-for-youtube-success-for-2024/"><u>[New] Unraveling the Best Video Formats for YouTube Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-novices-nexus-grasping-frame-rates-and-aspect-ratios/"><u>[Updated] 2024 Approved Novice's Nexus Grasping Frame Rates and Aspect Ratios</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-concept-to-reality-10-best-music-video-making-companies/"><u>2024 Approved From Concept to Reality 10 Best Music Video Making Companies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-reno-8t-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
+<li><a href="https://fox-making.techidaily.com/expert-strategies-for-creating-viral-videos-on-facebook/"><u>Expert Strategies for Creating Viral Videos on Facebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-f5-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco F5 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-sony-xperia-10-v-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Sony Xperia 10 V Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-10t-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme 10T 5Gwith/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-tips-for-captivating-portrait-masterpieces-for-2024/"><u>HDR Tips for Captivating Portrait Masterpieces for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-f5-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco F5 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco F5 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-agni-2-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Agni 2 5G FRP Bypass</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-rx250-supported-by-windows-7-8-and-10-free-driver-downloads-available/"><u>Logitech RX250 Supported by Windows 7, 8, and 10 - Free Driver Downloads Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-star-wars-battlefront-2-error-327-a-complete-fix-guide/"><u>Solving Star Wars Battlefront 2 Error 327: A Complete Fix Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo K11 5G FRP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Warzone Not Working? Here's What You Need to Know!
-date: 2024-09-20T19:04:13.208Z
-updated: 2024-09-28T10:23:22.194Z
+date: 2024-09-28T16:29:59.022Z
+updated: 2024-10-03T16:08:20.311Z
 tags:
   - win11
   - win10
@@ -49,27 +49,20 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **Update Now.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
@@ -91,10 +84,10 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
@@ -115,10 +108,10 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Options** .
@@ -128,13 +121,6 @@ If your problem persists, try the next fix.
 **4)** Click **Add-ins.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
@@ -162,22 +148,16 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-41.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
 
@@ -188,6 +168,13 @@ If your problem persists, try the next fix.
 **6)**  Change the file name extension to **.old** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Reopen Outlook and wait for it to rebuild your data file.
 
@@ -203,6 +190,13 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , click **Category.**  Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
@@ -212,32 +206,26 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
@@ -266,16 +254,18 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-your-screen-on-windows-8/"><u>[New] 2024 Approved How To Record Your Screen On Windows 8</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-maximize-zooms-value-triad-of-conversion-mastery-for-2024/"><u>[New] Maximize Zoom's Value Triad of Conversion Mastery for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-fix-obs-not-recording-audio/"><u>[Updated] 2024 Approved How to Fix OBS Not Recording Audio</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-securely-document-whatsapp-discussions/"><u>[Updated] How to Securely Document WhatsApp Discussions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>[Updated] In 2024, Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/flash-into-action-with-yn560iv-speedy-flash-and-manual-control-mastery/"><u>Flash Into Action with YN560IV Speedy Flash & Manual Control Mastery</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-130-music-by-drfone-android/"><u>How to Bypass FRP on Nokia 130 Music?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-ace-3-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Ace 3 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-edge-40-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Edge 40 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-nord-ce-3-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus Nord CE 3 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-a18-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo A18 FRP Bypass</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-edu-topic-10-selective-learning-channels-online/"><u>[New] In 2024, Edu-Topic 10 Selective Learning Channels Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-viacoms-top-10-screen-recorder-software-for-2024/"><u>[New] Viacom’s Top 10 Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-zero-shaking-zones-how-to-fix-unstable-gopro-videos/"><u>[New] Zero Shaking Zones How to Fix Unstable GoPro Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-class-adding-podcasts-to-instagram-features-for-2024/"><u>[Updated] Master Class Adding Podcasts to Instagram Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-viral-stock-images-and-stories/"><u>2024 Approved The Ultimate List of Viral Stock Images & Stories</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-gionee-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Gionee FRP In 3 Different Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c50-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C50 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A54 5G FRP Bypass</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/microsoft-transforms-windows-copilot-into-everyday-essential-app-discover-the-benefits/"><u>Microsoft Transforms Windows Copilot Into Everyday Essential App – Discover the Benefits!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-to-restore-ringtones-on-missing-call-alerts-for-iphones/"><u>Top 11 Fixes to Restore Ringtones on Missing Call Alerts for iPhones</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-mac-video-metadata-editors-top-picks/"><u>Updated 2024 Approved The Ultimate List of Mac Video Metadata Editors Top Picks</u></a></li>
 </ul></div>
 

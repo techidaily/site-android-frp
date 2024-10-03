@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ultimate Guide on Realme 12+ 5G FRP Bypass
-date: 2024-09-24T20:50:25.776Z
-updated: 2024-09-28T05:03:51.686Z
+date: 2024-09-26T16:03:54.438Z
+updated: 2024-10-03T16:20:40.607Z
 tags: 
   - unlock
   - bypass android frp
@@ -64,6 +64,13 @@ Now that you have all the reasons to bypass **FRP on Realme 12+ 5G** or any othe
 - **Step 11:** Navigate back to Settings, click Apps, and enable Google Play Services and Google Account Manager.
 - **Step 12:** Lastly, restart the locked phone and enjoy the services.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Bypass All Realme Locked Screens without Password
 
 Unlocking FRP using TechnoCare APK is free, quick, and exciting. However, sometimes you may want to unlock your PIN, password, pattern, and other lock systems that you might have forgotten. In that case, use [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a desktop program that lets you unlock passwords, PINs, and patterns on Realme, Samsung, Nokia, OPPO, Xiaomi, and other Android phone brands.
@@ -88,13 +95,6 @@ Let's walk through the simple steps:
 
 ![home page](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Select the Realme 12+ 5G device brand Realme that you want to unlock the screen.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -103,23 +103,9 @@ Let's walk through the simple steps:
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **You can watch the video below to unlock Realme patterns, passwords, PINs, and fingerprints with Wondershare Dr.Fone**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Disable Google FRP Feature on Realme
 
@@ -199,6 +185,13 @@ Steps for **Realme  FRP bypass** using Motoreaper
 
 ![motoreaper frp bypass](https://images.wondershare.com/drfone/article/2022/05/frp-motorola-motoreaper-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Next, unplug your Realme  phone and boot it into the factory model using the bootloader mode by pressing the power and volume down button. When the factory mode appears, use the power button to select it.
 - **Step 5.** Now connect your phone again to your system and let it boot up completely. Next, click on the **I have Done** option.
 - **Step 6.** Now your device is on the factory mode where you need to click on, the I Confirm option.
@@ -212,6 +205,13 @@ Steps for **Realme  FRP bypass** using Motoreaper
 Besides FRP lock, the screen lock of your Android phones including Realme  is one of the most common situations. So, if to have forgotten your screen lock code or have a device with a locked screen, the best tool we reconned is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This simple system-based software will let you remove all types of screen locks – PIN, password, pattern, as well as a fingerprint in a few simple and quick steps. The software is reliable and safe without causing any harm to your device.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -234,6 +234,13 @@ Get into Locked Realme  within Minutes
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Your Realme  phone will enter into a dedicated mode. Once in this mode, Dr.Fone will initiate the Realme  screen unlock process.
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
@@ -248,6 +255,13 @@ Get into Locked Realme  within Minutes
 
 Realme  FRP lock can be removed using the Emergency Call option or the above-mentioned Motoreaper tool. For removing any type of screen lock without password on your Android devices, [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) works as the best option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Complete Guide to Realme 12+ 5G FRP Bypass: Everything You Need to Know
 
 If you are looking for **Realme FRP bypass** tools then it means that either you have forgotten your Google ID and password details or have purchased a refurbished device having FRP lock. So, now when you have already landed in a situation the only thing you can now do is find the solution and for this core purpose, we are here to help you. To **bypass the Google account Realme**, you would a tool or a program specially designed for the task.
@@ -257,13 +271,6 @@ There are many ways in which you can bypass the FRP lock. Some of these techniqu
 With so many variations, settling down with only one option is challenging. For this reason, we have curated a complete guide on this to avoid further complications.
 
 ![bypass frp on Realme](https://images.wondershare.com/drfone/article/2023/09/huawei-frp-bypass.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is FRP lock on Realme?
 
@@ -300,6 +307,13 @@ If you are looking for a solution to bypass Google Account on your Realme device
 One of the easiest and most basic ways of bypassing the FRP lock is by enabling the safe mode on your mobile and proceeding with a factory reset of all the settings. This will erase the data, especially the current Google account, which is incorporated within the phone. Once everything is related, the settings will be restored to their original form or the default value. This will allow you to have unhindered access to the Realme 12+ 5G device, as the FRP lock will get disabled due to settings reset.
 
 ![reset settings in safe mode](https://images.wondershare.com/drfone/article/2022/09/reset-settings-in-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Pros
 
@@ -362,13 +376,6 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 ![switch on your frp device](https://images.wondershare.com/drfone/article/2022/09/switch-on-your-frp-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2**: Open the quick shortcut maker apk and search for Google account manager.
 
 ![quick shortcut maker apk](https://images.wondershare.com/drfone/article/2022/09/open-the-quick-shortcut-maker.jpg)
@@ -404,13 +411,6 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 #### Limitations
 
 You can use this method only if you remember your Google ID and password. This method is not for you if you don't have the credentials over cannot remember the actual password.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. TalkBack
 
@@ -519,6 +519,13 @@ This is a free application from Realme. You can easily bypass the FRP lock and a
 
 ![click on check device](https://images.wondershare.com/drfone/article/2022/09/click-on-check-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6**:Then, select the Bypass FRP and ID option. Once done, you can access your phone because the FRP lock will get bypassed.
 
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/bypass-frp-and-id.jpg)
@@ -544,10 +551,10 @@ One of the best ways to bypass FRP lock is to disable it beforehand. To do so, g
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/automatically-disable-the-frp-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tip: How to Unlock Realme Screen Lock without Google Account?
@@ -557,13 +564,6 @@ The above-listed methods in part 2 as well as part 3 are not only lengthy but al
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/QWpE8NykOWc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 So, for the users who are having issues with Android screen lock, but looking for a simpler yet functional tool, we recommend Dr. Fone-Screen Unlock as the best option. This Windows and Mac-based software is trusted by people across the globe as it helps remove all types of screen locks PIN, password, pattern, as well as a fingerprint in a hassle-free quick manner.
 
@@ -610,22 +610,21 @@ Overall, choose the best option according to your convenience and start working 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-experts-insight-efficiently-using-mobizen-for-capturing-screens/"><u>[New] In 2024, Expert's Insight Efficiently Using Mobizen for Capturing Screens</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-effortless-conversion-turning-avis-into-gifs-with-filmora-software/"><u>[Updated] Effortless Conversion Turning AVIs Into GIFs with Filmora Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-capturing-purity-best-sound-for-podcasts/"><u>2024 Approved Capturing Purity Best Sound for Podcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726227770022-2024/"><u>2024最佳免費音樂製作軟件：前十名推薦清單</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://article-tips.techidaily.com/commanding-attention-crafting-podcast-starters-for-2024/"><u>Commanding Attention Crafting Podcast Starters for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-perfect-iphone-model-manual-where-and-how-to-download-them/"><u>Find Your Perfect iPhone Model Manual - Where and How to Download Them</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-iphones-message-problem-with-android-contacts-a-step-by-step-guide/"><u>Fix Your iPhone's Message Problem with Android Contacts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>How Can We Bypass Huawei Nova Y91 FRP?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s23-tactical-edition-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S23 Tactical Edition Activity | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-c300-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia C300 FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a59-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A59 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c22frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C22FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a23-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A23 5G Phone FRP Lock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp4wtvmovavi/"><u>MP4格式化WTV视频：Movavi在线无限制地转换服务 - 免费</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-razr-40-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Razr 40 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-meizu-21-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Meizu 21 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-open-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Open</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-note-50-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme Note 50 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-nokia-105-classic-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Nokia 105 Classic FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lenovo-thinkphone-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lenovo ThinkPhone for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-find-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Find X6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-9a-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 9A FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-f15-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy F15 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-max-5-ways-to-get-into-a-locked-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro Max? 5 Ways to get into a Locked iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-engagement-the-ultimate-list-of-5-automated-pinterest-schedulers-to-experiment-with/"><u>Maximize Engagement: The Ultimate List of 5 Automated Pinterest Schedulers to Experiment With!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-f25-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo F25 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/patek-flexible-tripod-review-unfolding-possibilities/"><u>Patek Flexible Tripod Review - Unfolding Possibilities</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-edgeplus-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Edge+ (2023) Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

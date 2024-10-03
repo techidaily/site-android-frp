@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Logitech G230 Headset Microphone: A Comprehensive Troubleshooting Guide"
-date: 2024-09-23T06:29:52.360Z
-updated: 2024-09-28T01:44:04.894Z
+date: 2024-09-29T16:12:09.594Z
+updated: 2024-10-03T16:37:04.464Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run the audio troubleshooter
@@ -51,13 +51,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Check the privacy settings
 
  To ensure your Onikuma headset mic functions as intended, you should allow the system and applications to access it. You can adjust the setup in your privacy settings.
@@ -66,20 +59,35 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
@@ -92,10 +100,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Select**Small icons** next to View by and click**Sound** .  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
@@ -108,18 +116,24 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -148,19 +162,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -188,22 +189,22 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-fifa-matches-visualized-data-highlights/"><u>[Updated] 2024 Approved Top FIFA Matches Visualized Data Highlights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-bridging-gaps-building-relationships-with-your-audience/"><u>[Updated] In 2024, Bridging Gaps Building Relationships with Your Audience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-mp4-file-saving-and-insight-for-2024/"><u>[Updated] Seamless MP4 File Saving & Insight for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevating-virtual-reality-storytelling-a-premiere-pro-360-degree-video-guide/"><u>2024 Approved Elevating Virtual Reality Storytelling A Premiere Pro 360-Degree Video Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-tales-a-compendium-of-the-best-inspirational-movies/"><u>2024 Approved Transformative Tales A Compendium of the Best Inspirational Movies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A2</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/acethinker-screen-recorder-review-and-alternative-for-2024/"><u>AceThinker Screen Recorder Review and Alternative for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 10 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/hastened-steps-for-clear-background-filming-success-for-2024/"><u>Hastened Steps for Clear Background Filming Success for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g13-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G13?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-c02-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia C02 FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-105-classic-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia 105 Classic without App | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-magic-5-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Magic 5 Pro Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-5-v-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 5 V Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-asus-rog-phone-8-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Asus ROG Phone 8 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-nokia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-s24plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy S24+ Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-best-free-video-editor-apps-android-edition/"><u>[New] Unleash Creativity Best Free Video Editor Apps, Android Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-prodigy-ai-image-editing-arsenal/"><u>[Updated] 2024 Approved Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-google-meet-username-transformation-guide-for-2024/"><u>[Updated] Google Meet Username Transformation Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-adding-videos-to-written-work-a-budget-friendly-way/"><u>In 2024, Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-razr-40-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Razr 40</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A78 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-c67-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme C67 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-reality-of-now-vrs-evolution-and-challenges/"><u>In 2024, The Reality of Now VR's Evolution and Challenges</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-c65-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco C65 FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/merge-easy-to-use-skype-with-advanced-zoom-features-for-2024/"><u>Merge Easy-to-Use Skype with Advanced Zoom Features for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/valhallas-last-stand-gods-at-war/"><u>Valhalla's Last Stand Gods at War</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44ot44oh44kq44kz44oz44oq44o844oi44gn44k144kk44k644oa44km44oz44cb5pcn5asx44gq44gx44gr5a6f54plusplus44gz44kl5pa55rov/"><u>ビデオコンバートでサイズダウン、損失なしに実現する方法</u></a></li>
 </ul></div>
 

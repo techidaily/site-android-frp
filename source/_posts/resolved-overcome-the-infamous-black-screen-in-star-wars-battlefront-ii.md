@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Infamous 'Black Screen' In Star Wars Battlefront II"
-date: 2024-09-23T07:25:18.276Z
-updated: 2024-09-27T16:32:02.240Z
+date: 2024-10-01T16:06:41.400Z
+updated: 2024-10-03T16:22:50.386Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
@@ -46,10 +46,16 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
@@ -57,13 +63,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
@@ -79,18 +78,18 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -118,10 +117,10 @@ To update your graphics driver, here are two safe ways for you:
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
@@ -134,10 +133,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
@@ -153,21 +152,16 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
@@ -180,6 +174,13 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
@@ -208,15 +209,24 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[Updated] In 2024, Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-weibo-stars-quick-chats-on-snapchat/"><u>[Updated] Weibo Stars Quick Chats on Snapchat</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>About Oppo Reno 9A FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pc-game-5-crucial-speed-up-tools/"><u>Elevate Your PC Game: 5 Crucial Speed-Up Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola G54 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-decreasing-audio-intensity-in-logic-pro/"><u>In 2024, The Art of Decreasing Audio Intensity in Logic Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-htc-u23-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to HTC U23 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-the-art-of-conducting-virtual-meetings-with-zoom-win10/"><u>Master the Art of Conducting Virtual Meetings with Zoom (Win10)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amdradeon5770winrtkenhance/"><u>AMDRADEON5770WinRTKEnhance</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-shortcut-personalization-techniques/"><u>Cutting-Edge Windows 11 Shortcut Personalization Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-phrozens-premium-sonic-mini-8k-s-resin-printer-for-a-steal-at-325/"><u>Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964262062-governments-can-address-the-underprovision-of-public-goods-by-taxing-citizens-and-providing-these-goods-collectively/"><u>Governments Can Address the Underprovision of Public Goods by Taxing Citizens and Providing These Goods Collectively.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-m34-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy M34 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a59-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A59 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-8t-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 8T 5Gwith/without a PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-10-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 10 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-a56s-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo A56s 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-f23-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo F23 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-patch-tuesday-keeping-your-system-secure-with-microsoft-updates/"><u>The Essentials of Patch Tuesday: Keeping Your System Secure with Microsoft Updates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A14 5G FRP Bypass</u></a></li>
 </ul></div>
 

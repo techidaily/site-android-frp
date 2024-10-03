@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-09-22T04:07:03.235Z
-updated: 2024-09-28T06:59:52.132Z
+date: 2024-10-01T16:35:45.215Z
+updated: 2024-10-03T16:22:12.815Z
 tags:
   - win11
   - win10
@@ -39,18 +39,24 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Then wait until the process is completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -66,10 +72,10 @@ Here’s how to restart the shaders installation:
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -87,10 +93,10 @@ Here’s how to restart the shaders installation:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,6 +115,13 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -116,13 +129,6 @@ Here’s how to restart the shaders installation:
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
@@ -146,18 +152,20 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-chilling-yet-heating-top-5-winter-scenes-for-vids-for-2024/"><u>[New] Chilling Yet Heating Top 5 Winter Scenes for Vids for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-transforming-gameplay-into-visual-stories-using-obs/"><u>[Updated] Transforming Gameplay Into Visual Stories Using OBS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-in-class-business-data-cradle/"><u>Best in Class Business Data Cradle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-mp4-en-webm-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers MP4 en WebM en Ligne Avec Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2019-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2019 - How to get it back | Stellar</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/effective-techniques-for-screen-display-on-google-meet/"><u>Effective Techniques for Screen Display on Google Meet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Ace 2 Pro FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy F04</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Prowith/without a PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-ce-3-lite-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord CE 3 Lite 5GFRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24 UltraFRP Lock</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/removing-background-music-and-sounds-from-new-avi-files-for-2024/"><u>Removing Background Music and Sounds From New AVI Files for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sound-sanitization-cleaning-up-your-online-footage/"><u>[Updated] Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>2024 Approved Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-sightline-in-roblox-playground/"><u>2024 Approved Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtual-worlds-practical-applications/"><u>2024 Approved Virtual World's Practical Applications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-performance-using-cookiebot-technology-get-started-now/"><u>Boost Your Site's Performance Using Cookiebot Technology - Get Started Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a38withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A38with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-huawei-nova-y91-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Huawei Nova Y91 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-twisting-the-narrative-a-guide-to-angled-photography-in-todays-digital-landscape/"><u>In 2024, Twisting the Narrative A Guide to Angled Photography in Today's Digital Landscape</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-11-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme 11 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Yuva 2 Pro FRP Bypass</u></a></li>
 </ul></div>
 

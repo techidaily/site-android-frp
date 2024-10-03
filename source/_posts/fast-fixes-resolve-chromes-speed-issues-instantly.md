@@ -1,7 +1,7 @@
 ---
 title: "Fast Fixes: Resolve Chrome's Speed Issues Instantly!"
-date: 2024-09-20T18:03:56.503Z
-updated: 2024-09-27T17:08:03.385Z
+date: 2024-10-01T16:04:19.353Z
+updated: 2024-10-03T16:21:53.549Z
 tags:
   - win11
   - win10
@@ -60,31 +60,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -93,6 +72,13 @@ See if you can log in or not. if not, try the next fix, below.
 1. Click **[here](http://www.speedtest.net/)**  to access the official website of SPEEDTEST.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
@@ -103,23 +89,25 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
- Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -130,19 +118,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -186,13 +161,20 @@ See if you can log in or not. if not, try the next fix, below.
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -203,13 +185,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -217,6 +192,14 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
@@ -237,6 +220,14 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
@@ -259,10 +250,10 @@ See if you can log in or not. If not, try the next fix.
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
@@ -288,20 +279,15 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-optimal-4k-video-recording-tools-compilation/"><u>[New] 2024 Approved Optimal 4K Video Recording Tools Compilation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon-for-2024/"><u>[Updated] Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon) for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>[Updated] In 2024, Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-130-music-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia 130 Music</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/convert-youtube-to-mp3-safely-top-3-guided-approaches/"><u>Convert YouTube to MP3 Safely Top 3 Guided Approaches</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-sony-xperia-1-v-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Sony Xperia 1 V FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-blank-pages-windows-11-printer-woes/"><u>Fix Blank Pages: Windows 11 Printer Woes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-f23-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo F23 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c22-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C22</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-nord-ce-3-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Nord CE 3 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-a18-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A18 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-select-proper-boot-device-glitch-on-your-pc-effective-fixes-unveiled/"><u>Overcome 'Select Proper Boot Device' Glitch on Your PC: Effective Fixes Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-lack-of-wireless-adapter-on-new-windows-os/"><u>[FIXED] Lack of Wireless Adapter on New Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-radiance-visionaries-report-on-studio-25-2023/"><u>[Updated] 2024 Approved Radiance Visionaries Report on Studio 25, 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-insights-for-optimal-screenrec-techniques-for-2024/"><u>[Updated] Detailed Insights for Optimal ScreenRec Techniques for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s23-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S23 Tactical Edition Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-v30-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme V30 FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-f5-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco F5 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-11-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme 11 Pro Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-a-meta-quest-based-virtual-reality-device-awaiting-its-debut-as-a-rival-to-steam-deck/"><u>Is a Meta Quest-Based Virtual Reality Device Awaiting Its Debut as a Rival to Steam Deck?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-movie-maker-a-beginner-friendly-video-editing-companion/"><u>YouTube Movie Maker A Beginner-Friendly Video Editing Companion</u></a></li>
 </ul></div>
 
