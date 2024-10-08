@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-10-01T16:35:45.215Z
-updated: 2024-10-03T16:22:12.815Z
+date: 2024-10-04T17:48:09.803Z
+updated: 2024-10-08T19:32:14.574Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game
 
  The shaders compilation issue might be triggered by broken or missing game files. So before trying anything more complicated, first you need to**verify the integrity of your game files** .
@@ -39,24 +46,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Then wait until the process is completed.  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -71,13 +72,6 @@ Here’s how to restart the shaders installation:
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Shaders issues in COD titles could mean that you’re using**a broken or outdated graphics driver** . We always recommend gamers to keep their GPU drivers up to date so as to avoid compatibility issues. If you don’t know when was the last time you updated your drivers, definitely do it now.
@@ -91,13 +85,6 @@ Here’s how to restart the shaders installation:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,10 +103,10 @@ Here’s how to restart the shaders installation:
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Link your Activision and Blizzard accounts
@@ -132,6 +119,19 @@ Here’s how to restart the shaders installation:
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,20 +152,18 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sound-sanitization-cleaning-up-your-online-footage/"><u>[Updated] Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>2024 Approved Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-your-sightline-in-roblox-playground/"><u>2024 Approved Maximizing Your Sightline in Roblox Playground</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-virtual-worlds-practical-applications/"><u>2024 Approved Virtual World's Practical Applications</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-performance-using-cookiebot-technology-get-started-now/"><u>Boost Your Site's Performance Using Cookiebot Technology - Get Started Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a38withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A38with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-huawei-nova-y91-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Huawei Nova Y91 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-twisting-the-narrative-a-guide-to-angled-photography-in-todays-digital-landscape/"><u>In 2024, Twisting the Narrative A Guide to Angled Photography in Today's Digital Landscape</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-11-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme 11 Pro FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Yuva 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[New] Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered/"><u>[Updated] Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered)?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/jpg-gif-movavi/"><u>免費 JPG 到 GIF 转换：使用Movavi 在线工具 - 直译</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-meizu-21-frp-bypass-by-drfone-android/"><u>About Meizu 21 FRP Bypass</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-20-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 20 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/hidden-narratives-unlocked-a-complete-snapguide/"><u>Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-a54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/leading-no-cost-screen-recorders-for-windows-top-5-list/"><u>Leading No-Cost Screen Recorders For Windows – Top 5 List</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-edge-40-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Edge 40 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unraveling-handbrake-lag-causes-and-solutions/"><u>Unraveling Handbrake Lag: Causes & Solutions</u></a></li>
 </ul></div>
 
