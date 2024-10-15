@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-10-04T17:48:09.803Z
-updated: 2024-10-08T19:32:14.574Z
+date: 2024-10-11T18:37:43.841Z
+updated: 2024-10-14T19:40:26.474Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair your game
 
  The shaders compilation issue might be triggered by broken or missing game files. So before trying anything more complicated, first you need to**verify the integrity of your game files** .
@@ -46,18 +39,25 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Then wait until the process is completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -69,6 +69,13 @@ Here’s how to restart the shaders installation:
 2. Navigate to the**GRAPHICS** tab. Scroll down to the bottom and click**Restart Shaders Compilation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cold-war-reinstall-shaders-1.jpg)
 3. Wait for the reinstallation to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
@@ -82,6 +89,13 @@ Here’s how to restart the shaders installation:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -102,13 +116,6 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -119,19 +126,6 @@ Here’s how to restart the shaders installation:
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,18 +146,14 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[New] Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[New] Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered/"><u>[Updated] Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered)?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/jpg-gif-movavi/"><u>免費 JPG 到 GIF 转换：使用Movavi 在线工具 - 直译</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-meizu-21-frp-bypass-by-drfone-android/"><u>About Meizu 21 FRP Bypass</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-spark-20-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Spark 20 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/hidden-narratives-unlocked-a-complete-snapguide/"><u>Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-a54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/leading-no-cost-screen-recorders-for-windows-top-5-list/"><u>Leading No-Cost Screen Recorders For Windows – Top 5 List</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-motorola-edge-40-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Edge 40 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unraveling-handbrake-lag-causes-and-solutions/"><u>Unraveling Handbrake Lag: Causes & Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-revolutionize-your-podcast-reach-with-smart-seo/"><u>[New] Revolutionize Your Podcast Reach with Smart SEO</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-effective-youtube-card-usage-guide/"><u>2024 Approved Effective YouTube Card Usage Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-11-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus 11 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c50-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C50 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A54 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ranked-guide-to-premium-iosdesktop-video-change-tools/"><u>Ranked Guide to Premium iOS/Desktop Video Change Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-one-stop-guide-to-simplified-podcast-live-broadcasting-for-2024/"><u>The One Stop Guide to Simplified Podcast Live Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windows-10-video-grabber-ultimate/"><u>Windows 10 Video Grabber Ultimate</u></a></li>
 </ul></div>
 

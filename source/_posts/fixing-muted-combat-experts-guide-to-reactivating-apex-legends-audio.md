@@ -1,7 +1,7 @@
 ---
 title: "Fixing Muted Combat: Experts' Guide to Reactivating Apex Legends Audio"
-date: 2024-10-05T16:46:52.823Z
-updated: 2024-10-08T20:47:07.052Z
+date: 2024-10-09T03:22:25.806Z
+updated: 2024-10-14T22:10:10.210Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 
 If your cables and volume are okay, move on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common issues of the_Hearthstone_ audio issue is a corrupted or outdated audio driver. To keep the audio works properly on your computer, it’s essential that you have the latest correct audio driver at all times.
@@ -73,16 +80,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -147,6 +154,13 @@ OR
 
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair_Hearthstone_ files
 
  The audio issue in_Hearthstone_ is sometimes triggered by damaged or missing game files. To see if that’s the problem for you, try verifying the integrity of your game files. Here is how to do it:
@@ -157,29 +171,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
 
@@ -195,18 +189,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Reset sound settings**
 
@@ -219,13 +220,6 @@ OR
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
@@ -242,6 +236,13 @@ OR
 **6)** Click**DONE** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
 
@@ -264,6 +265,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart the Blizzard launcher to download and install_Hearthstone_ .
 
  Relaunch your game to check if the audio issue has been resolved. If not, check the fix below.
@@ -273,13 +287,6 @@ OR
 **1)** On your keyboard, press the**Windows logo key** and type**control** . Then select**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-441.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under**View by** , select**Category** .
 
@@ -294,13 +301,6 @@ OR
  If you’re prompted about permission, select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-445.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
 
@@ -330,24 +330,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-prime-firefox-video-capturing-software/"><u>[New] 2024 Approved Prime Firefox Video Capturing Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-macos-11-big-sur-transition-tips/"><u>[New] Understanding macOS 11 Big Sur Transition Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immerse-in-a-world-of-efficient-notes-with-mematic/"><u>[Updated] Immerse in a World of Efficient Notes with Mematic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expanding-creative-horizons-with-custom-fonts-in-after-effects/"><u>2024 Approved Expanding Creative Horizons with Custom Fonts in After Effects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-your-cam-flagship-gear-with-ease/"><u>2024 Approved Maximize Your Cam Flagship Gear with Ease</u></a></li>
-<li><a href="https://solve-news.techidaily.com/free-and-clean-the-ultimate-list-of-8-tiktok-video-conversion-tools-with-zero-watermarks/"><u>Free & Clean: The Ultimate List of 8 TikTok Video Conversion Tools with Zero Watermarks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-c53-frp-by-drfone-android/"><u>Full Guide to Bypass Realme C53 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>Full Guide to Bypass Sony Xperia 5 V FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G73 5G FRP?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-add-pre-installed-printer-and-scanner-drivers-in-the-latest-version-of-windows-11/"><u>How to Add Pre-Installed Printer & Scanner Drivers in the Latest Version of Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a58-4g-by-drfone-android/"><u>How to Bypass FRP from Oppo A58 4G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-x5-pro-by-drfone-android/"><u>How to Bypass FRP from Poco X5 Pro?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c12-pro-by-drfone-android/"><u>How to Bypass FRP on Nokia C12 Pro?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Sony Xperia 1 V FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-gt-5-240w-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme GT 5 (240W) FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g23-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G23 Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-our-exclusive-package-of-free-youtube-adornments-in-2024/"><u>Unveiling Our Exclusive Package of Free YouTube Adornments, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-methods-to-autoplay-youtube-videos-on-facebook/"><u>[New] Methods to Autoplay Youtube Videos on Facebook?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-unboxing-on-instagram-a-guide-to-popularity/"><u>[New] Revolutionize Unboxing on Instagram A Guide to Popularity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-best-podcast-debut-days/"><u>[Updated] Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[Updated] In 2024, Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2021-apple-tv-4k-assessment-experience-crystal-clear-hd-with-intuitive-siri-voice-command/"><u>2021 Apple TV 4K Assessment: Experience Crystal Clear HD with Intuitive Siri Voice Command</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-the-best-hashtags-for-youtube-gaming-videos/"><u>2024 Approved The Best Hashtags for YouTube Gaming Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fire-hd-8-a-budget-friendly-tablet-with-top-notch-performance/"><u>Fire HD 8 : A Budget-Friendly Tablet with Top-Notch Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Lenovo ThinkPhone FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c22-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C22 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a78-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A78 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo F23 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-11x-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 11X 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g14-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G14 FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-a1-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo A1 5G Phone Network-Ready</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-find-x6-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Find X6 Pro FRP Without Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shedding-light-on-ais-black-box-secrets/"><u>Shedding Light on AI's Black Box Secrets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-edge-2023-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Edge 2023 FRP Bypass</u></a></li>
 </ul></div>
 

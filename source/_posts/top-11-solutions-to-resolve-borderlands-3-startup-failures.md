@@ -1,7 +1,7 @@
 ---
 title: Top 11 Solutions to Resolve Borderlands 3 Startup Failures
-date: 2024-10-07T18:18:48.364Z
-updated: 2024-10-08T22:28:52.623Z
+date: 2024-10-12T23:01:08.602Z
+updated: 2024-10-14T22:12:09.050Z
 tags:
   - win11
   - win10
@@ -39,42 +39,21 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -91,6 +70,13 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -110,19 +96,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
@@ -136,7 +109,27 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When updates are available, follow the on-screen instructions to download and install them.
 
@@ -148,6 +141,13 @@ If the issue persists, move on to the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
@@ -165,15 +165,15 @@ If the issue remains, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -200,18 +200,16 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-the-art-behind-live-video-thumbnails/"><u>[New] 2024 Approved Demystifying the Art Behind Live Video Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-making-science-fiction-real-teleportation-effects/"><u>[New] 2024 Approved Making Science Fiction Real Teleportation Effects</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leverage-youtube-insights-for-sustainable-channel-development/"><u>[Updated] 2024 Approved Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>[Updated] Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-start-streaming-the-simple-method-for-mac-book-air-recording/"><u>[Updated] Start Streaming The Simple Method for Mac Book Air Recording</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-11-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/identifying-affordable-cloud-providers-for-businesses-for-2024/"><u>Identifying Affordable Cloud Providers for Businesses for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-honor-play-8t-frp-bypass-by-drfone-android/"><u>In 2024, About Honor Play 8T FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 11 Pro 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-90-gt-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor 90 GT Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-gionee-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Gionee Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-honor-x50-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor X50 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-c12-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia C12 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-uninterrupted-snapstreaks-achievable-or-impossible/"><u>[Updated] Uninterrupted Snapstreaks Achievable or Impossible?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deciphering-the-art-of-voice-documentation/"><u>2024 Approved Deciphering the Art of Voice Documentation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>In 2024, About Realme GT Neo 5 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-xr21frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia XR21FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-c12-plus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia C12 Plus FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x6-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X6 Phone FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993056301-the-king-of-fighters-xv-update-eliminating-pc-instability-once-and-for-all/"><u>The King of Fighters XV Update - Eliminating PC Instability Once and For All</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-blunders-in-harnessing-chatgpt-for-writing/"><u>Top 4 Blunders in Harnessing ChatGPT for Writing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-tablet-drivers-for-windows-ensure-optimal-performance-and-efficiency/"><u>Wacom Intuos Tablet Drivers for Windows - Ensure Optimal Performance & Efficiency</u></a></li>
 </ul></div>
 
