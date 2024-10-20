@@ -1,7 +1,7 @@
 ---
 title: Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Z50 Ultra Phone FRP Lock
-date: 2024-10-08T02:31:31.743Z
-updated: 2024-10-15T04:17:09.069Z
+date: 2024-10-16T16:32:54.812Z
+updated: 2024-10-20T17:13:54.113Z
 tags: 
   - unlock
   - bypass android frp
@@ -44,13 +44,6 @@ Android 5.1 Lollipop, Android 6 Marshmallow, Android 7 Nougat, Android 8 Oreo, A
 **Windows:**
 
 Windows XP, Windows 7, Windows 8, Windows 10, Windows 11 (X32 and X62 bit).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Supported phone models
 
@@ -168,6 +161,13 @@ For those seeking a reliable solution, **FRP Hijacker by Hagard** emerges as a p
 
 ![Device locked by FRP](https://images.wondershare.com/drfone/article/2024/01/frp-hijacker-by-hagard-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Bypass FRP Using FRP Hijacker by Hagard: An Overview
 
 FRP Hijacker by Hagard is a specialized tool designed to help users in bypassing the Factory Reset Protection (FRP) on Samsung phones. The app works with rooted and unrooted Android devices, taking advantage of system vulnerabilities.
@@ -177,16 +177,16 @@ Bypassing FRP with **FRP Hijacker by Hagard** is seamless and user-friendly—no
 ![FRP Hijacker by Hagard](https://images.wondershare.com/drfone/article/2024/01/frp-hijacker-by-hagard-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### List of features
@@ -206,13 +206,6 @@ The **FRP Hijacke**r tool v1.0 simplifies the process of enabling ADB, allowing 
 ### Is It Safe to Use FRP Hijacker?
 
 Using **FRP Hijacker** involves potential risks such as voiding the Nubia Z50 Ultra device warranty, legal implications, and compromising data security. Before proceeding, consider official alternatives from the Nubia Z50 Ultra device manufacturer, back up your data, and be aware of potential compatibility issues with updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Download Link and How to Install FRP Hijacker by Hagard
 
@@ -236,6 +229,13 @@ Following the successful installation of **FRP Hijacker by Hagard**, proceed wit
 - **Step 4:** After selecting 'Remove FRP,' click on the 'HIJACK IT' button. This action will trigger the tool to start the FRP removal process on your connected Samsung device.
 
 ![How to use FRP Hijacker by Hagard](https://images.wondershare.com/drfone/article/2024/01/frp-hijacker-by-hagard-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As the tool progresses through the removal process, follow any additional on-screen prompts or instructions that may be provided. Once completed, your Samsung device should be successfully free from the FRP lock, granting you full access to its functionalities.
 
@@ -329,6 +329,13 @@ The primary purpose of FRP is to prevent unauthorized access to a device after i
 
 After a factory reset, the Nubia Z50 Ultra device will need the user to enter the Google account credentials. It is the same account associated with the Nubia Z50 Ultra device. This prevents someone who doesn't know the account details from gaining access to the Nubia Z50 Ultra device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Significance of FRP
 
 FRP plays a crucial role in protecting personal data stored on Android devices. It acts as a strong deterrent against unauthorized access. This ensures that the data remains inaccessible even if a device falls into the wrong hands. This security measure is particularly important in cases of device theft or loss. It helps prevent sensitive information from being accessed by unauthorized individuals.
@@ -340,10 +347,16 @@ By implementing FRP, Google aims to enhance the overall security of Android devi
 It is crucial to make sure you're prepared before you go after the **Nubia FRP bypass the Android 13**. This section will guide you through the essential steps to ensure a successful bypass process. Following these measures will reduce the chances of encountering any obstacles. So, let's get started by taking care of a few key aspects before proceeding with the FRP bypass.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ensuring Device Compatibility
@@ -359,13 +372,6 @@ Wondershare Dr.Fone – Phone Backup turns out to be an assistance in this case.
 ### Charging the Nubia Z50 Ultra device Adequately
 
 Ensure that your phone has enough charge to avoid any complications during the FRP bypass process. It is recommended to charge your Nubia device to at least 50%. The ideal way is to connect it to a power source during the procedure. This will prevent any unexpected shutdowns that could potentially disrupt the bypass process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Connecting to Stable Internet
 
@@ -389,29 +395,9 @@ This process will only work if you at least remember the Gmail ID. Follow the st
 
 ![login into google account](https://images.wondershare.com/drfone/article/2023/07/vivo-frp-bypass-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4. Method 2: Using FRP Bypass Tools
 
 One way to **Nubia Y20 FRP bypass Android 12** is to use a specialized FRP bypass tool. Among the various tools available, we highly recommend using [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is a reputable and reliable tool for FRP bypass on Android devices from all major brands. These include over 15 brands with 2000+ Android devices where Dr.Fone can do its magic.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -420,6 +406,13 @@ Bypass Nubia Google FRP in a Flash
 - Pattern, PIN, password, fingerprints & face screen lock can all be unlocked.
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Unlock mainstream Android brands like Samsung, Vivo, Xiaomi, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - No tech knowledge required, Simple, click-through, process.
 
@@ -445,7 +438,21 @@ After downloading the driver, move to your Nubia smartphone and turn it off. Con
 
 ![removing the google frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Method 3: Contacting Nubia Support
 
@@ -487,13 +494,6 @@ _ [The Complete Guide to Unlock Mi Account Without Password](https://drfone.wond
 _ [Ultimate Guide to Bypass FRP with PC](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html) _
 
 _ [Complete Method: How to bypass Xiaomi FRP](https://drfone.wondershare.com/bypass-android-frp/how-to-bypass-xiaomi-redmi-frp.html) _
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6. Troubleshooting and Tips
 
@@ -566,18 +566,24 @@ This makes Dr.Fone an excellent option for a hassle-free bypass experience. Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-discovering-the-most-shared-twitvideos-of-the-year/"><u>[New] In 2024, Discovering the Most Shared TwitVideos of the Year</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-8-websites-for-3d-graffiti-fonts/"><u>[New] Top 8 Websites for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-understanding-magixs-acid-pro-and-its-market-rivals-for-2024/"><u>[Updated] Understanding Magix's ACID Pro and Its Market Rivals for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>2024 Approved Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a78-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A78 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-s23-fe-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy S23 FE Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A15 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-blaze-2-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Blaze 2 Prowith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-ace-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Ace 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-htc-u23-frp-bypass-by-drfone-android/"><u>Ultimate Guide on HTC U23 FRP Bypass</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-documenting-your-vr-experiences-for-2024/"><u>Ultimate Guide to Documenting Your VR Experiences for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/wie-du-kann-man-dvds-erfolgreich-mit-wiiwii-u-in-diesem-jahr-abspielst-drei-effektive-methoden-erklart/"><u>Wie Du Kann Man DVDs Erfolgreich Mit Wii/Wii U in Diesem Jahr Abspielst - Drei Effektive Methoden Erklärt</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-10t-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 10T 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-k11-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo K11 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-c67-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme C67 4G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-5g-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 5G FRP Bypass</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effiziente-methoden-zum-wiederherstellen-von-windowsold-professionelle-datenwiedergewinnung/"><u>Effiziente Methoden Zum Wiederherstellen Von 'Windows.old' - Professionelle Datenwiedergewinnung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enjoy-tiktoks-big-screen-style-a-complete-tutorial-for-displaying-tiktok-on-your-tv/"><u>Enjoy TikToks Big Screen Style: A Complete Tutorial for Displaying TikTok on Your TV</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/gratis-airdrop-app-fur-windows-betriebssysteme-windows-111087-herunterladen-und-installieren/"><u>Gratis AirDrop-App Für Windows-Betriebssysteme (Windows 11/10/8/7) Herunterladen Und Installieren</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-enable-and-use-dvd-playback-feature-on-the-xbox-one-gaming-system/"><u>How to Enable and Use DVD Playback Feature on the Xbox One Gaming System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A14 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-honor-x7b-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X7b FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-huawei-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Huawei FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto E13 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-5-240w-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT 5 (240W) Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5GFRP Lock</u></a></li>
+<li><a href="https://win-web.techidaily.com/revive-your-vintage-wd-external-hard-disk-a-step-by-step-guide/"><u>Revive Your Vintage WD External Hard Disk: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/three-methods-to-test-windows-11-status/"><u>Three Methods to Test Windows 11 Status</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-google-pixel-7a-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Google Pixel 7a Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-creativity-the-best-5-text-generation-ais-for-writers/"><u>Unleashing Creativity: The Best 5 Text Generation AIs for Writers</u></a></li>
 </ul></div>
 

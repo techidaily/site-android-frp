@@ -1,7 +1,7 @@
 ---
 title: Top 5 Honor X9b Bypass FRP Tools for PC That Actually Work
-date: 2024-10-11T05:03:03.061Z
-updated: 2024-10-14T19:24:37.255Z
+date: 2024-10-19T16:32:12.766Z
+updated: 2024-10-20T20:14:37.162Z
 tags: 
   - unlock
   - bypass android frp
@@ -46,13 +46,6 @@ Now, to make a clear conclusion, the Honor FRP tool is a safe and reliable progr
 _**Tips:** Struggling to unlock your Honor device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the ideal solution. This user-friendly tool removes pattern, PIN, password, and fingerprint locks, making it easy to bypass your Honor lock screen. It's also effective for bypassing Google FRP on Samsung, Xiaomi, Redmi, Oppo, Realme, and Vivo devices._
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. GSM Flasher ADB FRP Bypass Tool
 
@@ -102,13 +95,6 @@ Removing FRP lock not only on your Honor devices but others like Samsung, Motoro
 
 It is compatible with a wide range of devices and models, this tool is apt for the removal of FRP locks as well as others like pin-code, patterns, and more. Free and user-friendly further makes it a popular choice among users.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Octoplus FRP Tool
 
 To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and others. In android devices, this is a decent tool to consider. No advanced tech-learning or other hassled requirements are there for this tool to help you bypass the FRP lock.
@@ -148,6 +134,13 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Dr.Fone will start to unlock Android screen after getting into the specific mode. After completed, you need to click on the Remove Now option after which the screen lock on your device will be disabled, and you can easily have access to your device.
 
 ![remove Honor screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -166,6 +159,13 @@ Get into Locked Honor Phones within Minutes
 
 **4,008,669** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The above-listed **Best Honor FRP tools 2024** will come in quite handy when you are looking for solutions to bypass the FRP lock on your Honor devices. Depending on the system version, device model, and other requirements, the best suitable tool can be selected. In case you are stuck with the screen lock on your Honor or other Android devices, then [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is the best tool to be considered.
@@ -175,13 +175,6 @@ The above-listed **Best Honor FRP tools 2024** will come in quite handy when you
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step-by-Step Tutorial: How To Bypass Honor X9b FRP
 
@@ -212,6 +205,13 @@ By requiring the user's Google account credentials, FRP reduces the chances of d
 When you register a Google account on your device, the FRP gets activated automatically. If you remove the Google account from the Honor X9b device before performing a factory data reset, the FRP will be disabled. However, once the FRP is enabled, it will stop you from using your Honor X9b after a factory data reset in an untrusted environment.
 
 In simple words, any other way to factory reset the Honor X9b device except factory reset through settings will trigger FRP lock. A command example of this is a hard factory reset which usually enables FRP lock after the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Preparations Before Bypassing Honor X9b FRP
 
@@ -261,6 +261,13 @@ Before attempting this method, ensure that you have access to the Google account
 
 - **Step 3:** After entering the correct Google account credentials, the Honor X9b device will verify the information. If the details are correct, FRP will be bypassed, and you will gain access to your Honor X9b.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Using FRP Bypass Tools
 
 To bypass the FRP on Honor X9b, you can utilize a specialized tool designed for this purpose. One highly recommended tool is [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is known for its reliability in bypassing FRP locks on various Android devices. This tool supports 15+ different brands with 2000+ Android devices for FRP bypassing.
@@ -285,6 +292,13 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 Start by installing Wondershare Dr.Fone on your computer, then launch the application. Afterward, navigate to the "Toolbox" tab and select "Screen Unlock." Follow it by clicking on "Android" on the next screen. Choose ["Remove Google FRP Lock"](https://drfone.wondershare.com/factory-reset-protection/frp-bypass-google-account.html) among the available options for screen unlocking.
 
 ![choose to remove google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 2: Select Remove Google FRP Lock To Proceed
 
@@ -315,6 +329,13 @@ The third method on the list for Honor X9b FRP bypass is using a combination fil
 
 ![complete Honor frp tool process](https://images.wondershare.com/drfone/article/2023/07/vivo-y20-frp-lock-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Troubleshooting and Tips
 
 Navigating the workings of the **Honor X9b FRP bypass** can be challenging. As with any security feature, FRP is designed to protect your data and device. It makes the bypassing process a delicate task. This part will address common issues faced during FRP bypass attempts.
@@ -336,13 +357,6 @@ It will also offer valuable tips to ensure a successful process. Moreover, it wi
 4. **Read User Reviews:** If using third-party tools, read user reviews and forums. This will help you gauge their effectiveness and safety.
 5. **Follow Instructions Carefully:** Whether using official methods or alternative tools, follow instructions diligently to avoid mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Alternative Methods or Tools if the Initial Methods Fail
 
 If the initial methods discussed in this article are failed to bypass the Honor X9b FRP, then try these alternate methods to turn off the FRP lock:
@@ -355,18 +369,18 @@ If you have bought the Honor X9b in used condition and it is FRP-locked, try con
 
 Have you tried various methods to bypass FRP on your Honor X9b without success? It is the right time to contact professionals. Get in touch with Vivo's official customer services or visit an authorized service center. They have the expertise to handle device-related issues, including FRP lockouts. Explain your situation to the support staff, and they will guide you through the appropriate steps to regain access.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for the **Honor X9b FRP bypass**. While there are several methods available, we highly recommend using the Wondershare Dr.Fone as the best choice. Dr.Fone is a reputable and reliable tool that offers a seamless and secure FRP bypass process.
 
 It prioritizes data integrity and user privacy. Moreover, its clean interface ensures that even users with limited tech knowledge can use the bypassing process with ease.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Latest Guide: How To Bypass Honor X9b FRP Without Computer
 
@@ -385,13 +399,6 @@ Honor smartphones incorporate a security measure called the FRP (Factory Reset P
 The ****Honor X9b FRP code**** serves as a protective barrier. It prevents unauthorized individuals from utilizing the Honor X9b device after it has been reset. By requesting the Google account credentials tied to the Honor X9b device, it acts as an extra layer of security. This ensures that only authorized users can access and operate the Honor X9b device. In essence, the Honor X9b FRP code is an integral security feature that reinforces user authentication.
 
 It prevents unauthorized access to the Honor X9b device, providing additional protection. Each [Honor device](https://drfone.wondershare.com/unlock/vivo-screen-lock.html) possesses a distinct FRP (Factory Reset Protection) code. It is linked to the Google account that was previously synchronized with the Honor X9b device. It activates when you perform a factory reset on your Honor smartphone without signing out of the associated Google account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Usage of Honor X9b FRP Code
 
@@ -429,25 +436,11 @@ The FRP lock on your Honor smartphone is closely linked to the Google account. T
 
 ![add the google account details](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Using Third-Party FRP Bypass Apps
 
 There are many third-party tools available that can help you bypass the Honor X9b FRP lock. One of these tools is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This tool is considered to be the best when it comes to bypassing FRP lock. It provides a powerful screen unlock feature that can bypass many locks on Android devices. These locks include passwords, PINs, patterns, fingerprints, and face locks.
 
 Wondershare Dr.Fone also supports over 2000 Android devices from 15+ brands for screen unlocking. These include all major brands like Samsung, Xiaomi, Honor, [OPPO](https://drfone.wondershare.com/google-frp-unlock/oppo-frp.html), and others.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -494,6 +487,13 @@ In this section, we will guide you through the process of disabling Honor X9b FR
 
 ![tap on the delete account option](https://images.wondershare.com/drfone/article/2023/07/bypass-vivo-frp-without-computer-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this comprehensive guide, we have explored various methods for ****Honor X9b FRP bypass without a PC****. We discussed the Honor X9b FRP code method, followed by three alternative techniques. These included built-in Honor tools, an official Google account, and Wondershare Dr.Fone. These methods provide viable options for Honor smartphone users locked out of their devices.
@@ -509,19 +509,18 @@ Each method has its own merits and limitations. However, we recommend considerin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-10-best-free-image-hosting-sites/"><u>[New] 10 Best Free Image Hosting Sites</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleashing-creativity-the-essential-guide-to-desktop-video-posts-on-instagram/"><u>[New] 2024 Approved Unleashing Creativity The Essential Guide to Desktop Video Posts on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-high-fidelity-portals-to-ps3-gaming-on-pcs-for-2024/"><u>[New] High-Fidelity Portals to Ps3 Gaming on PCs for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[Updated] FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions-for-2024/"><u>[Updated] Securing Every Moment Tips for Reliable Capture of Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>About Oppo Reno 11F 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m34-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M34 5G FRP Locks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-magic-6-lite-by-drfone-android/"><u>How to Bypass FRP from Honor Magic 6 Lite?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a1-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A1 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A23 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-21-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Meizu 21 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Yuva 2 Pro FRP</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-10-best-apps-for-editing-igtv-vertical-videos-for-2024/"><u>[Updated] 10 Best Apps for Editing IGTV Vertical Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>[Updated] The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-5-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT 5 FRP</u></a></li>
+<li><a href="https://win-net.techidaily.com/anyrecover-evaluation-advantages-disadvantages-and-top-substitute-option/"><u>AnyRecover Evaluation: Advantages, Disadvantages, & Top Substitute Option</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-deskjet-ink-advantage-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet Ink Advantage 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-12-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 12 iCloud Activation Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-c22-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia C22 FRP Without Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 6 Lite FRP Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-computer-experience-enabledisable-windows-key/"><u>Streamline Your Computer Experience: Enable/Disable Windows Key</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-asus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Asus Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a34-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A34 5G FRP Bypass</u></a></li>
 </ul></div>
 
