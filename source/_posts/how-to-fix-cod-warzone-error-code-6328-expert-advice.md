@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Cod: Warzone Error Code 6328 – Expert Advice"
-date: 2024-10-23T08:56:59.720Z
-updated: 2024-10-26T10:10:39.863Z
+date: 2024-10-27T19:06:38.911Z
+updated: 2024-11-01T03:42:13.761Z
 tags:
   - win11
   - win10
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
@@ -63,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, relaunch the game to check if the black screen issue still occurs.
@@ -96,6 +90,13 @@ There are mainly two ways to update your graphics driver:
 
 If you still encounter black screen issues, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Microsoft often releases Windows updates with various bug fixes and security improvements. To ensure your operating system is not the problem, you should keep your device up to date. Here’s how:
@@ -104,26 +105,26 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
 If this fix doesn’t help, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
 
@@ -134,10 +135,16 @@ If this fix doesn’t help, proceed to the next one.
 2. Click**Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
@@ -164,21 +171,20 @@ If this fix doesn’t do the trick, take a look at the next one.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
@@ -188,13 +194,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -214,6 +213,13 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Games Launcher
 
@@ -245,21 +251,18 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-decoding-the-top-5-transformative-social-updates/"><u>[New] 2024 Approved Decoding the Top 5 Transformative Social Updates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] 2024 Approved Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-video-conferences-with-snap-camera-functions/"><u>[New] In 2024, Streamlining Video Conferences with Snap Camera Functions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-recording-techniques-for-firaxis-age-of-empires-ii-for-2024/"><u>[Updated] Quick Recording Techniques for Firaxis' Age of Empires II for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>Crafting Quiet Curtains The PP Approach to Invisible Sound Endings</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone SE (2020)? Heres the Best Fixes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c02-by-drfone-android/"><u>How to Bypass FRP on Nokia C02?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-f23-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo F23 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-htc-u23-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on HTC U23 Prowith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11f-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11F 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g22frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G22FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto G Stylus 5G (2023) FRP</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/la-noire-on-pc/"><u>L.A. Noire on PC?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovering-from-blackened-screen-cursor/"><u>Recovering From Blackened Screen, Cursor</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lenovo-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lenovo FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/total-motion-analysis-2023/"><u>Total Motion Analysis 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-counterclockwise-watch-how-to-unravel-your-youtube-sequence/"><u>[New] In 2024, Counterclockwise Watch How to Unravel Your YouTube Sequence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts-for-2024/"><u>[Updated] Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-instant-insight-snapshots-for-windows-enthusiasts/"><u>[Updated] Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g310-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-xiaomi-13t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Xiaomi 13T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175723186-immerse-in-a-spectacular-gaming-experience-with-an-ips-screen-and-rgb-light-show-on-the-economical-valkyrie-al125-air-cooler-just-20-away/"><u>Immerse in a Spectacular Gaming Experience with an IPS Screen & RGB Light Show on the Economical Valkyrie AL125 Air Cooler – Just $20 Away!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-m6-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco M6 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-11-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 11 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-find-x6-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Find X6?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-reno-11-pro-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Reno 11 Pro 5G Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-joy-con-and-pro-controller-sets-the-ultimate-choice-of-2024/"><u>Masterful Joy-Con & Pro Controller Sets: The Ultimate Choice of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-copyright-after-sharing-a-selfie/"><u>Navigating Copyright After Sharing a Selfie</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-honor-magic-6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor Magic 6 Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

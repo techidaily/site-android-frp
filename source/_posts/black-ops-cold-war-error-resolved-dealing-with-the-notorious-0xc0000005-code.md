@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-10-23T03:47:32.286Z
-updated: 2024-10-25T21:53:58.733Z
+date: 2024-10-28T03:58:05.520Z
+updated: 2024-11-01T02:44:56.208Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game
 
@@ -56,13 +63,6 @@ Here’s how to restart the shaders installation:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cold-war-reinstall-shaders-1.jpg)
 3. Wait for the reinstallation to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 ### Fix 3: Update your graphics driver
@@ -79,18 +79,24 @@ Here’s how to restart the shaders installation:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the GPU driver, restart your PC for the changes to apply. Then start your game and check if you can now complete the compilation.
 
  If the latest graphics driver doesn’t give you luck, simply take a look at the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Cache folders
 
@@ -102,6 +108,13 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -110,21 +123,14 @@ Here’s how to restart the shaders installation:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -146,16 +152,15 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/avatar-frontiers-of-pandora-improve-gameplay-with-these-essential-tweaks-for-better-frame-rates-and-smoother-graphics/"><u>'Avatar: Frontiers of Pandora' – Improve Gameplay with These Essential Tweaks for Better Frame Rates & Smoother Graphics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-guide-windows-movie-maker-60-configuration/"><u>[New] 2024 Approved Expert Guide Windows Movie Maker 6.0 Configuration</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[Updated] Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-videography-best-hd-android-video-apps-guide/"><u>[Updated] Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-f14-5g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy F14 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-narzo-n55-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme Narzo N55 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-60x-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme Narzo 60x 5G FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo F25 Pro 5G FRP</u></a></li>
-<li><a href="https://games-able.techidaily.com/necessity-of-mechanical-keys-in-pc-gaming/"><u>Necessity of Mechanical Keys in PC Gaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-moto-g-power-a-comprehensive-look-at-its-durable-battery-and-reliable-performance/"><u>Unboxing the Moto G Power: A Comprehensive Look at Its Durable Battery and Reliable Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-finding-no-cost-art/"><u>[Updated] Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-subscriber-supreme-ranked-global-youtube-personalities-by-numbers/"><u>[Updated] Subscriber Supreme Ranked Global YouTube Personalities by Numbers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-crafting-gopro-time-lapses/"><u>2024 Approved The Art of Crafting GoPro Time-Lapses</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-f5-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco F5 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lenovo-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lenovo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-8s-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 8S Pro Phones with/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a59-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A59 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s23-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S23 Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-f04-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy F04 FRP Without Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/steelseries-keyboard-setup-download-your-essential-drivers/"><u>SteelSeries Keyboard Setup: Download Your Essential Drivers</u></a></li>
 </ul></div>
 

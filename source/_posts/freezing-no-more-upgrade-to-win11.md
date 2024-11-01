@@ -1,7 +1,7 @@
 ---
 title: Freezing No More - Upgrade to Win11
-date: 2024-10-25T11:36:13.072Z
-updated: 2024-10-26T07:30:39.854Z
+date: 2024-10-26T07:17:02.899Z
+updated: 2024-11-01T01:16:31.889Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8a9c69e1b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the mouse device to automatically download the correct version of this driver, then you can install it manually(you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -93,10 +86,16 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Check the local area network settings**
@@ -107,22 +106,16 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36bec91ae2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Press**Tab** on your keyboard until you highlight **Network and Sharing Center** .
 
@@ -133,10 +126,10 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/change-adapter-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Press**Tab** until you highlight your LAN card. Press the**left arrow key** to select it. Then press**Enter** .
@@ -147,27 +140,7 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4: End Realtek audio**
 
@@ -176,6 +149,13 @@ Windows will help you reinstall the drivers for your mouse.
  1) Press the**Windows logo key** and**X** at the same time, and press**Tab** until you highlight **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3751aea9b2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Press the**down arrow key** until you locate **Realtek audio.exe** . Click **End Task** .
 
@@ -195,11 +175,25 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
  c) You’ll be in the Properties window. Change the**Startup type** to**Disabled** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21d89cc8e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 d) Restart your computer.
 
@@ -226,20 +220,24 @@ d) Restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-highlighted-14-examples-of-motion-texts/"><u>[New] Highlighted 14 Examples of Motion Texts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-art-of-documenting-dynamic-ppt-presentations/"><u>[Updated] 2024 Approved The Art of Documenting Dynamic PPT Presentations</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-incorporating-music-selections-on-vimeo-videos/"><u>[Updated] 2024 Approved Tips for Incorporating Music Selections on Vimeo Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-aerial-shots-quality-test-mi-drone-4k-edition/"><u>[Updated] Aerial Shots Quality Test - Mi Drone 4K Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-channel-success-scaling-for-a-million-viewers/"><u>[Updated] In 2024, Boosting Channel Success Scaling for a Million Viewers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-steps-for-turning-pin-videos-into-music-files/"><u>2024 Approved Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>2024 Approved Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c51-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C51 FRP</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-ergonomic-gamepad-options/"><u>Best Ergonomic Gamepad Options</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/conversion-gratuita-de-mov-a-mp4-guias-completas-para-usuarios-de-mac-sistema-windows-11-y-plataformas-en-linea/"><u>Conversión Gratuita De MOV a MP4: Guías Completas Para Usuarios De Mac, Sistema Windows 11 Y Plataformas en Línea</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-12r-by-drfone-android/"><u>How to Bypass FRP from OnePlus 12R?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze 2 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g13-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G13 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-c12-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia C12 FRP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-mastery-youtube-short-video-tips/"><u>[New] 2024 Approved Earning Mastery Youtube Short Video Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unmatched-quality-and-reliability-our-5-best-recorder-selections/"><u>[New] 2024 Approved Unmatched Quality and Reliability - Our 5 Best Recorder Selections</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-clockwise-chronicles-apples-video-reversal-method/"><u>[Updated] 2024 Approved Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>2024 Approved Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-honor-magic-v2-frp-bypass-by-drfone-android/"><u>About Honor Magic V2 FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/honoring-creativity-ultimate-otu-collection/"><u>Honoring Creativity Ultimate OTU Collection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-m6-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco M6 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a05-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A05 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-blaze-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Blaze Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-sony-xperia-1-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Sony Xperia 1 V Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12-plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12 Plus Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 ProFRP Lock</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-130-music-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-image-clarity-windows-11s-background-blur-tricks/"><u>Perfecting Image Clarity: Windows 11'S Background Blur Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
 </ul></div>
 

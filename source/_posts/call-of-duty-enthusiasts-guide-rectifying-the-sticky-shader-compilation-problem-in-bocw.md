@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Enthusiasts Guide: Rectifying the Sticky Shader Compilation Problem in BOCW"
-date: 2024-10-20T09:16:34.831Z
-updated: 2024-10-25T16:41:33.804Z
+date: 2024-10-29T03:53:23.763Z
+updated: 2024-10-31T18:44:42.722Z
 tags:
   - win11
   - win10
@@ -75,19 +75,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
@@ -112,15 +99,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -136,13 +123,6 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -151,33 +131,54 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -193,10 +194,10 @@ Here are the system requirements for Control:
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
@@ -209,6 +210,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -219,13 +227,6 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -243,14 +244,14 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -299,20 +300,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook/"><u>[Updated] In 2024, Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/framefusion-matrix-the-ultimate-montage-craft-for-2024/"><u>FrameFusion Matrix The Ultimate Montage Craft for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-methods-for-converting-vob-files-to-dvd-format-on-windows-10-and-macos/"><u>Free Methods for Converting VOB Files to DVD Format on Windows 10 and MacOS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 8 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50 Ultra to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-a24-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy A24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-g54-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola G54 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-ai-hearing-and-handling-software/"><u>In 2024, Free AI Hearing and Handling Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-8twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 8Twith/without a PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g14-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G14 Phone FRP Lock</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-proven-approaches-to-amass-elite-copyright-free-imagery/"><u>In 2024, Proven Approaches to Amass Elite, Copyright-Free Imagery</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-asus-rog-phone-8-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Asus ROG Phone 8 FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-creme-de-la-creme-live-streaming-services/"><u>[New] In 2024, The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-advanced-photo-editing-how-to-clean-up-unwanted-space-for-2024/"><u>[Updated] Advanced Photo Editing How to Clean Up Unwanted Space for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-your-videography-youtube-studio-edition-techniques/"><u>[Updated] In 2024, Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-recording-steps-for-youtube-audio-extraction/"><u>[Updated] In 2024, Essential Recording Steps for YouTube Audio Extraction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamlining-video-sharing-between-twitter-and-tumblr/"><u>[Updated] In 2024, Streamlining Video Sharing Between Twitter and Tumblr</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-honor-x8b-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X8b FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-software-ultimate-end-user-license-agreement-guide-for-winxdvd-pro/"><u>Digiarty Software: Ultimate End User License Agreement Guide for WinXDVD Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-huawei-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Huawei FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme 12 Pro 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-note-50-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme Note 50 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-find-x7-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Find X7 FRP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-acid-pro-effect-exploring-similar-tools/"><u>The ACID Pro Effect Exploring Similar Tools</u></a></li>
 </ul></div>
 

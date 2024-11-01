@@ -1,7 +1,7 @@
 ---
 title: "Fixing Muted Combat: Experts' Guide to Reactivating Apex Legends Audio"
-date: 2024-10-19T05:35:08.695Z
-updated: 2024-10-26T03:38:46.756Z
+date: 2024-10-26T02:06:02.660Z
+updated: 2024-11-01T06:34:49.900Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 5. **[Disable Compatibility Mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check cables and volume
 
@@ -96,10 +103,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -107,10 +114,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
@@ -118,6 +125,13 @@ OR
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your issue continues, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -133,27 +147,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
 
@@ -165,32 +172,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-402-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-422.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the scans to be complete, then relaunch_Hearthstone_ to test your issue. If the audio issue persists, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Compatibility Mode
 
@@ -200,22 +186,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-423.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility tab** , then uncheck**Run this program in compatibility mode for:** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-424.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Apply** then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Reset sound settings**
 
@@ -236,6 +229,13 @@ OR
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-551.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
@@ -318,18 +318,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-live-broadcasts-the-most-effective-6-microphone-selections/"><u>[New] Mastering Live Broadcasts The Most Effective 6 Microphone Selections</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>About Realme GT Neo 5 FRP Bypass</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/calculating-cost-for-shooting-a-song-in-cinematic-style-for-2024/"><u>Calculating Cost for Shooting A Song in Cinematic Style for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-account-access-issues-fix-your-login-troubles-in-no-time/"><u>Fortnite Account Access Issues? Fix Your Login Troubles in No Time</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-find-x6-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo Find X6 Phones with/without a PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S24+</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-deciphering-gopros-top-cameras-max-vs-hero-11-showdown/"><u>In 2024, Deciphering GoPro's Top Cameras Max Vs. Hero 11 Showdown</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-m14-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy M14 5G FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24plusfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24+FRP Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-document-production-using-chatgpt-with-ms-word/"><u>Streamlining Document Production: Using ChatGPT with MS Word</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tbspc/"><u>TBSチャンネルのPCへのダウンロードと録画手引き</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723002368503-why-is-my-google-chrome-browser-not-starting-find-out-how-to-fix-it/"><u>Why Is My Google Chrome Browser Not Starting? Find Out How To Fix It</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-video-to-audio-quick-download-process/"><u>[New] 2024 Approved FB Video to Audio Quick Download Process</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-reviving-your-facebook-viewing-experience-see-the-suggested-vids-again/"><u>[New] 2024 Approved Reviving Your Facebook Viewing Experience See the Suggested Vids Again</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-techniques-for-saving-roblox-playback-on-mac-for-2024/"><u>[New] Essential Techniques for Saving Roblox Playback on Mac for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>[New] In 2024, The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>2024 Approved The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-blaze-2-frp-bypass-by-drfone-android/"><u>About Lava Blaze 2 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f14-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F14 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a05s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A05s Phone that is Locked?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m34-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M34 Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-m34-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy M34 5G FRP Bypass</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-twitter-post-timelines-expert-tips-for-pre-scheduling-content/"><u>Mastering Twitter Post Timelines: Expert Tips for Pre-Scheduling Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-rust-is-unresponsive-issue-top-strategies-for-developers/"><u>Resolving the 'Rust Is Unresponsive' Issue: Top Strategies for Developers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Guide How To Bypass Honor Play 8T FRP Without Computer
-date: 2024-10-20T00:42:57.376Z
-updated: 2024-10-26T02:13:23.183Z
+date: 2024-10-27T20:43:17.912Z
+updated: 2024-10-31T21:13:12.347Z
 tags: 
   - unlock
   - bypass android frp
@@ -103,6 +103,13 @@ Once the driver is downloaded, switch off your Honor device. Now connect it to t
 
 ![remove the vivo frp lock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 3: How To Disable Honor Play 8T FRP Easily
@@ -139,18 +146,18 @@ The first one is forgetting your Google ID details. The other situation is buyin
 
 ![performing tecno pop 5 frp bypass procedure](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: \[Direct Solution\] Honor Play 8T FRP Bypass Android 11 With Wondershare Dr.Fone
 
 For the first and foremost remedy of **Honor Play 8T LTE FRP bypass**, you can use effective software. While other methods are not as versatile and simple, you can take a few steps to unlock your device. The best software solution to bypass FRP on Honor devices currently available is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a comprehensive solution that offers functions ranging from bypassing screen locks to FRP locks.
 
 Dr.Fone – Screen Unlock (Android) goes beyond Honor, extending its capability to bypass FRP locks on devices from diverse brands like MI, [<u>Samsung</u>](https://drfone.wondershare.com/google-frp-unlock/samsung-a10-frp-bypass.html), [<u>OPPO</u>](https://drfone.wondershare.com/google-frp-unlock/oppo-frp.html), and more. Additionally, it streamlines the unlocking process for various screen locks, covering passwords, PINs, fingerprints, and facial recognition. Dr.Fone is designed with a user-centric approach, ensuring accessibility for users of all types to unlock their devices effectively.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -184,13 +191,6 @@ The SIM card method is a favored FRP lock bypass approach among Honor Play 8T us
 
 ![add sim to tecno pop 5](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Before inserting the SIM card, ensure at least one contact is saved on the card. It could be any random number, and you can do it by inserting the SIM card into another device. After inserting the SIM card, tap "Emergency," where the Honor Play 8T device asks you for the PIN of the SIM card.
 
 ![provide sim passcode](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-5.jpg)
@@ -215,6 +215,13 @@ The SIM card method is a favored FRP lock bypass approach among Honor Play 8T us
 
 ![transfer three apps for frp bypass](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 8.** Once received, install all three apps on the Honor device. Now, first open "Account Login/ FRP Bypass" and tap “three dots” from the top right corner to select "Browser Sign In." When it takes you to the Google sign-in page, log in using any Google ID.
 
 ![open frp bypass app](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-11.jpg)
@@ -222,13 +229,6 @@ The SIM card method is a favored FRP lock bypass approach among Honor Play 8T us
 - **Step 9.** After signing in, return to the apps and open the Activity Launcher app. Within the app, tap "Android Setup" on the following screen and scroll down to press the "Android Setup" entry. This will perform the **Honor Play 8T Lite FRP** **bypass** successfully.
 
 ![access activity launcher and unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Here is a video for you to learn how to bypass FRP:**
 
@@ -242,20 +242,27 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 ![start by adding network](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Touch the “Microphone” icon and choose “Deny” across the pop-up. Go for the “Microphone” icon again, and opt for “Deny.” Lastly, touch the same icon again and opt for “Allow.” This will take you to the Gboard App information screen.
 
 ![workout with permissions](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Choose “Permissions” and tap the “Search” icon at the top-right corner of the follow-up screen. Search for “Settings” and pick the respective app from the results list. Tap "Open" to access the Settings application. This action will direct you to the “Settings” interface.
 
 ![open gboard permissions for settings](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4.** Navigate to "App management" and select "App settings." Access the XShare APK, launch it, and ensure you have a secondary Android device available. Open the Play Store on the second device, and download and install the XShare App for further processing.
 
@@ -275,16 +282,22 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 ![open frp bypass tool to unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-19.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 8.** Return to the “App settings” Screen and uninstall the Google Account Manager APK. Proceed to the initial “Welcome” screen by tapping the back key repeatedly. Initiate the Honor Play 8T device setup procedure by tapping “Start.” You should now observe "Account Added," indicating successful FRP bypass on your **Honor Play 8T FRP bypass Android 11**.
 
 ![successfully unlock tecno pop 5](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -292,16 +305,22 @@ In conclusion, **the Honor Play 8T LTE FRP unlock tool** demands varied approach
 
 _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Ultimate Guide on Honor Play 8T FRP Bypass
 
 [![drfone](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 FRP (Factory Reset Protection) is an Activation Lock system for preventing unauthorized Factory Resetting on your Honor phone. But if you forget your Google Account credentials, you might want to learn a few **Honor Play 8T FRP** **bypass** techniques. So this 3-minute read discusses the most effective **Honor FRP bypass** methods. Note that these methods apply to all Honor phone models, including Spark, Comon, Pop, etc.
 
@@ -375,10 +394,16 @@ Let's walk through the simple steps:
 ![home page](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3:** Select the Honor Play 8T device brand Honor that you want to unlock the screen.
@@ -402,13 +427,6 @@ You don't always need to Factory Reset your phone before selling it or handing i
 - **Step 3:** Tap the Google Account you want to remove and tap the Ellipsis icon on the upper-right corner.
 - **Step 4:** Click Remove Account and press Ok to erase the Gmail account. You can remove all the linked accounts if you want.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 And that's the best **Honor Android 11 FRP bypass** method. With TechnoCare APK, you can quickly bypass APK by adding a different Google Account with an easy-to-remember password. Also, use [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to unblock PIN, password, pattern, TouchID, and FaceID on Honor and other Android brands. And another thing, you can manually disable FRP before selling or gifting your phone away. I hope this helps!
@@ -424,20 +442,17 @@ And that's the best **Honor Android 11 FRP bypass** method. With TechnoCare APK,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[New] Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-illuminating-the-future-luminances-influence-on-hdr/"><u>2024 Approved Illuminating the Future Luminance’s Influence on HDR</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-12-5g-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi 12 5G FRP Bypass</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-coding-skills-the-impact-of-github-copilot-on-developer-workflow-a-zdnet-perspective/"><u>Boost Your Coding Skills: The Impact of GitHub Copilot on Developer Workflow - A ZDNet Perspective</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-meizu-21-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Meizu 21 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT 5 Pro?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-8t-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 8T 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 Pro 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f23-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F23 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-c300-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia C300 FRP Without Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimizing-your-netflix-stream-with-fasterslower-pace/"><u>Optimizing Your Netflix Stream with Faster/Slower Pace</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2080-super-graphics-card-drivers-free-download-and-update-guide-for-windows-11/"><u>RTX 2080 Super Graphics Card Drivers: Free Download and Update Guide for Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-problems-with-steam-store-ultimate-guide/"><u>Solving Your Problems with Steam Store: Ultimate Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-11r-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus 11R FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[Updated] Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-choice-webcams-ready-for-zoom-mastery/"><u>2024 Approved First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C33 2023 FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dinner-stir-fry-tofu-with-mixed-vegetables-over-brown-rice/"><u>Dinner: Stir-Fry Tofu with Mixed Vegetables over Brown Rice</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your HTC U23 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nubia-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nubia?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-k11x-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo K11x Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-narzo-n55-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme Narzo N55 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premium-vfx-setup-options/"><u>Premium VFX Setup Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722181629875-safeguard-your-affections-from-ai-enhanced-romance-hoaxes-top-vehicle-of-scams-in-todays-digital-age-and-how-they-can-be-spotted/"><u>Safeguard Your Affections From AI-Enhanced Romance Hoaxes: Top Vehicle of Scams in Today's Digital Age, and How They Can Be Spotted</u></a></li>
 </ul></div>
 

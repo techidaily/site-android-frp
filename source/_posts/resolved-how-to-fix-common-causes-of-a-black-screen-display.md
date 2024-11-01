@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Common Causes of a Black Screen Display"
-date: 2024-10-22T05:33:45.570Z
-updated: 2024-10-26T12:35:30.764Z
+date: 2024-10-29T02:41:14.676Z
+updated: 2024-11-01T08:36:10.752Z
 tags:
   - win11
   - win10
@@ -27,16 +27,10 @@ These days, players have reported the issue of black screen when loading a save 
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Allow your game through firewall
@@ -47,27 +41,20 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Change settings > Allow another app…** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-allow-another-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Browse** .  
   
@@ -80,19 +67,6 @@ These days, players have reported the issue of black screen when loading a save 
  6) Click**Add** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
@@ -109,13 +83,6 @@ These days, players have reported the issue of black screen when loading a save 
  Both [NVIDIA](https://www.nvidia.com/en-us/geforce/news/cyberpunk-2077-game-ready-driver/) and [AMD](https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-12-1) had just released new drivers for Cyberpunk 2077 to make sure gamers get the definitive experience. To get them, please read on.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -162,19 +129,39 @@ Here’s how it works:
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the download is finished, double-click on the installation file and install it. Once done, the application should be opening. Simply click**Update Now** and then follow the on-screen instructions to finish the process. This may take some minutes so you just need to wait patiently. Once done, you’ll get the latest version, which is 20H2.  
   
@@ -183,13 +170,6 @@ Here’s how it works:
  After you’ve updated your Windows to version 20H2, your issue should be resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
 
@@ -210,10 +190,10 @@ Here’s how it works:
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
@@ -224,11 +204,25 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Epic Games Launcher
 
  1) Open your Epic Games Launcher. From the left menu, select**Library** .  
   
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
@@ -257,22 +251,15 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-updated-list-of-video-sharing-apps-to-consider-over-tiktok-for-2024/"><u>[New] The Updated List of Video Sharing Apps to Consider Over TikTok for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-your-timeline-leading-tools-to-unfollow-tweets/"><u>[Updated] 2024 Approved Streamlining Your Timeline Leading Tools to Unfollow Tweets</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/best-lava-frp-bypass-guide-by-drfone-android/"><u>Best Lava FRP Bypass Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-tech-specs-ipad-mini-vs-ipad-air-comparison-guide/"><u>Decoding Tech Specs: IPad Mini Vs iPad Air Comparison Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-12r-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus 12R FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-12-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme 12 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Sony Xperia 10 V</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-seamless-photo-recovery-with-windowwizards-editing-tool-order-today/"><u>Experience Seamless Photo Recovery with WindowWizards Editing Tool - Order Today</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/experience-supreme-comfort-and-quality-with-the-bose-quietcomfort-35-ii-for-travelers-in-depth-review/"><u>Experience Supreme Comfort and Quality with the Bose QuietComfort 35 II for Travelers – In-Depth Review!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-blaze-2-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Blaze 2 Pro FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-v30t-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme V30T FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s24-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S24 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g13-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G13 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/next-gen-console-showdown-unveiling-the-mighty-performance-of-xbox-series-x-at-4k-resolution/"><u>Next-Gen Console Showdown: Unveiling the Mighty Performance of Xbox Series X at 4K Resolution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solved-windows-1011-slow-boot/"><u>Solved: Windows 10/11 Slow Boot</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-frame-drops-a-guide-to-boost-your-games-performance/"><u>Solving the Puzzle of Frame Drops: A Guide to Boost Your Game's Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-success-in-live-streaming-of-cricket-matches/"><u>[New] Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-5-ways-to-fix-obs-black-screen-game-capture/"><u>[Updated] In 2024, 5 Ways to Fix OBS Black Screen Game Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-blurring-parts-in-digital-pictures/"><u>[Updated] Master the Art of Blurring Parts in Digital Pictures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-hairdo-handbook-cutting-edge-techniques/"><u>[Updated] The Ultimate Hairdo Handbook Cutting-Edge Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-a15-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A15 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a79-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A79 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/real-time-netflix-watching-the-ultimate-guide-to-screen-broadcasts/"><u>Real-Time Netflix Watching: The Ultimate Guide to Screen Broadcasts</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-zero-data-loss-when-boosting-your-hp-pavilion-x360-with-a-new-ssd/"><u>Step-by-Step Tutorial: Zero Data Loss When Boosting Your HP Pavilion X360 with a New SSD</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-gionee-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Gionee FRP Bypass</u></a></li>
 </ul></div>
 
