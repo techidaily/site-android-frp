@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for the Football Manager 2023 Startup Issue"
-date: 2024-10-24T16:44:25.905Z
-updated: 2024-11-01T08:07:30.805Z
+date: 2024-11-01T16:36:54.159Z
+updated: 2024-11-06T22:22:33.863Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -38,30 +45,30 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
-If it’s not your antivirus software, move to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not your antivirus software, move to the next fix.
 
 ### Fix 2: Update your graphic driver
 
@@ -90,6 +97,13 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -102,24 +116,10 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -130,15 +130,15 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -161,22 +161,20 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-craft-the-perfect-livestream-on-youtube-and-twitch-with-obs/"><u>[New] 2024 Approved Craft the Perfect Livestream on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid/"><u>[Updated] In 2024, 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chucklechops-witworks-corp/"><u>2024 Approved ChuckleChops WitWorks Corp</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-11-auditorial-capture-devices-overview/"><u>2024 Approved Elite #11 Auditorial Capture Devices Overview</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/auto-translate-youtube-videos-into-different-languages/"><u>Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-rog-phone-7-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus ROG Phone 7 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c210-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C210 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-htc-frp-by-drfone-android/"><u>Full Guide to Bypass HTC FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-edge-40-neo-by-drfone-android/"><u>How to Bypass FRP on Motorola Edge 40 Neo?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a18-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A18 FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-narzo-60-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme Narzo 60 Pro 5G FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lavafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your LavaFRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-c300-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia C300 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-hd-graphics-4400-driver-update-how-to-get-it-fast/"><u>Intel HD Graphics #4400 Driver Update: How to Get It Fast</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-90-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor 90 has been deleted.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055570-9781735109015-tower-of-light/"><u>TOWER OF LIGHT | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-bot-patterns-enhance-organic-video-reach/"><u>[New] In 2024, Break Bot Patterns, Enhance Organic Video Reach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-final-cut-pros-top-effect-enhancers-the-essential-10-for-2024/"><u>[Updated] Final Cut Pro's Top Effect Enhancers The Essential 10 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-silent-images-and-vocal-melodies/"><u>Bridging Silent Images and Vocal Melodies</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008988825-easy-solutions-to-prevent-gamepad-malfunctions-no-more-crashing/"><u>Easy Solutions to Prevent Gamepad Malfunctions - No More Crashing!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g22-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G22 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 5 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-stories-in-youtube-expansion/"><u>In 2024, The Power of Stories in YouTube Expansion</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-gioneefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your GioneeFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f25-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F25 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/seamless-transition-shifting-data-between-windows-10-and-windows-11-using-these-4-techniques/"><u>Seamless Transition: Shifting Data Between Windows 10 & Windows 11 Using These 4 Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-canon-mg2900-drivers-and-recent-update-packs/"><u>Step-by-Step: Installing Canon MG2900 Drivers and Recent Update Packs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pinnacle-of-led-strip-tech/"><u>The Pinnacle of LED Strip Tech</u></a></li>
 </ul></div>
 

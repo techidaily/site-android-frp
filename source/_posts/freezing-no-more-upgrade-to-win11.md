@@ -1,7 +1,7 @@
 ---
 title: Freezing No More - Upgrade to Win11
-date: 2024-10-26T07:17:02.899Z
-updated: 2024-11-01T01:16:31.889Z
+date: 2024-10-31T01:16:56.602Z
+updated: 2024-11-06T20:02:31.293Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ Windows will help you reinstall the drivers for your mouse.
 
  8) See if your mouse lagging problem is fixed. If it’s still an issue, you can try our next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update the graphics card driver**
 
  The problem could also be caused by outdated graphics card driver. To solve it, you can update your display driver. There are two ways you can update your graphics card: manually or automatically.
@@ -85,19 +92,6 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3: Check the local area network settings**
 
  Disabling LAN and using your wireless card to connect to the Internet may also help tyou solve the problem. Here’s how you can do it:
@@ -111,10 +105,10 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36bec91ae2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Press**Tab** on your keyboard until you highlight **Network and Sharing Center** .
@@ -125,13 +119,6 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/change-adapter-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Press**Tab** until you highlight your LAN card. Press the**left arrow key** to select it. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36d089d26b.png)
@@ -139,6 +126,13 @@ Windows will help you reinstall the drivers for your mouse.
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa37470b7742.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Now you’ll be back at the Network Connection window, with your Ethernet icon highlighted. Press**Enter** to enable your network connection.
 
@@ -150,16 +144,16 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3751aea9b2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Press the**down arrow key** until you locate **Realtek audio.exe** . Click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
 
@@ -176,10 +170,10 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
@@ -189,10 +183,10 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21d89cc8e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 d) Restart your computer.
@@ -220,24 +214,20 @@ d) Restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-mastery-youtube-short-video-tips/"><u>[New] 2024 Approved Earning Mastery Youtube Short Video Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unmatched-quality-and-reliability-our-5-best-recorder-selections/"><u>[New] 2024 Approved Unmatched Quality and Reliability - Our 5 Best Recorder Selections</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-clockwise-chronicles-apples-video-reversal-method/"><u>[Updated] 2024 Approved Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>2024 Approved Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-honor-magic-v2-frp-bypass-by-drfone-android/"><u>About Honor Magic V2 FRP Bypass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/honoring-creativity-ultimate-otu-collection/"><u>Honoring Creativity Ultimate OTU Collection</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-m6-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco M6 Pro 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a05-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A05 FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-blaze-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Blaze Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-sony-xperia-1-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Sony Xperia 1 V Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12-plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12 Plus Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 ProFRP Lock</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-130-music-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia 130 Music FRP Bypass</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-image-clarity-windows-11s-background-blur-tricks/"><u>Perfecting Image Clarity: Windows 11'S Background Blur Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-color-grading-techniques-in-gopro-studio/"><u>[New] 2024 Approved Mastering Color Grading Techniques in GoPro Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-to-file-win10-professional-recorder/"><u>[Updated] 2024 Approved Screen to File Win10 Professional Recorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/autopilot-off-stopping-chromes-unwanted-tab-openings/"><u>Autopilot Off: Stopping Chrome's Unwanted Tab Openings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bring-a-smile-with-adobe-creations/"><u>Bring a Smile with Adobe Creations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/exploring-asuss-mg28uq-a-deep-dive-into-4k-uxga-for-2024/"><u>Exploring ASUS's MG28UQ - A Deep Dive Into 4K UXGA for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-fresh-horizons-in-technology-discovering-samsungs-newest-device-launch/"><u>Exploring Fresh Horizons in Technology - Discovering Samsung's Newest Device Launch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-gt-5-240w-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme GT 5 (240W) FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y78t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y78t Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy A05 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a05-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A05 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-g310-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia G310 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-sidestep-social-media-sponsored-videos/"><u>In 2024, Sidestep Social Media Sponsored Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-sony-unlock-codes-to-unlock-your-sony-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Sony Unlock Codes to Unlock Your Sony Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-c110-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia C110 FRP</u></a></li>
 </ul></div>
 
