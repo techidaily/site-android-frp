@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ultimate Guide from Poco X6 Pro FRP Bypass
-date: 2024-10-30T20:38:04.480Z
-updated: 2024-11-07T01:31:56.030Z
+date: 2024-11-13T03:29:44.023Z
+updated: 2024-11-16T17:50:43.161Z
 tags: 
   - unlock
   - bypass android frp
@@ -37,6 +37,13 @@ Sometimes you may need to do away with your old Poco phone after purchasing a br
 
 _**Important note**: Bypassing FRP is absolutely legal and easy too. But some users may look to bypass FRP on a stolen phone. That’s why we clarify that this post is strictly for educational purposes. Get the consent of the original owner of the phone before bypassing FRP._
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Bypass Google FRP on Poco Android 11 without PC
 
 Now that you have all the reasons to bypass **FRP on Poco X6 Pro** or any other model, let me introduce you to the best method to avoid this feature without a PC. [TechnoCare APK](https://www.technocareapk.com/) is an Android software that allows Poco users to bypass FRP on any Poco brand. It's straightforward; this app lets you create another Google Account on your locked Poco phone without unlocking it. In short, you'll link a new Google Account with a password that you can easily remember.
@@ -63,6 +70,13 @@ Now that you have all the reasons to bypass **FRP on Poco X6 Pro** or any other 
 - **Step 10:** Go to Device Administrator and enable Android Device Manager.
 - **Step 11:** Navigate back to Settings, click Apps, and enable Google Play Services and Google Account Manager.
 - **Step 12:** Lastly, restart the locked phone and enjoy the services.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Bypass All Poco Locked Screens without Password
 
@@ -109,6 +123,13 @@ You don't always need to Factory Reset your phone before selling it or handing i
 - **Step 3:** Tap the Google Account you want to remove and tap the Ellipsis icon on the upper-right corner.
 - **Step 4:** Click Remove Account and press Ok to erase the Gmail account. You can remove all the linked accounts if you want.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 And that's the best **Poco Android 11 FRP bypass** method. With TechnoCare APK, you can quickly bypass APK by adding a different Google Account with an easy-to-remember password. Also, use [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) to unblock PIN, password, pattern, TouchID, and FaceID on Poco and other Android brands. And another thing, you can manually disable FRP before selling or gifting your phone away. I hope this helps!
@@ -121,6 +142,13 @@ And that's the best **Poco Android 11 FRP bypass** method. With TechnoCare APK, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Poco X6 Pro ADB Format Tool for PC vs. Other Unlocking Tools: Which One is the Best?
 
 In today's digital era, efficient and secure data management is crucial. That's where the Poco ADB Format Tool comes in handy! Poco ADB Format Tool for PC is one such Windows-based software that helps in unlocking patterns, passwords, and FRP locks from the Android-based Poco devices. In this post, we'll guide you through its features, installation process, and usage. Additionally, we'll explore the benefits it offers, how to troubleshoot common issues, and connecting it with other mobile unlocker solutions currently available; so you can decide which tool serves as the ideal solution for your needs!
@@ -129,23 +157,9 @@ In today's digital era, efficient and secure data management is crucial. That's 
 
 The article below will let you learn all about this **Poco unlock tool**, and it’s working.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. What is Poco ADB Format Tool?
 
 The Poco ADB Format Tool is a computer application designed to help you format and unlock your Poco device. It utilizes the Android Debug Bridge (ADB) protocol to communicate with your device and perform various operations, such as removing FRP (Factory Reset Protection) lock, deleting screen unlock patterns, and much more.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Poco ADB Format Tool 2021: Special Features
 
@@ -196,6 +210,13 @@ The part below will help you to learn the process of downloading, installing, an
 
 You can obtain the Poco ADB Format Tool by clicking on the following download link: : [Poco ADB Format Tool](https://droidfilehost.com/download/download-vivo-adb-format-tool-vivo-pattern-and-frp-unlock-tool/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Install Poco ADB Format Tool?
 
 - **Step 1.** The Poco ADB Format Tool can be downloaded from the official site after which the file can be unzipped and installed on your Windows system.
@@ -223,23 +244,9 @@ The steps for the working of the tool are enlisted below.
 
 The device will now boot up and all the data will be formatted.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: The Best Alternative to the Poco ADB Format Tool \[Remove Pattern & FRP Lock, highest success rate\]
 
 The Poco ADB Format Tool is a utility primarily used for formatting Poco devices, removing screen locks, and bypassing FRP locks. While it has served its purpose for many Poco users, it does come with limitations. Users often find it challenging to use, especially if they are not tech-savvy. Additionally, the tool may not be compatible with all Poco models and Android versions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Best Alternative: Dr.Fone - Screen Unlock (Android)
 
@@ -266,13 +273,6 @@ Here is a step-by-step guide on how to use Dr.Fone - Screen Unlock (Android) to 
 
 ![run the program to remove android lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Using a USB cable, connect your phone to your PC and Choose either "Remove Screen Lock" or "Remove Google Lock (FRP)" based on your specific situation.
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -281,9 +281,23 @@ Here is a step-by-step guide on how to use Dr.Fone - Screen Unlock (Android) to 
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Once the process is complete, your Poco device will be unlocked, and you can regain access without any pattern or FRP lock hassles.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/miWC5Jqhi4k"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Poco ADB Format Tool vs. Dr.Fone - Screen Unlock: A Comparison
 
@@ -301,6 +315,13 @@ In this part, we'll compare two popular solutions in the market - Poco ADB Forma
 Both tools serve their purpose effectively. If you're looking for a free and simple solution specifically for Poco smartphones, Poco ADB Format Tool is your go-to option. However, if you want a comprehensive software suite that serves multiple purposes and supports a wide range of brands, Dr.Fone - Screen Unlock (Android) is worth considering. Remember, the best tool depends on your specific needs and budget.
 
 ## Part 6. FAQs about the Poco ADB Format Tool
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Is the Poco ADB Format Tool safe to use?
 
@@ -370,13 +391,6 @@ Once you have downloaded and installed the **AddROM APK** file, you can follow t
 
 After a restart, you won't get to see the FRP lock again. It will be successfully removed. However, most users find this method very complex, and the success rate is also not guaranteed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. Does AddROM Really Work?
 
 The success rate of the **AddROM bypass** can only be endorsed from the reviews of previous users. They can tell us if the users successfully bypass the FRP locks with this tool. From anecdotal research, we have discovered that some users could bypass the lock.
@@ -438,13 +452,6 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 
 ![Select Remove Google FRP Lock from the options.](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Now you will see options for multiple Android phone brands. We are removing the FRP lock of the Samsung phone. So, we will select Samsung and click the "**Start**" button.
 
 ![Choose the phone brand you are using.](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
@@ -460,13 +467,6 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 **Step 7:** Dr.Fone will start removing the FRP lock from your Samsung device. Once the process is completed, you will see the interface shown below. You can check your device. If it's successful, you can click "**Done.**" Otherwise, you can try again.
 
 ![Once the process is completed, click Done.](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Did you see how easy it is to **bypass the FRP lock** with the help of Dr.Fone? There is no need to manually perform complex steps. Just a few clicks and you are done. However, if you still want to continue with the AddROM Samsung, you must consider some factors.
 
@@ -498,21 +498,22 @@ The best thing about this tool is it is not just limited to FRP bypass. There ar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>2024 Approved Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oppo-reno-10-proplus-5g-frp-bypass-by-drfone-android/"><u>About Oppo Reno 10 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-your-synaptics-mouse-and-touchpad-drivers-for-windows-with-minimal-hassle/"><u>Download & Update Your Synaptics Mouse and Touchpad Drivers for Windows with Minimal Hassle!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-narzo-60x-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme Narzo 60x 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo Reno 11 Pro 5G?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-m14-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy M14 5G FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>In 2024, How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-reno-8t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Reno 8T FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Find X6 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 11 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-gmail-management-comprehensive-instructions-to-erase-all-messages-on-your-phone/"><u>Mastering Gmail Management: Comprehensive Instructions to Erase All Messages on Your Phone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/state-of-the-art-methods-for-documenting-digital-education/"><u>State-of-the-Art Methods for Documenting Digital Education</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-gamer-writes-top-7-fps-games-list/"><u>Ultimate Gamer' Writes Top 7 FPS Games List</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-latest-online-scam-targeting-twitter-metas-launch-of-official-verification-feature-and-a-deep-dive-into-chatgpt-4-functionality/"><u>Unveiling the Latest Online Scam Targeting Twitter, Meta's Launch of Official Verification Feature, and A Deep Dive Into ChatGPT-4 Functionality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-devices-for-capturing-journeys/"><u>[New] 2024 Approved Essential Devices for Capturing Journeys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-larger-pictures-same-sharpness-levels/"><u>[New] Larger Pictures, Same Sharpness Levels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ive-youtube-streaming-unlocked-beginners-obs-tutorial/"><u>[New] Live Youtube Streaming Unlocked Beginner's OBS Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-reels-harnessing-tiktok-secrets-for-popularity-surge/"><u>[Updated] 2024 Approved Instagram Reels Harnessing TikTok Secrets for Popularity Surge</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-curated-selection-5-superior-android-ps2-game-emulators/"><u>[Updated] Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cinemagraphy-central-filmo-faqs/"><u>2024 Approved Cinemagraphy Central Filmo FAQs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c53-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C53 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-personal-health-through-chatgpts-best-practices/"><u>Elevate Personal Health Through ChatGPT's Best Practices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/focus-on-the-essentials-mastering-close-up-in-videoleap-videos-for-2024/"><u>Focus on the Essentials Mastering Close-Up in Videoleap Videos for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-x7-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find X7 Ultra Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-c55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme C55 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-narzo-60-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme Narzo 60 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-htc-u23-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, HTC U23 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-asus-rog-phone-8-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Asus ROG Phone 8 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on OnePlus Ace 3 FRP Bypass</u></a></li>
 </ul></div>
 
