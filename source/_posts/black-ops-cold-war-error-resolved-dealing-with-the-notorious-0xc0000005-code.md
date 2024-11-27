@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-11-10T00:57:44.760Z
-updated: 2024-11-17T10:28:56.697Z
+date: 2024-11-21T00:32:19.007Z
+updated: 2024-11-26T18:41:15.014Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 
  Shaders are programs that help with the object rendering. Playing without shaders will lead to bad performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Just work your way down until you land on the one that does the trick.
@@ -28,6 +32,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game
 
@@ -41,23 +49,9 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -72,13 +66,6 @@ Here’s how to restart the shaders installation:
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Shaders issues in COD titles could mean that you’re using**a broken or outdated graphics driver** . We always recommend gamers to keep their GPU drivers up to date so as to avoid compatibility issues. If you don’t know when was the last time you updated your drivers, definitely do it now.
@@ -92,6 +79,10 @@ Here’s how to restart the shaders installation:
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -109,6 +100,10 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -117,15 +112,12 @@ Here’s how to restart the shaders installation:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,16 +138,24 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-beyond-reality-boundaries-the-vr-journey-continues/"><u>2024 Approved Beyond Reality Boundaries The VR Journey Continues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonic-headstarts-curated-spots-with-the-best-music-picks-for-2024/"><u>Harmonic Headstarts Curated Spots with the Best Music Picks for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-m54-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy M54 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50iplus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50i+</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g23-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G23 Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-pova-6-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Pova 6 Pro 5G FRP?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-nvidia-quadro-graphics-drivers-for-windows-11-with-direct-clipboard-handling-dch-free-download/"><u>Latest Compatible NVIDIA Quadro Graphics Drivers for Windows 11 with Direct Clipboard Handling (DCH) - Free Download</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-f23-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo F23 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-m54-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy M54 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/vhs-zu-dvd-umwandeln-und-ubertragung-auf-den-pc-schritt-fur-schritt-anleitung/"><u>VHS-Zu-DVD-Umwandeln Und Übertragung Auf Den PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-humble-beginnings-to-sponsored-success-channels-blueprint/"><u>[Updated] 2024 Approved From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-circumventing-virtual-classroom-videos-without-hesitation/"><u>2024 Approved Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quadcopters-unveiled-their-intricate-workings-revealed/"><u>2024 Approved Quadcopters Unveiled Their Intricate Workings Revealed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-blaze-2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Blaze 2 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oneplus-nord-3-5g-frp-bypass-by-drfone-android/"><u>About OnePlus Nord 3 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722863147820-googles-next-big-thing-the-pixel-tablet-revealing-its-release-date-spec-sheets-and-what-to-expect/"><u>Google's Next Big Thing: The Pixel Tablet - Revealing Its Release Date, Spec Sheets, and What to Expect!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-by-drfone-android/"><u>How to Bypass FRP on Motorola?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy M54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-z-fold-5-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy Z Fold 5 FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-lava-yuva-2-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Lava Yuva 2 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-c110-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia C110 FRP Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/newest-logitech-g403-driver-software-available-for-quick-installation/"><u>Newest Logitech G403 Driver Software Available for Quick Installation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210773420-9781649694188-nostradamus-unlocked/"><u>NOSTRADAMUS Unlocked | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/silencing-the-system-ultimate-guide-to-repairing-your-noisy-pc-cooler/"><u>Silencing the System: Ultimate Guide to Repairing Your Noisy PC Cooler</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-a2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo A2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy M34 FRP Bypass</u></a></li>
 </ul></div>
 

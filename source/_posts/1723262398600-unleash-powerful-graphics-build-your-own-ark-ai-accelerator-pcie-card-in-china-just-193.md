@@ -1,7 +1,7 @@
 ---
 title: "Unleash Powerful Graphics: Build Your Own ARK AI Accelerator PCIe Card in China - Just $193!"
-date: 2024-11-16T06:12:09.383Z
-updated: 2024-11-16T21:14:28.511Z
+date: 2024-11-24T21:42:26.344Z
+updated: 2024-11-26T19:51:35.735Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/bb71352b27a9f0530f59cc2c36b568ff3e277e8a2
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,16 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -72,17 +67,24 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-make-facebook-videos-extend-the-wallpaper/"><u>[Updated] 2024 Approved Make Facebook Videos Extend the Wallpaper</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-nokia-c210-frp-bypass-by-drfone-android/"><u>About Nokia C210 FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-getting-the-latest-sony-vaio-drivers-installed-on-windows/"><u>Easy Steps: Getting the Latest Sony Vaio Drivers Installed on Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-e13-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto E13 FRP Locks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-engine-update-now-free-download-compatible-with-windows-11/"><u>Get the Latest SteelSeries Engine Update Now [Free Download] Compatible with Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-gt-neo-5-by-drfone-android/"><u>How to Bypass FRP on Realme GT Neo 5?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-asus-rog-phone-8-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Asus ROG Phone 8 Pro Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g04-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G04? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a2-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A2 FRP</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/"><u>Troubleshooting and Resolving '401 Unauthorized' Issues on Your Website</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-workstation-upgrade-the-must-have-16-port-studio-hub-for-creatives-discover-why-zdnet-review/"><u>Ultimate Workstation Upgrade: The Must-Have 16-Port Studio Hub for Creatives - Discover Why [ZDNet Review]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-initiating-seamless-zoom-gatherings/"><u>[New] Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-timecodes-and-text-in-srt-with-macos/"><u>[New] Navigating Timecodes and Text in SRT with macOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>[New] Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chucklecircuit-meme-studio-free-download-for-2024/"><u>[Updated] ChuckleCircuit Meme Studio (Free Download!) For 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-movavi-screen-recorder-11/"><u>[Updated] Movavi Screen Recorder 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g84-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-htc-u23-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to HTC U23 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-9a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 9A FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy F04 FRP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-c67-4g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-lava-agni-2-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Agni 2 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-g22-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia G22 FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-13-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 13 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-fallout-continued-from-hanging-or-faulty-performance-on-pcs/"><u>Resolved: How to Stop Fallout ([Continued) From Hanging or Faulty Performance on PCs</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-moving-your-viber-conversations-from-old-to-new-device/"><u>Step-by-Step Guide: Moving Your Viber Conversations From Old to New Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-end-of-rdo-crashes-expert-tips-and-fixes-for-a-seamless-gaming-experience/"><u>The End of RDO Crashes: Expert Tips and Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Edge 40 FRP</u></a></li>
 </ul></div>
 

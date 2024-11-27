@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2024-11-15T09:38:33.347Z
-updated: 2024-11-17T04:15:50.572Z
+date: 2024-11-24T23:26:08.746Z
+updated: 2024-11-26T22:29:08.816Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,32 +66,19 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-reel-it-in-pro-level-techniques-for-youtube-video-editors/"><u>[Updated] Reel It In Pro-Level Techniques for YouTube Video Editors</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[Updated] The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-mic-showdown-for-podcasters-for-2024/"><u>[Updated] Ultimate Mic Showdown for Podcasters for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/a-tale-of-revival-thousands-of-lost-images-rediscovered/"><u>A Tale of Revival: Thousands of Lost Images Rediscovered</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb/"><u>Connecting in Real Time Advanced Tips for Streaming Screens via Fb</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone OnePlus Nord CE 3 Lite 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y77t Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g14-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G14 FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-ace-2-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Ace 2 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-c210-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia C210 FRP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-accurate-screen-shots-at-lightning-speed/"><u>[New] Accurate Screen Shots at Lightning Speed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[New] In 2024, Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-3-affordable-switch-game-counterparts-for-2024/"><u>[Updated] Top 3 Affordable Switch Game Counterparts for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-extend-your-mac-experience-a-comprehensive-guide-to-adding-an-external-monitor/"><u>1. Extend Your Mac Experience: A Comprehensive Guide to Adding an External Monitor</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-quick-methods-find-anyone-on-facebook-with-simple-tricks/"><u>Discover Quick Methods: Find Anyone on Facebook with Simple Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-solutions-for-unresponsive-optical-drives-how-to-get-them-opening-again/"><u>DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizu-21-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizu 21 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-by-drfone-android/"><u>How to Bypass FRP from Huawei?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-edge-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Edge 2023 Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>In 2024, Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X7 Ultra FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-with-toms-gear-guides/"><u>Unveiling the Latest in Computing with Tom's Gear Guides</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

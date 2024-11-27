@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2024-11-11T18:51:54.651Z
-updated: 2024-11-17T10:56:29.747Z
+date: 2024-11-22T21:17:39.732Z
+updated: 2024-11-26T21:42:23.482Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,25 +68,22 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[New] 2024 Approved The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-comfortable-virtual-realities-for-2024/"><u>[New] Mastering Comfortable Virtual Realities for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-using-inshot-software-effectively/"><u>[Updated] In 2024, Step-by-Step Using Inshot Software Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-your-text-based-kingdom-harnessing-the-power-of-chatgpt-rpgs/"><u>Building Your Text-Based Kingdom: Harnessing the Power of ChatGPT RPGs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discovering-the-power-of-fraps-in-video-capture/"><u>Discovering the Power of Fraps in Video Capture</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Razr 40 Ultra FRP</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-8-tips-to-create-attractive-instagram-unboxing-reels/"><u>In 2024, 8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A78 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c110-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C110?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-far-cry-stuck-a-complete-guide-out-of-the-loading-loop/"><u>Resolving Far Cry ([Stuck) - A Complete Guide Out of the Loading Loop</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-f34-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy F34 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-what-is-virtual-reality-and-how-does-it-work/"><u>2024 Approved What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c110-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C110 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-methods-flipping-film-frames-using-vlc-for-2024/"><u>Easy Methods Flipping Film Frames Using VLC for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-guide-protecting-and-restoring-your-icloud-mail/"><u>Effortless Guide: Protecting and Restoring Your iCloud Mail</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-f04-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy F04 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g73-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G73 5G FRP Without Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/kinemaster-editors-unite-building-fluid-sequences-together/"><u>Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-toms-hardware-guides-and-reviews/"><u>Navigating Tech with Tom's Hardware Guides and Reviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-find-x7-ultra-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Find X7 Ultra Phone? Unlock It Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New In 2024, Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-a79-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A79 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/os-melhores-reprodutores-de-dvd-livres-e-gratuitos-compativeis-com-o-windows-11-descubra-os-12-mais-populares/"><u>Os Melhores Reprodutores De DVD Livres E Gratuitos Compatíveis Com O Windows 11 – Descubra Os 12 Mais Populares!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-s23-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy S23 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-checklist-overcoming-voicemod-not-working-problem-latest-tips/"><u>The Ultimate Troubleshooting Checklist: Overcoming Voicemod Not Working Problem - Latest Tips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

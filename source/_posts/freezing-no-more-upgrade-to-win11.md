@@ -1,7 +1,7 @@
 ---
 title: Freezing No More - Upgrade to Win11
-date: 2024-11-15T02:19:44.555Z
-updated: 2024-11-16T18:48:54.951Z
+date: 2024-11-19T19:06:26.452Z
+updated: 2024-11-26T18:44:53.900Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c34d1ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press**Tab** , then the down arrow key until you highlight **Mouse and other pointing device** . Press the**right arrow key** to expand the option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/mice-and-other-pointing-deices.jpg)
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e5fee707.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa35e7986c5d.png)
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
  6) If you’re prompted to restart your computer and you’re ready to go, press**Enter** . If not, press**Tab** to restart your computer later.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/system-settings-change.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) If you choose not to restart your computer right away, go to the toolbar in**Device Manager** and click**Scan for hardware changes** .
 
@@ -64,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 Windows will help you reinstall the drivers for your mouse.
 
  8) See if your mouse lagging problem is fixed. If it’s still an issue, you can try our next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **2: Update the graphics card driver**
 
@@ -86,18 +91,15 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8a9c69e1b7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the mouse device to automatically download the correct version of this driver, then you can install it manually(you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8aa75cfe48.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3: Check the local area network settings**
 
@@ -107,13 +109,25 @@ Windows will help you reinstall the drivers for your mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa3695673227.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press**Tab** , then**Enter** . Press the left arrow key to select **Small icons** , then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36bec91ae2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Press**Tab** on your keyboard until you highlight **Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36c3be74c5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Press**Tab** until you highlight **Change adapter settings** . Then press**Enter** .
 
@@ -124,10 +138,7 @@ Windows will help you reinstall the drivers for your mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa36d089d26b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Press**Tab** until you highlight**Disable** . Press**Enter** .
@@ -150,13 +161,6 @@ Windows will help you reinstall the drivers for your mouse.
 
  If the above methods don’t work, go check your**Task Manager** for clues on which applications could be at fault. If they’re occupying a lot of disk usage, it’s worth looking into. When you locate any suspicious applications, right-click them and click End Task to see if the mouse lagging problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Other options**
 
  1)**Disable Cortana** . Many users have reported that disabling Cortana helped fix their freezing mouse.
@@ -169,31 +173,11 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21ca77a670.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b) Locate**ATI HotKey Poller** service on the right side of the window. Then double-click it.
 
  c) You’ll be in the Properties window. Change the**Startup type** to**Disabled** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c21d89cc8e7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 d) Restart your computer.
 
@@ -220,19 +204,14 @@ d) Restart your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-hdmi-radeon-revival-for-2024/"><u>[New] HDMI Radeon Revival for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-digital-riches-unleashed-measuring-your-success-on-youtubes-platform/"><u>[Updated] Digital Riches Unleashed Measuring Your Success on YouTube's Platform</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enthralling-audiences-mastery-in-using-text-in-films/"><u>[Updated] In 2024, Enthralling Audiences Mastery in Using Text in Films</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-transforming-gameplay-discovering-the-seven-stars-of-stardew-updates/"><u>[Updated] In 2024, Transforming Gameplay Discovering the Seven Stars of Stardew Updates</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101678126-device-reunion-wacoms-joyful-news/"><u>Device Reunion: Wacom's Joyful News</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/efficient-basic-tech-solutions-in-a-sleek-package-meet-the-hp-stream-n-11/"><u>Efficient Basic Tech Solutions in a Sleek Package: Meet the HP Stream N 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-yt-marketing-essential-tips-for-higher-rankings-for-2024/"><u>Elevate Your YT Marketing Essential Tips for Higher Rankings for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-c67-4g-frp-by-drfone-android/"><u>How Can We Bypass Realme C67 4G FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-100-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 100?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-ce-3-lite-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord CE 3 Lite 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a58-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A58 4GFRP Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-c67-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme C67 5G Device</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-list-of-cost-free-audio-to-transcription-tools-for-the-modern-user/"><u>New In 2024, Essential List of Cost-Free Audio to Transcription Tools for the Modern User</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtubes-creator-hub-explained-simply/"><u>[New] 2024 Approved YouTube's Creator Hub Explained Simply</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-strategy-for-profiting-from-every-youtube-short-video/"><u>[New] Step-by-Step Strategy for Profiting From Every YouTube Short Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-imovie-why-does-it-alter-my-videos/"><u>[Updated] IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c32-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C32 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g84-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G84 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-a78-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo A78 5G Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-budsplus-unveiled-a-comprehensive-handheld-trial-report/"><u>Samsung Galaxy Buds+ Unveiled: A Comprehensive Handheld Trial Report</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-preventing-fatal-challenges-ahead-of-your-business-launch/"><u>Step-by-Step Solutions: Preventing Fatal Challenges Ahead of Your Business Launch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-a14-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy A14 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

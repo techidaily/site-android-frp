@@ -1,7 +1,7 @@
 ---
 title: "Reviving Legacy Systems: Boost Your Setup by Mounting Contemporary GPUs Onto Classic AGP Slots with Top Mod Adapters"
-date: 2024-11-12T17:38:50.480Z
-updated: 2024-11-17T10:19:29.414Z
+date: 2024-11-25T18:30:36.866Z
+updated: 2024-11-26T22:05:40.288Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -60,27 +64,24 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[New] Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-copy-creator-pro/"><u>[Updated] Captivating Copy Creator Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>[Updated] The Art of Matching FPV Drones with Ideal Blades</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-embedding-youtube-into-gslides-for-2024/"><u>[Updated] The Essential Guide to Embedding YouTube Into GSlides for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-free-youtube-video-trimming-apps-reviewed/"><u>[Updated] Top 10 Free YouTube Video Trimming Apps Reviewed</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-nova-y91withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei Nova Y91with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c12-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C12 Prowith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-blaze-2-pro-frp-by-drfone-android/"><u>How Can We Bypass Lava Blaze 2 Pro FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-90-lite-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor 90 Lite FRP</u></a></li>
-<li><a href="https://win-help.techidaily.com/table-of-contents/"><u>Table of Contents:</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-facetune-walkthrough-for-stunning-photos/"><u>The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/which-media-supersedes-the-other-podcasts-or-youtube/"><u>Which Media Supersedes the Other Podcasts or YouTube?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-overcoming-video-shadows-youtube-fix-tips/"><u>[New] 2024 Approved Overcoming Video Shadows YouTube Fix Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-soundsnatcher-free-toolkit-insights-and-usage/"><u>[Updated] SoundSnatcher Free Toolkit Insights & Usage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-unveiling-the-dual-strengths-of-synologys-rt2600ac-remarkable-range-and-robust-parental-controls/"><u>Expert Review: Unveiling the Dual Strengths of Synology's RT2600ac - Remarkable Range & Robust Parental Controls</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g73-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G73 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F14 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Sony Xperia 5 V FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-a58-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo A58 4G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-a78-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo A78 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-x7-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find X7 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-105-classicfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 105 ClassicFRP Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-best-game-selection-for-steam-deck-users-2023-edition/"><u>Navigating the Best Game Selection for Steam Deck Users – 2023 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-video-submission-from-pcmobile-devices-to-youtube-shorts/"><u>Navigating Video Submission From PC/Mobile Devices to YouTube Shorts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcome-the-stardew-valley-launching-issue/"><u>Resolved: Overcome the Stardew Valley Launching Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-tips-transforming-chatgpt-into-the-ideal-dm-companion/"><u>Top 6 Tips: Transforming ChatGPT Into the Ideal DM Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-thrilling-new-capabilities-of-bard-introduced-at-googles-2023-developer-conference/"><u>Top 7 Thrilling New Capabilities of BARD Introduced at Google's 2023 Developer Conference</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uitsluiting-mkv-naar-mp4-virtuaal-konvertor-betere-oplossingen-dan-movavi/"><u>Uitsluiting MKV Naar MP4 Virtuaal Konvertor - Betere Oplossingen Dan Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco X6 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

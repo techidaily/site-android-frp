@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-11-11T07:42:36.676Z
-updated: 2024-11-17T07:46:32.341Z
+date: 2024-11-21T18:16:56.916Z
+updated: 2024-11-26T22:54:15.371Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,35 +56,16 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-discover-how-to-change-your-characters-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>[Updated] 2024 Approved Discover How to Change Your Character's Voice and Sound Presence Naturally Expert Tips for FREE</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[Updated] A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-and-easy-iphone-screen-recording-tutorial/"><u>2024 Approved Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-htc-u23-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to HTC U23 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-youtube-music-soundscape/"><u>Enhancing YouTube Music Soundscape</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-m6-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Poco M6 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-blaze-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Blaze Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-narzo-60-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme Narzo 60 Pro 5G FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-defy-2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Defy 2 FRP Without Computer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-secrets-to-effortlessly-posting-youtube-on-fb/"><u>In 2024, Secrets to Effortlessly Posting YouTube on FB</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a34-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A34 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pioneering-gear-for-ultimate-vr-glove-experience-for-2024/"><u>Pioneering Gear for Ultimate VR Glove Experience for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tag-tactics-amplifying-your-gaming-content-online/"><u>Tag Tactics Amplifying Your Gaming Content Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-c51-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme C51 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>The Updated Method to Bypass Huawei Nova Y71 FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-and-fixes-when-counter-strike-2-refuses-to-open/"><u>Tips and Fixes When Counter Strike 2 Refuses to Open</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-techniques-for-transferring-data-from-your-iphone-x-to-an-android-device/"><u>Top Techniques for Transferring Data From Your iPhone X to an Android Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastery-over-instagrams-integration-with-music-emoji-features/"><u>2024 Approved Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-ace-2v-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Ace 2V</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-a14-4g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy A14 4G FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-persistent-unreal-engine-4-shutdowns-on-personal-computers/"><u>Effective Fixes for Persistent Unreal Engine 4 Shutdowns on Personal Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enabling-apple-watchs-fall-detection-feature-benefits-and-steps-tech-insights-on-zdnet/"><u>Enabling Apple Watch's Fall Detection Feature: Benefits & Steps - Tech Insights on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-asus-b76n-csm-motherboard-how-its-csm-status-elevates-performance/"><u>Expert Analysis of the Asus B76n-CSM Motherboard: How Its CSM Status Elevates Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-effects-made-simple-a-step-by-step-tutorial/"><u>FCP X Effects Made Simple A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-blaze-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Blaze Pro 5G Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-14-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 14 Smoothly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-edge-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Edge 2023 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-htc-u23-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass HTC U23 FRP Without Computer</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

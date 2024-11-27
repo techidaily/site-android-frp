@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2024-11-16T02:49:23.451Z
-updated: 2024-11-17T09:29:30.050Z
+date: 2024-11-21T23:31:07.674Z
+updated: 2024-11-26T19:35:13.356Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,31 +56,21 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-macs-screenflow-insights-complete-coverage/"><u>[New] 2024 Approved Mac's ScreenFlow Insights - Complete Coverage</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-using-zoom-features-in-gmail-emails/"><u>[Updated] The Ultimate Guide to Using Zoom Features in Gmail Emails</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/connect-and-share-how-to-enable-multiplayer-gaming-on-xbox-one-with-friends/"><u>Connect and Share: How to Enable Multiplayer Gaming on Xbox One With Friends</u></a></li>
-<li><a href="https://facebook.techidaily.com/effortless-music-discovery-integrating-spotify-with-facebook/"><u>Effortless Music Discovery: Integrating Spotify with Facebook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-g42-5g-by-drfone-android/"><u>How to Bypass FRP on Nokia G42 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-htc-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass HTC FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-k11x-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo K11x FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 Pro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-ace-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus Ace 2 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-handheld-shots-no-tripod-necessary/"><u>In 2024, Mastering Handheld Shots No Tripod Necessary</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-users-guide-mastering-the-art-of-using-chatgpt/"><u>Mac Users Guide: Mastering the Art of Using ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-11-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme 11 Pro FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-ups-systems-for-uninterrupted-power/"><u>Top-Rated UPS Systems for Uninterrupted Power</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-collection-top-notch-free-meme-designs/"><u>Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-gionee-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Gionee FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-honor-magic-6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic 6 Pro FRP Bypass</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10-best-free-mp4-video-editors-2023/"><u>Updated Top 10 Best Free MP4 Video Editors 2023</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-repairing-a-stand-alone-headphone-for-2024/"><u>[New] Repairing a Stand-Alone Headphone for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-5-best-apps-blending-visual-storytelling-and-music/"><u>[Updated] 2024 Approved 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-step-by-step-for-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Step-by-Step for YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stepwise-unveiling-effect/"><u>[Updated] In 2024, Stepwise Unveiling Effect</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-begin-your-story-effortlessly-embed-movies-on-pages-with-flipbuilder-watch-them-start-immediately-upon-arrival/"><u>1. Begin Your Story: Effortlessly Embed Movies on Pages with FlipBuilder - Watch Them Start Immediately Upon Arrival</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cable-versus-streaming-media-unveiling-the-essential-differences/"><u>Cable Versus Streaming Media: Unveiling the Essential Differences</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-alphorms-complete-course-videos-in-high-quality-formats-like-mp4-or-avi-with-alphorm-downloader/"><u>Download Alphorm's Complete Course Videos in High-Quality Formats Like MP4 or AVI with Alphorm Downloader</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976475732-easy-access-to-amd-gpio-drivers-start-your-free-download-here/"><u>Easy Access to AMD GPIO Drivers: Start Your Free Download Here!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y78plus-t1-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y78+ (T1) Edition FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-105-classic-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia 105 Classic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23 Tactical Edition FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a2-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-g54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola G54 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-find-x6-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo Find X6 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy F04 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Find N3 FRP</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
