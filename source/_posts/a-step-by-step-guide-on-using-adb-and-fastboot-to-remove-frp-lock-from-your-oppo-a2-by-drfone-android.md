@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A2
-date: 2024-07-14T17:23:16.534Z
-updated: 2024-07-15T17:23:16.534Z
+date: 2024-12-01T16:24:50.155Z
+updated: 2024-12-06T16:14:00.494Z
 tags: 
   - unlock
   - bypass android frp
@@ -51,6 +51,10 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 ## Part 2: How to Set Up ADB and Fastboot Commands to Remove FRP Lock on Android?
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to remove FRP using ADB
 
@@ -120,7 +124,9 @@ ADB is a technical process aimed toward the geeks, and thus the overall process 
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -151,7 +157,6 @@ The process of using the software is user-friendly and thus can also be used by 
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
 
-
 ## Conclusion
 
 If you are well versed with the commands of ADB and Fastboots you can go ahead and use the **ADB bypass FRP tool** for removing the FRP lock but if this command line method seems complicated for you, Dr.Fone Screen Unlock is the best tool to use.
@@ -161,8 +166,6 @@ If you are well versed with the commands of ADB and Fastboots you can go ahead a
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 ## AddROM Bypass: An Android Tool to Unlock FRP Lock Screen For your Oppo A2
 
@@ -180,9 +183,6 @@ But before starting, let’s learn about **AddROM**!
 
 However, the good thing about this tool is that you don't need any PC or laptop to act. All you are supposed to do is download and install the **AddROM APK** file on your Android phone. After that, you can bypass the FRP lock in just a few minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Official logo of addROM.](https://images.wondershare.com/drfone/article/2024/03/addrom-bypass-tool-to-unlock-frp-lock-screen-01.png)
 
 But if you have an Android phone with a version above 9.0, you can try an alternate method explained in this article. Let’s move further to the steps of using AddROM.
@@ -243,9 +243,6 @@ Sometimes, using APK files to remove the FRP lock may not work. Moreover, downlo
 
 Therefore, we recommend you go for a more effective and safer option. In the next section, we will discover the best alternative to **AddROM APK** to bypass the FRP lock.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. Editors’ Pick-Best Alternative to AddROM
 
 Using unethical means to bypass the FRP lock can be troublesome. You may end up compromising the security or warranty of your device.
@@ -258,9 +255,6 @@ The best thing is that you need to be a tech expert to use this tool. Its user-f
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (Android)
 
 The Best AddROM Alternative to Bypass FRP and Solve Your Screen Locks
@@ -278,9 +272,17 @@ First, download and install the Dr.Fone app on your Laptop or PC. Then, follow t
 
 ![Select Screen Unlock from the menu.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** You will see two options on your screen. Select "**Android**" and continue. Then, select "**Remove Google FRP Lock**" and proceed.
 
 ![Select Remove Google FRP Lock from the options.](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now you will see options for multiple Android phone brands. We are removing the FRP lock of the Samsung phone. So, we will select Samsung and click the "**Start**" button.
 
@@ -416,6 +418,10 @@ Another standard method of bypassing the factory reset program on the mobile is 
 
 It is applicable only for smartphones with Android version 5 or less.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. QuickShortcutMaker APK
 
 Another method of bypassing your device's FRP lock is using the [QuickShortcutMaker APK](https://quickshortcutmaker.pro/). This app is available in the Google Play store, where you can download it to bypass the factory reset protection program and access your device within minutes.
@@ -424,14 +430,19 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 - **Step 1:**Switch on your FRP device and connect it to the WiFi network. This way you can have access to the Internet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch on your frp device](https://images.wondershare.com/drfone/article/2022/09/switch-on-your-frp-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Open the quick shortcut maker apk and search for Google account manager.
 
 ![quick shortcut maker apk](https://images.wondershare.com/drfone/article/2022/09/open-the-quick-shortcut-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** A long list will be displayed from where you must select Google account manager to access the expanded menu.
 - **Step 4:** From the options, select the one showing the type of email and password.
@@ -498,9 +509,6 @@ It is a bit difficult, and you won't be able to access it in any recent Android 
 
 ## 2.2. How to Bypass Google Account on Oppo with PC ？
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Oppo FRP Tool
 
 One of the best tools that you can use to bypass the Factory Reset Protection lock is the Oppo FRP Tool. It is easy to use and doesn't involve too many complicated steps. Plus, it is compatible with most Oppo models, giving you the leverage to access your device without removing or deleting any further data.
@@ -565,6 +573,10 @@ This is a free application from Oppo. You can easily bypass the FRP lock and acc
 - **Step 2**: Once the program launches, connect your phone to the PC through a USB cable. Then, open the tool.
 
 ![extract the Oppo frp](https://images.wondershare.com/drfone/article/2022/09/extract-the-huawei-frp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: As the tool opens, click on read info and enable the ADB option. It usually takes around 22 seconds maximum to allow the ADB to function on your smartphone, automatically rebooting the entire device.
 
@@ -637,6 +649,14 @@ The program can be used without worrying about any malware or virus. Steps for r
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this section, we have described the multiple processes for bypassing FRP locks on Oppo. You can try out the app solutions available for this task on your phone, and follow each step cautiously. For overall benefits, try the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) option.
@@ -650,9 +670,20 @@ Overall, choose the best option according to your convenience and start working 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-vids-effortless-mp4-extraction-at-your-fingertips-for-2024/"><u>[New] FB Vids Effortless MP4 Extraction at Your Fingertips for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-enable-or-disable-pip-in-youtube-for-mobile-phones/"><u>[New] In 2024, How to Enable or Disable PIP in YouTube for Mobile Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-from-srt-to-sub-masterful-conversion-methods-explored/"><u>[Updated] From SRT to SUB Masterful Conversion Methods Explored</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-iphone-data-retrieval-tools-top-10-reviewed/"><u>Best iPhone Data Retrieval Tools: Top 10 Reviewed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-windows-10s-problematic-error-code/"><u>Correcting Windows 10'S Problematic Error Code</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-g22-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia G22 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-narzo-60-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme Narzo 60 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-yuva-2-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava Yuva 2 Pro FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-8t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 8T FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23plus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23+ Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-huawei-p60-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Huawei P60</u></a></li>
+</ul></div>
 

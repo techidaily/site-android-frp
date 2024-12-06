@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 5 Nubia Bypass FRP Tools for PC That Actually Work
-date: 2024-11-25T23:19:14.844Z
-updated: 2024-11-27T00:35:01.452Z
+date: 2024-11-30T16:18:35.625Z
+updated: 2024-12-06T16:00:52.988Z
 tags: 
   - unlock
   - bypass android frp
@@ -26,10 +26,6 @@ With multiple options and the Nubia FRP tools available to get this task done, s
 You will come across multiple **Nubia FRP bypass tools for pc** which is sure to make you confuse. Moreover, not all tools are suitable for all models and devices and a lot of them even do not work as desired.
 
 So, to save your time and effort to try to test these programs, we have shortlisted the top 5 ones that can be relied on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Nubia FRP Tool
 
@@ -58,10 +54,6 @@ It is a Windows-based powerful tool that helps remove FRP lock on an array of de
 #### Supported OS: Latest version of Windows
 
 ![gsm flasher adb frp tool](https://images.wondershare.com/drfone/article/2022/05/gsm-flasher-adb-frp-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key features
 
@@ -111,6 +103,10 @@ To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and ot
 
 ![octoplus](https://images.wondershare.com/drfone/article/2022/05/octoplus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 - Helps in removing FRP lock in a simple, quick manner.
@@ -118,10 +114,6 @@ To smoothly bypass Google accounts on your Huawei, Motorola, Samsung, LG, and ot
 - Free to use the tool.
 
 To summarize, when you need a tool that is simple to use and can remove the FRP bypass process on a wide range of devices, Octoplus is the right choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pro Tip: How to Unlock Nubia Screen Lock without Google Account?
 
@@ -152,6 +144,10 @@ You do not need to be a tech expert to use this tool as its interface is very us
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Nubia Phones within Minutes
@@ -163,6 +159,10 @@ Get into Locked Nubia Phones within Minutes
 - No tech knowledge required. Everyone can handle it.
 
 **4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,10 +185,6 @@ Technological advancements in the IT and telecommunication industry simplify you
 Google Factory Reset Protection (FRP) is an in-built security function in Android 5.1 and later versions. The feature protects these devices against intentional data loss on unauthorized access. The utility does not allow a factory reset of your device in case it is lost or stolen. Your data is hence, safe from unwanted mishandling. The feature also protects the Nubia Red Magic 9 Pro+ device's data encryptions and screen locks. The functionality gets enabled when you register a Google account on your Android device. As is obvious, the feature gets disabled when the Google account is removed before beginning the Factory Data Reset process.
 
 If your device is under untrusted access and the FRP lock is enabled, the latter will prevent the factory reset of your phone. It is because; the active FRP lock requires entering the Google account credentials registered with the Nubia Red Magic 9 Pro+ device. Therefore, unwanted users will not be possible to factory reset the Nubia Red Magic 9 Pro+ phone. However, there may be instances when you need to factory reset your FRP-enabled device to its default settings. Ensure that the registered Google account credentials are available to you under such circumstances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How to Remove Google FRP Lock on Any Nubia Red Magic 9 Pro+ Phone?
 
@@ -264,13 +260,13 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 ## FAQs about Google Lock Bypass
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Does Factory Reset Remove Google Account?
 
 There may be instances when you require wiping out smartphone data to keep it safe against unauthorized access. Maybe you wish to pass on your device to another user or migrate to a different device. It is important to make sure that all accounts linked to the phone are deleted from the Nubia Red Magic 9 Pro+ device. It should be understood here that a factory reset will not remove Google or other accounts from the Nubia Red Magic 9 Pro+ device. The process restores the default factory settings of the phone that you got at the first purchase.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Enable Factory Reset Protection?
 
@@ -285,6 +281,10 @@ These steps will cause the automatic configuration of the Factory Reset Protecti
 
 Developments in electronic technology have brought a series of benefits, covering easy access, security, and everything in between. One such feature is the Google Factory Reset Protection to protect your device data against untrusted access. The feature is undoubtedly credible, but there may be situations that require bypassing the FRP lock. For affordable solutions to address the concern on Nubia Red Magic 9 Pro+ phones, pick the one that corresponds to your specific situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 Unlock Your Nubia Red Magic 9 Pro+ Phone in a Flash
@@ -296,10 +296,6 @@ Unlock Your Nubia Red Magic 9 Pro+ Phone in a Flash
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Quick Guide to Nubia Red Magic 9 Pro+ FRP Bypass Instantly
 
@@ -314,7 +310,7 @@ In this article, we'll learn about the **Nubia Red Magic 9 Pro+ FRP bypass** pro
 Bypassing the security measures on a Nubia Red Magic 9 Pro+ should be approached with caution. There are many considerations that users should keep in mind before **the Nubia Red Magic 9 Pro+ FRP bypass**. Below, we have listed some considerations to help users avoid any hassle:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Legal Implications
@@ -334,19 +330,23 @@ Your device might be exposed to potential vulnerabilities due to security [<u>FR
 **Nubia Red Magic 9 Pro+ FRP bypass** can void the manufacturer's warranty and limit future support options. You should know that bypassing security could result in losing access to updates. It is advisable to explore other solutions before considering bypassing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Technical Skill Requirements
 
 Technical knowledge and skills are highly demanded when bypassing FRP locks. Only users possessing advanced technical skills should attempt a bypass. For those lacking expertise, seeking professional assistance is advisable to avoid consequences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Device Functionality
 
 Bypassing security measures may impact the Nubia Red Magic 9 Pro+ device's normal functionality. Users should be prepared for potential device performance or functionality issues post-bypass.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Bypass FRP Lock Nubia Red Magic 9 Pro+ Using SIM Card Method
@@ -365,13 +365,13 @@ Using the SIM card process for **Nubia Red Magic 9 Pro+ FRP bypass** is a viable
 
 ![access the saved contact](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Tap on "three-dots" at the top-right corner and select the "Share" option followed by "Send as text." On the following screen, send via XShare MI and allow the necessary permission. Download Google Account Manager and Account Login/FRP Bypass APKs on your other device. Also, download the [<u>Activity Launcher</u>](https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher&hl=en&gl=US) app from the Play Store.
 
 ![share contact via xshare mini](https://images.wondershare.com/drfone/article/2024/01/quick-guide-to-tecno-bd4a-frp-bypass-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5.** Set up XShare on another device and allow all the permissions. Choose the "Receive" option to receive the contact from your Nubia Red Magic 9 Pro+ device via a QR code scan. Afterward, disconnect and exit the current connection. On the main screen, tap the "Receive" option on your Nubia Red Magic 9 Pro+ and scan the QR code using the Nubia Red Magic 9 Pro+ device. You are required to share all three of the apps that you just downloaded.
 
@@ -450,22 +450,20 @@ _**Tips:** Are you searching for a powerful FRP Bypass tool? No worries as [Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-surveying-youtube-interactions/"><u>[New] 2024 Approved Surveying YouTube Interactions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-vrecorders-potential-quick-download-and-install/"><u>[New] In 2024, Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-budget-friendly-bundles-startup-channels-for-newcomers/"><u>[Updated] 2024 Approved Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-moto-g-stylus-5g-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola Moto G Stylus 5G (2023) FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-10t-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 10T 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-huawei-p60-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Huawei P60 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s23-fe-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S23 FE Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a38-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A38 FRP Without Computer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-leading-8-linux-editors-for-media-professionals/"><u>In 2024, Leading 8 Linux Editors for Media Professionals</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-play-nba-anytime-anywhere-with-these-15-livestream-tips/"><u>In 2024, Play NBA Anytime, Anywhere with These 15 Livestream Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-blurring-images-with-your-iphone/"><u>In 2024, The Essential Guide to Blurring Images with Your iPhone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A2 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A34 5G FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-asus-rog-phone-7-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Asus ROG Phone 7 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-enabled-chatgpt-from-openai-a-leap-forward-in-interactive-prompt-responses/"><u>Voice-Enabled ChatGPT From OpenAI: A Leap Forward in Interactive Prompt Responses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-art-of-online-podcast-filming/"><u>[New] 2024 Approved The Art of Online Podcast Filming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-guide-5-best-free-pinterest-video-downloads-for-2024/"><u>[Updated] Essential Guide 5 Best FREE Pinterest Video Downloads for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/achieve-superior-visitor-insights-with-state-of-the-art-cookiebot-technology/"><u>Achieve Superior Visitor Insights with State-of-the-Art Cookiebot Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/confronting-the-unusual-windows-pink-flash-error/"><u>Confronting the Unusual WINDOWS Pink Flash Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-steelseries-driver-software-for-windows-pcs/"><u>Download & Install SteelSeries Driver Software for Windows PCs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-huawei-nova-y91-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Huawei Nova Y91 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c210-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C210 Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus with/without SIM Card</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-epic-comic-strip-crafting-app/"><u>In 2024, Epic Comic Strip Crafting App</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-g54-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola G54 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a1x-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A1x 5G FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-sony-xperia-10-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Sony Xperia 10 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-130-music-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia 130 Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lenovo-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lenovo FRP Bypass</u></a></li>
 </ul></div>
 

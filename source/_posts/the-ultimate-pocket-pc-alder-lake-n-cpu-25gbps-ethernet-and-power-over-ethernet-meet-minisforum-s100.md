@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2024-11-24T23:26:08.746Z
-updated: 2024-11-26T22:29:08.816Z
+date: 2024-12-05T16:40:33.168Z
+updated: 2024-12-06T16:11:29.092Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,19 +66,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-accurate-screen-shots-at-lightning-speed/"><u>[New] Accurate Screen Shots at Lightning Speed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[New] In 2024, Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-3-affordable-switch-game-counterparts-for-2024/"><u>[Updated] Top 3 Affordable Switch Game Counterparts for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-extend-your-mac-experience-a-comprehensive-guide-to-adding-an-external-monitor/"><u>1. Extend Your Mac Experience: A Comprehensive Guide to Adding an External Monitor</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-quick-methods-find-anyone-on-facebook-with-simple-tricks/"><u>Discover Quick Methods: Find Anyone on Facebook with Simple Tricks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-solutions-for-unresponsive-optical-drives-how-to-get-them-opening-again/"><u>DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-meizu-21-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Meizu 21 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-by-drfone-android/"><u>How to Bypass FRP from Huawei?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-motorola-edge-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Motorola Edge 2023 Devices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>In 2024, Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X7 Ultra FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-with-toms-gear-guides/"><u>Unveiling the Latest in Computing with Tom's Gear Guides</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>[New] In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-lut-sets-unlocked-dji-mini-air-2-in-the-spotlight/"><u>2024 Approved Free LUT Sets Unlocked - DJI Mini, Air 2 in the Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-simple-curvature-alteration-in-pics/"><u>2024 Approved Guide to Simple Curvature Alteration in Pics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-tutorial-creating-3d-text-illusions/"><u>2024 Approved Photoshop Tutorial Creating 3D Text Illusions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-htc-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to HTC FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-lightzone-pro-the-ultimate-no-cost-photo-editor-for-pcs-and-macs/"><u>Discover LightZone Pro: The Ultimate No-Cost Photo Editor for PCs & MACs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c22-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C22 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/functionality-meets-aesthetics-in-our-review-of-the-lamicall-s-tablet-display-holder/"><u>Functionality Meets Aesthetics in Our Review of the Lamicall S Tablet Display Holder</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F34 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-v30t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme V30T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-a56s-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo A56s 5G Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-techniques-overcoming-common-imessage-delivery-obstacles-on-apples-smartphone/"><u>Tips & Techniques: Overcoming Common iMessage Delivery Obstacles on Apple's Smartphone</u></a></li>
 </ul></div>
 

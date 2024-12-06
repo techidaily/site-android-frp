@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 Pro 5G
-date: 2024-07-14T17:26:39.223Z
-updated: 2024-07-15T17:26:39.223Z
+date: 2024-12-04T16:30:28.604Z
+updated: 2024-12-06T16:24:58.200Z
 tags: 
   - unlock
   - bypass android frp
@@ -22,6 +22,10 @@ Factory Reset Protection is one of the security measures available on Android 5.
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WXFUGH1uMcI"></iframe>
 
 ## Part 1: Quick Overview of ADB and Fastboot Commands
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. What are ADB and Fastboot?
 
@@ -52,9 +56,6 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -123,8 +124,6 @@ ADB is a technical process aimed toward the geeks, and thus the overall process 
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
-
-
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
@@ -153,7 +152,6 @@ The process of using the software is user-friendly and thus can also be used by 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
 The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
-
 
 ## Conclusion
 
@@ -184,6 +182,10 @@ This is where the FRP or factory reset protection program comes in. It is a buil
 As a result, the user cannot restore the Oppo Reno 11 Pro 5G device to its default mode through a factory reset and wipe every data from both system and device memory. The FRP program has proven beneficial for optimal data protection from piracy and unauthorized access. This way, even if you lose your phone or it gets stolen, no one will be able to initiate the reset program to wipe everything from the Oppo Reno 11 Pro 5G device.
 
 The FRP program is not available on all smartphones from Oppo. Suppose you want to check whether it is compatible with your smartphone model, open settings from your phone, and go to the Oppo Reno 11 Pro 5G device information section. There, you will be able to see the factory reset option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 8 Ways to bypass Google locks on Oppo phone
 
@@ -227,6 +229,10 @@ This method is possible only if you can access the safe mode of the mobile or yo
 
 _**Tips:** Are you struggling to unlock your Oppo device? [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is the solution you need. With the ability to remove pattern, PIN, password, and fingerprint locks, it's user-friendly for everyone. Easily bypass your Oppo lock screen, whether you've forgotten your password or have a locked second-hand Oppo device. Plus, it works even when your screen is broken. Get access now!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Emergency Call
 
 Another standard method of bypassing the factory reset program on the mobile is through an emergency dialer. It is very easy to use, and you don't require any technical knowledge. However, there are certain limitations that you should be aware of before you use the emergency dialer to bypass the FRP lock and gain access to the Oppo Reno 11 Pro 5G device.
@@ -239,9 +245,6 @@ Another standard method of bypassing the factory reset program on the mobile is 
 
 - **Step 2:** Repeat the process multiple times till you fail to watch the series anymore on the emergency dialer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![repeat the process](https://images.wondershare.com/drfone/article/2022/09/repeat-the-process.jpg)
 
 - **Step 3:** Return to your mobile lock screen and click on the camera icon. As soon as the camera opens, pull down the notification tab from above and click on the gear symbol. This will give you access to the Oppo Reno 11 Pro 5G device settings.
@@ -295,9 +298,6 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 - **Step 8:** Once you restart the Oppo Reno 11 Pro 5G device and the Google account is added, the FRP lock will automatically get bypassed.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart the Oppo Reno 11 Pro 5G device](https://images.wondershare.com/drfone/article/2022/09/restart-the-device.jpg)
 
 #### Pros
@@ -347,6 +347,10 @@ It is a bit difficult, and you won't be able to access it in any recent Android 
 
 ## 2.2. How to Bypass Google Account on Oppo with PC ？
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1. Oppo FRP Tool
 
 One of the best tools that you can use to bypass the Factory Reset Protection lock is the Oppo FRP Tool. It is easy to use and doesn't involve too many complicated steps. Plus, it is compatible with most Oppo models, giving you the leverage to access your device without removing or deleting any further data.
@@ -356,10 +360,11 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 - **Step 1:**The first step is to put your device in fast boot mode. To do so, face down the volume down button for a couple of seconds, automatically initiating the fast boot mode.
 - **Step 2:**Now, you have to extract the zip file of the Oppo FRP Tool and then open the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![extract the zip file](https://images.wondershare.com/drfone/article/2022/09/extract-the-zip-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** It needs to display a comment-like device connected. If you see the comment, click on it as FRP, and the block will get disabled in the fast boot mode.
 
@@ -482,6 +487,10 @@ The program can be used without worrying about any malware or virus. Steps for r
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Choose "100% Remove Screen lock" after taping Oppo icon. Dr.Fone will start to unlock your Oppo phone screen after getting into the specific mode. And then wait for the unlock process to complete.
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
@@ -491,6 +500,10 @@ The program can be used without worrying about any malware or virus. Steps for r
 In this section, we have described the multiple processes for bypassing FRP locks on Oppo. You can try out the app solutions available for this task on your phone, and follow each step cautiously. For overall benefits, try the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) option.
 
 Overall, choose the best option according to your convenience and start working on the unlocking process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bypass FRP on Oppo Reno 11 Pro 5G?
 
@@ -504,9 +517,6 @@ Meanwhile, you must be asking if it's possible to bypass FRP on Oppo Reno 11 Pro
 
 Below are the quick steps for Galaxy S8 or S8 Plus:
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Dial an emergency number and save it
 
 - 1\. Fire up your locked phone and connect it to a Wi-Fi network.
@@ -532,6 +542,10 @@ Below are the quick steps for Galaxy S8 or S8 Plus:
 - 12\. Go back to the Settings screen, click Apps > Google Play Services > Disable. Also, disable Google Account Manager.
 - 13\. Open Chrome and install Bypass FRP APK from the same website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: FRP Bypass Oppo Reno 11 Pro 5G
 
 - 14\. Go to Settings > Accounts and backup > Accounts > Add account > Google. Sign in with any Gmail account.
@@ -547,6 +561,10 @@ Although this method can yield the desired results, it can be time-consuming and
 This method will teach us how to bypass FRP on Oppo Reno 11 Pro 5G devices like Galaxy S8 or S8 Plus. Here, you'll need a Wi-Fi internet, Mac or Windows PC, and a USB wire. You require a computer to install [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) and connect the program to your locked phone. Don't worry; it's a free FRP bypass program without those unwanted programs or malware. Besides Oppo Reno 11 Pro 5G, Dr.Fone can also bypass Samsung FRP on Android 6/7/8/10/11/12/13.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -598,11 +616,13 @@ Follow these steps:
 - **Step 3:** You'll see all the linked email accounts. Choose the one that you want to delete.
 - **Step 4:** Click Remove Account and then click Remove Account once again to confirm. That's it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 See, you can quickly bypass FRP on Oppo Reno 11 Pro 5G with these methods. But remember that disabling FRP will leave your phone without security protection. Also, bypassing FRP using the YouTube method can be lengthy and complex. So, use Wondershare Dr.Fone to skip FRP on Android 6/7/8/9/10/11/12/13. Give it a try!
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -611,9 +631,23 @@ See, you can quickly bypass FRP on Oppo Reno 11 Pro 5G with these methods. But r
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-6-online-background-cleansers-for-pristine-photo-edits/"><u>[New] In 2024, Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-value-gaming-peripherals-for-under-100/"><u>[Updated] In 2024, Best Value Gaming Peripherals for Under $100</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lighting-setup-tips-to-make-great-videos/"><u>[Updated] Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-behind-the-screen-look-examining-instagram-post-views/"><u>2024 Approved Behind The Screen Look Examining Instagram Post Views</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209522218-9781446358269-apparitions/"><u>Apparitions | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visual-experiences-a-deep-dive-into-video-enhancer-22/"><u>Enhancing Visual Experiences A Deep Dive Into Video Enhancer 2.2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-htc-u23-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on HTC U23 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-huawei-p60-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Huawei P60 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-12r-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus 12R FRP Bypass Instantly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-nova-y71-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei Nova Y71 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo F23 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-xcover-6-pro-tactical-edition-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy XCover 6 Pro Tactical Edition FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-m54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy M54 5G FRP Bypass</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-reboot-and-revive-how-to-reset-final-cut-pro-x-for-smooth-video-editing/"><u>New 2024 Approved Reboot and Revive How to Reset Final Cut Pro X for Smooth Video Editing</u></a></li>
+</ul></div>
 

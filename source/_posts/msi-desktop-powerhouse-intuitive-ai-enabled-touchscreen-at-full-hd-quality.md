@@ -1,7 +1,7 @@
 ---
 title: "MSI Desktop Powerhouse: Intuitive AI-Enabled Touchscreen at Full HD Quality"
-date: 2024-11-23T23:51:55.488Z
-updated: 2024-11-26T18:16:53.793Z
+date: 2024-12-03T16:28:54.486Z
+updated: 2024-12-06T16:09:06.534Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,21 +89,22 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>[New] Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-fashion-memes-for-social-sharing-via-adobe/"><u>[Updated] Fashion Memes for Social Sharing via Adobe</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-guffaw-glory-top-downloads-of-jingles/"><u>[Updated] Guffaw Glory Top Downloads of Jingles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>2024 Approved Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-sony-xperia-1-v-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Sony Xperia 1 V FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Gionee F3 Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-convert-optimize-and-thrill-the-best-vr-video-conversion-software/"><u>In 2024, Convert, Optimize, and Thrill The Best VR Video Conversion Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-asus-rog-phone-7-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Asus ROG Phone 7 FRP Bypass</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y78t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y78t FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-high-performance-tech-with-tom-at-the-helm-toms-hardware-haven/"><u>Navigating Through High-Performance Tech with Tom at the Helm - Tom's Hardware Haven</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-huawei-nova-y91-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Huawei Nova Y91 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oneplus-11r-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus 11R Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-htc-u23-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on HTC U23 Pro FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlock-creative-potential-access-free-sfx-for-2024/"><u>Unlock Creative Potential, Access Free SFX for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhancing-instagram-experience-with-in-story-captions/"><u>[New] Enhancing Instagram Experience with In-Story Captions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[New] In 2024, 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-navigating-background-extraction-in-figma-designs-easily-for-2024/"><u>[New] Navigating Background Extraction in Figma Designs Easily for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-elite-club-of-youtubes-favorite-shorter-videos/"><u>[New] The Elite Club of YouTube's Favorite Shorter Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] In 2024, Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-meizu-21-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Meizu 21 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-device-on-high-definition-audio-bus-driver-error-fixed/"><u>Audio Device on High Definition Audio Bus Driver Error [Fixed]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g34-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G34 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-yuva-2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Yuva 2?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy S23 FE FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/no-wifi-no-problem-comprehensive-guide-for-offline-drivers-on-pcs/"><u>No WiFi? No Problem! Comprehensive Guide for Offline Drivers on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-the-0x80072746-email-failure-on-windows-pc/"><u>Resolving the 0X80072746 Email Failure on Windows PC</u></a></li>
 </ul></div>
 

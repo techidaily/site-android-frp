@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2024-11-22T21:17:39.732Z
-updated: 2024-11-26T21:42:23.482Z
+date: 2024-12-03T16:02:49.841Z
+updated: 2024-12-06T16:31:47.012Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,21 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-what-is-virtual-reality-and-how-does-it-work/"><u>2024 Approved What Is Virtual Reality and How Does It Work?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c110-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C110 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easy-methods-flipping-film-frames-using-vlc-for-2024/"><u>Easy Methods Flipping Film Frames Using VLC for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-guide-protecting-and-restoring-your-icloud-mail/"><u>Effortless Guide: Protecting and Restoring Your iCloud Mail</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-f04-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy F04 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g73-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G73 5G FRP Without Computer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/kinemaster-editors-unite-building-fluid-sequences-together/"><u>Kinemaster Editors Unite Building Fluid Sequences Together</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-toms-hardware-guides-and-reviews/"><u>Navigating Tech with Tom's Hardware Guides and Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-find-x7-ultra-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Find X7 Ultra Phone? Unlock It Now</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New In 2024, Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-a79-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo A79 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/os-melhores-reprodutores-de-dvd-livres-e-gratuitos-compativeis-com-o-windows-11-descubra-os-12-mais-populares/"><u>Os Melhores Reprodutores De DVD Livres E Gratuitos Compatíveis Com O Windows 11 – Descubra Os 12 Mais Populares!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-s23-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy S23 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-troubleshooting-checklist-overcoming-voicemod-not-working-problem-latest-tips/"><u>The Ultimate Troubleshooting Checklist: Overcoming Voicemod Not Working Problem - Latest Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-inspirational-movies-for-momentum-and-self-belief/"><u>[New] 2024 Approved Inspirational Movies for Momentum and Self-Belief</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>[New] From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-share-the-laughter-mastering-kinemaster/"><u>[Updated] Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-enhancement-the-art-of-background-blur/"><u>2024 Approved YouTube Enhancement The Art of Background Blur</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M34 5G FRP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 6s Plus After iOS Update? | Stellar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a1-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A1 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-9a-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 9A FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f14-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F14 5GFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-meizu-21-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Meizu 21 FRP</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-animations-top-free-and-paid-3d-software-recommendations/"><u>New 2024 Approved Create Stunning Animations Top Free and Paid 3D Software Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-fortnite-on-incompatible-windows-graphics-cards/"><u>Resolved: Fixing Fortnite on Incompatible Windows Graphics Cards</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-inserting-music-in-your-ppt-masterpieces-for-2024/"><u>Step-by-Step Inserting Music in Your PPT Masterpieces for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-future-is-now-anticipating-artificial-intelligence-upgrades-for-apple-devices-this-fall/"><u>The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-c67-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C67 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A54 5G FRP Bypass</u></a></li>
 </ul></div>
 
