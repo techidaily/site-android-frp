@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-12-05T16:35:28.130Z
-updated: 2024-12-06T16:04:31.468Z
+date: 2024-12-11T16:16:33.936Z
+updated: 2024-12-12T16:36:10.198Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-elite-plot-development-ground-for-2024/"><u>[New] Elite Plot Development Ground for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>[New] Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-empowering-your-business-communication-google-meet-to-youtube-steps/"><u>[Updated] Empowering Your Business Communication Google Meet to YouTube Steps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-cutting-edge-online-resources-for-glittering-3d-typography/"><u>2024 Approved Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-post-production-mastery-l-cuts-and-j-cuts-in-fcpx-for-2024/"><u>Audio Post-Production Mastery L-Cuts and J-Cuts in FCPX for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-asus-by-drfone-android/"><u>How to Bypass FRP on Asus?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-7-ultimatewithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 7 Ultimatewith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-asus-rog-phone-8-by-drfone-android/"><u>In 2024, How to Bypass FRP on Asus ROG Phone 8?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-worker-output-the-influence-of-office-environment/"><u>In 2024, Optimizing Worker Output The Influence of Office Environment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-favorable-substitutes-for-the-chatgpt-mobile-application-by-openai/"><u>Top 7 Favorable Substitutes for the ChatGPT Mobile Application by OpenAI</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-narzo-60-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme Narzo 60 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-with-usechatgpts-ai-enhancement-extension/"><u>Unlocking Potential with UseChatGPT's AI Enhancement Extension</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-youtube-monetization-with-500-subscribers/"><u>[New] 2024 Approved Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-gionee-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Gionee FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-asus-rog-phone-8-pro-frp-bypass-by-drfone-android/"><u>About Asus ROG Phone 8 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/covert-compression-techniques-for-windows-1011-users/"><u>Covert Compression Techniques for Windows 10/11 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-11-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 11 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-exclusive-perks-with-dells-luxury-3000-laptop-an-innovative-leap-in-gaming-machines-insights-from-zdnet/"><u>Experience Exclusive Perks with Dell's Luxury $3,000 Laptop - An Innovative Leap in Gaming Machines | Insights From ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asuswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asuswith/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-x-fold-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo X Fold 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23 FE FRP Without Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-gen-consumer-engagement-strategies/"><u>In 2024, Next-Gen Consumer Engagement Strategies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-ace-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Ace 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-auroras-premium-tech-a-wise-investment-for-2024/"><u>Is Aurora's Premium Tech a Wise Investment for 2024</u></a></li>
 </ul></div>
 

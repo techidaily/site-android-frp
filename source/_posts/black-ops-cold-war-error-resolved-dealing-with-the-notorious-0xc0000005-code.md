@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-11-29T16:34:53.932Z
-updated: 2024-12-06T16:13:49.805Z
+date: 2024-12-11T16:19:51.242Z
+updated: 2024-12-12T16:26:18.125Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
  Shaders are programs that help with the object rendering. Playing without shaders will lead to bad performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,6 +32,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game
 
@@ -45,13 +49,13 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -77,6 +81,10 @@ Here’s how to restart the shaders installation:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -85,10 +93,6 @@ Here’s how to restart the shaders installation:
  After updating the GPU driver, restart your PC for the changes to apply. Then start your game and check if you can now complete the compilation.
 
  If the latest graphics driver doesn’t give you luck, simply take a look at the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Delete Cache folders
 
@@ -101,7 +105,7 @@ Here’s how to restart the shaders installation:
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Link your Activision and Blizzard accounts
@@ -111,10 +115,6 @@ Here’s how to restart the shaders installation:
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
@@ -138,19 +138,19 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-integrative-motion-analysis-compendium-for-2024/"><u>[New] Integrative Motion Analysis Compendium for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-mastering-zip-to-srt-transform-subtitled-content-swiftly-for-2024/"><u>[New] Mastering Zip-to-Srt Transform Subtitled Content Swiftly for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-ultimate-guide-to-best-wildlife-games/"><u>2024 Approved Android's Ultimate Guide to Best Wildlife Games</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-poco-x6-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco X6 Pro FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-f5-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco F5 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-usb-driver-pack-for-versatile-oss-epson-2650/"><u>Direct USB Driver Pack for Versatile OSs - Epson 2650</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-x5-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco X5 FRP Locks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-lava-yuva-2-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Lava Yuva 2 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-right-video-recorder-for-teaching/"><u>In 2024, Selecting the Right Video Recorder for Teaching</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nubia-red-magic-9-proplus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nubia Red Magic 9 Pro+ FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-on-playing-wmv-video-files/"><u>Step-by-Step Tutorial on Playing WMV Video Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722869439318-troubleshooting-failed-app-functionality-on-samsung-televisions/"><u>Troubleshooting Failed App Functionality on Samsung Televisions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-the-purpose-of-mock-modules-in-custom-computer-systems-unveiling-the-use-of-dummy-ram/"><u>1. The Purpose of Mock Modules in Custom Computer Systems: Unveiling the Use of Dummy RAM</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimal-solution-review-prime-action-recorder/"><u>2024 Approved Optimal Solution Review Prime Action Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-essential-guide-to-capturing-switch-on-film/"><u>2024 Approved The Essential Guide to Capturing Switch on Film</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-nova-y91-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei Nova Y91 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-popular.techidaily.com/current-music-video-hits-exploring-the-latest-trends-at-video-pool/"><u>Current Music Video Hits: Exploring the Latest Trends at Video Pool</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/essential-tips-for-storing-snapchat-videos-on-devices-for-2024/"><u>Essential Tips for Storing Snapchat Videos on Devices for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-reno-9a-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Reno 9A FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A2 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-blaze-2-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Blaze 2 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-a58-4g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo A58 4G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>In 2024, Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Phone FRP Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-choosing-a-discreet-and-dependable-dashcam-the-rexing-v1-reviewed/"><u>The Ultimate Guide to Choosing a Discreet and Dependable DashCam - The Rexing V1 Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tricks-to-simulate-quantum-leap-phenomena-for-2024/"><u>Tricks to Simulate Quantum Leap Phenomena for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2024-12-03T16:02:49.841Z
-updated: 2024-12-06T16:31:47.012Z
+date: 2024-12-09T16:29:09.641Z
+updated: 2024-12-12T16:11:15.120Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,21 +68,24 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-inspirational-movies-for-momentum-and-self-belief/"><u>[New] 2024 Approved Inspirational Movies for Momentum and Self-Belief</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>[New] From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-share-the-laughter-mastering-kinemaster/"><u>[Updated] Share the Laughter Mastering KineMaster</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-enhancement-the-art-of-background-blur/"><u>2024 Approved YouTube Enhancement The Art of Background Blur</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M34 5G FRP?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 6s Plus After iOS Update? | Stellar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a1-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A1 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-reno-9a-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Reno 9A FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f14-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F14 5GFRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-meizu-21-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Meizu 21 FRP</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-create-stunning-animations-top-free-and-paid-3d-software-recommendations/"><u>New 2024 Approved Create Stunning Animations Top Free and Paid 3D Software Recommendations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-fortnite-on-incompatible-windows-graphics-cards/"><u>Resolved: Fixing Fortnite on Incompatible Windows Graphics Cards</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-inserting-music-in-your-ppt-masterpieces-for-2024/"><u>Step-by-Step Inserting Music in Your PPT Masterpieces for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-future-is-now-anticipating-artificial-intelligence-upgrades-for-apple-devices-this-fall/"><u>The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-c67-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme C67 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A54 5G FRP Bypass</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ensuring-compliance-a-guide-to-pre-upload-on-tiktok/"><u>[New] Ensuring Compliance A Guide to Pre-Upload on TikTok</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-htc-u23-frp-bypass-by-drfone-android/"><u>About HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-fitness-tracking-with-the-best-value-a-comprehensive-fitbit-versa-lite-review/"><u>Affordable Fitness Tracking with the Best Value - A Comprehensive Fitbit Versa Lite Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-yuva-3-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Yuva 3 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-audience-excitement-with-top-ideas-for-2024/"><u>Elevating Audience Excitement with Top Ideas for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-separation-to-symbiosis-logic-pro-x-audio-blending-for-2024/"><u>From Separation To Symbiosis Logic Pro X Audio Blending for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2v-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2V</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-g22-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia G22 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-8-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 8 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g22-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G22 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G310 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a78-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A78 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamlining-your-zoom-collaboration-calendar/"><u>In 2024, Streamlining Your Zoom Collaboration Calendar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-google-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Google FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-defy-2-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Defy 2 Phone FRP Lock</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-key-storage/"><u>Secure Key Storage:</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-group-policy-reports-via-gpresult/"><u>Streamlining Group Policy Reports via GPResult</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v29e-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V29e</u></a></li>
 </ul></div>
 

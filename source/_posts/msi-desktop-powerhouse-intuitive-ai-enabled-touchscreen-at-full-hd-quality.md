@@ -1,7 +1,7 @@
 ---
 title: "MSI Desktop Powerhouse: Intuitive AI-Enabled Touchscreen at Full HD Quality"
-date: 2024-12-03T16:28:54.486Z
-updated: 2024-12-06T16:09:06.534Z
+date: 2024-12-06T16:02:39.579Z
+updated: 2024-12-12T16:02:00.552Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,22 +89,21 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-enhancing-instagram-experience-with-in-story-captions/"><u>[New] Enhancing Instagram Experience with In-Story Captions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[New] In 2024, 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-background-extraction-in-figma-designs-easily-for-2024/"><u>[New] Navigating Background Extraction in Figma Designs Easily for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-elite-club-of-youtubes-favorite-shorter-videos/"><u>[New] The Elite Club of YouTube's Favorite Shorter Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] In 2024, Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a14-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A14 4G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-meizu-21-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Meizu 21 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-on-high-definition-audio-bus-driver-error-fixed/"><u>Audio Device on High Definition Audio Bus Driver Error [Fixed]</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g34-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G34 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-yuva-2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Yuva 2?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-s23-fe-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy S23 FE FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-wifi-no-problem-comprehensive-guide-for-offline-drivers-on-pcs/"><u>No WiFi? No Problem! Comprehensive Guide for Offline Drivers on PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-the-0x80072746-email-failure-on-windows-pc/"><u>Resolving the 0X80072746 Email Failure on Windows PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-briefclip-artist/"><u>[New] In 2024, BriefClip Artist</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-essential-guide-to-the-top-5-windows-snipper-tools/"><u>[New] In 2024, Essential Guide to The Top 5 Windows Snipper Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-import-music-to-inshot-app/"><u>2024 Approved How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x9a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X9a to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-meizu-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Meizu</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-perfection-v500-driver-for-optimal-printing-performance/"><u>Download and Install Epson Perfection V500 Driver for Optimal Printing Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a05-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A05 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-find-x6-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo Find X6 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-nord-ce-3-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus Nord CE 3 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-g310-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia G310 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-sony-by-drfone-android/"><u>In 2024, How to Bypass FRP from Sony?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-xr21-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia XR21 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f04frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F04FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s24plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S24+ FRP Without Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-skagen-falster-2-a-stylish-contender-against-apple-devices/"><u>Unveiling the Skagen Falster 2 - A Stylish Contender Against Apple Devices</u></a></li>
 </ul></div>
 
