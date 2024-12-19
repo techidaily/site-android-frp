@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-12-11T16:16:33.936Z
-updated: 2024-12-12T16:36:10.198Z
+date: 2024-12-14T20:54:25.277Z
+updated: 2024-12-19T05:56:52.659Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,21 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-youtube-monetization-with-500-subscribers/"><u>[New] 2024 Approved Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-gionee-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Gionee FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-asus-rog-phone-8-pro-frp-bypass-by-drfone-android/"><u>About Asus ROG Phone 8 Pro FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/covert-compression-techniques-for-windows-1011-users/"><u>Covert Compression Techniques for Windows 10/11 Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-11-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 11 Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-exclusive-perks-with-dells-luxury-3000-laptop-an-innovative-leap-in-gaming-machines-insights-from-zdnet/"><u>Experience Exclusive Perks with Dell's Luxury $3,000 Laptop - An Innovative Leap in Gaming Machines | Insights From ZDNET</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asuswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asuswith/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-x-fold-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo X Fold 2 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23 FE FRP Without Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-next-gen-consumer-engagement-strategies/"><u>In 2024, Next-Gen Consumer Engagement Strategies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-ace-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Ace 2 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-auroras-premium-tech-a-wise-investment-for-2024/"><u>Is Aurora's Premium Tech a Wise Investment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-iphones-artistry-for-time-extended-cinematography/"><u>[New] In 2024, IPhone's Artistry for Time-Extended Cinematography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-computer-monitor-recording-via-zdsoft/"><u>[Updated] 2024 Approved Mastering Computer Monitor Recording via ZDSoft</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-a-brief-guide-to-download-install-and-use-ez-grabber-for-2024/"><u>[Updated] A Brief Guide to Download, Install, and Use EZ Grabber for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-value-in-screen-recording-in-depth-review-of-free-apps/"><u>[Updated] Best Value in Screen Recording In-Depth Review of Free Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/free-srt-translation-leaders-a-select-8-guide-for-2024/"><u>Free SRT Translation Leaders A Select 8 Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g24-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G24 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c12-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C12 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-c51-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco C51 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c53-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C53 FRP Bypass</u></a></li>
+<li><a href="https://article-posts.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-and-amd-collaborate-inside-high-end-designs-of-asus-zenbook-s-and-tuf-a1-4-laptops/"><u>Intel & AMD Collaborate Inside High-End Designs of Asus' Zenbook S and TUF A1 4 Laptops</u></a></li>
 </ul></div>
 
