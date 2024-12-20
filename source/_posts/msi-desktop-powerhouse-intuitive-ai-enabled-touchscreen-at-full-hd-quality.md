@@ -1,7 +1,7 @@
 ---
 title: "MSI Desktop Powerhouse: Intuitive AI-Enabled Touchscreen at Full HD Quality"
-date: 2024-12-14T22:45:48.548Z
-updated: 2024-12-19T04:06:59.225Z
+date: 2024-12-13T16:25:36.283Z
+updated: 2024-12-19T16:52:35.888Z
 tags:
   - desktop
 categories:
@@ -41,7 +41,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -57,7 +57,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -65,7 +65,7 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Miniproca)
@@ -89,17 +89,18 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>[Updated] 2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-note-50-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme Note 50 FRP</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhancing-claims-management-with-abbyys-digital-expertise-at-ecclesia-gruppe-an-seo-optimized-approach-to-insurance-services/"><u>Enhancing Claims Management with ABBYY's Digital Expertise at Ecclesia Gruppe – An SEO-Optimized Approach to Insurance Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-meet-tutorial-how-to-apply-background-blur-effectively/"><u>Google Meet Tutorial: How to Apply Background Blur Effectively</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-nord-3-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus Nord 3 5G FRP</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>In 2024, Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-a38-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo A38 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A2 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-k11-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo K11 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-transformation-software-spectrashift-series/"><u>In 2024, Leading Transformation Software SpectraShift Series</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-elevated-commands-always-access-terminal-as-admin/"><u>Mastering Elevated Commands: Always Access Terminal as Admin</u></a></li>
-<li><a href="https://facebook.techidaily.com/study-most-covid-19-misinformation-was-spread-by-these-12-influencers/"><u>Study: Most Covid-19 Misinformation Was Spread by These 12 Influencers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>[New] Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-best-camcorders-reviewed-and-rated/"><u>[Updated] In 2024, Window's Best Camcorders Reviewed & Rated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-month-with-a-dell-xps-15-why-i-made-the-switch-from-my-macbook-tech-insights/"><u>A Month with a Dell XPS 15: Why I Made the Switch From My MacBook | Tech Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/changing-the-face-of-healthcare-with-vr/"><u>Changing the Face of Healthcare with VR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discovering-top-5-fluids-in-virtual-playgrounds/"><u>Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-rog-phone-7-ultimate-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus ROG Phone 7 Ultimate Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-reno-11-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Reno 11 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s24-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S24 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-105-classic-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia 105 Classic ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/scape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-yuva-2-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava Yuva 2 FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-boosting-iphoneipad-photography-quality/"><u>Ultimate Guide: Boosting iPhone/iPad Photography Quality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-12-14T20:54:25.277Z
-updated: 2024-12-19T05:56:52.659Z
+date: 2024-12-15T17:09:11.767Z
+updated: 2024-12-19T16:04:22.393Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,21 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-iphones-artistry-for-time-extended-cinematography/"><u>[New] In 2024, IPhone's Artistry for Time-Extended Cinematography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-computer-monitor-recording-via-zdsoft/"><u>[Updated] 2024 Approved Mastering Computer Monitor Recording via ZDSoft</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-a-brief-guide-to-download-install-and-use-ez-grabber-for-2024/"><u>[Updated] A Brief Guide to Download, Install, and Use EZ Grabber for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-value-in-screen-recording-in-depth-review-of-free-apps/"><u>[Updated] Best Value in Screen Recording In-Depth Review of Free Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/free-srt-translation-leaders-a-select-8-guide-for-2024/"><u>Free SRT Translation Leaders A Select 8 Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g24-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G24 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c12-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C12 Pro Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-c51-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco C51 Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s21-fe-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S21 FE 5G (2023) FRP Bypass</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 8 Plus without Password?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c53-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C53 FRP Bypass</u></a></li>
-<li><a href="https://article-posts.techidaily.com/innovative-strategies-for-altering-pubg-speech-for-2024/"><u>Innovative Strategies for Altering PUBG Speech for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/intel-and-amd-collaborate-inside-high-end-designs-of-asus-zenbook-s-and-tuf-a1-4-laptops/"><u>Intel & AMD Collaborate Inside High-End Designs of Asus' Zenbook S and TUF A1 4 Laptops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-prime-zero-cost-switch-mimicry-apps/"><u>[New] Prime Zero-Cost Switch Mimicry Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[Updated] 2024 Approved Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-techniques-in-creating-youtube-thumbnails-that-stand-out/"><u>2024 Approved Essential Techniques in Creating YouTube Thumbnails That Stand Out</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-entree-straightforward-screen-capture-methods-dell/"><u>Easy Entrée Straightforward Screen Capture Methods (Dell)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-laptop-screens-continuous-flashing/"><u>Ending Laptop Screen's Continuous Flashing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .svd file</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gaming-on-the-go-the-top-choice-of-handheld-game-systems-in-2n24/"><u>Gaming on the Go: The Top Choice of Handheld Game Systems in 2N24</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 12 Phones with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-keep-search-invisible-in-win-11-taskbar/"><u>How to Keep Search Invisible in Win 11 Taskbar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c12-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C12 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-n3-flip-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find N3 Flip Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-convert-f4v-files-into-high-quality-mov-videos-for-free-online/"><u>Seamlessly Convert .f4v Files Into High-Quality .mov Videos for Free Online</u></a></li>
 </ul></div>
 

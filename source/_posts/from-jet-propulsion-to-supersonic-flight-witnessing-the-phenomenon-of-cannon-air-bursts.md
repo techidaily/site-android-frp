@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2024-12-16T23:48:36.120Z
-updated: 2024-12-18T19:34:26.161Z
+date: 2024-12-16T16:28:12.799Z
+updated: 2024-12-19T17:03:15.286Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,15 +56,17 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>[New] 2024 Approved Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-updated-features-in-sony-blu-ray-player-s6700-for-2024/"><u>[Updated] Updated Features in Sony Blu-Ray Player S6700 for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-capture-to-share-expert-insights-into-screen-recording-software/"><u>2024 Approved From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/die-besten-itunes-ersatzprogramme-fur-macos-und-windows-finden-sie-die-perfekte-losung-zum-hosten-von-musikdateien/"><u>Die Besten iTunes Ersatzprogramme Für macOS Und Windows: Finden Sie Die Perfekte Lösung Zum Hosten Von Musikdateien.</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-v30-lite-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo V30 Lite 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-poco-f5-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Poco F5 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-oneplus-nord-3-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus Nord 3 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-find-n3-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Find N3 Flip FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-strategy-for-profiting-from-every-youtube-short-video-for-2024/"><u>Step-by-Step Strategy for Profiting From Every YouTube Short Video for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premium-and-basic-win-driven-design-applications-guide/"><u>[New] Premium & Basic Win-Driven Design Applications Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[Updated] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-mp3s-from-instagram-the-easy-methodology-for-2024/"><u>[Updated] Crafting Mp3s From Instagram The Easy Methodology for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-effectively-move-files-between-two-ios-units/"><u>[Updated] In 2024, How to Effectively Move Files Between Two iOS Units</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a18-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A18 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-razr-40-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Razr 40 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ideal-replacements-for-foxit-reader-top-pdf-editors-you-should-try/"><u>Ideal Replacements for Foxit Reader: Top PDF Editors You Should Try</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-g54-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola G54 5G Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-xr21frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia XR21FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-g310-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia G310 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reining-in-flickering-monitors-hp-guide/"><u>Reining In Flickering Monitors: HP Guide</u></a></li>
 </ul></div>
 

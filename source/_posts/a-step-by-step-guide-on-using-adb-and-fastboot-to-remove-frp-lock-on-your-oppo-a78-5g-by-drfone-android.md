@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A78 5G
-date: 2024-07-14T16:59:12.975Z
-updated: 2024-07-15T16:59:12.975Z
+date: 2024-12-14T16:44:04.335Z
+updated: 2024-12-19T16:58:06.526Z
 tags: 
   - unlock
   - bypass android frp
@@ -53,8 +53,9 @@ The Android versions on which ADB and Fastboot commands can be used are as follo
 To remove FRP lock using ADB, you first need to install and set up ADB and then remove them using the command. The steps for the same are enlisted below.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
@@ -119,11 +120,13 @@ ADB is a command-based method, and thus it is important that the commands are en
 
 ADB is a technical process aimed toward the geeks, and thus the overall process is not user-friendly and complicated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: The Best ADB Alternative to Bypass FRP Lock on Android Phones
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
-
-
 
 ### Dr.Fone - Screen Unlock (Android)
 
@@ -152,8 +155,11 @@ The process of using the software is user-friendly and thus can also be used by 
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
-The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
 
 ## Conclusion
 
@@ -236,6 +242,10 @@ Besides FRP lock, the screen lock of your Android phones including Oppo  is one 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (Android)
 
 Get into Locked Oppo  within Minutes
@@ -253,6 +263,10 @@ Get into Locked Oppo  within Minutes
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** From the supported list on the software interface, select Oppo .
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -265,10 +279,11 @@ Get into Locked Oppo  within Minutes
 
 ![prepare to remove android lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -281,6 +296,10 @@ The Google Factory Reset Protection (FRP) lock is a security measure in Android 
 The first one is forgetting your Google ID details. The other situation is buying a second-hand device locked with the previous owner's Google ID. This article deals with **Oppo A78 5G FRP bypass Android 11**. It provides three methods to bypass FRP, allowing you to access your Oppo A78 5G again.
 
 ![performing tecno pop 5 frp bypass procedure](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: \[Direct Solution\] Oppo A78 5G FRP Bypass Android 11 With Wondershare Dr.Fone
 
@@ -304,7 +323,6 @@ You can begin with installing and launching Wondershare Dr.Fone. Go to the "Tool
 
 ![selecting the brand for frp unlock](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
-
 - Step 2. Successfully Bypass Oppo A78 5G FRP Lock
 
 It will lead to the downloading of the required driver for your Android. Upon downloading, turn off your device and establish a connection with the computer. While connecting, press and hold both “Volume” buttons for 3 seconds. This action will commence the FRP bypassing process, requiring a brief moment for completion.
@@ -325,15 +343,16 @@ The SIM card method is a favored FRP lock bypass approach among Oppo A78 5G user
 
 ![provide sim passcode](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** After pressing "Emergency," tap "Emergency Information" on the next screen. On the "Owner" screen, tap the icon at the top right corner, enter the SIM PIN code, and when asked, choose "Add contact."
 
 ![proceed to add contact](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-6.jpg)
 
 - **Step 4.** Add the contact you saved as the owner's contact and make a call. During the call, tap "Contacts" to access your saved contacts, and select the one you saved. On tapping the three dots on the top, select "Share” and choose "Share as text."
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select and share saved contact](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-7.jpg)
 
 - **Step 5.** Choose "XShare Mini" as the sharing option, grant the necessary permissions, and leave the Oppo A78 5G device on the "QR Code." Move to another device and access a web browser. Go to mobileteamofficials.com and download two apps: “Google Account Manager” and “Account Login/ FRP Bypass.”
@@ -354,9 +373,6 @@ The SIM card method is a favored FRP lock bypass approach among Oppo A78 5G user
 
 - **Step 9.** After signing in, return to the apps and open the Activity Launcher app. Within the app, tap "Android Setup" on the following screen and scroll down to press the "Android Setup" entry. This will perform the **Oppo A78 5G Lite FRP** **bypass** successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access activity launcher and unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-12.jpg)
 
 **Here is a video for you to learn how to bypass FRP:**
@@ -371,6 +387,10 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 ![start by adding network](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Touch the “Microphone” icon and choose “Deny” across the pop-up. Go for the “Microphone” icon again, and opt for “Deny.” Lastly, touch the same icon again and opt for “Allow.” This will take you to the Gboard App information screen.
 
 ![workout with permissions](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-14.jpg)
@@ -382,6 +402,10 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 - **Step 4.** Navigate to "App management" and select "App settings." Access the XShare APK, launch it, and ensure you have a secondary Android device available. Open the Play Store on the second device, and download and install the XShare App for further processing.
 
 ![lead to app settings](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5.** Next, open the Chrome Browser on the second device. Enter one of the following URLs in the browser and download “FRP Bypass APK” and “Google Account Manager 9.0 APK”:
 
@@ -395,9 +419,6 @@ While you consider other FRP bypassing methods instead of Wondershare Dr.Fone, t
 
 - **Step 7.** Close and exit the XShare APK on the FRP phone to return to the “App settings” screen. Launch the FRP Bypass APK, tap the “three dots” upon opening, and choose “Browser Sign-In.” Sign in with your Google Account ID and password.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open frp bypass tool to unlock](https://images.wondershare.com/drfone/article/2024/01/guide-to-tecno-pop-5-frp-bypass-with-best-methods-19.jpg)
 
 - **Step 8.** Return to the “App settings” Screen and uninstall the Google Account Manager APK. Proceed to the initial “Welcome” screen by tapping the back key repeatedly. Initiate the Oppo A78 5G device setup procedure by tapping “Start.” You should now observe "Account Added," indicating successful FRP bypass on your **Oppo A78 5G FRP bypass Android 11**.
@@ -410,8 +431,6 @@ In conclusion, **the Oppo A78 5G LTE FRP unlock tool** demands varied approaches
 
 _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -419,9 +438,26 @@ _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.F
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-podcasts-microphones/"><u>[New] 10 Best Podcasts Microphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-cartoon-selfies-snapchats-fun-lens-guide/"><u>[Updated] Mastering Cartoon Selfies Snapchat's Fun Lens Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-x7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find X7 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-ace-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a05-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A05</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazonbasics-affordable-cross-cut-paper-shredder-in-depth-analysis-and-consumer-ratings/"><u>AmazonBasics Affordable Cross-Cut Paper Shredder - In-Depth Analysis and Consumer Ratings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-msis-latest-innovation-the-aiplus-laptop-range-revolutionizing-gaming-and-creativity-with-up-to-542-tops/"><u>Discover MSI's Latest Innovation: The AI+ Laptop Range, Revolutionizing Gaming and Creativity with Up to 542 TOPS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-ace-2-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Ace 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-tactical-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 Tactical Edition Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-htc-u23-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from HTC U23 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-narzo-n53-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme Narzo N53 Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-media-craft-debate-between-filmora-and-democracy-creator/"><u>In 2024, Mastering Media Craft Debate Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Gionee F3 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia C300 FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-darkened-skies-with-iphones/"><u>Mastering the Darkened Skies with iPhones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-the-pitch-virtually-why-fifa-19-reigns-supreme-in-sports-gaming/"><u>Mastering the Pitch Virtually: Why FIFA 19 Reigns Supreme in Sports Gaming</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/produce-playful-photoshopped-gifs-via-giphy-for-2024/"><u>Produce Playful Photoshopped Gifs via Giphy for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-a1-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo A1 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-projector-screens-a-comprehensive-guide/"><u>Top Rated Projector Screens : A Comprehensive Guide</u></a></li>
+</ul></div>
 
