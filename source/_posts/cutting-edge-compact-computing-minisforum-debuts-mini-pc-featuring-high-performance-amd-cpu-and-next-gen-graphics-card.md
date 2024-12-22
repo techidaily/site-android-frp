@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2024-12-13T16:18:58.529Z
-updated: 2024-12-19T17:07:03.482Z
+date: 2024-12-14T02:37:11.602Z
+updated: 2024-12-19T17:12:12.198Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,21 +68,24 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-simplifying-video-distribution-a-discord-insiders-approach/"><u>[New] 2024 Approved Simplifying Video Distribution A Discord Insider's Approach</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-starting-with-cams-a-beginners-guide-for-2024/"><u>[New] Starting with Cams - A Beginner’s Guide for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-curtail-unrequested-youtube-content-streams/"><u>[Updated] Curtail Unrequested YouTube Content Streams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-guide-to-the-best-10-video-saving-devices/"><u>2024 Approved Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/avchd-vs-mp4-showdown-determining-the-perfect-video-format-fit-for-your-needs/"><u>AVCHD Vs. MP4 Showdown: Determining the Perfect Video Format Fit for Your Needs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-devices-showing-no-battery-power-detected-errors/"><u>Fast Fixes for Devices Showing No Battery Power Detected Errors</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a24-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A24 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-huawei-p60-frp-by-drfone-android/"><u>How Can We Bypass Huawei P60 FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-find-n3-flip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Find N3 Flip Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-stranded-xbox-message-on-your-windows-pc/"><u>How to Stop Stranded Xbox Message on Your Windows PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-conjuring-chrono-displacement-with-digital-magic/"><u>In 2024, Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-get-the-facts-about-youtube-keyword-research/"><u>In 2024, Get the Facts About YouTube Keyword Research</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-reno-11f-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Reno 11F 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-find-x6-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Find X6 Pro FRP Without Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-s23-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy S23 Ultra FRP Bypass</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management/"><u>[New] The Intersection of Brain Research and Strategic Business Management</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-monetary-milestones-steps-to-unlock-your-true-youtube-income-value/"><u>[Updated] 2024 Approved Monetary Milestones Steps to Unlock Your True YouTube Income Value</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>[Updated] Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/battled-and-solved-the-erratic-screen-blanks-on-laptops/"><u>Battled and Solved the Erratic Screen Blanks on Laptops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-huawei-nova-y71-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Huawei Nova Y71 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-writing-process-with-these-5-cutting-edge-ai-generated-text-helpers/"><u>Enhance Your Writing Process with These 5 Cutting-Edge AI Generated Text Helpers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a14-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A14 4G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-razr-40-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Razr 40 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-edge-40-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Edge 40 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-gionee-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Gionee Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy Z Flip 5 Devices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>New The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/plex-vs-studio-prodigies/"><u>Plex vs Studio Prodigies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lava-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lava FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creative-curator-essential-zero-price-text-psds-for-2024/"><u>The Creative Curator Essential, Zero-Price Text PSDS for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Agni 2 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme FRP Bypass</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725288811885-winx-dvd/"><u>WinX DVD プラチナリッパーで動画をコピー出来ない？解決法見つけた！</u></a></li>
 </ul></div>
 

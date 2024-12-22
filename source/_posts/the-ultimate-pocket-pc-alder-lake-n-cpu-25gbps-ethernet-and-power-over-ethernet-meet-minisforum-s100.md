@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2024-12-17T16:58:28.365Z
-updated: 2024-12-19T16:06:52.459Z
+date: 2024-12-18T16:21:10.297Z
+updated: 2024-12-19T20:52:11.350Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,22 +66,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-streamline-your-smartphone-screen-activatedeactivate-pip-for-youtube/"><u>[New] Streamline Your Smartphone Screen Activate/Deactivate PIP for YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-dyson-challenges-apple-with-revolutionary-ontrac-wireless-earbuds-a-tech-showdown/"><u>1. Dyson Challenges Apple with Revolutionary OnTrac Wireless Earbuds: A Tech Showdown</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>2024 Approved A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/a-visual-journey-through-pc-games-snapping-the-best/"><u>A Visual Journey Through PC Games - Snapping the Best</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/affordable-customizable-templates-to-elevate-your-biz-talks-for-2024/"><u>Affordable, Customizable Templates to Elevate Your Biz Talks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-aspects-to-evaluate-when-applying-chatgpt-in-psychological-care/"><u>Critical Aspects to Evaluate When Applying ChatGPT in Psychological Care</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-edge-40-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Edge 40 FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-lava-yuva-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Lava Yuva 3 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus Ace 3 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-10-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-11-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus 11 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-camcorder-selections-for-snowboardingskiing/"><u>In 2024, Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cyber-conference-capture/"><u>In 2024, Cyber Conference Capture</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-sony-xperia-1-v-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Sony Xperia 1 V Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Sony Xperia 1 V FRP</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/vidextracter-facebook-streams-for-2024/"><u>VidExtracter Facebook Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-androidiphone-instruction-adding-music-files-to-fb-profile/"><u>[New] 2024 Approved Android/iPhone Instruction Adding Music Files to FB Profile</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>[Updated] In 2024, Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-weigh-in-can-the-newly-released-749-thinkbook-by-lenovo-dominate-as-2024s-most-affordable-yet-powerful-windows-device/"><u>Experts Weigh In: Can the Newly Released $749 ThinkBook by Lenovo Dominate as 2024'S Most Affordable Yet Powerful Windows Device?</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-sincronizar-carpetas-entre-computadores/"><u>Guía Paso a Paso Para Sincronizar Carpetas Entre Computadores</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-13-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 13 From Your Apple ID</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-meizu-21-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Meizu 21 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-c53-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme C53?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme Narzo 60 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-motorola-edge-40-neo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Edge 40 Neo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-c02-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia C02 FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-bluetooth-on-your-computers-system-manager/"><u>Step-by-Step Solution: Restoring Bluetooth on Your Computer's System Manager</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-complete-haul-video-manual-from-shopping-to-screen-time-for-2024/"><u>The Complete Haul Video Manual From Shopping to Screen Time for 2024</u></a></li>
 </ul></div>
 

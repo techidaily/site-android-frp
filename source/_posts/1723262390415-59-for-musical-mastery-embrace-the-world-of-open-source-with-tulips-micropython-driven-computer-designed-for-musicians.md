@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-12-15T17:09:11.767Z
-updated: 2024-12-19T16:04:22.393Z
+date: 2024-12-18T16:03:58.689Z
+updated: 2024-12-19T19:55:54.768Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-prime-zero-cost-switch-mimicry-apps/"><u>[New] Prime Zero-Cost Switch Mimicry Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[Updated] 2024 Approved Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-techniques-in-creating-youtube-thumbnails-that-stand-out/"><u>2024 Approved Essential Techniques in Creating YouTube Thumbnails That Stand Out</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-entree-straightforward-screen-capture-methods-dell/"><u>Easy Entrée Straightforward Screen Capture Methods (Dell)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-laptop-screens-continuous-flashing/"><u>Ending Laptop Screen's Continuous Flashing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .svd file</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/gaming-on-the-go-the-top-choice-of-handheld-game-systems-in-2n24/"><u>Gaming on the Go: The Top Choice of Handheld Game Systems in 2N24</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus 12 Phones with/without a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-search-invisible-in-win-11-taskbar/"><u>How to Keep Search Invisible in Win 11 Taskbar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lenovo ThinkPhone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c12-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C12 Pro Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-find-n3-flip-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Find N3 Flip Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-convert-f4v-files-into-high-quality-mov-videos-for-free-online/"><u>Seamlessly Convert .f4v Files Into High-Quality .mov Videos for Free Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortless-snapchat-connectivity-step-by-step-guide/"><u>[New] In 2024, Effortless Snapchat Connectivity Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[Updated] Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-learn-to-capture-videos-from-webcam-in-vlc/"><u>2024 Approved Learn to Capture Videos From Webcam in VLC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-obs-studio-explained-capturing-ps4-playthroughs/"><u>2024 Approved OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-video-subtitles-off-a-comprehensive-guide/"><u>Amazon Prime Video Subtitles Off: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a34-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A34 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g73-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G73 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-find-x7-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Find X7 Ultra FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-c12-plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia C12 Plus FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-n3-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find N3 Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>In 2024, Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nt-influence-youtubes-hourly-video-tops/"><u>Instant Influence Youtube's Hourly Video Tops</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lenovo-thinkphonefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lenovo ThinkPhoneFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-10-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 10 5G FRP Without Computer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-free-flv-video-editing-tools/"><u>New The Ultimate Guide to Free FLV Video Editing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-time-podcasting-release-patterns/"><u>Prime Time Podcasting Release Patterns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-pc-startup-issues-with-hitman-3/"><u>Solution Steps: Overcoming PC Startup Issues with Hitman 3</u></a></li>
 </ul></div>
 
