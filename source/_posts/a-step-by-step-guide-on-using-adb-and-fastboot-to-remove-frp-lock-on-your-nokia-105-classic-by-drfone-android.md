@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia 105 Classic
-date: 2024-07-14T16:38:23.962Z
-updated: 2024-07-15T16:38:23.962Z
+date: 2024-12-19T20:07:34.237Z
+updated: 2024-12-26T21:43:55.810Z
 tags: 
   - unlock
   - bypass android frp
@@ -55,6 +55,10 @@ To remove FRP lock using ADB, you first need to install and set up ADB and then 
 ### Steps to remove FRP using ADB
 
 ![adb install](https://images.wondershare.com/drfone/article/2022/04/adb-install.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Firstly, download the ADB installed setup file and then extract the files from the toolkit on your system in a folder.
 - **Step 2.** Next, you need to run adb.setup.exe and then type Y for installing the drivers for ADB and Fastboot.
@@ -120,8 +124,6 @@ ADB is a technical process aimed toward the geeks, and thus the overall process 
 
 Considering the several limitations of the ADB and Fastboot command method, the need for a simple, user-friendly, and workable solution for removing FRP lock on Android devices arises. One of the best software here that we recommend is [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) which helps in removing and bypassing many Android phone screen locks including the one appearing due to FRP lock.
 
-
-
 ### Dr.Fone - Screen Unlock (Android)
 
 Remove Google FRP on Samsung without PIN code or Google accounts.
@@ -149,8 +151,11 @@ The process of using the software is user-friendly and thus can also be used by 
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
 
-The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+The above is the brief steps for the process. You can check the [bypass Samsung FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail.
 
 ## Conclusion
 
@@ -171,6 +176,10 @@ There are many ways in which you can bypass the FRP lock. Some of these techniqu
 With so many variations, settling down with only one option is challenging. For this reason, we have curated a complete guide on this to avoid further complications.
 
 ![bypass frp on Nokia](https://images.wondershare.com/drfone/article/2023/09/huawei-frp-bypass.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is FRP lock on Nokia?
 
@@ -206,9 +215,6 @@ If you are looking for a solution to bypass Google Account on your Nokia device 
 
 One of the easiest and most basic ways of bypassing the FRP lock is by enabling the safe mode on your mobile and proceeding with a factory reset of all the settings. This will erase the data, especially the current Google account, which is incorporated within the phone. Once everything is related, the settings will be restored to their original form or the default value. This will allow you to have unhindered access to the Nokia 105 Classic device, as the FRP lock will get disabled due to settings reset.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset settings in safe mode](https://images.wondershare.com/drfone/article/2022/09/reset-settings-in-safe-mode.jpg)
 
 #### Pros
@@ -276,6 +282,10 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 
 ![quick shortcut maker apk](https://images.wondershare.com/drfone/article/2022/09/open-the-quick-shortcut-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** A long list will be displayed from where you must select Google account manager to access the expanded menu.
 - **Step 4:** From the options, select the one showing the type of email and password.
 
@@ -289,6 +299,10 @@ Another method of bypassing your device's FRP lock is using the [QuickShortcutMa
 - **Step 7:** Select the browser sign-in option and enter your Google ID with the password. Finish the entire process and then restart your Android device.
 
 ![select the browser sign in option](https://images.wondershare.com/drfone/article/2022/09/select-the-browser-sign-in-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Once you restart the Nokia 105 Classic device and the Google account is added, the FRP lock will automatically get bypassed.
 
@@ -339,6 +353,10 @@ Talkback is another beautiful application through which you can unlock the FRP p
 
 It is a bit difficult, and you won't be able to access it in any recent Android version. Also, the mobile needs to be connected to the WiFi network for the Talkback feature to work seamlessly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2.2. How to Bypass Google Account on Nokia with PC ？
 
 ### 1. Nokia FRP Tool
@@ -368,9 +386,6 @@ One of the best tools that you can use to bypass the Factory Reset Protection lo
 
 You cannot use this tool until you put the Nokia 105 Classic device on the fast boot mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Nokia FRP Eraser
 
 This is probably the most accessible tool to remove the FRP lock from your Nokia smartphone.
@@ -420,9 +435,6 @@ This is a free application from Nokia. You can easily bypass the FRP lock and ac
 
 - **Step 6**:Then, select the Bypass FRP and ID option. Once done, you can access your phone because the FRP lock will get bypassed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/bypass-frp-and-id.jpg)
 
 #### Pros
@@ -444,6 +456,10 @@ The major limitation of this process is its dependency on a computer or laptop. 
 One of the best ways to bypass FRP lock is to disable it beforehand. To do so, go to your settings and click the accounts option. All the accounts like WhatsApp, Facebook, Instagram, and Google will open up. Click on Google and remove all the saved and active Google accounts. This will automatically disable the FRP lock.
 
 ![bypass frp and id](https://images.wondershare.com/drfone/article/2022/09/automatically-disable-the-frp-lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Unlock Nokia Screen Lock without Google Account?
 
@@ -473,9 +489,6 @@ The program can be used without worrying about any malware or virus. Steps for r
 - **Step 1.** Launch the software on your system and choose Screen Unlock from the main interface.
 - **Step 2.** Next, connect your phone to your system using a USB cable and then select Unlock Android Screen option.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3.** Select Nokia from the list of the supported devices.
@@ -485,6 +498,10 @@ The program can be used without worrying about any malware or virus. Steps for r
 - **Step 4.** Choose "100% Remove Screen lock" after taping Nokia icon. Dr.Fone will start to unlock your Nokia phone screen after getting into the specific mode. And then wait for the unlock process to complete.
 
 ![begin to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -512,9 +529,17 @@ Nokia 105 Classic devices are often bypassed for the following reasons:
 
 One of the most common reasons for needing to bypass FRP is that you simply forgot your Google account login credentials. Whether you have a new phone and are setting it up for the first time, or you've had the same phone for a while and are just now adding a Google account, there's always a chance that you might forget your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. A Second-Hand Phone
 
 Another common reason for wanting to bypass FRP is if you've purchased a second-hand phone. If the previous owner of the phone didn't correctly remove their Google account from the Nokia 105 Classic device before selling it to you, then you'll be stuck with their account on the phone and won't be able to use it yourself until you bypass FRP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Factory Reset In An Untrusted Environment
 
@@ -570,9 +595,6 @@ Using FRP Bypass APK, you can unlock Google lock on the Nokia 105 Classic Hot 8 
 
 Nokia 105 Classic Hot 8 FRP bypass using FRP Bypass APK is a simple method that a beginner can utilize.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method #3: Bypass Nokia 105 Classic FRP Without PC Via Settings Menu
 
 Do you want to bypass the Google account verification FRP on the Nokia 105 Classic Smart 5 phone? Using this method, you can bypass the FRP on Nokia 105 Classic Smart 5.
@@ -623,8 +645,6 @@ It is not illegal to bypass Google verification when you are doing a factory res
 
 You can bypass the Nokia 105 Classic Hot 8 FRP by using a few practical methods listed above. You can try another whenever one of the above procedures does not work accurately.
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -632,9 +652,26 @@ You can bypass the Nokia 105 Classic Hot 8 FRP by using a few practical methods 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era/"><u>[New] 2024 Approved Pro Video Capture Solutions on Mac Beyond the Bandicamp Era</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-quick-cinematic-creations-your-ultimate-guide-to-at-home-filmmaking-hacks/"><u>2024 Approved Quick Cinematic Creations Your Ultimate Guide to At-Home Filmmaking Hacks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g23-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G23</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-your-vpn-a-comprehensive-guide-for-various-gadgets-tech-insights-by-zdnet/"><u>Disabling Your VPN: A Comprehensive Guide for Various Gadgets | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a79-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A79 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-huawei-p60-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Huawei P60 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-storm-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Storm 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a78-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A78 FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s24-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S24?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-open-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Open Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Meizu 21 Pro FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mirrorless-4k-cameras-top-10-list-unveiled/"><u>In 2024, Mirrorless 4K Cameras Top 10 List Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-start-advanced-solutions-for-forza-horizon-4-launch-issues-stay-ahead-with-our-comprehensive-guide-updated/"><u>Mastering the Start: Advanced Solutions for Forza Horizon 4 Launch Issues - Stay Ahead with Our Comprehensive Guide (Updated )</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-lol-to-omg-the-best-meme-generator-apps/"><u>New 2024 Approved From LOL to OMG The Best Meme Generator Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-silent-logins-on-windows-11-os/"><u>Overcoming Silent Logins on Windows 11 OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo F23 5G FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-magsafe-chargers-comprehensive-analysis-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated MagSafe Chargers : Comprehensive Analysis & Reviews by Tech Experts - PCMag</u></a></li>
+</ul></div>
 

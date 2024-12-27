@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2024-12-14T23:20:01.024Z
-updated: 2024-12-21T19:09:12.885Z
+date: 2024-12-21T03:44:42.610Z
+updated: 2024-12-27T06:28:46.037Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,24 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>[New] Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-preserve-tweets-as-visual-delights-with-iosandroid-steps/"><u>[Updated] 2024 Approved Preserve Tweets as Visual Delights with iOS/Android Steps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-effective-ways-how-to-block-facebook-video-ads-for-2024/"><u>[Updated] Effective Ways | How to Block Facebook Video Ads for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-expertise-in-apps-enhancing-video-conferencing/"><u>2024 Approved Expertise in Apps Enhancing Video Conferencing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-essential-troubleshooting-tips-when-your-iphone-cant-stay-connected-to-wi-fi/"><u>5 Essential Troubleshooting Tips When Your iPhone Can't Stay Connected to Wi-Fi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a38-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A38 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-60x-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo 60x 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>Full Guide to Bypass Huawei Nova Y91 FRP</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers-for-2024/"><u>Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy F14 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-12-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme 12 Pro 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-a18-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo A18 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-13-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 13 Pro Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A34 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y100-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y100 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/srt-deep-dive-knowledge-at-your-fingertips/"><u>SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-gionee-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Gionee FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-clicker-article-titles-maker/"><u>Top Clicker Article Titles Maker</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a14-4g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A14 4G FRP Bypass</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-initiate-your-virtual-presence-with-ease-live-streaming-101-for-2024/"><u>[New] Initiate Your Virtual Presence with Ease Live Streaming 101 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-win10s-best-bet-for-screen-snaps-and-recordings-for-2024/"><u>[New] Win10's Best Bet for Screen Snaps and Recordings for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-inside-secrets-to-stunning-photography-with-canva/"><u>[Updated] 2024 Approved Inside Secrets to Stunning Photography with Canva</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-integrating-subtitles-into-your-vimeo-projects/"><u>[Updated] 2024 Approved Integrating Subtitles Into Your Vimeo Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-podcast-title-craft-the-essential-handbook/"><u>[Updated] 2024 Approved Mastering Podcast Title Craft The Essential Handbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-guide-to-the-finest-apps-for-instagram-reel-creation/"><u>[Updated] A Guide to the Finest Apps for Instagram Reel Creation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c65-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C65</u></a></li>
+<li><a href="https://win-special.techidaily.com/could-samsung-and-microsoft-revolutionize-the-cloud-gaming-industry-discover-more-on-zdnet/"><u>Could Samsung and Microsoft Revolutionize the Cloud Gaming Industry? Discover More on ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-v30t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme V30T Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-nova-y91-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei Nova Y91 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11f-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11F 5G Phone FRP Lock</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-city-skylines-2-pc-optimization-strategies-to-stop-frequent-game-crashes/"><u>Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Razr 40 Ultra FRP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2024-12-16T19:01:35.160Z
-updated: 2024-12-22T00:24:40.933Z
+date: 2024-12-24T12:56:50.972Z
+updated: 2024-12-27T07:53:47.410Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,15 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-strategic-steps-making-your-private-yt-videos-public-via-google/"><u>[New] In 2024, Strategic Steps Making Your Private YT Videos Public via Google</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ps4-broadcasting-made-easy-your-obs-guide/"><u>[New] PS4 Broadcasting Made Easy Your OBS Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfecting-iphone-photography-mastery-of-macro-and-close-up-details/"><u>2024 Approved Perfecting iPhone Photography Mastery of Macro and Close-Up Details</u></a></li>
-<li><a href="https://win-blog.techidaily.com/webm3gp-movavi/"><u>無綫上免費WEBM到3GP轉化 - 使用 Movavi 過程解析</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A18</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-11-propluswithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 11 Pro+with/without a PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ranking-the-best-mac-recording-alternatives-to-bandicam/"><u>In 2024, Ranking the Best Mac Recording Alternatives to Bandicam</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-sony-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Sony FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-10t-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 10T 5GFRP Lock</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-correction-of-ndis-anomalies-on-windows/"><u>Swift Correction of NDIS Anomalies on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>[New] 2024 Approved Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-2023-assessment-of-apeaksofts-pioneering-screens-recording/"><u>[New] 2024 Approved The 2023 Assessment of Apeaksoft's Pioneering Screens Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-frameworks-for-dynamic-fb-video-marketing/"><u>[Updated] Frameworks for Dynamic FB Video Marketing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-10t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme 10T 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-htc-u23-pro-frp-bypass-by-drfone-android/"><u>About HTC U23 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-curve-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-apple-iphone-15-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Apple iPhone 15</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertissez-vos-fichiers-ogg-en-format-webm-sans-frais-online-par-movavi/"><u>Convertissez Vos Fichiers Ogg en Format Webm Sans Frais - Online Par Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/dvddigiarty30/"><u>DVDコピー情報ポータル「Digiartyソフトウェア」30ページ目の深堀りブログ掲載</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-wf-2630-printer-drivers-compatible-with-latest-windows-versions-7-81-and-10-downloads/"><u>Epson WF-2630 Printer Drivers: Compatible with Latest Windows Versions - 7, 8.1 & 10 Downloads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-magicard-rio-pro-driver-software-for-windows-users-on-any-os-11817/"><u>Get the Newest Magicard Rio Pro Driver Software for Windows Users on Any OS (11/8.1/7)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-xr21-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia XR21 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/sony-xperia-10-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Sony Xperia 10 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

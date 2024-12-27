@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2024-12-15T17:34:42.849Z
-updated: 2024-12-21T17:36:47.248Z
+date: 2024-12-21T01:46:47.705Z
+updated: 2024-12-27T11:42:32.279Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,22 +66,17 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-digital-pioneers-handbook-making-a-mark-in-gif-artistry-for-2024/"><u>[New] Digital Pioneers' Handbook Making a Mark in GIF Artistry for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-video-recording-decisions-optimal-fps-is-it-30-or-60/"><u>[Updated] In 2024, Video Recording Decisions Optimal FPS – Is It 30 or 60?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-macro-videography-techniques/"><u>[Updated] Ultimate Guide to Macro Videography Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-what-to-expect-from-an-investment-in-youtube-premium-for-2024/"><u>[Updated] What to Expect From an Investment in YouTube Premium for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-vocalizing-video-content-tunes-for-instagram-stories/"><u>2024 Approved Vocalizing Video Content Tunes for Instagram Stories</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mx492mx-series-drivers-on-your-pc-step-by-step-instructions/"><u>Download & Install Canon MX492/Mx Series Drivers on Your PC: Step-by-Step Instructions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effective-techniques-for-shrinking-files-a-guide-by-yl-computing/"><u>Effective Techniques for Shrinking Files: A Guide by YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Sony Xperia 5 V FRP</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>In 2024, From Zero to YouTube Pros Creating an Account Rightly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-c210-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia C210?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g73-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G73 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lenovo-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lenovo FRP Without Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo F23 5G FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-error-code-0x80071a90-a-quick-guide/"><u>Resolving Windows Error Code: 0X80071a90 - A Quick Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-edge-40-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Edge 40 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-v30t-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme V30T FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>2024 Approved Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>2024 Approved The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-youtube-channel-with-chatgpt-powered-scriptwriting-techniques/"><u>Boost Your YouTube Channel with ChatGPT-Powered Scriptwriting Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-with-your-secrets-investigating-privacy-safeguards/"><u>Can You Trust ChatGPT with Your Secrets? Investigating Privacy Safeguards</u></a></li>
+<li><a href="https://win-answers.techidaily.com/download-and-install-logitech-g403-gamepad-drivers-on-windows-free/"><u>Download & Install Logitech G403 Gamepad Drivers on Windows - Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exhaustive-overview-insights-into-googles-podcast-application-for-2024/"><u>Exhaustive Overview Insights Into Google's Podcast Application for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-gt-5-240w-frp-bypass-by-drfone-android/"><u>In 2024, About Realme GT 5 (240W) FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c12-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C12</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-s21-fe-5g-2023-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy S21 FE 5G (2023) FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-self-supported-youtube-earnings-strategies/"><u>In 2024, The Ultimate Guide to Self-Supported YouTube Earnings Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-picks-10-premium-action-cameras-with-image-stabilization/"><u>Pro's Picks 10 Premium Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-storm-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Storm 5G FRP Bypass</u></a></li>
 </ul></div>
 

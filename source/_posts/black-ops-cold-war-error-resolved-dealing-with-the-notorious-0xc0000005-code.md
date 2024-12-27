@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code
-date: 2024-12-15T00:14:33.265Z
-updated: 2024-12-21T18:04:16.532Z
+date: 2024-12-26T11:27:58.013Z
+updated: 2024-12-27T12:04:53.934Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game
 
  The shaders compilation issue might be triggered by broken or missing game files. So before trying anything more complicated, first you need to**verify the integrity of your game files** .
@@ -41,13 +45,13 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the shaders installation
 
@@ -63,7 +67,7 @@ Here’s how to restart the shaders installation:
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -78,15 +82,11 @@ Here’s how to restart the shaders installation:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,10 +104,6 @@ Here’s how to restart the shaders installation:
 4. Right-click the **Battle.net** folder and select **Delete** .
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -118,6 +114,10 @@ Here’s how to restart the shaders installation:
 
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,17 +138,16 @@ Here’s how to restart the shaders installation:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>[Updated] How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-time-saving-strategies-mastering-video-playback-speed-for-2024/"><u>[Updated] Time-Saving Strategies Mastering Video Playback Speed for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-5-240w-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT 5 (240W) FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-edge-2023-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola Edge 2023 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-60-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme Narzo 60 5G FRP Locks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-v30-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo V30 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-6-lite-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 6 Lite Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-automatic-windows-11-update-installations-in-just-a-few-steps/"><u>How to Turn Off Automatic Windows 11 Update Installations in Just a Few Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-gionee-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Gionee FRP Locks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>In 2024, The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-software-to-eliminate-for-extra-hard-drive-space-and-memory-savings-insights-from-yl-software-experts/"><u>Top Software To Eliminate For Extra Hard Drive Space & Memory Savings: Insights From YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ur-quick-and-complete-obs-youtube-streaming-path-for-newbies-for-2024/"><u>[New] Our Quick & Complete OBS Youtube Streaming Path for Newbies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-complete-guide-twitter-reaction-videos/"><u>[Updated] 2023 Complete Guide | Twitter Reaction Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209841621-9780987333797-every-day-is-your-best-day/"><u>EVERY DAY IS YOUR BEST DAY | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-narzo-60x-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme Narzo 60x 5G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-g24-power-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola G24 Power FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-explore-the-power-of-repeated-imagery-in-your-instagram-content/"><u>In 2024, Explore the Power of Repeated Imagery in Your Instagram Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-11-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus 11 5G FRP Without Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ideal-way-to-experience-the-lord-of-the-rings-films-chronologically/"><u>The Ideal Way to Experience The Lord of the Rings Films Chronologically</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-90-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor 90 | Dr.fone</u></a></li>
 </ul></div>
 
