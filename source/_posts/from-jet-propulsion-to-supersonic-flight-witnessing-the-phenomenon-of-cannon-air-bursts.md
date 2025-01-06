@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2024-12-21T03:44:42.610Z
-updated: 2024-12-27T06:28:46.037Z
+date: 2025-01-02T17:34:33.011Z
+updated: 2025-01-05T23:12:45.346Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,22 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-initiate-your-virtual-presence-with-ease-live-streaming-101-for-2024/"><u>[New] Initiate Your Virtual Presence with Ease Live Streaming 101 for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-win10s-best-bet-for-screen-snaps-and-recordings-for-2024/"><u>[New] Win10's Best Bet for Screen Snaps and Recordings for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-inside-secrets-to-stunning-photography-with-canva/"><u>[Updated] 2024 Approved Inside Secrets to Stunning Photography with Canva</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-integrating-subtitles-into-your-vimeo-projects/"><u>[Updated] 2024 Approved Integrating Subtitles Into Your Vimeo Projects</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-podcast-title-craft-the-essential-handbook/"><u>[Updated] 2024 Approved Mastering Podcast Title Craft The Essential Handbook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-guide-to-the-finest-apps-for-instagram-reel-creation/"><u>[Updated] A Guide to the Finest Apps for Instagram Reel Creation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-poco-c65-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Poco C65</u></a></li>
-<li><a href="https://win-special.techidaily.com/could-samsung-and-microsoft-revolutionize-the-cloud-gaming-industry-discover-more-on-zdnet/"><u>Could Samsung and Microsoft Revolutionize the Cloud Gaming Industry? Discover More on ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-v30t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme V30T Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-nova-y91-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei Nova Y91 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11f-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11F 5G Phone FRP Lock</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-city-skylines-2-pc-optimization-strategies-to-stop-frequent-game-crashes/"><u>Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Razr 40 Ultra FRP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discover-snapchats-artistic-side-with-anime-inspired-effects/"><u>[New] 2024 Approved Discover Snapchat’s Artistic Side with Anime-Inspired Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-speed-up-instagrams-media-a-comparative-guide/"><u>[New] Speed Up Instagram's Media A Comparative Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>[Updated] 2024 Approved How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-template-infused-yt-descriptions/"><u>[Updated] The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728497402945-windows10/"><u>既存Windows10スナップショットを複数台に同時展開する方法</u></a></li>
+<li><a href="https://discover-data.techidaily.com/bbc-iplayer-video-capture-tutorial-for-windows-and-macos-users/"><u>BBC iPlayer Video Capture Tutorial for Windows & macOS Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-meizu-21-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Meizu 21 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-c12-plus-frp-by-drfone-android/"><u>How Can We Bypass Nokia C12 Plus FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Ace 2 Pro Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find X6 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s23-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S23 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco M6 Pro 4G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-c51-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco C51?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-poco-x5-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco X5 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/windows-10-privacy-boost-a-step-by-step-guide-to-disguising-hard-drives/"><u>Windows 10 Privacy Boost: A Step-by-Step Guide to Disguising Hard Drives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024</u></a></li>
 </ul></div>
 
