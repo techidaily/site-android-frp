@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2025-01-02T17:34:33.011Z
-updated: 2025-01-05T23:12:45.346Z
+date: 2025-01-09T16:08:18.975Z
+updated: 2025-01-12T16:29:07.047Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,22 +56,21 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-discover-snapchats-artistic-side-with-anime-inspired-effects/"><u>[New] 2024 Approved Discover Snapchat’s Artistic Side with Anime-Inspired Effects</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-speed-up-instagrams-media-a-comparative-guide/"><u>[New] Speed Up Instagram's Media A Comparative Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>[Updated] 2024 Approved How to Make Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-template-infused-yt-descriptions/"><u>[Updated] The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728497402945-windows10/"><u>既存Windows10スナップショットを複数台に同時展開する方法</u></a></li>
-<li><a href="https://discover-data.techidaily.com/bbc-iplayer-video-capture-tutorial-for-windows-and-macos-users/"><u>BBC iPlayer Video Capture Tutorial for Windows & macOS Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-meizu-21-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Meizu 21 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-c12-plus-frp-by-drfone-android/"><u>How Can We Bypass Nokia C12 Plus FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Ace 2 Pro Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-x6-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find X6 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s23-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S23 Ultra FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco M6 Pro 4G FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-c51-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco C51?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-poco-x5-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco X5 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/windows-10-privacy-boost-a-step-by-step-guide-to-disguising-hard-drives/"><u>Windows 10 Privacy Boost: A Step-by-Step Guide to Disguising Hard Drives</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos-for-2024/"><u>Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elite-selection-top-downloader-apps-for-vimeo-videos/"><u>[New] In 2024, Elite Selection Top Downloader Apps for Vimeo Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[Updated] 2024 Approved Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-fixes-for-when-you-cant-make-phone-calls-on-your-iphone/"><u>10 Fixes for When You Can’t Make Phone Calls on Your iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>2024 Approved Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-impact-on-efficiently-managing-homes/"><u>AI's Impact on Efficiently Managing Homes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-tiktok-edits-secrets-shared/"><u>Cutting-Edge TikTok Edits Secrets Shared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-future-of-interactive-headsets/"><u>Exploring the Future of Interactive Headsets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-u23-frp-by-drfone-android/"><u>How Can We Bypass HTC U23 FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>How Can We Bypass Realme GT Neo 5 SE FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a38-by-drfone-android/"><u>How to Bypass FRP from Oppo A38?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-computers-visual-experience-download-and-install-nvidia-940mx-graphics-card-drivers-rtx/"><u>Improve Your Computer's Visual Experience: Download & Install Nvidia 940MX Graphics Card Drivers (RTX)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-k11x-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo K11x</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze 2 FRP Without Computer</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung unlock screen</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-g22-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia G22 FRP Bypass</u></a></li>
 </ul></div>
 
