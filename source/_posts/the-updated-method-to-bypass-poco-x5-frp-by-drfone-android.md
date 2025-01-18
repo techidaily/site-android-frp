@@ -1,7 +1,7 @@
 ---
 title: The Updated Method to Bypass Poco X5 FRP
-date: 2025-01-11T16:33:43.805Z
-updated: 2025-01-12T16:04:09.703Z
+date: 2025-01-16T17:17:18.266Z
+updated: 2025-01-17T16:42:05.988Z
 tags: 
   - unlock
   - bypass android frp
@@ -23,6 +23,10 @@ FRP, however, can also be a problem if a user forgets their Google account login
 
 We have included more than two ways to unlock your mobile without any hassle and complication. Just follow this guide, and you will regain access to your device in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Precautions To Take Before and After FRP Bypass?
 
 Precautions are necessary for a safe and effective process when overcoming FRP (Factory Reset Protection) on your Poco X5 device. In order to safeguard your data, guarantee device performance, and maintain device security, we'll highlight the essential steps you should take before the **Poco FRP** bypass.
@@ -32,10 +36,6 @@ Precautions are necessary for a safe and effective process when overcoming FRP (
 - **Backup Your Data:** In order to prevent data loss during FRP bypass, be sure to back up all vital information from your smartphone, including contacts, pictures, videos, and documents, to a secure location.
 - **Charge the battery:** To prevent any delays during the FRP bypass procedure, ensure your device has enough battery life or is connected to a charger.
 - **Conduct Thorough Research:**To prevent any potential threats or damage to your device, conduct thorough research and follow instructions from reliable sources or respected guidelines.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to remove Poco X5 FRP with the most reliable software - Dr.Fone?
 
@@ -61,6 +61,10 @@ Step 2: Select Remove Google FRP Lock.
 
 ![choose remove Google frp lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Choose Poco among the Poco X5 device brands.
 
 ![download driver](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
@@ -85,6 +89,10 @@ With each phone, operating system, and version of Android having its own techniq
 
 ![add network options](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click the three dots in the top right corner and select "Help and Feedback."
 
 ![general settings](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-3.jpg)
@@ -100,6 +108,10 @@ With each phone, operating system, and version of Android having its own techniq
 - Repeat the back button to go back to the App info screen. Click More, then select Show System.
 
 ![show system](https://images.wondershare.com/drfone/article/2023/05/how-to-bypass-xiaomi-redmi-frp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Tap Disable and Disable app after choosing Android setup, then tap Force stop and OK.
 
@@ -139,10 +151,6 @@ Depending on the OS version, the Google FRP lock can be removed using a variety 
 
 ![code for cmd](https://images.wondershare.com/drfone/article/2022/04/adb-frp-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Your Android device's FRP lock will be removed following the execution of the commands.
 
 ## Part 5: How To Disable FRP Poco X5?
@@ -170,10 +178,6 @@ In conclusion, unlocking Poco X5 FRP can be difficult, but it can be done quickl
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Bypass Google FRP Lock on Poco X5 Devices
 
@@ -243,13 +247,13 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 
 ![launching the 'settings' application on oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-05.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - In the app's opening interface, click on the 'Accounts' tab to open the section.
 
 ![opening the 'accounts' tab in oneplus phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - A list of all the accounts linked to your Poco X5 device will be displayed. Tap on the desired Gmail account to unlink it from your phone.
 
@@ -258,6 +262,10 @@ Removing the Google FRP lock using a computer is impossible in some instances. D
 - The device data linked with the selected account will appear on the screen. Click on 'Remove Account' to proceed further.
 
 ![removing the selected google account from the phone](https://images.wondershare.com/drfone/article/2022/08/how-to-bypass-google-frp-lock-on-any-oneplus-phones-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - A confirmation prompt will pop up to ensure a willful deletion of the account from the Poco X5 device. Tap on 'Remove Account' to confirm the action. This will cause all data linked with the account to get deleted from the phone.
 
@@ -294,6 +302,10 @@ Unlock Your Poco X5 Phone in a Flash
 
 **3,981,454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FRP Hijacker by Hagard: Download and Bypass your Poco X5 FRP Locks
 
 If you find yourself locked out of your Android device after a [<u>factory reset</u>](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/), chances are your device is locked and protected by factory reset protection (FRP). FRP is a security feature devised by Google to deter unauthorized usage of a device after it undergoes a reset to its factory settings.
@@ -309,10 +321,6 @@ FRP Hijacker by Hagard is a specialized tool designed to help users in bypassing
 Bypassing FRP with **FRP Hijacker by Hagard** is seamless and user-friendly—no tech skills needed. Just connect your phone to a computer, follow the on-screen steps, and within minutes, you'll have access to your phone again. **FRP Hijacker by Hagard** is a quick and simple solution for anyone who [<u>forgot their Google account password</u>](https://drfone.wondershare.com/unlock/remove-google-account-from-samsung-without-password.html).
 
 ![FRP Hijacker by Hagard](https://images.wondershare.com/drfone/article/2024/01/frp-hijacker-by-hagard-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### List of features
 
@@ -345,7 +353,7 @@ Once both **FRP Hijacker** and Microsoft .NET Framework are ready, proceed with 
 ![Download FRP Hijacker by Hagard](https://images.wondershare.com/drfone/article/2024/01/frp-hijacker-by-hagard-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How To Use FRP Hijacker by Hagard
@@ -385,10 +393,6 @@ On the next screen, choose Android as your device type and select [<u>Remove Goo
 
 ![Select Remove Google FRP Lock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select the Android device model.
 
 Pick your Android device model and click Start to proceed.
@@ -401,25 +405,21 @@ Now, specify your Android version. If you're unsure about the Android OS version
 
 ![Choose the Android version](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Open emergency call.
 
 Follow on-screen instructions to open Emergency Call on your Android. Tap #0# to open a secret menu and click Next on your computer.
 
 ![Follow instructions to open emergency call](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Enable USB debugging.
 
 Enable USB Debugging on your Android when prompted. Click Authorized on your computer. The screen will confirm FRP lock removal.
 
 ![Enable USB debugging on Android](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once you have successfully removed the FRP lock, click Done.
 
@@ -438,7 +438,7 @@ Let's delve deeper into each tool's strengths and weaknesses.
 | Support and Updates | Limited support; updates may vary | Strong customer support; regular updates |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -458,16 +458,24 @@ _**Tips:** Are you searching for a powerful FRP Unlock tool? No worries as [Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-conversational-courtesies-react-and-engage-on-discord-platforms/"><u>[New] 2024 Approved Conversational Courtesies React and Engage on Discord Platforms</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-blueprint-to-dominate-social-platforms/"><u>[New] In 2024, The Blueprint to Dominate Social Platforms</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-proven-strategies-for-optimizing-video-content-on-youtube/"><u>[Updated] Proven Strategies for Optimizing Video Content on YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a1x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A1x 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-x7-ultrawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find X7 Ultrawith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-z-flip-5-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy Z Flip 5 FRP Without Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ps4-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of PS4 Screen Captures - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-solutions-overcoming-common-difficulties-with-lenovos-usb-driver/"><u>Quick Solutions: Overcoming Common Difficulties with Lenovo's USB Driver</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-retail-how-edge-to-cloud-digital-transformation-fuels-growth-for-major-big-box-stores-zdnet-insight/"><u>Revolutionizing Retail: How Edge-to-Cloud Digital Transformation Fuels Growth for Major Big Box Stores | ZDNet Insight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-n3-flip-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find N3 Flip FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-a18-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo A18.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/onfirming-youtube-pro-rated-earnings/"><u>[New] Confirming YouTube Pro-Rated Earnings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-virtual-vanguards-the-leading-ladies-of-gaming/"><u>[Updated] Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-10-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-x5-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-rog-phone-7-ultimate-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus ROG Phone 7 Ultimate FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-reno-8t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Reno 8T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-prompt-injection-paves-way-for-ai-abuse/"><u>How Prompt Injection Paves Way for AI Abuse</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-a18-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo A18 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-g42-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia G42 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo Reno 8T 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 5G Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-g24-power-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola G24 Power Phone FRP Lock</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-x100-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo X100 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-find-n3-flip-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Find N3 Flip FRP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-visuals-leading-ps5-compatible-hdmi-21-monitors-for-2024/"><u>Unmatched Visuals Leading PS5 Compatible HDMI 2.1 Monitors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-countdown-made-easy-a-3-step-guide-for-fcpx-users-for-2024/"><u>Updated Countdown Made Easy A 3-Step Guide for FCPX Users for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x50-gt-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X50 GT Device</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/effektivnye-metody-klonirovaniya-ssd-nakopitelya-na-tradicionnyj-hdd-v-sovremennyh-versiyah-windows-10-11-secure-boot-vklyuchen/"><u>Эффективные Методы Клонирования SSD-Накопителя На Традиционный HDD В Современных Версиях Windows: 10, 11 (Secure Boot Включен)</u></a></li>
 </ul></div>
 

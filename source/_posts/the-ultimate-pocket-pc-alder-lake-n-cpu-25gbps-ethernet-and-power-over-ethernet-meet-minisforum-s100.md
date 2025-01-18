@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2025-01-06T16:22:48.356Z
-updated: 2025-01-12T17:13:45.079Z
+date: 2025-01-13T17:02:24.141Z
+updated: 2025-01-18T05:30:50.440Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +66,21 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[Updated] Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recording-roulette-top-strategies-for-tv-show-capture/"><u>2024 Approved Recording Roulette Top Strategies for TV Show Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-top-pick-the-best-free-tools-to-fight-off-computer-viruses-and-trojans/"><u>2024'S Top Pick: The Best Free Tools to Fight Off Computer Viruses and Trojans</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-brother-printer-print-malfunction-with-simple-steps/"><u>Fix Brother Printer Print Malfunction with Simple Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a78-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A78 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-n3-flipwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find N3 Flipwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-m14-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy M14 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 10 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-asus-rog-phone-7-ultimate-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Asus ROG Phone 7 Ultimate FRP</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m34-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M34 5G Phone FRP Lock</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-significance-of-reducing-camera-shake-with-software-tools/"><u>The Significance of Reducing Camera Shake with Software Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ultimate-strategies-for-instagram-stories-mastery-for-2024/"><u>Ultimate Strategies for Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-facebook-vids-made-simple-as-mp4-downloads-for-2024/"><u>[New] Facebook Vids Made Simple as MP4 Downloads for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-clear-youtube-watch-later-playlist/"><u>[Updated] 2024 Approved How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-a-three-dimensional-soundscape-in-windows-11/"><u>Achieving a Three-Dimensional Soundscape in Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discovering-mobile-virtual-realitys-elite-selection/"><u>Discovering Mobile Virtual Reality's Elite Selection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-sony-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Sony Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-nokia-g22-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Nokia G22 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c51-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C51 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-ace-2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Ace 2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-speed-upters-accelerate-your-android-media/"><u>In 2024, Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-sony-xperia-10-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Sony Xperia 10 V without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/1723262392171-top-gamers-choice-for-bargain-hunters-grab-a-powerhouse-pc-at-just-999rtx-4060-and-ultra-fast-ram/"><u>Top Gamers' Choice for Bargain Hunters: Grab a Powerhouse PC at Just $999—RTX 4060 & Ultra-Fast RAM!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ceiling-sound-systems-a-comprehensive-guide/"><u>Top-Rated Ceiling Sound Systems : A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lenovo-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lenovo FRP Bypass</u></a></li>
+<li><a href="https://win-bits.techidaily.com/windows-11-how-to-clone-your-ssd-to-a-new-ssd/"><u>Windows 11 - How to Clone Your SSD to a New SSD</u></a></li>
 </ul></div>
 

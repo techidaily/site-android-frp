@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2025-01-09T16:08:18.975Z
-updated: 2025-01-12T16:29:07.047Z
+date: 2025-01-16T19:56:17.002Z
+updated: 2025-01-18T01:40:43.279Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,21 +56,15 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elite-selection-top-downloader-apps-for-vimeo-videos/"><u>[New] In 2024, Elite Selection Top Downloader Apps for Vimeo Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlocking-youtube-secrets-to-effective-screen-recording/"><u>[Updated] 2024 Approved Unlocking YouTube Secrets to Effective Screen Recording</u></a></li>
-<li><a href="https://fox-that.techidaily.com/10-fixes-for-when-you-cant-make-phone-calls-on-your-iphone/"><u>10 Fixes for When You Can’t Make Phone Calls on Your iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>2024 Approved Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-impact-on-efficiently-managing-homes/"><u>AI's Impact on Efficiently Managing Homes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/cutting-edge-tiktok-edits-secrets-shared/"><u>Cutting-Edge TikTok Edits Secrets Shared</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-the-future-of-interactive-headsets/"><u>Exploring the Future of Interactive Headsets</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-u23-frp-by-drfone-android/"><u>How Can We Bypass HTC U23 FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>How Can We Bypass Realme GT Neo 5 SE FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a38-by-drfone-android/"><u>How to Bypass FRP from Oppo A38?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-computers-visual-experience-download-and-install-nvidia-940mx-graphics-card-drivers-rtx/"><u>Improve Your Computer's Visual Experience: Download & Install Nvidia 940MX Graphics Card Drivers (RTX)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lenovo ThinkPhone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-k11x-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo K11x</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze 2 FRP Without Computer</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung unlock screen</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-g22-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia G22 FRP Bypass</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-pc-to-tablet-master-recording-hulu-across-all-platforms-for-2024/"><u>[New] From PC to Tablet Master Recording Hulu Across All Platforms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>[New] In 2024, Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-ace-2-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-free-drivers/"><u>Get Your Corsair Keyboard Up and Running on Windows with Free Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-honor-play-8t-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Honor Play 8T FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-syncing-problems-solved-steps-for-fixing-music-playlist-and-image-transfer-between-itunesmac-and-device/"><u>IPhone Syncing Problems Solved: Steps for Fixing Music, Playlist and Image Transfer Between iTunes/Mac and Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x7-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X7 Ultra FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Ace 2V FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets-t172386287988821/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2025-01-09T16:35:59.553Z
-updated: 2025-01-12T17:24:23.330Z
+date: 2025-01-15T03:31:00.632Z
+updated: 2025-01-17T22:26:20.828Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-the-secrets-of-profitability-in-youtube-shorts/"><u>[New] In 2024, Unlocking the Secrets of Profitability in YouTube Shorts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-lens-legends-choosing-the-best-10-camera-optics/"><u>[New] Lens Legends Choosing the Best 10 Camera Optics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-podcasts-the-comprehensive-iphone-download-method-for-2024/"><u>[New] Mastering Podcasts The Comprehensive iPhone Download Method for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lost-video-steps-to-fix-sony-a6400-problem/"><u>[Updated] In 2024, Lost Video Steps to Fix Sony A6400 Problem</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-enterprise-account-the-complete-guidebook/"><u>2024 Approved Instagram Enterprise Account The Complete Guidebook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-c51-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme C51 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-up-and-running-on-windows-with-our-easy-to-install-drivers/"><u>Get Your Samsung Printer Up and Running on Windows with Our Easy-to-Install Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-f34-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy F34 5G Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-clear-windows-cached-data/"><u>How to Swiftly Clear Windows' Cached Data</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-12r-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus 12R FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-lava-blaze-curve-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Lava Blaze Curve 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s21-fe-5g-2023withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S21 FE 5G (2023)with/without a PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/not-just-a-phase-disproving-global-cooling-claims/"><u>Not Just a Phase: Disproving Global Cooling Claims</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-novice-to-pro-mastering-the-art-of-youtube-shorts-for-2024/"><u>[Updated] From Novice to Pro Mastering the Art of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-techniques-for-funimate-video-extraction/"><u>2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-honor-magic-6-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Magic 6 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C12</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-perfect-your-images-with-polarr-a-complete-photography-resource/"><u>In 2024, Perfect Your Images with Polarr A Complete Photography Resource</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f23-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F23 5GFRP Lock</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-changing-string-data-to-date-formats-in-excel-efficiently/"><u>Mastering the Art of Changing String Data to Date Formats in Excel Efficiently</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus 11 5G FRP Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fixing-arma-3-crashes-effective-strategies-players/"><u>Ultimate Guide to Fixing Arma 3 Crashes - Effective Strategies Players</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964571394-update-your-pc-with-free-intel-82579v-drivers-quick-setup-steps-inside/"><u>Update Your PC with Free Intel 82579V Drivers - Quick Setup Steps Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wie-spielt-man-region-kompatible-dvds-auf-der-wiiwii-u-zwei-effektive-ansatze-aktualisiert-fur-2023/"><u>Wie Spielt Man Region-Kompatible DVDs Auf Der Wii/Wii U? - Zwei Effektive Ansätze Aktualisiert Für 2023</u></a></li>
 </ul></div>
 
