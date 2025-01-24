@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for the Football Manager 2023 Startup Issue"
-date: 2025-01-14T03:48:44.156Z
-updated: 2025-01-17T16:08:55.681Z
+date: 2025-01-18T16:13:21.039Z
+updated: 2025-01-24T16:20:40.648Z
 tags:
   - win11
   - win10
@@ -38,15 +38,23 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
@@ -80,15 +88,11 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -99,10 +103,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
@@ -122,7 +122,7 @@ If this fix bring no luck, move to the next fix.
 4. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -146,21 +146,18 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-guide-video-recording-with-vlc-for-2024/"><u>[New] Essential Guide Video Recording with VLC for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enable-adaptive-hdr-tutorial-for-windows-11/"><u>[New] In 2024, Enable Adaptive HDR Tutorial for Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-boost-canons-charm-10-free-luts-tailored-upgrades-await/"><u>[Updated] Boost Canon's Charm 10 Free LUTs, Tailored Upgrades Await</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discovering-tiktoks-most-shared-meals/"><u>2024 Approved Discovering TikTok's Most Shared Meals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ver-top-10-flv-to-youtube-conversion-tools-for-2024/"><u>Discover Top 10 Flv-to-YouTube Conversion Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-graphic-issues-in-modern-windows-environments-win1110/"><u>Effective Solutions for Fixing Graphic Issues in Modern Windows Environments (Win11/10)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-find-x7-ultra-by-drfone-android/"><u>How to Bypass FRP from Oppo Find X7 Ultra?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g14withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G14with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-honor-x50-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X50 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c22-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C22 FRP?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-realme-narzo-60-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme Narzo 60 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor X50i+ FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-razr-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Razr 40 FRP Bypass</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/march-launch-on-the-horizon-for-apples-latest-tech-next-gen-macbook-air-ipad-pro-and-ipad-air-speculated-detailed-report-by-zdnet/"><u>March Launch on the Horizon for Apple's Latest Tech: Next-Gen MacBook Air, iPad Pro & iPad Air Speculated | Detailed Report by ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-delays-and-slowdowns-effective-fixes-for-latency-issues-in-dying-light/"><u>Overcome Delays and Slowdowns: Effective Fixes for Latency Issues in 'Dying Light'</u></a></li>
-<li><a href="https://win-great.techidaily.com/serene-sky-inspired-floral-graphics-explore-a-world-of-light-blue-blooms-with-yl-computings-innovative-designs/"><u>Serene Sky-Inspired Floral Graphics: Explore a World of Light Blue Blooms with YL Computing's Innovative Designs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-identity-change-on-google-meet-via-pc-and-phone-for-2024/"><u>[New] Mastering Identity Change on Google Meet via PC & Phone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb/"><u>[Updated] In 2024, The Social Media Strategist's Guide to Adjustable Video Sizes on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-music-movement-between-services/"><u>2024 Approved Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Yuva 2 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-edge-40-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Edge 40 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/amplify-iphone-imagery-with-lighting-hacks/"><u>Amplify iPhone Imagery with Lighting Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detecting-faulty-ram-in-computers-effective-methods-and-troubleshooting-steps/"><u>Detecting Faulty RAM in Computers: Effective Methods and Troubleshooting Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-poco-c50-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco C50 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-potential-of-claude-artificial-intelligence-systems/"><u>Harnessing the Potential of Claude Artificial Intelligence Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-8-key-money-making-moves-for-youtube-rookies/"><u>In 2024, 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-a14-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy A14 4G Devices</u></a></li>
+<li><a href="https://win-help.techidaily.com/top-ranking-mp3-converter-software-compared-allavsoft-vs-others/"><u>Top-Ranking MP3 Converter Software Compared: Allavsoft vs Others</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme GT Neo 5 FRP Bypass</u></a></li>
 </ul></div>
 
