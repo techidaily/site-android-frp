@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2025-01-18T16:08:56.569Z
-updated: 2025-01-24T16:23:33.041Z
+date: 2025-01-29T17:01:44.767Z
+updated: 2025-01-31T16:53:02.894Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,17 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-visibility-and-following-on-instagram/"><u>[New] 2024 Approved Enhancing Visibility & Following on Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-combine-power-tweeting-and-snapping-with-snapchat-for-2024/"><u>[Updated] Combine Power Tweeting and Snapping with Snapchat for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>2024 Approved Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-the-nokia-e34-ideal-first-smartphone-experience/"><u>Essential Guide to the Nokia E3.4 - Ideal First Smartphone Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-g54-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola G54 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-itel-p55-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Itel P55 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo A79 5G?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-proplusfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 Pro+FRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-nokia-105-classic-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Nokia 105 Classic FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 8T FRP Bypass</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-online-vertical-video-editing-made-easy-top-picks/"><u>New Online Vertical Video Editing Made Easy Top Picks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-get-the-latest-dell-e6430-drivers-compatible-with-windows-systems-fixed/"><u>Step-by-Step Tutorial to Get the Latest Dell E6430 Drivers Compatible with Windows Systems [FIXED]</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/thoyl-alkhadm-alasasy-3-khtoat-trhyl-il-khadm-gdyd/"><u>تحويل الخادم الأساسي: 3 خطوات ترحيل إلى خادم جديد</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-guide-altering-screen-colors-on-google-meet/"><u>[New] Quick Guide Altering Screen Colors on Google Meet</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-n53-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo N53? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-on-your-ubuntu-system-through-shell-interface/"><u>How to Leverage ChatGPT on Your Ubuntu System Through Shell Interface</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-current-drone-functions-a-glimpse-into-future-possibilities/"><u>In 2024, Current Drone Functions A Glimpse Into Future Possibilities</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-htc-u23-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your HTC U23 Pro FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-c67-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme C67 4GFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-s23-tactical-edition-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy S23 Tactical Edition ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/1723042224141-in-depth-review-of-suminds-best-selling-bluetooth-bt70b-transmitter-a-must-have-for-every-driver/"><u>In-Depth Review of Sumind's Best Selling Bluetooth BT70B Transmitter: A Must-Have for Every Driver</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/overview-of-dji-flyer-x20-virtual-reality-lenses/"><u>Overview of DJi Flyer X20 Virtual Reality Lenses</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-g54-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola G54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now!</u></a></li>
 </ul></div>
 

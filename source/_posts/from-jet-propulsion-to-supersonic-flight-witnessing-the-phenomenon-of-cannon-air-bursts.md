@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2025-01-20T16:06:14.135Z
-updated: 2025-01-24T16:22:34.176Z
+date: 2025-01-27T21:16:29.695Z
+updated: 2025-01-31T23:33:22.681Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,20 +56,16 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foundations-of-easing-volume-control-in-audition/"><u>[New] 2024 Approved Foundations of Easing Volume Control in Audition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-soundtrack-of-success-on-instagram/"><u>[New] The Soundtrack of Success on Instagram</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-picart-background-cleanse-method/"><u>[Updated] 2024 Approved Step-by-Step PicArt Background Cleanse Method</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>[Updated] In 2024, Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tips-for-professionally-changing-image-hues/"><u>2024 Approved Advanced Tips for Professionally Changing Image Hues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m34-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M34 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-agni-2-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Agni 2 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-a14-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy A14 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimizing-group-chats-with-google-meets-filtering-options-for-2024/"><u>Optimizing Group Chats with Google Meet's Filtering Options for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-moto-g-stylus-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Moto G Stylus 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-hooking-up-to-vpn-from-your-iphone-here-are-7-solutions/"><u>Trouble Hooking Up to VPN From Your iPhone? Here Are 7 Solutions!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reaking-the-mold-high-fidelity-sound-without-a-microphone-for-2024/"><u>[New] Breaking the Mold High-Fidelity Sound without a Microphone for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-foundations-in-creating-animated-imagery-for-2024/"><u>[New] Foundations in Creating Animated Imagery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-full-breakdown-the-ultimate-dji-phantom-4-experience-for-2024/"><u>[Updated] Full Breakdown The Ultimate DJI Phantom 4 Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectrum-perfection-color-grading-basics/"><u>[Updated] Spectrum Perfection Color Grading Basics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-honor-100-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 100 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-gt-5-240w-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme GT 5 (240W) Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-online/"><u>In 2024, AI Script | Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 8T?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-asus-rog-phone-7-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Asus ROG Phone 7 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G13 FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/re-enabling-dark-theme-on-facebook-a-step-by-step-guide/"><u>Re-Enabling Dark Theme on Facebook: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

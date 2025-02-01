@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for the Football Manager 2023 Startup Issue"
-date: 2025-01-18T16:13:21.039Z
-updated: 2025-01-24T16:20:40.648Z
+date: 2025-01-28T20:25:19.244Z
+updated: 2025-01-31T23:23:46.327Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -38,26 +42,18 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
 
@@ -92,7 +88,7 @@ Visit the website of your GPU manufacturer and search for your GPU model.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -109,6 +105,10 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 
 If this fix bring no luck, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -122,7 +122,7 @@ If this fix bring no luck, move to the next fix.
 4. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -146,18 +146,16 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-identity-change-on-google-meet-via-pc-and-phone-for-2024/"><u>[New] Mastering Identity Change on Google Meet via PC & Phone for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb/"><u>[Updated] In 2024, The Social Media Strategist's Guide to Adjustable Video Sizes on FB</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-music-movement-between-services/"><u>2024 Approved Streamline Your Music Movement Between Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-yuva-2-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Yuva 2 Pro FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-edge-40-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Edge 40 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/amplify-iphone-imagery-with-lighting-hacks/"><u>Amplify iPhone Imagery with Lighting Hacks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/detecting-faulty-ram-in-computers-effective-methods-and-troubleshooting-steps/"><u>Detecting Faulty RAM in Computers: Effective Methods and Troubleshooting Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-poco-c50-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco C50 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-the-potential-of-claude-artificial-intelligence-systems/"><u>Harnessing the Potential of Claude Artificial Intelligence Systems</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-8-key-money-making-moves-for-youtube-rookies/"><u>In 2024, 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-a14-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy A14 4G Devices</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-ranking-mp3-converter-software-compared-allavsoft-vs-others/"><u>Top-Ranking MP3 Converter Software Compared: Allavsoft vs Others</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme GT Neo 5 FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-tracks-three-free-safe-techniques-explored/"><u>[New] Unlocking YouTube Tracks Three Free, Safe Techniques Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-maximizing-engagement-in-your-tiktok-unpacking-sessions/"><u>2024 Approved Maximizing Engagement in Your TikTok Unpacking Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-slime-rancher-2-from-crashing-on-your-pc-a-step-by-step-guide/"><u>Fixes for Preventing Slime Rancher 2 From Crashing on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-n3-flip-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find N3 Flip FRP Bypass Instantly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-moto-g14-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Moto G14?</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-by-curtailing-microsofts-telemetry-features-in-windows-11/"><u>Optimizing Disk Usage by Curtailing Microsoft's Telemetry Features in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-framework-for-seamless-video-storytelling-for-2024/"><u>The Framework for Seamless Video Storytelling for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-realme-c51-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme C51 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-c32-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia C32 FRP Bypass</u></a></li>
 </ul></div>
 
