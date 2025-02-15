@@ -1,7 +1,7 @@
 ---
 title: "$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians"
-date: 2025-01-25T00:21:04.069Z
-updated: 2025-01-31T23:40:18.394Z
+date: 2025-02-08T16:35:12.127Z
+updated: 2025-02-14T18:17:52.478Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,20 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-reviving-relics-seamless-access-to-old-fb-narratives-on-tech/"><u>[Updated] 2024 Approved Reviving Relics Seamless Access to Old FB Narratives on Tech</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-navigating-zoom-on-chromebook-essential-advice-for-2024/"><u>[Updated] Navigating Zoom on Chromebook Essential Advice for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-prime-collection-best-10-apps-for-extracting-high-quality-vimeo-videos/"><u>[Updated] Prime Collection Best 10 Apps for Extracting High-Quality Vimeo Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-photo-restoration-tool-stellar-repair-pro-windows-version/"><u>Complete Photo Restoration Tool: Stellar Repair Pro - Windows Version</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/googles-augmented-reality-stickers-an-in-depth-look-and-alternatives-for-2024/"><u>Google's Augmented Reality Stickers An In-Depth Look and Alternatives for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-craft-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>In 2024, Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s23plus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S23+ Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23 ProFRP Lock</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy M54 5G FRP</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maxing-out-your-wallet-for-max-headphones/"><u>Maxing Out Your Wallet for Max Headphones?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-realme-narzo-60-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme Narzo 60 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
-<li><a href="https://some-skills.techidaily.com/venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers-for-2024/"><u>Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-smart-approach-to-video-marketing-for-smbs/"><u>[New] 2024 Approved The SMART Approach to Video Marketing for SMBs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller/"><u>2024 Approved Exploring the New Frontier A Comparative Study on TikTok & Triller</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>2024 Approved Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-ace-2-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus Ace 2 FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-web-excellence-using-gpt-powered-tactics/"><u>Elevate Web Excellence Using GPT-Powered Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-hand-tracking-an-in-depth-look-for-2024/"><u>Exploring Hand Tracking An In-Depth Look for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-t430-driver-updates-for-windows-operating-systems-windows-10-8-7-instantly/"><u>Get the Latest Lenovo T430 Driver Updates for Windows Operating Systems (Windows 10, 8, 7) Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-storm-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Storm 5G FRP?</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-retrieve-inaccessible-files-a-comprehensive-guide-by-yl-computing/"><u>How to Retrieve Inaccessible Files: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto E13 FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30-vip-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy A54 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x6-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X6 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016216268-usb-headphones-not-working-solve-sound-issues-on-windows-7-easily/"><u>USB Headphones Not Working? Solve Sound Issues on Windows 7 Easily!</u></a></li>
 </ul></div>
 

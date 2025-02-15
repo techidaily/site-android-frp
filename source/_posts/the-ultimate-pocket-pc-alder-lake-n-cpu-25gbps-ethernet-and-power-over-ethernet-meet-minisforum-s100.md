@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Pocket PC: Alder Lake-N CPU, 2.5Gbps Ethernet & Power over Ethernet - Meet Minisforum S100"
-date: 2025-01-29T19:23:50.662Z
-updated: 2025-01-31T17:27:59.005Z
+date: 2025-02-13T17:56:39.580Z
+updated: 2025-02-14T16:43:41.023Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,18 +66,20 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/arnessing-famebits-secrets-to-thrive-with-key-channel-sponsors-for-2024/"><u>[New] Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-earnings-explained-making-money-from-ads/"><u>[New] In 2024, YouTube’s Earnings Explained Making Money From Ads</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-elite-screen-hunt-10-monitors-for-your-mac-for-2024/"><u>[Updated] The Elite Screen Hunt #10 Monitors for Your Mac for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-itel-s23plus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Itel S23+ Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-4-vs-gpt-4-turbo-vs-gpt-4o-unveiling-the-distinctions-amongst-them/"><u>GPT-4 Vs. GPT-4 Turbo Vs. GPT-4o: Unveiling the Distinctions Amongst Them</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-gionee-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Gionee Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-2-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 2?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>In 2024, Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-effective-naming-strategies-for-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Effective Naming Strategies for Your Microsoft Excel Tables</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-a14-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy A14 5G FRP</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-designing-direct-access-to-your-channels-subscribe-page/"><u>[New] Designing Direct Access to Your Channel's Subscribe Page</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-power-of-words-in-podcast-summaries/"><u>[New] The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-pathway-to-creating-metaverse-identities/"><u>[New] The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lgs-visionary-360-camera-review-and-technological-advances/"><u>2024 Approved LG's Visionary 360 Camera Review and Technological Advances</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-gt-10-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix GT 10 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-htc-u23-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from HTC U23 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-lite-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 Lite 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-htc-u23-by-drfone-android/"><u>How to Bypass FRP on HTC U23?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-p60frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei P60FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-p60frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei P60FRP Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016994045-no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/propelled-progress-the-role-of-ai-in-scholarly-pursuits/"><u>Propelled Progress: The Role of AI in Scholarly Pursuits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-rss-feed-creation-methods-for-podcasters-for-2024/"><u>Simplified RSS Feed Creation Methods for Podcasters for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Muted Combat: Experts' Guide to Reactivating Apex Legends Audio"
-date: 2025-01-28T23:54:11.530Z
-updated: 2025-01-31T21:43:48.252Z
+date: 2025-02-11T01:58:57.009Z
+updated: 2025-02-15T00:30:03.347Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
 If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no sound at all, you’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 7 fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 simple fixes to try
 
  You may not have to try them all; just work your way through the list until you find the one that does the trick for you.
@@ -28,10 +32,6 @@ If you’re playing_Hearthstone_ and the audio cuts out abruptly, or there is no
 5. **[Disable Compatibility Mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reset sound settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall_Hearthstone_ and/or the Blizzard launcher](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check cables and volume
 
@@ -82,12 +82,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-281.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: End unnecessary background programs
@@ -102,10 +106,6 @@ OR
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -127,16 +127,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -145,10 +141,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try launching_Hearthstone_ again to see if the sound works properly now. If your issue still exists, read on and check the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair_Hearthstone_ files
@@ -183,10 +183,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-425.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch your game to check if the sound comes back. If not, go ahead with the fix below.
 
 ### Fix 6:**Reset sound settings**
@@ -197,6 +193,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Sound & Notifications tab** , then click**Reset to Defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-549.jpg)
@@ -206,7 +206,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-550.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Voice chat tab** , then click**Reset to Defaults** .
@@ -222,10 +222,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-553.jpg)
 
  Relaunch your game to test your issue. If the audio is still missing in_Hearthstone_ , try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall_Hearthstone_ and/or the Blizzard launcher
 
@@ -245,6 +241,10 @@ OR
 **3)** Click**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-439.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard launcher to download and install_Hearthstone_ .
 
@@ -271,7 +271,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-445.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard launcher.
@@ -302,16 +302,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-thanks-for-curating-premium-and-free-outro-themes/"><u>[Updated] Thanks for Curating Premium & Free Outro Themes</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/cambia-video-flv-in-wma-free-online-via-movavi-facile-e-sicuro/"><u>Cambia Video FLV in WMA Free Online via Movavi - Facile E Sicuro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-distinctions-a-deep-dive-into-gpt-4-versus-gpt-4-turbo-vs-phi/"><u>Exploring Distinctions: A Deep Dive Into GPT-4 Versus GPT-4 Turbo Vs. Phi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-of-the-best-ultimate-list-of-gopro-casings/"><u>In 2024, Best of the Best Ultimate List of GoPro Casings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-core-skills-in-video-and-film-creation/"><u>In 2024, Core Skills in Video and Film Creation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-p60withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei P60with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-100-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor 100 Pro?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-c55-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme C55 FRP Without Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-learning-languages-for-free-top-5-picks-of-2024/"><u>The Ultimate Guide to Learning Languages for Free - Top 5 Picks of 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s24-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S24 Ultra FRP Bypass</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-purerecorder-capturing-life-in-games-without-cost/"><u>[New] 2024 Approved PureRecorder Capturing Life in Games Without Cost</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unleashing-connectivity-setting-up-a-zoom-call-on-android/"><u>[New] 2024 Approved Unleashing Connectivity Setting Up a Zoom Call on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boost-your-brand-on-instagram-monthly-growth-from-1k-followers/"><u>[New] In 2024, Boost Your Brand on Instagram Monthly Growth From 1K Followers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-funimate-masterclass-quick-video-access/"><u>[Updated] In 2024, Funimate Masterclass Quick Video Access</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-c110-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia C110 FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-newest-ipads-m1-vs-m2-ipad-pro-find-your-perfect-match/"><u>Comparing the Newest iPads: M1 Vs. M2 iPad Pro - Find Your Perfect Match!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 2023with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-meizu-by-drfone-android/"><u>How to Bypass FRP from Meizu?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-g04-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto G04 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c210-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C210 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-z-flip-5-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy Z Flip 5 FRP Without Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-g310-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia G310 FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722891955209-mastering-iphone-voicemail-a-step-by-step-guide/"><u>Mastering iPhone Voicemail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/methodology-to-revive-windows-steam-iconage/"><u>Methodology to Revive Windows Steam Iconage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-smart-8-hd-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Smart 8 HD without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x6-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X6 FRP Bypass</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/yl-computing-premium-basketball-themed-wallpapers-desktop-backgrounds-and-images-image-collections/"><u>YL Computing: Premium Basketball Themed Wallpapers, Desktop Backgrounds & Images - Image Collections</u></a></li>
 </ul></div>
 

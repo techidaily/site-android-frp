@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Infamous 'Black Screen' In Star Wars Battlefront II"
-date: 2025-01-27T02:47:27.149Z
-updated: 2025-01-31T22:51:29.050Z
+date: 2025-02-13T20:02:23.820Z
+updated: 2025-02-14T23:50:39.836Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
@@ -42,16 +42,28 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
@@ -62,10 +74,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
@@ -94,6 +102,10 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
@@ -111,13 +123,13 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable cloud storage
 
@@ -135,10 +147,6 @@ To update your graphics driver, here are two safe ways for you:
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Perform a reinstallation
 
  A fresh reinstallation is a common but solid fix to constant program problems. So, if all else above can’t get your Battlefield V back to life, try to reinstall the game completely.
@@ -148,15 +156,7 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -183,19 +183,21 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-reversing-video-order-on-vlc-platform/"><u>[New] 2024 Approved Step-by-Step Reversing Video Order on VLC Platform</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>[Updated] 2024 Approved A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-insta-facebook-connection-essentials/"><u>[Updated] Insta-Facebook Connection Essentials</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-desktop-and-mobile-capturing-team-video-conferences-for-2024/"><u>[Updated] Mastering Desktop & Mobile Capturing Team Video Conferences for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-laying-down-an-elegant-tiktok-credits-panel/"><u>2024 Approved Laying Down an Elegant TikTok Credits Panel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-se-connecter-avec-lentreprise-numerique-innovante-digiarty/"><u>Comment Se Connecter Avec L'entreprise Numérique Innovante, Digiarty ?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/596501-9781429907712-freedom/"><u>Freedom | Free Book</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-gionee-f3-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Gionee F3 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-ce-3-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Nord CE 3 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-a38-frp-by-drfone-android/"><u>How Can We Bypass Oppo A38 FRP?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c65-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C65 Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>In 2024, Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-c53-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme C53 FRP</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-blueprint-for-a-smooth-youtube-to-facebook-content-flow-for-2024/"><u>[New] Your Blueprint for a Smooth YouTube to Facebook Content Flow for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-greener-recording-devices-utilization-tips/"><u>[Updated] 2024 Approved Prime Greener Recording Devices Utilization Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-add-edge-to-insta-videos-a-trifecta-guide/"><u>[Updated] In 2024, Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-instant-mirth-mastery-your-shortcut-to-ifunny-memes-for-2024/"><u>[Updated] Instant Mirth Mastery Your Shortcut to iFunny Memes for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-screen-selection-simplified-find-the-best-display-for-xbox-series-x-for-2024/"><u>[Updated] Screen Selection Simplified - Find the Best Display for Xbox Series X for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-concept-of-net-neutrality-made-easy/"><u>Demystifying the Concept of Net Neutrality Made Easy</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-razr-40-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Razr 40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-g24-power-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola G24 Power</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s23-tactical-edition-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S23 Tactical Edition FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A58 4G FRP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/time-traveling-tactics-top-7-historic-battles-reimagined/"><u>Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-g310-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia G310 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-banishing-subwoofer-rumbling-sounds/"><u>Troubleshooting Techniques for Banishing Subwoofer Rumbling Sounds</u></a></li>
 </ul></div>
 

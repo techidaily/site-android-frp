@@ -1,7 +1,7 @@
 ---
 title: Top 11 Solutions to Resolve Borderlands 3 Startup Failures
-date: 2025-01-27T23:13:25.868Z
-updated: 2025-01-31T16:55:03.404Z
+date: 2025-02-10T17:37:10.474Z
+updated: 2025-02-14T19:07:35.604Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -31,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Launch the game in windowed mode
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
@@ -50,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -78,6 +82,10 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
@@ -93,10 +101,6 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
@@ -124,12 +128,12 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -145,15 +149,11 @@ If the issue remains, take a look at the next fix.
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -180,24 +180,22 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/asy-extraction-top-10-youtube-text-grabber-apps-reviewed/"><u>[New] Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/radicating-grayscale-issues-with-youtube-video/"><u>[New] Eradicating Grayscale Issues with YouTube Video</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mobile-cinematography-gear-for-adventurers-for-2024/"><u>[Updated] Mobile Cinematography Gear for Adventurers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-wave-seekers-guide-to-action-cams-of-2023/"><u>[Updated] Wave Seekers’ Guide to Action Cams of 2023</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c32-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C32</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-meizu-21-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Meizu 21.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-by-drfone-android/"><u>How to Bypass FRP from Realme?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Nord N30 5G Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90 GT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s21-fe-5g-2023-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S21 FE 5G (2023) FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-12-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus 12 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-blaze-2-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Blaze 2 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-meta-quest-3-insights-on-new-releases-pricing-info-launch-dates-and-comprehensive-device-specifications/"><u>The Next Generation Meta Quest 3: Insights on New Releases, Pricing Info, Launch Dates, and Comprehensive Device Specifications</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-honor-magic-vs-2-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic Vs 2 FRP Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-possibilities-top-6-applications-of-chatgpt-as-a-coding-linguist/"><u>Unlocking New Possibilities: Top 6 Applications of ChatGPT as a Coding Linguist</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/unveiling-the-risks-what-happens-when-you-open-a-doubtful-pdf-document-on-your-smartphone/"><u>Unveiling the Risks: What Happens When You Open a Doubtful PDF Document on Your Smartphone?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators-for-2024/"><u>[New] Craft and Share 360 Videos to YouTube An Essential Guide for Creators for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leveraging-virtual-board-features-for-enhanced-collaboration-in-zoom/"><u>[New] Leveraging Virtual Board Features for Enhanced Collaboration in Zoom</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earn-while-you-entertain-the-content-creators-guide/"><u>[Updated] 2024 Approved Earn While You Entertain The Content Creator's Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-emulate-elegance-the-premier-selection-of-ps1-emulators-for-pc/"><u>[Updated] In 2024, Emulate Elegance The Premier Selection of PS1 Emulators for PC</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a1x-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A1x 5Gwith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a38-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A38</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c12-plus-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C12 Plus FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g-stylus-5g-2023-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G Stylus 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-sony-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Sony FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-105-classicfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 105 ClassicFRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-moto-g14-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Moto G14 FRP Without Computer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/rallying-towards-partnership-reach-the-critical-10k-view-target-quickly/"><u>Rallying Towards Partnership Reach the Critical 10K View Target Quickly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/speedy-shots-that-captivate-audiences/"><u>Speedy Shots That Captivate Audiences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/techniques-pour-reduire-la-taille-de-votre-video-avi-sans-pertes-en-qualite-sur-windows-10/"><u>Techniques Pour Réduire La Taille De Votre Vidéo AVI Sans Pertes en Qualité Sur Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-maximize-full-screen-window-space-in-windows/"><u>Tips to Maximize Full-Screen Window Space in Windows</u></a></li>
 </ul></div>
 

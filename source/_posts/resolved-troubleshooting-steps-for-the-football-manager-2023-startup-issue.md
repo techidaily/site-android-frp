@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for the Football Manager 2023 Startup Issue"
-date: 2025-01-28T20:25:19.244Z
-updated: 2025-01-31T23:23:46.327Z
+date: 2025-02-09T18:57:00.596Z
+updated: 2025-02-14T20:39:35.203Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
@@ -48,11 +48,15 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
@@ -87,10 +91,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -103,11 +103,11 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
-If this fix bring no luck, move to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this fix bring no luck, move to the next fix.
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -118,12 +118,12 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -146,16 +146,20 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-tracks-three-free-safe-techniques-explored/"><u>[New] Unlocking YouTube Tracks Three Free, Safe Techniques Explored</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-maximizing-engagement-in-your-tiktok-unpacking-sessions/"><u>2024 Approved Maximizing Engagement in Your TikTok Unpacking Sessions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-slime-rancher-2-from-crashing-on-your-pc-a-step-by-step-guide/"><u>Fixes for Preventing Slime Rancher 2 From Crashing on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-n3-flip-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find N3 Flip FRP Bypass Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-moto-g14-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Moto G14?</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-by-curtailing-microsofts-telemetry-features-in-windows-11/"><u>Optimizing Disk Usage by Curtailing Microsoft's Telemetry Features in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-framework-for-seamless-video-storytelling-for-2024/"><u>The Framework for Seamless Video Storytelling for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-realme-c51-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme C51 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-c32-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia C32 FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-televisual-enhancements-through-engaging-fb-livestreams/"><u>[New] In 2024, Televisual Enhancements Through Engaging FB Livestreams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[Updated] Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/boost-your-brands-presence-8-superior-reasons-to-opt-for-a-business-page/"><u>Boost Your Brand's Presence: 8 Superior Reasons to Opt for a Business Page</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-9awithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 9Awith/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-adjust-display-settings-when-encountered-with-non-standard-input-delays/"><u>How to Adjust Display Settings When Encountered With Non-Standard Input Delays</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c12-by-drfone-android/"><u>How to Bypass FRP on Nokia C12?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-asus-rog-phone-8-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Asus ROG Phone 8 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-find-x6-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Find X6 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X6 FRP</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-striking-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>In 2024, Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-recorders-handbook-for-film-lovers/"><u>In 2024, The Ultimate Recorder's Handbook for Film Lovers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-105-classic-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia 105 Classic FRP Without Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-real-meaning-of-grok-ai-unveiled-by-elon-and-its-price-points/"><u>The Real Meaning of Grok AI Unveiled by Elon and Its Price Points</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-second-shuffle-solved/"><u>Windows Second Shuffle Solved</u></a></li>
 </ul></div>
 

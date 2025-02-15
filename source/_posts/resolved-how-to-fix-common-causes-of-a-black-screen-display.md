@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Common Causes of a Black Screen Display"
-date: 2025-01-24T19:45:49.037Z
-updated: 2025-01-31T19:21:50.484Z
+date: 2025-02-07T16:56:14.741Z
+updated: 2025-02-14T18:45:04.255Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ These days, players have reported the issue of black screen when loading a save 
 3. **[Update Windows 10 to version 20H2](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Allow your game through firewall
 
  The Windows Firewall is designed to help keep unauthorized users from accessing files and resources on your computer. But there are circumstances that it fails to trust your applications. In this case, you need to manually add your game to the list of allowing apps through Windows Defender Firewall. Here’s how you can do this:
@@ -39,7 +35,7 @@ These days, players have reported the issue of black screen when loading a save 
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
@@ -47,7 +43,7 @@ These days, players have reported the issue of black screen when loading a save 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings > Allow another app…** .  
@@ -58,29 +54,33 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-the-game-through-windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Add** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -117,7 +117,7 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -125,10 +125,6 @@ Here’s how it works:
  After updating your drivers, restart your computer and load your game to check if the issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update Windows 10 to version 20H2
 
@@ -145,10 +141,6 @@ Here’s how it works:
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
@@ -170,15 +162,15 @@ Here’s how it works:
 [GOG GALAXY 2.0](https://tools.techidaily.com/drivereasy/download/)
 [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steam
 
  1) Open your Steam client. Select the tab**LIBRARY** . Then navigate to your game**Cyberpunk 2077** . Right-click it and select**Properties** .  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
@@ -192,11 +184,19 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Epic Games Launcher
 
  1) Open your Epic Games Launcher. From the left menu, select**Library** .  
   
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
@@ -225,15 +225,22 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-transforming-images-the-art-of-applying-luts-in-pro/"><u>[New] Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[Updated] Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/busting-the-no-signal-glitch-on-your-xbox-one-a-comprehensive-guide/"><u>Busting The No Signal Glitch On Your Xbox One - A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-discover-the-creme-de-la-creme-of-iphoneipad-videos/"><u>In 2024, Discover the Crème De La Créme of iPhone/iPad Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a56s-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A56s 5G FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-11r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus 11R FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-a79-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo A79 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-frp.techidaily.com/nokia-c210-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C210 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/troubleshooting-android-file-transfer-errors-when-your-phone-is-not-recognized-on-mac/"><u>Troubleshooting Android File Transfer Errors When Your Phone Is Not Recognized on Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 6s With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-list-todays-youtube-sensations/"><u>[New] 2024 Approved Hot List Today's YouTube Sensations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-7-places-to-find-royalty-free-sound-effects-for-youtube-videos/"><u>[New] In 2024, 7 Places to Find Royalty Free Sound Effects for YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>[New] Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently-for-2024/"><u>[New] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vida-reimagined-editing-revolution-unveiled-for-2024/"><u>[Updated] Vida Reimagined Editing Revolution Unveiled for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-sony-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Sony FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-htc-u23-frp-bypass-by-drfone-android/"><u>In 2024, About HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>In 2024, Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-7-ultimate-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 7 Ultimate FRP Locks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone SE (2020) Apple ID on MacBook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lava FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g42-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G42 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-incompatibility-issues-between-iphones-and-third-party-accessories/"><u>Resolving Incompatibility Issues Between iPhones and Third-Party Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-huawei-nova-y71-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Huawei Nova Y71 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-8t-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 8T 5G FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: From Jet Propulsion to Supersonic Flight – Witnessing the Phenomenon of Cannon-Air Bursts
-date: 2025-01-27T21:16:29.695Z
-updated: 2025-01-31T23:33:22.681Z
+date: 2025-02-07T19:00:07.073Z
+updated: 2025-02-14T17:38:09.468Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,16 +56,18 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/reaking-the-mold-high-fidelity-sound-without-a-microphone-for-2024/"><u>[New] Breaking the Mold High-Fidelity Sound without a Microphone for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-foundations-in-creating-animated-imagery-for-2024/"><u>[New] Foundations in Creating Animated Imagery for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-full-breakdown-the-ultimate-dji-phantom-4-experience-for-2024/"><u>[Updated] Full Breakdown The Ultimate DJI Phantom 4 Experience for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spectrum-perfection-color-grading-basics/"><u>[Updated] Spectrum Perfection Color Grading Basics</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-honor-100-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 100 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-gt-5-240w-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme GT 5 (240W) Devices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-online/"><u>In 2024, AI Script | Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-8t-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 8T?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-asus-rog-phone-7-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Asus ROG Phone 7 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G13 FRP</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/re-enabling-dark-theme-on-facebook-a-step-by-step-guide/"><u>Re-Enabling Dark Theme on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-types-of-drones-explore-different-types-of-drones/"><u>[New] In 2024, Types of Drones Explore Different Types of Drones</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-seamless-integration-of-luts-for-enhanced-cinematography/"><u>[Updated] Seamless Integration of LUTs for Enhanced Cinematography</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c110-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C110 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-10-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 10 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-global-domain-name-resolution-options-for-your-internet-connection/"><u>Best Free Global Domain Name Resolution Options for Your Internet Connection</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nubia-red-magic-8s-proplus-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nubia Red Magic 8S Pro+ Through Google Earth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g73-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G73 5G FRP Without Computer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-ar-journey-transforming-language-acquisition/"><u>Mondly's AR Journey: Transforming Language Acquisition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propelling-progress-the-triumphant-five-in-ai-computing-technology/"><u>Propelling Progress: The Triumphant Five in AI Computing Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969777813-this-simplifies-to/"><u>This Simplifies To</u></a></li>
 </ul></div>
 
