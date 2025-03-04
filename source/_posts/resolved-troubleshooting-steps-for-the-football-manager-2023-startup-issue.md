@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps for the Football Manager 2023 Startup Issue"
-date: 2025-02-09T18:57:00.596Z
-updated: 2025-02-14T20:39:35.203Z
+date: 2025-02-26T07:27:51.628Z
+updated: 2025-03-03T23:24:28.890Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -48,16 +44,8 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
 
@@ -103,10 +91,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix bring no luck, move to the next fix.
 
 ### Fix 4: Disable overlay and launch in Windowed mode
@@ -117,10 +101,6 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
@@ -146,20 +126,16 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-televisual-enhancements-through-engaging-fb-livestreams/"><u>[New] In 2024, Televisual Enhancements Through Engaging FB Livestreams</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[Updated] Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/boost-your-brands-presence-8-superior-reasons-to-opt-for-a-business-page/"><u>Boost Your Brand's Presence: 8 Superior Reasons to Opt for a Business Page</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-9awithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 9Awith/without a PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-adjust-display-settings-when-encountered-with-non-standard-input-delays/"><u>How to Adjust Display Settings When Encountered With Non-Standard Input Delays</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c12-by-drfone-android/"><u>How to Bypass FRP on Nokia C12?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze 2</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-asus-rog-phone-8-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Asus ROG Phone 8 Pro FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-find-x6-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Find X6 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find X6 FRP</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-striking-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>In 2024, Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-recorders-handbook-for-film-lovers/"><u>In 2024, The Ultimate Recorder's Handbook for Film Lovers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-105-classic-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia 105 Classic FRP Without Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-real-meaning-of-grok-ai-unveiled-by-elon-and-its-price-points/"><u>The Real Meaning of Grok AI Unveiled by Elon and Its Price Points</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-second-shuffle-solved/"><u>Windows Second Shuffle Solved</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-high-quality-game-capture-apps-reviewed/"><u>[New] In 2024, High-Quality Game Capture Apps Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-qanda-list-to-attract-podcast-audience/"><u>[New] Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-understanding-the-key-differences-and-what-matters-most/"><u>Bing Chat vs ChatGPT for Freelancers: Understanding the Key Differences and What Matters Most</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-storytelling-skills-with-chatgpt-a-comprehensive-guide/"><u>Enhancing Your Storytelling Skills with ChatGPT - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-edge-40-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Edge 40 Face Lock?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/huawei-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Huawei ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-poco-c55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Poco C55 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-f23-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo F23 5G FRP Without Computer</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>New Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-lies-within-the-world-of-facebook-dating/"><u>What Lies Within the World of Facebook Dating?</u></a></li>
 </ul></div>
 

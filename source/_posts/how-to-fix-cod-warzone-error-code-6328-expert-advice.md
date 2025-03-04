@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Cod: Warzone Error Code 6328 – Expert Advice"
-date: 2025-02-11T22:16:49.831Z
-updated: 2025-02-15T01:40:17.132Z
+date: 2025-03-03T04:16:39.396Z
+updated: 2025-03-04T01:37:24.286Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 
  As the latest iteration of Ubisoft’s long-running Far Cry series, Far Cry 6 is available now. However, not all players are able to enjoy this title, as some of them**keep getting black screen upon launch** . If you happen to be one of them, don’t worry. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/93edfabf29b4caf147522fd2f74f95df8196bbd7b
 5. **[Switch to windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Far Cry 6](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -76,10 +68,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,10 +75,6 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
 
 If you still encounter black screen issues, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -103,10 +87,6 @@ If you still encounter black screen issues, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
 
 If this fix doesn’t help, proceed to the next one.
@@ -118,10 +98,6 @@ If this fix doesn’t help, proceed to the next one.
 1. Open Ubisoft Connect and click the**three lines** in the top left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
@@ -152,16 +128,8 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
@@ -215,22 +183,16 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-harnessing-lightrooms-power-for-spectacular-hdr-results-for-2024/"><u>[New] Harnessing Lightroom's Power for Spectacular HDR Results for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-easy-way-adding-external-yt-videos-to-your-powerpoint-sessions/"><u>[New] In 2024, The Easy Way Adding External YT Videos to Your PowerPoint Sessions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-midlands-lxt500vp3-radio-a-look-at-its-highly-functional-yet-underperforming-nature/"><u>Comprehensive Analysis of Midland's LXT500VP3 Radio - A Look at Its Highly Functional Yet Underperforming Nature</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/649776-9780307785510-emmanuels-book/"><u>Emmanuel's Book | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-only-sos-issue-effective-methods-for-reviving-an-iphones-status-bar-features/"><u>Fixing 'Only SOS' Issue: Effective Methods for Reviving an iPhone's Status Bar Features</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f04-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F04 Phones with/without a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-meizu-21withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Meizu 21with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a79-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A79 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24 Phone FRP Lock</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a15-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A15 5G FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-3-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 3 FRP Without Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 8T 5G FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshoot-face-recognition-top-5-fixes-when-your-facial-identification-fails/"><u>Troubleshoot Face Recognition: Top 5 Fixes When Your Facial Identification Fails</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus FRP Bypass</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>[Updated] IPhone Filmmakers' Choice Top 8 Free & Paid App List</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-find-n3-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Find N3 Flip</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2070571-9780835631471-earth-energies/"><u>Earth Energies | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-p60-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei P60 Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c300-by-drfone-android/"><u>How to Bypass FRP from Nokia C300?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-asus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Asus Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-play-40c-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Play 40C FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-agni-2-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Agni 2 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-our-networked-world-with-six-key-advantages-of-facebook/"><u>Navigating Our Networked World with Six Key Advantages of Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-airpod-woes-seamless-connection-solutions-for-windows-1011-2024-updates/"><u>Resolve Your AirPod Woes: Seamless Connection Solutions for Windows 10/11 (2024 Updates)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MSI Desktop Powerhouse: Intuitive AI-Enabled Touchscreen at Full HD Quality"
-date: 2025-02-08T20:12:37.180Z
-updated: 2025-02-14T23:06:20.825Z
+date: 2025-03-01T11:00:28.030Z
+updated: 2025-03-04T11:16:08.058Z
 tags:
   - desktop
 categories:
@@ -40,10 +40,6 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
  Miniproca’s new Mini-PC seems to have got off to a flying start. The project was launched today with a funding goal of $5,000 within 5 hours, and it has since reached past $33,000 with 33 days to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,17 +52,9 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Miniproca)
 
 ![Miniproca All-in-One mini PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Miniproca)
 
@@ -89,21 +77,19 @@ A new mini-PC from Miniproca melds a NUC-like device with a flip-up touchscreen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[New] Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photoshop-basics-for-beginners-10-must-know-tricks/"><u>[Updated] Photoshop Basics for Beginners 10 Must-Know Tricks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-revolutionizing-facebook-video-cover-updates-tips-and-tricks/"><u>[Updated] Revolutionizing Facebook Video Cover Updates Tips and Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[Updated] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlimited-echoes-for-online-content-makers/"><u>Get Unlimited Echoes for Online Content Makers!</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/gratis-konvertereen-van-raam-naar-wmv-efficient-online-tool-by-movavi/"><u>Gratis Konvertereen Van RAAM Naar WMV: Efficiënt Online-Tool by Movavi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a18-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A18 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a24-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A24 Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-meizu-21-by-drfone-android/"><u>How to Bypass FRP on Meizu 21?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-6-unique-asian-themed-structures-in-minecraft/"><u>In 2024, 6 Unique Asian-Themed Structures in Minecraft</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-blaze-2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Blaze 2 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-reno-11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Reno 11 5G Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-e13-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto E13 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-unrecognized-devices-a-guide-to-fixing-usb-issues-yl-tech-solutions/"><u>Troubleshooting Unrecognized Devices: A Guide to Fixing USB Issues - YL Tech Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-past-to-present-a-detailed-tiktok-username-overhaul-guide/"><u>[New] 2024 Approved From Past to Present A Detailed TikTok Username Overhaul Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pinterest-video-extraction-top-5-free-tools-ranked/"><u>[New] In 2024, Pinterest Video Extraction Top 5 Free Tools Ranked</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-open-source-video-tools-for-every-desktop-environment/"><u>[Updated] 2024 Approved Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtube-cards-and-tags/"><u>[Updated] Navigating YouTube Cards and Tags</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-byb-e430-led-pendant-top-rated-swing-arm-lampsphere-reviewed/"><u>Comprehensive Analysis of the BYB E430 LED Pendant: Top Rated Swing Arm Lampsphere Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A54 5G FRP?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Lava Storm 5G FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-e13-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto E13 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-yuva-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Yuva 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-f34-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy F34 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-genesis-of-machine-minds-tracing-the-historic-advent-of-ai/"><u>The Genesis of Machine Minds: Tracing the Historic Advent of AI</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-highlighted-icons-a-how-to-guide/"><u>Windows 11'S Highlighted Icons: A How-To Guide</u></a></li>
 </ul></div>
 

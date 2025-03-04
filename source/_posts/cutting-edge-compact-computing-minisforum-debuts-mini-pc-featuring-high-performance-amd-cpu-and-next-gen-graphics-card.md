@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Compact Computing: Minisforum Debuts Mini PC Featuring High-Performance AMD CPU and Next-Gen Graphics Card"
-date: 2025-02-12T20:44:25.232Z
-updated: 2025-02-15T01:15:16.350Z
+date: 2025-03-01T09:23:02.321Z
+updated: 2025-03-03T23:12:22.042Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,20 +64,21 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ispring-review-a-deep-dive-into-screen-capture/"><u>[Updated] 2024 Approved ISpring Review A Deep Dive Into Screen Capture</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola G54 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s24-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S24 FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-s24-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy S24 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a78-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A78 5Gwith/without a PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-console-gaming-pc-recording-techniques/"><u>In 2024, Mastering Console Gaming PC Recording Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-smirk-studio-memomaker/"><u>In 2024, Smirk Studio MemoMaker</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steep-discount-on-stylishly-practical-withings-scanwatch-this-black-friday-insider-tips/"><u>Score a Steep Discount on Stylishly Practical Withings ScanWatch This Black Friday - Insider Tips!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210851417-9781800079632-the-little-book-for-crystal-lovers/"><u>The Little Book for Crystal Lovers | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-apps-for-free-photo-editing-settembre-2024/"><u>Top 10 Apps for Free Photo Editing - Settembre 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c210-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C210 FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-word-and-character-quotas-in-ai-powered-chatbots-like-gpt-3/"><u>Understanding Word and Character Quotas in AI-Powered Chatbots Like GPT-3</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[New] 2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-captivating-images-using-leading-lines-iphone/"><u>[New] Crafting Captivating Images Using Leading Lines (iPhone)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-14-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 14 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-hacer-una-copia-de-seguridad-y-restaurar-tu-nvme-ssd-m2-con-windows-11-un-guia-paso-a-paso/"><u>Cómo Hacer Una Copia De Seguridad Y Restaurar Tu NVMe SSD M.2 Con Windows 11: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-nova-y71-by-drfone-android/"><u>How to Bypass FRP from Huawei Nova Y71?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g84-5g-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-nokia-c300-by-drfone-android/"><u>How to Bypass FRP on Nokia C300?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-redmi-13c-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Redmi 13C?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C300 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-meizu-21-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Meizu 21 Pro?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smooth-streaming-starts-with-these-cutting-edge-41-apps-for-android-devices/"><u>In 2024, Smooth Streaming Starts with These Cutting Edge 41 Apps for Android Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-essential-guide-to-4-premium-fullscreen-software/"><u>In 2024, The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-elevate-your-video-storytelling-adobe-premiere-pro-for-mac-creatives/"><u>New In 2024, Elevate Your Video Storytelling Adobe Premiere Pro for Mac Creatives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-11-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme 11 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-dealing-with-the-lost-ark-missing-sounds-problem/"><u>Troubleshooting Guide: Dealing with the 'Lost Ark' Missing Sounds Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-moto-g23-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Moto G23 FRP Bypass</u></a></li>
 </ul></div>
 

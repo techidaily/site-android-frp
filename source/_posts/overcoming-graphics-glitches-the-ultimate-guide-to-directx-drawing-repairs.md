@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Glitches: The Ultimate Guide to DirectX Drawing Repairs"
-date: 2025-02-14T01:37:25.290Z
-updated: 2025-02-14T22:26:59.017Z
+date: 2025-03-03T12:47:12.189Z
+updated: 2025-03-03T16:23:57.263Z
 tags:
   - win11
   - win10
@@ -26,19 +26,11 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
@@ -59,17 +51,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 9. Select the **Open** button. This will add the path to your Exception List.
 10. Select **OK** to save your changes and close the Exception List window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Update your driver
 
@@ -85,10 +69,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -113,22 +93,22 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-excellent-10-drone-fleet-for-professional-photos-and-films-for-2024/"><u>[New] Excellent 10-Drone Fleet for Professional Photos & Films for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-achieving-high-quality-fb-video-1080p-streaming-guide/"><u>[New] In 2024, Achieving High-Quality FB Video 1080P Streaming Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revolutionizing-task-management-the-power-of-ez-grabber/"><u>[Updated] Revolutionizing Task Management The Power of EZ Grabber</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-significant-concepts-in-interactive-tale-design/"><u>[Updated] Significant Concepts in Interactive Tale Design</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tutorial-for-home-grown-animation-magic/"><u>[Updated] The Essential Tutorial for Home-Grown Animation Magic</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/h-annoying-ads-instantly-with-these-7-best-android-tools/"><u>Banish Annoying Ads Instantly with These 7 Best Android Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-htc-u23-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to HTC U23 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-9a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 9A FRP Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy F04 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-htc-by-drfone-android/"><u>In 2024, How to Bypass FRP from HTC?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-meizu-21-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Meizu 21 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-m34-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy M34 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-g22-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia G22 FRP</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-konica-minolta-printing-drivers-for-windows-os-download-now/"><u>Latest Konica Minolta Printing Drivers for Windows OS: Download Now!</u></a></li>
-<li><a href="https://facebook.techidaily.com/revisit-and-revive-past-online-encounters-on-facebook/"><u>Revisit and Revive Past Online Encounters on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorhub-your-step-by-step-to-fun-videos/"><u>[Updated] HumorHub Your Step-by-Step to Fun Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-changing-windows-11-backgrounds/"><u>[Updated] Master the Art of Changing Windows 11 Backgrounds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-comprehensive-list-of-the-best-6-microphones-for-video-hosts-for-2024/"><u>A Comprehensive List of the Best 6 Microphones for Video Hosts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480222651-extended-iphone-lock-screen-time-find-out-why-and-quick-fixes/"><u>Extended iPhone Lock Screen Time - Find Out Why and Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-input-not-recognized-error-on-your-computer-display/"><u>Fixing 'Input Not Recognized' Error on Your Computer Display</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-printer-drivers-for-win10-win8-and-win7-full-version-download/"><u>Free HP Printer Drivers for Win10, Win8 & Win7: Full Version Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-a1-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo A1 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-130-music-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia 130 Music Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-gt-5-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme GT 5 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-xperia-1-v-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 1 V</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lenovo ThinkPhone FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nubia-red-magic-9-proplus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nubia Red Magic 9 Pro+ Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-12-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme 12 Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-librarian-skills-fixing-eg-libraries-problems/"><u>Maximizing Your Librarian Skills: Fixing EG Libraries Problems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-video-content-with-powerful-hashtags-on-youtube-for-2024/"><u>Optimizing Video Content with Powerful Hashtags on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionize-your-ios-experience-correct-techniques-for-holding-iphones-and-airpods-insider-tips-from-zdnet/"><u>Revolutionize Your iOS Experience: Correct Techniques for Holding iPhones & AirPods | Insider Tips From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G73 5G FRP</u></a></li>
 </ul></div>
 

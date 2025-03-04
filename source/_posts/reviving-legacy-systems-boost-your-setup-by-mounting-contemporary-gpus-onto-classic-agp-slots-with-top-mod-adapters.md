@@ -1,7 +1,7 @@
 ---
 title: "Reviving Legacy Systems: Boost Your Setup by Mounting Contemporary GPUs Onto Classic AGP Slots with Top Mod Adapters"
-date: 2025-02-10T22:10:50.910Z
-updated: 2025-02-14T21:05:54.605Z
+date: 2025-03-02T20:01:29.065Z
+updated: 2025-03-04T05:38:04.679Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,6 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
  YouTuber RECNAS also has a minute-long YouTube video that highlights his Super Socket 7 motherboard and, subsequently, an AGP-to-PCI networking adapter. Since RECNAS wanted to repurpose this roughly late 90s-era Super Socket 7 motherboard as a[NAS](https://www.tomshardware.com/tag/nas) , he didn't want to be relegated to the slower, shared PCI bandwidth on the board.
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -64,20 +60,18 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eyond-borders-blurring-techniques-for-global-audienes/"><u>[New] Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pro-editors-picks-optimal-after-effects-plugin-choices/"><u>[Updated] 2024 Approved Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[Updated] In 2024, Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-nova-y71-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei Nova Y71 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-lava-yuva-3-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Lava Yuva 3 FRP Bypass Instantly</u></a></li>
-<li><a href="https://media-tips.techidaily.com/exclusive-offer-enjoy-three-months-of-apple-tvplus-entertainment-at-only-599/"><u>Exclusive Offer: Enjoy Three Months of Apple TV+ Entertainment at Only $5.99</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-gionee-by-drfone-android/"><u>How to Bypass FRP on Gionee?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-ace-3-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus Ace 3 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-g22-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia G22?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass OnePlus Nord CE 3 Lite 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g23-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G23 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-digital-identity-on-discord-changing-your-profile-picture-easily/"><u>Revamp Your Digital Identity on Discord: Changing Your Profile Picture Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-collection-of-16-zero-cost-resources-to-learn-and-enhance-asl-skills/"><u>The Ultimate Collection of 16 Zero-Cost Resources to Learn and Enhance ASL Skills</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/whos-at-the-apex-youtube-subscribers-ranking-for-2024/"><u>Who's at the Apex? YouTube Subscribers Ranking for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1726223891408-mp3wmv-movavi/"><u>가장 좋은 영어 MP3/WMV 이동 전자화 - 무료 Movavi 결정</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unleash-creativity-on-instagrams-reels-frontier/"><u>[New] In 2024, Unleash Creativity on Instagram's Reels Frontier</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-android-apps-for-playing-old-school-ps2-titles-for-2024/"><u>[Updated] Essential Android Apps for Playing Old-School PS2 Titles for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-overlooked-wonders-latest-free-macspeech-software/"><u>2024 Approved Overlooked Wonders Latest Free macSpeech Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-find-x6-frp-bypass-by-drfone-android/"><u>About Oppo Find X6 FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-c210-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia C210 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-moto-g13-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Moto G13 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-10t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 10T 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy M34 Phone Without Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-zte-axon-40-lite-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 ZTE Axon 40 Lite Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-11-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 11 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-youtube-thumbnail-grabbers/"><u>Top 8 YouTube Thumbnail Grabbers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo K11 5G FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Infamous 'Black Screen' In Star Wars Battlefront II"
-date: 2025-02-13T20:02:23.820Z
-updated: 2025-02-14T23:50:39.836Z
+date: 2025-02-26T06:34:23.588Z
+updated: 2025-03-04T02:24:02.353Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -42,29 +38,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -102,10 +82,6 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
@@ -122,10 +98,6 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
@@ -183,21 +155,15 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/our-blueprint-for-a-smooth-youtube-to-facebook-content-flow-for-2024/"><u>[New] Your Blueprint for a Smooth YouTube to Facebook Content Flow for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-prime-greener-recording-devices-utilization-tips/"><u>[Updated] 2024 Approved Prime Greener Recording Devices Utilization Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-add-edge-to-insta-videos-a-trifecta-guide/"><u>[Updated] In 2024, Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-instant-mirth-mastery-your-shortcut-to-ifunny-memes-for-2024/"><u>[Updated] Instant Mirth Mastery Your Shortcut to iFunny Memes for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-screen-selection-simplified-find-the-best-display-for-xbox-series-x-for-2024/"><u>[Updated] Screen Selection Simplified - Find the Best Display for Xbox Series X for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-concept-of-net-neutrality-made-easy/"><u>Demystifying the Concept of Net Neutrality Made Easy</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-razr-40-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Razr 40 FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-g24-power-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola G24 Power</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s23-tactical-edition-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S23 Tactical Edition FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A58 4G FRP</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/time-traveling-tactics-top-7-historic-battles-reimagined/"><u>Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-nokia-g310-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia G310 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-banishing-subwoofer-rumbling-sounds/"><u>Troubleshooting Techniques for Banishing Subwoofer Rumbling Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-on-chromebooks-and-zoom/"><u>[New] Expert Advice on Chromebooks and Zoom</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-make-free-intros-for-youtube-plustemplates/"><u>[New] How to Make Free Intros for YouTube? [+Templates]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-guide-to-effective-screen-recording-macos/"><u>[Updated] In 2024, Quick Guide to Effective Screen Recording macOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-intersection-of-brain-research-and-strategic-business-management/"><u>[Updated] In 2024, The Intersection of Brain Research and Strategic Business Management</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-trailers-soundtrack-a-guide/"><u>Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-v30t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme V30T FRP In 3 Different Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 13</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-10t-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 10T 5G FRP Locks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-k11x-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo K11x Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-k11x-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo K11x FRP Bypass</u></a></li>
 </ul></div>
 

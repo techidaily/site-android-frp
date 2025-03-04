@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Common Causes of a Black Screen Display"
-date: 2025-02-07T16:56:14.741Z
-updated: 2025-02-14T18:45:04.255Z
+date: 2025-02-24T19:49:07.931Z
+updated: 2025-03-03T20:56:24.515Z
 tags:
   - win11
   - win10
@@ -34,17 +34,9 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Change settings > Allow another app…** .  
   
@@ -62,25 +54,13 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -115,10 +95,6 @@ Here’s how it works:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -162,10 +138,6 @@ Here’s how it works:
 [GOG GALAXY 2.0](https://tools.techidaily.com/drivereasy/download/)
 [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steam
 
  1) Open your Steam client. Select the tab**LIBRARY** . Then navigate to your game**Cyberpunk 2077** . Right-click it and select**Properties** .  
@@ -184,19 +156,11 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Epic Games Launcher
 
  1) Open your Epic Games Launcher. From the left menu, select**Library** .  
   
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
@@ -225,22 +189,22 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hot-list-todays-youtube-sensations/"><u>[New] 2024 Approved Hot List Today's YouTube Sensations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-7-places-to-find-royalty-free-sound-effects-for-youtube-videos/"><u>[New] In 2024, 7 Places to Find Royalty Free Sound Effects for YouTube Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aximizing-video-impact-with-elite-rank-tracker-software-solutions/"><u>[New] Maximizing Video Impact with Elite Rank Tracker Software Solutions</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently-for-2024/"><u>[New] Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-vida-reimagined-editing-revolution-unveiled-for-2024/"><u>[Updated] Vida Reimagined Editing Revolution Unveiled for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-sony-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Sony FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-htc-u23-frp-bypass-by-drfone-android/"><u>In 2024, About HTC U23 FRP Bypass</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>In 2024, Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-7-ultimate-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 7 Ultimate FRP Locks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone SE (2020) Apple ID on MacBook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Lava FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-nokia-g42-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nokia G42 5G FRP Without Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-incompatibility-issues-between-iphones-and-third-party-accessories/"><u>Resolving Incompatibility Issues Between iPhones and Third-Party Accessories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-huawei-nova-y71-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Huawei Nova Y71 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-8t-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 8T 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-streamer-capture-and-save-videos/"><u>2024 Approved FB-Streamer Capture and Save Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210882857-9781088186657-authority-and-power-for-todays-ministry/"><u>AUTHORITY AND POWER FOR TODAY'S MINISTRY | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-find-x6-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Find X6 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/easy-methods-for-transforming-your-pdf-documents-into-pictures-windows-macos-and-chrome/"><u>Easy Methods for Transforming Your PDF Documents Into Pictures (Windows, MacOS & Chrome)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n55withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo N55with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-11x-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 11X 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oneplus-ace-3-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For OnePlus Ace 3 Unlock Without Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-11x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 11X 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-m54-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy M54 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-gt-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme GT 3 Phones with/without a PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/navigating-troublesome-window-hardware-hurdles-insights-from-the-experts-at-yl-computing-software-services/"><u>Navigating Troublesome Window-Hardware Hurdles: Insights From the Experts at YL Computing Software Services</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-gt-neo-5-se-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from GT Neo 5 SE.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-to-the-easiest-photo-editing-tools-for-newbies-top-21/"><u>The Ultimate Guide to the Easiest Photo Editing Tools for Newbies (Top 21)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
 </ul></div>
 
